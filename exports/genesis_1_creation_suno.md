@@ -1,4 +1,4 @@
-# Genesis 1:1–2:3 — Suno Song Format
+# Genesis 1:1-2:3 -- Suno Song Format
 ## Story A: The Cosmic Creation and Sabbath
 
 **Suggested Suno Style Field:**
@@ -11,117 +11,112 @@
 ## LYRICS
 
 [Intro]
-In the beginning God created the heavens and the earth
-The earth was formless and empty
-Darkness was on the surface of the deep
-God's Spirit was hovering over the surface of the waters
+In the beginning God created the heaven and the earth
+And the earth was without form, and void
+And darkness was upon the face of the deep
+And the Spirit of God moved upon the face of the waters
 
 [Verse 1]
-God said, "Let there be light"
+And God said, Let there be light
 And there was light
-God saw the light, and saw that it was good
-God divided the light from the darkness
+And God saw the light, that it was good
+And God divided the light from the darkness
 
 [Chorus]
-God called the light "day," and the darkness "night"
-There was evening and there was morning
-One day
+And God called the light Day, and the darkness he called Night
+And the evening and the morning were the first day
 
 [Verse 2]
-God said, "Let there be an expanse in the middle of the waters
-Let it divide the waters from the waters"
-God made the expanse
-And divided the waters above from the waters below
+And God said, Let there be a firmament in the midst of the waters
+And let it divide the waters from the waters
+And God made the firmament
+And divided the waters under the firmament from the waters above
 
 [Chorus]
-God called the expanse "sky"
-There was evening and there was morning
-A second day
+And God called the firmament Heaven
+And the evening and the morning were the second day
 
 [Verse 3]
-God said, "Let the waters be gathered to one place
-Let the dry land appear"
-God called the dry land "earth"
-And the gathering of the waters he called "seas"
-God saw that it was good
+And God said, Let the waters under the heaven be gathered unto one place
+And let the dry land appear: and it was so
+And God called the dry land Earth
+And the gathering together of the waters called he Seas
+And God saw that it was good
 
 [Pre-Chorus]
-God said, "Let the earth yield grass
-Herbs yielding seed
-And fruit trees bearing fruit after their kind"
-The earth yielded all that he had commanded
+And God said, Let the earth bring forth grass
+The herb yielding seed
+And the fruit tree yielding fruit after his kind
+And it was so
 
 [Chorus]
-God saw that it was good
-There was evening and there was morning
-A third day
+And God saw that it was good
+And the evening and the morning were the third day
 
 [Verse 4]
-God said, "Let there be lights in the expanse of sky
+And God said, Let there be lights in the firmament of the heaven
 To divide the day from the night
-Let them be for signs, and for seasons
-And for days and years"
-God made the two great lights
+And let them be for signs, and for seasons
+And for days, and years
+And God made two great lights
 The greater light to rule the day
-The lesser light to rule the night
-He also made the stars
+And the lesser light to rule the night
+He made the stars also
 
 [Chorus]
-God saw that it was good
-There was evening and there was morning
-A fourth day
+And God saw that it was good
+And the evening and the morning were the fourth day
 
 [Verse 5]
-God said, "Let the waters swarm with living creatures
-Let birds fly above the earth"
-God created the large sea creatures
-And every living creature that moves
-And every winged bird after its kind
+And God said, Let the waters bring forth abundantly
+The moving creature that hath life
+And fowl that may fly above the earth
+In the open firmament of heaven
+And God created great whales
+And every living creature that moveth
+And every winged fowl after his kind
 
 [Pre-Chorus]
-God blessed them, saying
-"Be fruitful and multiply
-Fill the waters in the seas
-Let birds multiply on the earth"
+And God blessed them, saying
+Be fruitful, and multiply
+And fill the waters in the seas
+And let fowl multiply in the earth
 
 [Chorus]
-God saw that it was good
-There was evening and there was morning
-A fifth day
+And God saw that it was good
+And the evening and the morning were the fifth day
 
 [Verse 6]
-God said, "Let the earth produce living creatures
-Livestock, creeping things, and animals of the earth"
-God made the animals after their kind
-And the livestock after their kind
-God saw that it was good
+And God said, Let the earth bring forth the living creature after his kind
+Cattle, and creeping thing, and beast of the earth
+And God made the beast of the earth after his kind
+And cattle after their kind
+And God saw that it was good
 
 [Bridge]
-God said, "Let us make man in our image
-After our likeness
-Let them have dominion over the fish of the sea
-Over the birds of the sky, and over all the earth"
-God created man in his own image
-In God's image he created him
-Male and female he created them
+And God said, Let us make man in our image, after our likeness
+And let them have dominion over the fish of the sea
+And over the fowl of the air
+And over the cattle, and over all the earth
+So God created man in his own image
+In the image of God created he him
+Male and female created he them
 
 [Chorus]
-God blessed them and said to them
-"Be fruitful, multiply, fill the earth, and subdue it"
-God saw everything that he had made
-And behold — it was very good
-There was evening and there was morning
-A sixth day
+And God blessed them, and said unto them
+Be fruitful, and multiply, and replenish the earth, and subdue it
+And God saw every thing that he had made
+And, behold, it was very good
+And the evening and the morning were the sixth day
 
 [Outro]
-The heavens and the earth were finished
-And all their vast array
-On the seventh day God finished his work
+Thus the heavens and the earth were finished
+And all the host of them
+And on the seventh day God ended his work which he had made
 And he rested on the seventh day
-God blessed the seventh day
-And made it holy
-Because he rested in it
-From all his work which he had created and made
+And God blessed the seventh day, and sanctified it
+Because that in it he had rested
+From all his work which God created and made
 
 ---
 
@@ -129,14 +124,14 @@ From all his work which he had created and made
 
 | Suno Section | Scene | Reference | Key Phrase |
 |---|---|---|---|
-| [Intro] | Scene 1: Primal State | 1:1–2 | "formless and empty…Spirit hovering" |
-| [Verse 1] + [Chorus] | Scene 2: Day 1 — Light | 1:3–5 | "Let there be light…one day" |
-| [Verse 2] + [Chorus] | Scene 3: Day 2 — Firmament | 1:6–8 | "expanse…a second day" |
-| [Verse 3] + [Pre-Chorus] + [Chorus] | Scene 4 + 5: Day 3 — Land & Vegetation | 1:9–13 | "dry land…a third day" |
-| [Verse 4] + [Chorus] | Scene 6: Day 4 — Luminaries | 1:14–19 | "lights…a fourth day" |
-| [Verse 5] + [Pre-Chorus] + [Chorus] | Scene 7: Day 5 — Birds & Fish | 1:20–23 | "be fruitful…a fifth day" |
-| [Verse 6] + [Bridge] + [Chorus] | Scene 8: Day 6 — Animals & Humans | 1:24–31 | "our image…very good…a sixth day" |
-| [Outro] | Scene 9: Day 7 — Sabbath | 2:1–3 | "rested…made it holy" |
+| [Intro] | Scene 1: Primal State | 1:1-2 | "without form, and void...Spirit of God moved" |
+| [Verse 1] + [Chorus] | Scene 2: Day 1 -- Light | 1:3-5 | "Let there be light...the first day" |
+| [Verse 2] + [Chorus] | Scene 3: Day 2 -- Firmament | 1:6-8 | "firmament...the second day" |
+| [Verse 3] + [Pre-Chorus] + [Chorus] | Scene 4 + 5: Day 3 -- Land & Vegetation | 1:9-13 | "dry land...the third day" |
+| [Verse 4] + [Chorus] | Scene 6: Day 4 -- Luminaries | 1:14-19 | "lights...the fourth day" |
+| [Verse 5] + [Pre-Chorus] + [Chorus] | Scene 7: Day 5 -- Birds & Fish | 1:20-23 | "be fruitful...the fifth day" |
+| [Verse 6] + [Bridge] + [Chorus] | Scene 8: Day 6 -- Animals & Humans | 1:24-31 | "our image...very good...the sixth day" |
+| [Outro] | Scene 9: Day 7 -- Sabbath | 2:1-3 | "rested...sanctified it" |
 
-**Source translation:** World English Bible (WEB) — public domain  
-**Pericope:** Genesis 1:1–2:3
+**Source translation:** King James Version (KJV) -- public domain
+**Pericope:** Genesis 1:1-2:3
