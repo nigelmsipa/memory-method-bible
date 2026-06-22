@@ -54,12 +54,24 @@
         },
         {
           "scene_number": 8,
-          "scene_name": "Day 6: Animals and Humans",
-          "reference": "1:24-31",
-          "why_start_end_and_devices": "Starts with 'fill land' command; ends with 'sixth day.' Climax. Devices: Parallels Day 3; divine consultation ('Let us'); 'image of God' repetition; 'very good' escalation."
+          "scene_name": "Day 6a: Land Animals According to Their Kinds",
+          "reference": "1:24-25",
+          "why_start_end_and_devices": "Beasts, livestock, crawlers formed; the day's first act."
         },
         {
           "scene_number": 9,
+          "scene_name": "Day 6b: Humankind in God's Image; Dominion Given",
+          "reference": "1:26-28",
+          "why_start_end_and_devices": "'Let Us make man'; male and female; rule and multiply."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Day 6c: The Green Provision; 'Very Good'",
+          "reference": "1:29-31",
+          "why_start_end_and_devices": "Plants given for food; the whole work pronounced very good."
+        },
+        {
+          "scene_number": 11,
           "scene_name": "Day 7: Sabbath Rest",
           "reference": "2:1-3",
           "why_start_end_and_devices": "Starts with completion summary; ends with Day 7 sanctification. Devices: Inclusio (reverses 1:1 terms); hallows time as creation pinnacle; establishes Sabbath covenant."
@@ -80,54 +92,66 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "The Garden, Trees, and Command",
-          "reference": "2:8-17",
-          "why_start_end_and_devices": "Starts with garden planting; ends with prohibition and consequence (death). Devices: Symbolism (trees represent choice); etiology (four rivers)."
+          "scene_name": "The Garden in Eden; the Two Special Trees",
+          "reference": "2:8-9",
+          "why_start_end_and_devices": "Garden planted east; tree of life and tree of knowledge."
         },
         {
           "scene_number": 3,
+          "scene_name": "The Four Rivers of Eden",
+          "reference": "2:10-14",
+          "why_start_end_and_devices": "Pishon, Gihon, Tigris, Euphrates branch from the garden."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Charge: Tend It; the One Prohibition",
+          "reference": "2:15-17",
+          "why_start_end_and_devices": "Placed to work and keep it; 'do not eat, or you will die.'"
+        },
+        {
+          "scene_number": 5,
           "scene_name": "The Search for a Helper",
           "reference": "2:18-20",
           "why_start_end_and_devices": "Starts with 'not good to be alone.' Ends with no suitable helper found. Devices: Narrative suspense; man's dominion (naming); 'ezer implies equality."
         },
         {
-          "scene_number": 4,
+          "scene_number": 6,
           "scene_name": "The Creation of Woman",
           "reference": "2:21-25",
           "why_start_end_and_devices": "Starts with deep sleep solution; ends with innocence ('naked, not ashamed'). Devices: Anthropomorphism (surgeon/attendant); wordplay 'ishah/'ish; 'one flesh' etiology."
         },
         {
-          "scene_number": 5,
+          "scene_number": 7,
           "scene_name": "The Serpent's Temptation",
           "reference": "3:1-5",
           "why_start_end_and_devices": "Starts with serpent; ends with denial ('You will not die'). Devices: Wordplay 'arûm/'arûmmîm; three-step tactic: doubt, distort, deny."
         },
         {
-          "scene_number": 6,
+          "scene_number": 8,
           "scene_name": "The Disobedience",
           "reference": "3:6-7",
           "why_start_end_and_devices": "Starts with woman's deliberation; ends with eyes opened. Devices: Woman's evaluation parallels God's; irony (know good/evil but not godhood); Adam's passive complicity."
         },
         {
-          "scene_number": 7,
+          "scene_number": 9,
           "scene_name": "The Confrontation and Blame",
           "reference": "3:8-13",
           "why_start_end_and_devices": "Starts with God walking; ends with blame-shifting. Devices: Anthropomorphism; rhetorical questions provoke confession; relationship breakdown revealed."
         },
         {
-          "scene_number": 8,
+          "scene_number": 10,
           "scene_name": "The Curses",
           "reference": "3:14-19",
           "why_start_end_and_devices": "Starts with serpent judgment; ends with man's mortality. Devices: Triad of speeches in reverse sin order; only serpent/ground 'cursed'; consequences in created purpose spheres."
         },
         {
-          "scene_number": 9,
+          "scene_number": 11,
           "scene_name": "Eve's Naming and God's Provision",
           "reference": "3:20-21",
           "why_start_end_and_devices": "Starts with Adam naming wife; ends with garment provision. Devices: Profound irony (immediately after death, names 'Eve'=mother of living); first animal death foreshadows sacrifice."
         },
         {
-          "scene_number": 10,
+          "scene_number": 12,
           "scene_name": "The Expulsion",
           "reference": "3:22-24",
           "why_start_end_and_devices": "Starts with God's monologue; ends with cherubim posting. Devices: Sarcasm/irony (mortal despite knowledge); expulsion seals garden; etiology (mortality, separation)."
@@ -160,18 +184,36 @@
         },
         {
           "scene_number": 4,
-          "scene_name": "The Confrontation and Curse",
-          "reference": "4:9-16",
-          "why_start_end_and_devices": "Starts with 'Where is Abel?' Ends with exile to Nod. Devices: Parallel to 3:9; dramatic irony ('Am I keeper?'=yes); Abel's blood cries; wordplay adamah→Nod; mark shows grace."
+          "scene_name": "'Where Is Your Brother?': the Curse on Cain",
+          "reference": "4:9-12",
+          "why_start_end_and_devices": "Blood cries from the ground; the soil will yield no more."
         },
         {
           "scene_number": 5,
-          "scene_name": "The Genealogy of Cain",
-          "reference": "4:17-24",
-          "why_start_end_and_devices": "Starts with Enoch. Ends with Lamech's 'Song of Sword.' Devices: Charts civilization (cities, music, metalwork) and sin progress; climaxes in Lamech; dark parallelism."
+          "scene_name": "Cain's Plea, the Mark, and Exile to Nod",
+          "reference": "4:13-16",
+          "why_start_end_and_devices": "'My punishment is too great'; the protective mark; Nod."
         },
         {
           "scene_number": 6,
+          "scene_name": "Cain's Line: Enoch to Lamech",
+          "reference": "4:17-18",
+          "why_start_end_and_devices": "The first city; the genealogy down to Lamech."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Lamech's Two Wives and Their Sons",
+          "reference": "4:19-22",
+          "why_start_end_and_devices": "Jabal, Jubal, Tubal-cain: tents, harp, and bronze."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Lamech's Sword-Song of Vengeance",
+          "reference": "4:23-24",
+          "why_start_end_and_devices": "'Seventy-sevenfold'; sin's escalating violence."
+        },
+        {
+          "scene_number": 9,
           "scene_name": "The Birth of Seth and Hope",
           "reference": "4:25-26",
           "why_start_end_and_devices": "Starts with Adam's new son. Ends with 'began calling on LORD.' Devices: Wordplay Shet/appointed; hopeful inclusio contrasting Lamech with faithful calling; establishes godly line."
@@ -192,75 +234,129 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "First Speech: Judgment and Build Command",
-          "reference": "6:13-22",
-          "why_start_end_and_devices": "Starts with 'I have decided...' Ends with Noah's perfect obedience. Devices: Divine monologue with ark specs; ark as microcosm/new creation vessel."
+          "scene_name": "The Verdict and the Ark's Design",
+          "reference": "6:13-16",
+          "why_start_end_and_devices": "'The end has come'; gopher wood, dimensions, the door."
         },
         {
           "scene_number": 3,
+          "scene_name": "The Covenant; Two of Every Kind; Noah Obeys",
+          "reference": "6:17-22",
+          "why_start_end_and_devices": "Floodwaters promised; pairs preserved; 'Noah did all.'"
+        },
+        {
+          "scene_number": 4,
           "scene_name": "Second Speech: Enter Command",
           "reference": "7:1-5",
           "why_start_end_and_devices": "Starts with second enter command. Ends with Noah's obedience. Devices: Parallel repetitive command; introduces clean/unclean distinction for 8:20 sacrifice."
         },
         {
-          "scene_number": 4,
-          "scene_name": "Boarding the Ark",
-          "reference": "7:6-16",
-          "why_start_end_and_devices": "Starts with Noah's age and family entering. Ends with 'LORD shut him in.' Devices: Narrates commanded entry; God's action symbolizes both salvation and judgment."
-        },
-        {
           "scene_number": 5,
-          "scene_name": "The Flood Waters Rise",
-          "reference": "7:17-24",
-          "why_start_end_and_devices": "Starts with flood beginning. Ends with waters prevailing 150 days. Devices: Hyperbole; repetition/intensification 'prevailed' (military assault feel); un-creation to chaos."
+          "scene_name": "Noah Enters; the Animals Come Two by Two",
+          "reference": "7:6-10",
+          "why_start_end_and_devices": "Age 600; clean and unclean board; after seven days."
         },
         {
           "scene_number": 6,
+          "scene_name": "The Fountains Burst; the LORD Shuts Him In",
+          "reference": "7:11-16",
+          "why_start_end_and_devices": "The great deep opens; the roster boards; God seals the door."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Waters Prevail Over the Mountains",
+          "reference": "7:17-20",
+          "why_start_end_and_devices": "Forty days; the ark lifts; peaks covered fifteen cubits."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "All Flesh Perishes; 150 Days",
+          "reference": "7:21-24",
+          "why_start_end_and_devices": "Every breathing thing dies; only Noah remains; waters reign."
+        },
+        {
+          "scene_number": 9,
           "scene_name": "Chiastic Center: God Remembers Noah",
           "reference": "8:1-5",
           "why_start_end_and_devices": "Starts with narrative pivot 'God remembered Noah.' Ends with ark rests, mountaintops visible. Devices: Literary/theological center; 'remembered' means 'acted on behalf'; ruach allusion to 1:2."
         },
         {
-          "scene_number": 7,
-          "scene_name": "The Raven and the Dove",
-          "reference": "8:6-12",
-          "why_start_end_and_devices": "Starts with window opening after 40 days. Ends with dove not returning, signifying dry land. Devices: Narrative pacing (7-day waits build suspense); symbolism (unclean vs. clean); olive leaf metaphor."
+          "scene_number": 10,
+          "scene_name": "The Raven and the First Dove",
+          "reference": "8:6-9",
+          "why_start_end_and_devices": "The window opened; the dove finds no resting place."
         },
         {
-          "scene_number": 8,
+          "scene_number": 11,
+          "scene_name": "The Olive Leaf; the Dove Returns No More",
+          "reference": "8:10-12",
+          "why_start_end_and_devices": "Seven days; the fresh leaf; the dry land near."
+        },
+        {
+          "scene_number": 12,
           "scene_name": "The Earth is Dry",
           "reference": "8:13-14",
           "why_start_end_and_devices": "Starts with exact date (601st year). Ends with confirmation of dryness. Devices: Precise chronological data gives narrative 'facticity.'"
         },
         {
-          "scene_number": 9,
+          "scene_number": 13,
           "scene_name": "Leaving the Ark",
           "reference": "8:15-19",
           "why_start_end_and_devices": "Starts with disembark command. Ends with all creatures leaving. Devices: Parallels boarding scenes, fulfilling chiasm; implicit 'be fruitful' command."
         },
         {
-          "scene_number": 10,
+          "scene_number": 14,
           "scene_name": "Noah's Sacrifice and God's Promise",
           "reference": "8:20-22",
           "why_start_end_and_devices": "Starts with altar building. Ends with 'never curse ground again.' Devices: Etiology of post-flood sacrifice; story's theological climax; grace despite knowing 'human heart evil from childhood.'"
         },
         {
-          "scene_number": 11,
-          "scene_name": "The New Blessing (Re-Creation)",
-          "reference": "9:1-7",
-          "why_start_end_and_devices": "Starts with formal blessing. Ends with repeated 'be fruitful' command. Devices: Allusion to Genesis 1:28; re-creation with modifications: 'fear/dread' replaces harmony; meat diet reflects post-Fall."
+          "scene_number": 15,
+          "scene_name": "Be Fruitful; Dominion; the Blood Prohibition",
+          "reference": "9:1-4",
+          "why_start_end_and_devices": "Blessing renewed; meat allowed, but not its lifeblood."
         },
         {
-          "scene_number": 12,
-          "scene_name": "The Noahic Covenant and Rainbow",
-          "reference": "9:8-17",
-          "why_start_end_and_devices": "Starts with covenant speech. Ends with rainbow sign summary. Devices: Repetition of 'covenant'; covenant is unilateral and universal; rainbow as war bow showing cessation of hostilities."
+          "scene_number": 16,
+          "scene_name": "A Reckoning for Lifeblood; the Image of God",
+          "reference": "9:5-7",
+          "why_start_end_and_devices": "'By man his blood shall be shed'; sanctity of life."
         },
         {
-          "scene_number": 13,
-          "scene_name": "Epilogue: Noah's Drunkenness and Canaan's Curse",
-          "reference": "9:18-29",
-          "why_start_end_and_devices": "Starts with Noah's sons identification. Ends with Noah's death, closing toledot. Devices: Tragic epilogue; parallelism (man of soil plants vineyard, fall with fruit/nakedness mirrors Adam); etiology for Canaan subjugation."
+          "scene_number": 17,
+          "scene_name": "The Covenant: Never Again a Flood",
+          "reference": "9:8-11",
+          "why_start_end_and_devices": "Established with all flesh; the waters will not destroy again."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Rainbow Sign",
+          "reference": "9:12-17",
+          "why_start_end_and_devices": "The bow in the clouds as the everlasting token."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Noah's Sons Repopulate the Earth",
+          "reference": "9:18-19",
+          "why_start_end_and_devices": "Shem, Ham, Japheth; the world spreads from them."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Noah's Drunkenness; Ham's Disgrace; the Covering",
+          "reference": "9:20-23",
+          "why_start_end_and_devices": "The vineyard; the nakedness seen; the backward-walked robe."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Curse of Canaan; Blessing of Shem and Japheth",
+          "reference": "9:24-27",
+          "why_start_end_and_devices": "'Cursed be Canaan'; servitude and blessing pronounced."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Noah's Death at 950",
+          "reference": "9:28-29",
+          "why_start_end_and_devices": "350 years after the flood; the lifespan closes."
         }
       ]
     },
@@ -322,384 +418,492 @@
         },
         {
           "scene_number": 5,
-          "scene_name": "Sarai Taken, Pharaoh Plagued, Abram Expelled",
-          "reference": "12:14-20",
-          "why_start_end_and_devices": "Plague-and-expulsion (exodus foreshadow). Ends with escort out."
+          "scene_name": "Sarai Taken into Pharaoh's House",
+          "reference": "12:14-16",
+          "why_start_end_and_devices": "Her beauty; Abram enriched on her account."
         },
         {
           "scene_number": 6,
+          "scene_name": "Plagues Expose the Lie; Abram Expelled",
+          "reference": "12:17-20",
+          "why_start_end_and_devices": "The LORD afflicts Pharaoh; rebuke and escort out."
+        },
+        {
+          "scene_number": 7,
           "scene_name": "Return to the Altar at Bethel",
           "reference": "13:1-4",
           "why_start_end_and_devices": "Reverse itinerary back to first altar; inclusio with 12:8."
         },
         {
-          "scene_number": 7,
+          "scene_number": 8,
           "scene_name": "Strife of Herdsmen; Abram Offers the Choice",
           "reference": "13:5-9",
           "why_start_end_and_devices": "Conflict seam; magnanimity. Ends with the offered choice."
         },
         {
-          "scene_number": 8,
+          "scene_number": 9,
           "scene_name": "Lot Chooses the Jordan Plain Toward Sodom",
           "reference": "13:10-13",
           "why_start_end_and_devices": "Lot 'lifts his eyes'; ominous Sodom note closes it."
         },
         {
-          "scene_number": 9,
+          "scene_number": 10,
           "scene_name": "The LORD Lifts Abram's Eyes: Land and Dust-Seed",
           "reference": "13:14-18",
           "why_start_end_and_devices": "Divine speech mirrors v10; dust simile. Ends at Mamre/Hebron altar."
         },
         {
-          "scene_number": 10,
-          "scene_name": "The War of the Nine Kings",
-          "reference": "14:1-7",
-          "why_start_end_and_devices": ""
+          "scene_number": 11,
+          "scene_name": "Four Kings vs. Five; Rebellion in Year 13",
+          "reference": "14:1-4",
+          "why_start_end_and_devices": "The coalition named; twelve years subject, then revolt."
         },
         {
-          "scene_number": 11,
+          "scene_number": 12,
+          "scene_name": "Chedorlaomer's Campaign of Conquest",
+          "reference": "14:5-7",
+          "why_start_end_and_devices": "The sweeping defeat of the surrounding peoples."
+        },
+        {
+          "scene_number": 13,
           "scene_name": "Sodom Routed; Lot Captured",
           "reference": "14:8-12",
           "why_start_end_and_devices": "Battle turn; Lot taken — the hook that pulls Abram in."
         },
         {
-          "scene_number": 12,
+          "scene_number": 14,
           "scene_name": "Abram's Night Rescue of Lot",
           "reference": "14:13-16",
           "why_start_end_and_devices": "Surprise night raid; full recovery. Action beat."
         },
         {
-          "scene_number": 13,
+          "scene_number": 15,
           "scene_name": "Melchizedek's Bread, Wine, and Blessing",
           "reference": "14:17-20",
           "why_start_end_and_devices": "Mysterious priest-king; tithe. Self-contained liturgical beat."
         },
         {
-          "scene_number": 14,
+          "scene_number": 16,
           "scene_name": "Abram Refuses the King of Sodom's Goods",
           "reference": "14:21-24",
           "why_start_end_and_devices": "Oath 'I have raised my hand'; refusal closes the episode."
         },
         {
-          "scene_number": 15,
+          "scene_number": 17,
           "scene_name": "'Count the Stars': Abram Believes",
           "reference": "15:1-6",
           "why_start_end_and_devices": "Vision; star simile; reckoned righteous (v6 climax)."
         },
         {
-          "scene_number": 16,
+          "scene_number": 18,
           "scene_name": "The Animals Split for Covenant",
           "reference": "15:7-11",
           "why_start_end_and_devices": "Cutting the pieces; birds driven off. Ritual prep beat."
         },
         {
-          "scene_number": 17,
+          "scene_number": 19,
           "scene_name": "The Dread and Darkness: 400 Years Foretold",
           "reference": "15:12-16",
           "why_start_end_and_devices": "Deep sleep; oracle of bondage and return."
         },
         {
-          "scene_number": 18,
+          "scene_number": 20,
           "scene_name": "Firepot and Torch Pass; the Land Granted",
           "reference": "15:17-21",
           "why_start_end_and_devices": "Theophany passes the pieces; land boundaries close it."
         },
         {
-          "scene_number": 19,
+          "scene_number": 21,
           "scene_name": "Hagar Given, Despises Sarai, and Flees",
           "reference": "16:1-6",
           "why_start_end_and_devices": "Surrogate plan; jealousy; flight. Domestic conflict beat."
         },
         {
-          "scene_number": 20,
+          "scene_number": 22,
           "scene_name": "The Angel at the Spring Names Ishmael",
           "reference": "16:7-12",
           "why_start_end_and_devices": "First angelic annunciation; 'wild donkey' oracle."
         },
         {
-          "scene_number": 21,
+          "scene_number": 23,
           "scene_name": "'The God Who Sees'; Ishmael Born",
           "reference": "16:13-16",
           "why_start_end_and_devices": "Naming of the well; birth notice closes it."
         },
         {
-          "scene_number": 22,
-          "scene_name": "El Shaddai: Abram Becomes Abraham",
-          "reference": "17:1-8",
-          "why_start_end_and_devices": "Name change; 'father of many nations'; everlasting covenant."
+          "scene_number": 24,
+          "scene_name": "'I Am El Shaddai'; Abram Falls Facedown",
+          "reference": "17:1-3",
+          "why_start_end_and_devices": "Age 99; the covenant announced; prostration."
         },
         {
-          "scene_number": 23,
+          "scene_number": 25,
+          "scene_name": "Father of Many Nations; Abram Becomes Abraham",
+          "reference": "17:4-8",
+          "why_start_end_and_devices": "Name change; everlasting covenant; the land given."
+        },
+        {
+          "scene_number": 26,
           "scene_name": "The Sign: Circumcision Commanded",
           "reference": "17:9-14",
           "why_start_end_and_devices": "The covenant sign; cut-off penalty. Law beat."
         },
         {
-          "scene_number": 24,
-          "scene_name": "Sarah Named; Isaac Promised; Abraham Laughs",
-          "reference": "17:15-22",
-          "why_start_end_and_devices": "Sarai→Sarah; the laugh; Isaac vs Ishmael distinguished."
+          "scene_number": 27,
+          "scene_name": "Sarah Named; 'Abraham Laughed'",
+          "reference": "17:15-18",
+          "why_start_end_and_devices": "Sarai to Sarah; the silent laugh; 'O that Ishmael might live!'"
         },
         {
-          "scene_number": 25,
+          "scene_number": 28,
+          "scene_name": "'No—Isaac': the Heir Named; Ishmael Blessed",
+          "reference": "17:19-22",
+          "why_start_end_and_devices": "The covenant fixed on Isaac; Ishmael's twelve princes."
+        },
+        {
+          "scene_number": 29,
           "scene_name": "Circumcised That Very Day",
           "reference": "17:23-27",
           "why_start_end_and_devices": "Immediate obedience; household included. Closure."
         },
         {
-          "scene_number": 26,
-          "scene_name": "Hospitality at Mamre: Three Men at Noon",
-          "reference": "18:1-8",
-          "why_start_end_and_devices": "Theophany; lavish meal under the oak."
+          "scene_number": 30,
+          "scene_name": "Three Men at Mamre; Abraham's Welcome",
+          "reference": "18:1-5",
+          "why_start_end_and_devices": "Noonday theophany; he runs and bows; offers rest."
         },
         {
-          "scene_number": 27,
-          "scene_name": "Sarah Laughs Behind the Tent",
-          "reference": "18:9-15",
-          "why_start_end_and_devices": "'Is anything too hard?'; the denied laugh."
+          "scene_number": 31,
+          "scene_name": "The Hurried Feast Served",
+          "reference": "18:6-8",
+          "why_start_end_and_devices": "Cakes, calf, curds and milk set before them."
         },
         {
-          "scene_number": 28,
+          "scene_number": 32,
+          "scene_name": "'Sarah Will Have a Son'; She Laughs Within",
+          "reference": "18:9-12",
+          "why_start_end_and_devices": "The promise of next year; the tent-door laugh."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "'Is Anything Too Hard?'; the Denied Laugh",
+          "reference": "18:13-15",
+          "why_start_end_and_devices": "The LORD exposes the laugh; her fearful denial."
+        },
+        {
+          "scene_number": 34,
           "scene_name": "'Shall I Hide from Abraham?' Sodom's Outcry",
           "reference": "18:16-21",
           "why_start_end_and_devices": "Divine soliloquy; the descent to 'see' announced."
         },
         {
-          "scene_number": 29,
+          "scene_number": 35,
           "scene_name": "Bargaining Begins: Fifty Righteous",
           "reference": "18:22-26",
           "why_start_end_and_devices": "'Will the Judge do right?'; the first number."
         },
         {
-          "scene_number": 30,
-          "scene_name": "Down to Ten",
-          "reference": "18:27-33",
-          "why_start_end_and_devices": "Step-bargain to ten; the LORD departs. Closure."
+          "scene_number": 36,
+          "scene_name": "Bargaining: Forty-five, Forty, Thirty",
+          "reference": "18:27-30",
+          "why_start_end_and_devices": "'Though I am dust'; the step-down intercession begins."
         },
         {
-          "scene_number": 31,
+          "scene_number": 37,
+          "scene_name": "Down to Twenty, Then Ten; the LORD Departs",
+          "reference": "18:31-33",
+          "why_start_end_and_devices": "The final number; the LORD goes; Abraham returns."
+        },
+        {
+          "scene_number": 38,
           "scene_name": "The Angels Welcomed by Lot at the Gate",
           "reference": "19:1-3",
           "why_start_end_and_devices": "Parallel hospitality; insistence gets them inside."
         },
         {
-          "scene_number": 32,
-          "scene_name": "The Mob at the Door; Struck Blind",
-          "reference": "19:4-11",
-          "why_start_end_and_devices": "Siege of the house; daughters offered; blindness."
+          "scene_number": 39,
+          "scene_name": "The Mob Demands the Men; Lot Offers His Daughters",
+          "reference": "19:4-8",
+          "why_start_end_and_devices": "The city surrounds the house; Lot's desperate bargain."
         },
         {
-          "scene_number": 33,
+          "scene_number": 40,
+          "scene_name": "The Door Stormed; the Angels Strike Them Blind",
+          "reference": "19:9-11",
+          "why_start_end_and_devices": "'This one would judge us'; rescue; blindness."
+        },
+        {
+          "scene_number": 41,
           "scene_name": "'Flee — We Will Destroy This Place'",
           "reference": "19:12-14",
           "why_start_end_and_devices": "Warning; sons-in-law scoff. Pivot to escape."
         },
         {
-          "scene_number": 34,
+          "scene_number": 42,
           "scene_name": "Dragged Out at Daybreak: 'Don't Look Back'",
           "reference": "19:15-17",
           "why_start_end_and_devices": "Hesitation; mercy-grip; the command not to look."
         },
         {
-          "scene_number": 35,
+          "scene_number": 43,
           "scene_name": "Lot Pleads for Zoar",
           "reference": "19:18-22",
           "why_start_end_and_devices": "Negotiated small refuge; 'I can do nothing until you arrive.'"
         },
         {
-          "scene_number": 36,
+          "scene_number": 44,
           "scene_name": "Fire and Sulfur; the Pillar of Salt",
           "reference": "19:23-26",
           "why_start_end_and_devices": "Destruction; the backward look; salt. Climax."
         },
         {
-          "scene_number": 37,
+          "scene_number": 45,
           "scene_name": "Abraham Sees the Smoke; God Remembers Lot",
           "reference": "19:27-29",
           "why_start_end_and_devices": "Aftermath from Abraham's hilltop; 'God remembered.'"
         },
         {
-          "scene_number": 38,
-          "scene_name": "The Cave: Moab and Ben-Ammi",
-          "reference": "19:30-38",
-          "why_start_end_and_devices": "Sordid epilogue; origin of two nations."
+          "scene_number": 46,
+          "scene_name": "The Cave; the Firstborn's Scheme",
+          "reference": "19:30-33",
+          "why_start_end_and_devices": "Fear in Zoar; the wine plot to preserve offspring."
         },
         {
-          "scene_number": 39,
+          "scene_number": 47,
+          "scene_name": "Both Daughters Conceive; Moab and Ben-ammi",
+          "reference": "19:34-38",
+          "why_start_end_and_devices": "The two sons; origin of Moab and Ammon."
+        },
+        {
+          "scene_number": 48,
           "scene_name": "Sarah Taken by Abimelech; the Dream Warning",
-          "reference": "20:1-7",
-          "why_start_end_and_devices": "Second sister-lie; God intervenes in a dream."
+          "reference": "20:1-3",
+          "why_start_end_and_devices": "The second sister-lie; God's nighttime warning."
         },
         {
-          "scene_number": 40,
+          "scene_number": 49,
+          "scene_name": "'She Is His Wife': Return Her, and Live",
+          "reference": "20:4-7",
+          "why_start_end_and_devices": "Abimelech's innocence; 'he is a prophet'; restore her."
+        },
+        {
+          "scene_number": 50,
           "scene_name": "Abimelech Confronts Abraham",
           "reference": "20:8-13",
           "why_start_end_and_devices": "Rebuke; Abraham's excuse ('she is my half-sister')."
         },
         {
-          "scene_number": 41,
+          "scene_number": 51,
           "scene_name": "Restitution and the Healed Wombs",
           "reference": "20:14-18",
           "why_start_end_and_devices": "Gifts; vindication; the closed wombs reopened."
         },
         {
-          "scene_number": 42,
-          "scene_name": "The Birth of Isaac",
-          "reference": "21:1-7",
-          "why_start_end_and_devices": "Starts with Isaac's birth. Ends with Sarah's laughter resolution. Devices: Son promise fulfilled after 25 years; Yitzhak (laughter) wordplay completed."
+          "scene_number": 52,
+          "scene_name": "Isaac Born and Circumcised as Promised",
+          "reference": "21:1-5",
+          "why_start_end_and_devices": "The LORD keeps His word; the eighth-day circumcision."
         },
         {
-          "scene_number": 43,
+          "scene_number": 53,
+          "scene_name": "'God Has Made Me Laugh': Sarah's Joy",
+          "reference": "21:6-7",
+          "why_start_end_and_devices": "The laughter turned to wonder; nursing in old age."
+        },
+        {
+          "scene_number": 54,
           "scene_name": "The Feast; Sarah Demands Expulsion",
           "reference": "21:8-13",
           "why_start_end_and_devices": "Weaning feast; mocking; 'cast out the slave woman.'"
         },
         {
-          "scene_number": 44,
-          "scene_name": "Hagar and Ishmael Saved at the Well",
-          "reference": "21:14-21",
-          "why_start_end_and_devices": "Wilderness despair; God hears the boy; the well."
+          "scene_number": 55,
+          "scene_name": "Hagar and Ishmael Cast Out; the Water Gone",
+          "reference": "21:14-16",
+          "why_start_end_and_devices": "Bread and skin; the wilderness; 'let me not watch him die.'"
         },
         {
-          "scene_number": 45,
+          "scene_number": 56,
+          "scene_name": "God Hears the Boy; the Well; He Grows in Paran",
+          "reference": "21:17-21",
+          "why_start_end_and_devices": "The angel; opened eyes; the well; archer in Paran."
+        },
+        {
+          "scene_number": 57,
           "scene_name": "Oath at Beersheba; the Disputed Well",
           "reference": "21:22-26",
           "why_start_end_and_devices": "Treaty with Abimelech; complaint over the seized well."
         },
         {
-          "scene_number": 46,
-          "scene_name": "Seven Ewe Lambs; Beersheba Named; the Tamarisk",
-          "reference": "21:27-34",
-          "why_start_end_and_devices": "Naming etymology ('well of the oath/seven'); Abraham worships."
+          "scene_number": 58,
+          "scene_name": "The Seven Ewe Lambs; Beersheba Named",
+          "reference": "21:27-31",
+          "why_start_end_and_devices": "The covenant gifts; the lambs as witness; the well of the oath."
         },
         {
-          "scene_number": 47,
+          "scene_number": 59,
+          "scene_name": "The Covenant Made; the Tamarisk at Beersheba",
+          "reference": "21:32-34",
+          "why_start_end_and_devices": "Treaty sealed; the planted tree; the everlasting God invoked."
+        },
+        {
+          "scene_number": 60,
           "scene_name": "The Agonizing Command",
           "reference": "22:1-2",
           "why_start_end_and_devices": "Starts with 'Abraham!' call. Ends with full command. Devices: Repetitive, agonizing 'your son, your only son, whom you love—Isaac' builds pathos."
         },
         {
-          "scene_number": 48,
+          "scene_number": 61,
           "scene_name": "The Silent Journey",
           "reference": "22:3-6",
           "why_start_end_and_devices": "Starts with immediate obedience. Ends with first 'walked on together.' Devices: Narrative sparsity (3-day silence builds tension); repetition."
         },
         {
-          "scene_number": 49,
+          "scene_number": 62,
           "scene_name": "The Dialogue (Where is the lamb?)",
           "reference": "22:7-8",
           "why_start_end_and_devices": "Starts with Isaac's question. Ends with Abraham's answer and second 'walked on together.' Devices: Central dialogue of chiasm; dramatic irony; wordplay yir'eh→YHWH-Yireh."
         },
         {
-          "scene_number": 50,
+          "scene_number": 63,
           "scene_name": "The Intervention and Provision",
           "reference": "22:9-14",
           "why_start_end_and_devices": "Starts with binding. Ends with place naming. Devices: Climax (v.10) broken by divine call; 'Here I am' inclusio (v.1, 11); etiology/wordplay YHWH-Yireh."
         },
         {
-          "scene_number": 51,
+          "scene_number": 64,
           "scene_name": "The Oath and Return",
           "reference": "22:15-19",
           "why_start_end_and_devices": "Starts with angel's second call. Ends with Beersheba return, closing pericope. Devices: Promise restated as unconditional oath because Abraham passed test."
         },
         {
-          "scene_number": 52,
+          "scene_number": 65,
           "scene_name": "The Children of Nahor (Rebekah Foreshadowed)",
           "reference": "22:20-24",
           "why_start_end_and_devices": "Genealogical bridge; Bethuel→Rebekah named, setting up ch24."
         },
         {
-          "scene_number": 53,
+          "scene_number": 66,
           "scene_name": "Sarah Dies; Abraham Seeks a Grave",
           "reference": "23:1-6",
           "why_start_end_and_devices": "Mourning; the resident-alien's request for land."
         },
         {
-          "scene_number": 54,
-          "scene_name": "Bargaining for the Cave of Machpelah",
-          "reference": "23:7-16",
-          "why_start_end_and_devices": "Courtly haggling with Ephron; 400 shekels weighed."
+          "scene_number": 67,
+          "scene_name": "Abraham Asks for Machpelah; Ephron Offers It",
+          "reference": "23:7-11",
+          "why_start_end_and_devices": "Bowing among the Hittites; 'I give you the field.'"
         },
         {
-          "scene_number": 55,
+          "scene_number": 68,
+          "scene_name": "Abraham Insists on Paying; 400 Shekels Weighed",
+          "reference": "23:12-16",
+          "why_start_end_and_devices": "Courtly refusal of the gift; the price named and weighed."
+        },
+        {
+          "scene_number": 69,
           "scene_name": "The Field and Cave Deeded to Abraham",
           "reference": "23:17-20",
           "why_start_end_and_devices": "Legal transfer; first owned foothold in the land."
         },
         {
-          "scene_number": 56,
+          "scene_number": 70,
           "scene_name": "The Charge: A Wife from Abraham's Kindred",
           "reference": "24:1-4",
           "why_start_end_and_devices": "Oath sworn 'under the thigh'; no Canaanite bride."
         },
         {
-          "scene_number": 57,
+          "scene_number": 71,
           "scene_name": "The Servant's Condition and the Oath",
           "reference": "24:5-9",
           "why_start_end_and_devices": "'What if she won't come?'; the angel-promise; sworn."
         },
         {
-          "scene_number": 58,
+          "scene_number": 72,
           "scene_name": "The Prayer for a Sign at the Well",
           "reference": "24:10-14",
           "why_start_end_and_devices": "Ten camels; the camel-watering test devised."
         },
         {
-          "scene_number": 59,
-          "scene_name": "Rebekah Waters the Ten Camels",
-          "reference": "24:15-21",
-          "why_start_end_and_devices": "Sign answered before the prayer ends; silent watching."
+          "scene_number": 73,
+          "scene_name": "Rebekah Comes to the Spring",
+          "reference": "24:15-17",
+          "why_start_end_and_devices": "Before the prayer ends; the beautiful virgin with her jar."
         },
         {
-          "scene_number": 60,
+          "scene_number": 74,
+          "scene_name": "She Waters the Camels; the Servant Watches",
+          "reference": "24:18-21",
+          "why_start_end_and_devices": "The sign fulfilled; he gazes silently to be sure."
+        },
+        {
+          "scene_number": 75,
           "scene_name": "The Gold Ring, Her Lineage, and Worship",
           "reference": "24:22-27",
           "why_start_end_and_devices": "Gifts; 'whose daughter?'; the servant bows in worship."
         },
         {
-          "scene_number": 61,
+          "scene_number": 76,
           "scene_name": "Laban Welcomes the Servant In",
           "reference": "24:28-33",
           "why_start_end_and_devices": "Laban sees the gold; hospitality; 'I will not eat until...'"
         },
         {
-          "scene_number": 62,
-          "scene_name": "The Servant Recounts the Oath",
-          "reference": "24:34-41",
-          "why_start_end_and_devices": "Retelling part 1: the commission and its terms."
+          "scene_number": 77,
+          "scene_name": "The Servant Recounts the Oath and Errand",
+          "reference": "24:34-38",
+          "why_start_end_and_devices": "'I am Abraham's servant'; the charge to find kindred."
         },
         {
-          "scene_number": 63,
-          "scene_name": "The Servant Recounts the Sign and Asks",
-          "reference": "24:42-49",
-          "why_start_end_and_devices": "Retelling part 2: the well-sign; 'deal kindly or tell me.'"
+          "scene_number": 78,
+          "scene_name": "'What If She Won't Come?'; Released from the Oath",
+          "reference": "24:39-41",
+          "why_start_end_and_devices": "The contingency; the angel-promise; the release clause."
         },
         {
-          "scene_number": 64,
+          "scene_number": 79,
+          "scene_name": "He Recounts the Sign at the Spring",
+          "reference": "24:42-46",
+          "why_start_end_and_devices": "The prayer and Rebekah's instant answer retold."
+        },
+        {
+          "scene_number": 80,
+          "scene_name": "Her Lineage Revealed; 'Tell Me Yes or No'",
+          "reference": "24:47-49",
+          "why_start_end_and_devices": "The ring and bracelets; worship; the request for an answer."
+        },
+        {
+          "scene_number": 81,
           "scene_name": "'This Is from the LORD': Consent",
           "reference": "24:50-54",
           "why_start_end_and_devices": "Laban and Bethuel yield; betrothal gifts; overnight."
         },
         {
-          "scene_number": 65,
-          "scene_name": "Rebekah Agrees to Go; the Blessing",
-          "reference": "24:55-61",
-          "why_start_end_and_devices": "'I will go'; the thousands-of-myriads blessing."
+          "scene_number": 82,
+          "scene_name": "'Will You Go?'—'I Will Go'",
+          "reference": "24:55-58",
+          "why_start_end_and_devices": "The family's delay; Rebekah's decisive consent."
         },
         {
-          "scene_number": 66,
+          "scene_number": 83,
+          "scene_name": "Rebekah Sent with the Blessing",
+          "reference": "24:59-61",
+          "why_start_end_and_devices": "The nurse and maids; the blessing of myriads; the journey."
+        },
+        {
+          "scene_number": 84,
           "scene_name": "Isaac Receives Rebekah in the Field",
           "reference": "24:62-67",
           "why_start_end_and_devices": "Isaac meditating at dusk; the veil; comforted after Sarah."
         },
         {
-          "scene_number": 67,
+          "scene_number": 85,
           "scene_name": "Keturah's Sons; Gifts to the East",
           "reference": "25:1-6",
           "why_start_end_and_devices": "Later marriage; sons sent east, away from Isaac."
         },
         {
-          "scene_number": 68,
+          "scene_number": 86,
           "scene_name": "Abraham Dies; Buried at Machpelah",
           "reference": "25:7-11",
           "why_start_end_and_devices": "175 years; sons bury him with Sarah; blessing passes to Isaac."
