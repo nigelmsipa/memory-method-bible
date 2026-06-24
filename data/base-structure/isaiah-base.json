@@ -6,9 +6,9 @@
   "stories": [
     {
       "story_letter": "A",
-      "story_title": "The Great Arraignment (Proto‑Isaiah I)",
-      "why_start_end_and_literary_glue": "Isaiah 1–12 introduces the whole with superscription (1:1), a sweeping covenant lawsuit (1), and thematically arranged oracles moving from judgment to remnant hope, culminating in a salvation hymn (12). Start (1:1): 'The vision of Isaiah…' End (12:6): 'Great in your midst is the Holy One of Israel.' Literary Glue: 'Holy One of Israel,' remnant, movement from Assyrian judgment to Davidic/messianic hope (ch. 11) and joy (ch. 12).",
+      "story_title": "The Great Arraignment (Proto-Isaiah I)",
       "reference": "1:1 - 12:6",
+      "why_start_end_and_literary_glue": "Chapters 1-12 introduce the whole book: a covenant lawsuit against Judah framed by judgment (ch.1) and a hymn of salvation (ch.12), an inclusio of 'judgment to joy.' Glue: the title 'Holy One of Israel,' the remnant theme, and the move from Assyrian judgment to messianic hope (the shoot from Jesse).",
       "scenes": [
         {
           "scene_number": 1,
@@ -470,35 +470,429 @@
     },
     {
       "story_letter": "B",
-      "story_title": "Oracles Against the Nations (Proto‑Isaiah II)",
-      "why_start_end_and_literary_glue": "Isaiah 13–23 forms a distinct collection of 'oracle/burden' (maśśā’) pronouncements concerning foreign nations (Babylon, Philistia, Moab, Damascus, Egypt, Dumah, Arabia, Jerusalem, Tyre). Start (13:1): 'The oracle concerning Babylon…' End (23:18): Tyre's wealth consecrated to the LORD. Literary Glue: repeated oracle formula (maśśā’) opening each unit.",
+      "story_title": "Oracles Against the Nations (Proto-Isaiah II)",
       "reference": "13:1 - 23:18",
+      "why_start_end_and_literary_glue": "Chapters 13-23 are a collection of 'oracle' (massa', 'burden') judgments against the foreign nations, each marked by the repeating oracle formula (13:1; 14:28; 15:1; 17:1; 19:1; 21:1,11,13; 22:1; 23:1). Start (13:1): the oracle concerning Babylon. End (23:18): Tyre's wealth consecrated to the LORD, completing the tour before ch.24's apocalyptic turn.",
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Superscription: Oracle Concerning Babylon",
+          "scene_name": "Oracle Concerning Babylon",
           "reference": "13:1",
-          "why_start_end_and_devices": "Formal heading inaugurates the nation‑oracles sequence."
+          "why_start_end_and_devices": "The superscription opening the oracles against the nations: the 'burden' against Babylon."
         },
         {
           "scene_number": 2,
           "scene_name": "Summons to Holy War",
           "reference": "13:2-5",
-          "why_start_end_and_devices": "Imperatives muster Yahweh's consecrated warriors from a distant land—instrument of judgment."
+          "why_start_end_and_devices": "The banner raised and the LORD's sanctified warriors mustered from distant lands to execute His wrath."
         },
         {
           "scene_number": 3,
-          "scene_name": "Day of the LORD: Cosmic Dread",
+          "scene_name": "The Day of the LORD: Cosmic Dread",
           "reference": "13:6-10",
-          "why_start_end_and_devices": "'Wail, for the day of the LORD is near'—psychological terror escalating to cosmic de‑creation (sun/moon/stars)."
+          "why_start_end_and_devices": "'Wail, for the Day of the LORD is near' — melting hearts and a darkened sun, moon, and stars."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "I Will Punish the World",
+          "reference": "13:11-13",
+          "why_start_end_and_devices": "The LORD ending the pride of the arrogant, making man scarcer than gold, the heavens trembling."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Infants Dashed to Pieces",
+          "reference": "13:14-16",
+          "why_start_end_and_devices": "The terror of the sack: the hunted fleeing, the captured slain, the city's horrors."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Babylon Overthrown Like Sodom",
+          "reference": "13:17-19",
+          "why_start_end_and_devices": "The pitiless Medes stirred up against the jewel of kingdoms, to be overthrown like Sodom."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Howling Creatures in Her Palaces",
+          "reference": "13:20-22",
+          "why_start_end_and_devices": "Babylon never again inhabited, given over to desert beasts — 'her days will not be prolonged.'"
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Compassion on Jacob",
+          "reference": "14:1-2",
+          "why_start_end_and_devices": "The LORD choosing Israel again, the nations escorting them home, captives ruling their captors."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "How the Oppressor Has Ceased",
+          "reference": "14:3-6",
+          "why_start_end_and_devices": "The taunt-song over the king of Babylon: the staff of the wicked broken at last."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Earth Breaks Out in Song",
+          "reference": "14:7-8",
+          "why_start_end_and_devices": "All the earth at rest, even Lebanon's cedars exulting that no woodcutter comes."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Sheol Eager to Meet You",
+          "reference": "14:9-11",
+          "why_start_end_and_devices": "The shades of dead kings rising to greet the fallen tyrant on his bed of maggots."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "How You Have Fallen, O Day Star",
+          "reference": "14:12-14",
+          "why_start_end_and_devices": "The proud boast 'I will ascend… I will make myself like the Most High.'"
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Brought Down to the Pit",
+          "reference": "14:15-17",
+          "why_start_end_and_devices": "The fallen one stared at — 'is this the man who shook the earth?'"
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Cast Out of Your Grave",
+          "reference": "14:18-20",
+          "why_start_end_and_devices": "Denied honorable burial, dumped like a trampled carcass for destroying his own land."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "I Will Cut Off Babylon's Name",
+          "reference": "14:21-23",
+          "why_start_end_and_devices": "The slaughter of his sons and the sweeping of Babylon away with the broom of destruction."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Who Can Thwart the LORD?",
+          "reference": "14:24-27",
+          "why_start_end_and_devices": "The sworn purpose to break Assyria, the outstretched hand none can turn back."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Do Not Rejoice, O Philistines",
+          "reference": "14:28-30",
+          "why_start_end_and_devices": "The oracle in the year Ahaz died: a viper from the snake's root, the Philistine remnant slain."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The LORD Has Founded Zion",
+          "reference": "14:31-32",
+          "why_start_end_and_devices": "The wailing city and the answer to the envoys: Zion the refuge of His afflicted people."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Moab Ruined in a Night",
+          "reference": "15:1-3",
+          "why_start_end_and_devices": "The burden against Moab: Ar and Kir devastated, weeping at the high places, every head shaved."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Fugitives Flee to Zoar",
+          "reference": "15:4-6",
+          "why_start_end_and_devices": "The cry from Heshbon, the fleeing fugitives, the dried-up waters of Nimrim."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Waters of Dimon Full of Blood",
+          "reference": "15:7-9",
+          "why_start_end_and_devices": "Moab carrying off its wealth, the outcry echoing to the borders, more judgment promised."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Send the Tribute Lambs",
+          "reference": "16:1-2",
+          "why_start_end_and_devices": "The plea from Sela to Zion, the daughters of Moab like fluttering birds at the Arnon."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "A Throne in the Tent of David",
+          "reference": "16:3-5",
+          "why_start_end_and_devices": "The appeal to shelter the refugees, and the promise of a faithful Davidic judge."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Moab's Empty Boasting",
+          "reference": "16:6-8",
+          "why_start_end_and_devices": "Moab's pride answered by the withered vines of Sibmah trampled by the nations."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "I Weep for the Vines of Sibmah",
+          "reference": "16:9-11",
+          "why_start_end_and_devices": "Joy removed from the orchard, the prophet's heart lamenting for Moab like a harp."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "In Three Years Moab's Splendor Gone",
+          "reference": "16:12-14",
+          "why_start_end_and_devices": "Moab's vain prayer at the high place, and the dated word of contempt on her many people."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Damascus a Heap of Ruins",
+          "reference": "17:1-3",
+          "why_start_end_and_devices": "The burden against Damascus: the fortress gone from Ephraim, the sovereignty from Aram."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Gleanings Will Remain",
+          "reference": "17:4-6",
+          "why_start_end_and_devices": "The fading splendor of Jacob, reduced to a few berries on a beaten olive tree."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Men Will Look to Their Maker",
+          "reference": "17:7-9",
+          "why_start_end_and_devices": "Turning eyes to the Holy One of Israel, away from hand-made altars and Asherahs."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "You Have Forgotten the Rock",
+          "reference": "17:10-11",
+          "why_start_end_and_devices": "The forgotten God of salvation, the exotic plantings whose harvest vanishes in pain."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "The Tumult of Many Peoples",
+          "reference": "17:12-14",
+          "why_start_end_and_devices": "The roaring nations rebuked and driven like chaff — 'before morning, they are no more.'"
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Woe to the Land of Whirring Wings",
+          "reference": "18:1-3",
+          "why_start_end_and_devices": "The oracle to the river-divided people of Cush and the banner raised on the mountains."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Gifts Brought to Mount Zion",
+          "reference": "18:4-7",
+          "why_start_end_and_devices": "The LORD quietly watching, pruning the shoots, until gifts are brought to Zion."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "The LORD Rides on a Swift Cloud",
+          "reference": "19:1-4",
+          "why_start_end_and_devices": "Egypt's idols trembling, Egyptian set against Egyptian, given to a harsh master."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The Nile Will Dry Up",
+          "reference": "19:5-7",
+          "why_start_end_and_devices": "The drying of Egypt's river, the withering reeds and rushes."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The Fishermen Will Mourn",
+          "reference": "19:8-10",
+          "why_start_end_and_devices": "The collapse of Egypt's livelihoods — fishermen, flax-workers, and weavers dismayed."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "The Princes of Zoan Are Fools",
+          "reference": "19:11-13",
+          "why_start_end_and_devices": "Pharaoh's wise counselors exposed as senseless, leading Egypt astray."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "A Spirit of Confusion",
+          "reference": "19:14-15",
+          "why_start_end_and_devices": "Egypt staggering like a drunkard, with nothing it can do, head or tail."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Egypt Will Tremble at Judah",
+          "reference": "19:16-17",
+          "why_start_end_and_devices": "The fear of the LORD's uplifted hand, Judah a terror to Egypt."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "An Altar to the LORD in Egypt",
+          "reference": "19:18-20",
+          "why_start_end_and_devices": "Five cities swearing allegiance, an altar and a savior for Egypt's oppressed."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Egypt Will Know the LORD",
+          "reference": "19:21-22",
+          "why_start_end_and_devices": "The LORD striking and healing Egypt, who turns to Him in worship."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Blessed Be Egypt My People",
+          "reference": "19:23-25",
+          "why_start_end_and_devices": "The highway of worship from Egypt to Assyria, and the threefold blessing with Israel."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Naked and Barefoot for Three Years",
+          "reference": "20:1-3",
+          "why_start_end_and_devices": "Isaiah's stripped sign against Egypt and Cush at the time of Sargon's attack on Ashdod."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "How Then Can We Escape?",
+          "reference": "20:4-6",
+          "why_start_end_and_devices": "The coming Assyrian exile of Egypt and Cush, dashing the coastland's misplaced hope."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "The Desert by the Sea",
+          "reference": "21:1-2",
+          "why_start_end_and_devices": "The burden of a terror coming from the desert — 'Go up, O Elam! Lay siege, O Media!'"
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Anguish Grips Me",
+          "reference": "21:3-5",
+          "why_start_end_and_devices": "The prophet's labor-pang dread at the vision as the princes are roused to battle."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Fallen, Fallen Is Babylon",
+          "reference": "21:6-10",
+          "why_start_end_and_devices": "The posted lookout's watch and his cry of Babylon's fall and shattered idols."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Watchman, What of the Night?",
+          "reference": "21:11-12",
+          "why_start_end_and_devices": "The burden against Dumah: 'Morning has come, but also the night.'"
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "The Burden Against Arabia",
+          "reference": "21:13-15",
+          "why_start_end_and_devices": "The Dedanite caravans lodging in the thickets, the refugees met with water and food."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "The Glory of Kedar Gone",
+          "reference": "21:16-17",
+          "why_start_end_and_devices": "Within a year, the dated doom of the warriors of Kedar."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "The Valley of Vision",
+          "reference": "22:1-4",
+          "why_start_end_and_devices": "The city on the rooftops, its slain not fallen in battle — 'let me weep bitterly.'"
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "A Day of Tumult",
+          "reference": "22:5-7",
+          "why_start_end_and_devices": "The day of trampling and confusion, with Elam's quiver and chariots in the valleys."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "You Did Not Look to Its Maker",
+          "reference": "22:8-11",
+          "why_start_end_and_devices": "Frantic defenses and a reservoir built, but no regard for the One who planned it long ago."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Let Us Eat and Drink, for Tomorrow We Die",
+          "reference": "22:12-14",
+          "why_start_end_and_devices": "Weeping called for but revelry chosen — a sin never to be atoned."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "The Fall of Shebna",
+          "reference": "22:15-18",
+          "why_start_end_and_devices": "The steward who carved his own grand tomb, to be slung away into a wide land."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Eliakim Clothed with the Robe",
+          "reference": "22:19-21",
+          "why_start_end_and_devices": "The office removed from Shebna and given to God's servant Eliakim, a father to Judah."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "The Key to the House of David",
+          "reference": "22:22-23",
+          "why_start_end_and_devices": "The peg driven into a firm place with the key that opens and shuts (cited of Christ in Rev 3)."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "The Peg Will Give Way",
+          "reference": "22:24-25",
+          "why_start_end_and_devices": "The overloaded peg sheared off — even the trusted office cannot bear all that hangs on it."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Tyre Laid Waste",
+          "reference": "23:1-3",
+          "why_start_end_and_devices": "The burden against Tyre, the merchant of the nations, mourned by the ships of Tarshish."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Be Ashamed, O Sidon",
+          "reference": "23:4-6",
+          "why_start_end_and_devices": "The sea's barren lament and the call to flee to Tarshish."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "The LORD Planned It",
+          "reference": "23:7-9",
+          "why_start_end_and_devices": "The fall of the crown-bestowing city, devised to disgrace all the renowned of the earth."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "No Longer a Harbor",
+          "reference": "23:10-12",
+          "why_start_end_and_devices": "The LORD's hand over the sea, giving the oppressed daughter of Sidon no rest."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "The Land of the Chaldeans",
+          "reference": "23:13-14",
+          "why_start_end_and_devices": "The ruined Chaldean land as a warning, the ships of Tarshish wailing for a lost harbor."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "Tyre's Wages Consecrated",
+          "reference": "23:15-18",
+          "why_start_end_and_devices": "Tyre forgotten seventy years, then her merchant-profits set apart as holy to the LORD."
         }
       ]
     },
     {
       "story_letter": "C",
-      "story_title": "The Book of Comfort (Deutero‑Isaiah)",
-      "why_start_end_and_literary_glue": "Isaiah 40–55 shifts to the exilic setting with lyrical consolation, new‑exodus imagery, Creator‑Redeemer theology, idol polemics, and the four Servant Songs. Start (40:1): 'Comfort, comfort my people.' End (55:13): cypress/myrtle instead of thorn—everlasting sign. Literary Glue: 'comfort' refrain, Servant cycle (42:1‑9; 49:1‑7; 50:4‑11; 52:13‑53:12), and new creation/exodus motifs.",
+      "story_title": "The Apocalypse of Isaiah",
+      "reference": "24:1 - 27:13",
+      "why_start_end_and_literary_glue": "Chapters 24-27, the 'Isaiah Apocalypse': cosmic, universal judgment on the whole earth followed by resurrection, the swallowing up of death, and the eschatological banquet on Zion. Start (24:1): 'Behold, the LORD lays waste the earth.' End (27:13): the great trumpet gathering the scattered to worship on the holy mountain. Glue: world-scale de-creation and the 'city' (chaos) versus Zion motif.",
+      "scenes": []
+    },
+    {
+      "story_letter": "D",
+      "story_title": "The Book of Woes",
+      "reference": "28:1 - 33:24",
+      "why_start_end_and_literary_glue": "Chapters 28-33 are a series of 'Woe' (hoy) oracles against the drunkards of Ephraim, complacent Ariel/Jerusalem, and the leaders who trust in an Egyptian alliance rather than the LORD. Start (28:1): 'Woe to the proud crown of the drunkards of Ephraim.' End (33:24): Zion forgiven, the LORD her king and judge. Glue: the recurring 'hoy' and the contrast of false security with trust in the cornerstone in Zion (28:16).",
+      "scenes": []
+    },
+    {
+      "story_letter": "E",
+      "story_title": "Judgment and the Ransomed Return",
+      "reference": "34:1 - 35:10",
+      "why_start_end_and_literary_glue": "Chapters 34-35 form a hinge diptych: the LORD's furious judgment on the nations (Edom as type, ch.34) set against the blossoming desert and the Highway of Holiness on which the redeemed return to Zion (ch.35). Start (34:1): 'Come near, you nations, and listen.' End (35:10): 'the ransomed of the LORD will return... with everlasting joy.' Glue: the antithesis of wilderness-curse and wilderness-bloom.",
+      "scenes": []
+    },
+    {
+      "story_letter": "F",
+      "story_title": "The Hezekiah Narrative",
+      "reference": "36:1 - 39:8",
+      "why_start_end_and_literary_glue": "Chapters 36-39 are the prose historical bridge (paralleling 2 Kings 18-20): Sennacherib's siege and blasphemy, Hezekiah's prayer and the angel's deliverance, Hezekiah's illness and recovery, and the fateful visit of the Babylonian envoys that foreshadows the exile. Start (36:1): Sennacherib's invasion. End (39:8): the word that all will be carried to Babylon, setting up the Book of Comfort. Glue: trust versus the threat of empire, pivoting from Assyria to Babylon.",
+      "scenes": []
+    },
+    {
+      "story_letter": "G",
+      "story_title": "The Book of Comfort (Deutero-Isaiah)",
       "reference": "40:1 - 55:13",
+      "why_start_end_and_literary_glue": "Chapters 40-55: the abrupt turn from judgment to comfort for the exiles, dominated by the new exodus, the polemics against idols, the Creator-Redeemer, and the four Servant Songs (42:1-9; 49:1-7; 50:4-11; 52:13-53:12). Start (40:1): 'Comfort, comfort My people.' End (55:13): the cypress for the thorn, an everlasting sign. Glue: 'comfort,' the incomparable Creator, and the Servant who brings justice and bears sin.",
       "scenes": [
         {
           "scene_number": 1,
@@ -545,10 +939,10 @@
       ]
     },
     {
-      "story_letter": "D",
-      "story_title": "The Book of New Creation (Trito‑Isaiah)",
-      "why_start_end_and_literary_glue": "Isaiah 56–66 addresses the restored, post‑exilic community: inclusion of foreigners, denunciation of corrupt leaders, true worship/justice, Zion's glory, and the promise of 'new heavens and new earth.' Start (56:1): 'Keep justice, and do righteousness…' End (66:24): final vision of judgment outside the renewed creation. Literary Glue: concentric focus around Zion's glory (60–62) and resolution of inclusion/judgment themes.",
+      "story_letter": "H",
+      "story_title": "The Book of New Creation (Trito-Isaiah)",
       "reference": "56:1 - 66:24",
+      "why_start_end_and_literary_glue": "Chapters 56-66 address the post-exilic community: the inclusion of foreigners, corrupt leaders, true versus false fasting and worship, and the climactic promise of new heavens and a new earth. Start (56:1): 'Keep justice and do righteousness, for My salvation is near.' End (66:24): the solemn final image of judgment outside the new creation. Glue: a chiasm centered on ch.60-62 (Zion's light and the Anointed) and the resolution of judgment/salvation and inclusion/exclusion.",
       "scenes": [
         {
           "scene_number": 1,
