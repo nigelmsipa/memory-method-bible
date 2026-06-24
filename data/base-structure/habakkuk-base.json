@@ -18,12 +18,18 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "God's Shocking Answer: The Chaldeans",
-          "reference": "1:5-1:11",
-          "why_start_end_and_devices": "Divine speech commands 'Look among the nations' and depicts swift, ruthless Chaldeans; closes as they are guilty—power is their god. Devices: irony, hyperbole, rapid predator imagery (eagle, wolf, wind)."
+          "scene_name": "I Am Raising Up the Chaldeans",
+          "reference": "1:5-7",
+          "why_start_end_and_devices": "God's shocking answer: an unbelievable work — the ruthless, self-justifying Chaldeans raised up."
         },
         {
           "scene_number": 3,
+          "scene_name": "Swifter Than Leopards",
+          "reference": "1:8-11",
+          "why_start_end_and_devices": "The conqueror's terror: horses fiercer than wolves, scoffing at kings — 'their own strength is their god.'"
+        },
+        {
+          "scene_number": 4,
           "scene_name": "The Second Complaint: Why Use the Wicked?",
           "reference": "1:12-2:1",
           "why_start_end_and_devices": "Prophet affirms Yahweh’s holiness and questions using the wicked; fisher/net metaphor indicts Babylon’s idolatrous might; ends as he takes his stand to await an answer. Devices: contrast, metaphor (net/hook), narrative pivot to watchfulness."
@@ -94,18 +100,24 @@
         },
         {
           "scene_number": 3,
-          "scene_name": "God's War Against Creation",
-          "reference": "3:8-3:15",
-          "why_start_end_and_devices": "Rhetorical questions to rivers/sea; arrows, spears, sun/moon; salvation for your people; trample the sea with horses. Devices: mythopoetic combat, cosmic subjugation."
+          "scene_name": "The Chariots of Salvation",
+          "reference": "3:8-11",
+          "why_start_end_and_devices": "The theophany as cosmic war: God riding the rivers and sea, the mountains quaking, sun and moon standing still."
         },
         {
           "scene_number": 4,
+          "scene_name": "You Went Forth for the Salvation of Your People",
+          "reference": "3:12-15",
+          "why_start_end_and_devices": "Threshing the nations to save His anointed, crushing the head of the wicked, trampling the sea; Selah."
+        },
+        {
+          "scene_number": 5,
           "scene_name": "The Prophet's Confession of Awe and Fear",
           "reference": "3:16",
           "why_start_end_and_devices": "Single‑verse pivot: bodily trembling turns to quiet waiting for the day of distress. Devices: first‑person confession, emotional hinge."
         },
         {
-          "scene_number": 5,
+          "scene_number": 6,
           "scene_name": "A Song of Unwavering Trust",
           "reference": "3:17-3:19",
           "why_start_end_and_devices": "'Though… yet' faith stanza moves from agricultural loss to rejoicing in God; 'makes my feet like the deer' and musical colophon conclude. Devices: antithetical hymn of trust, high‑places metaphor, liturgical ending."
@@ -114,4 +126,3 @@
     }
   ]
 }
-
