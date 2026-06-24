@@ -12,96 +12,138 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Amalekite's News",
-          "reference": "1:1-10",
-          "why_start_end_and_devices": "Starts with narrative opening: 'Now it came to pass after the death of Saul...' (1:1). Ends with the Amalekite finishing his account to David (1:10). The scene is a tense dialogue filled with dramatic irony; the Amalekite believes he is bringing good news to the heir-apparent but is actually sealing his own doom. The focus is on Saul's crown and bracelet, symbols of the kingship David is about to inherit."
+          "scene_name": "An Amalekite Brings News from Gilboa",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Starts David at Ziklag after Saul's death. Ends 'Saul and Jonathan are dead.' Devices: A messenger with torn clothes—grim tidings."
         },
         {
           "scene_number": 2,
+          "scene_name": "'I Killed the LORD's Anointed'",
+          "reference": "1:5-10",
+          "why_start_end_and_devices": "Starts the Amalekite's tale. Ends bringing Saul's crown to David. Devices: A self-incriminating lie hoping for reward."
+        },
+        {
+          "scene_number": 3,
           "scene_name": "David Executes the Messenger",
           "reference": "1:11-16",
           "why_start_end_and_devices": "Starts with David's reaction: 'Then David took hold on his clothes, and rent them...' (1:11). Ends with David passing judgment: '...Thy blood be upon thy head...' (1:16). This scene establishes David's character. Instead of rewarding the death of his rival, he executes the messenger for slaying 'the LORD's anointed.' This is a crucial political and theological act, showing his respect for the office of king and his refusal to gain the throne by regicide."
         },
         {
-          "scene_number": 3,
-          "scene_name": "The Lament for Saul and Jonathan (The Song of the Bow)",
-          "reference": "1:17-27",
-          "why_start_end_and_devices": "Starts with 'And David lamented with this lamentation...' (1:17). Ends with the poem's conclusion (1:27). This scene is a complete, embedded poem. Its literary brilliance lies in its total lack of any negative sentiment toward Saul, focusing only on his strengths ('how are the mighty fallen!'). The emotional climax is the personal, covenantal love for Jonathan ('thy love to me was wonderful...')."
-        },
-        {
           "scene_number": 4,
-          "scene_name": "David Anointed King of Judah",
-          "reference": "2:1-7",
-          "why_start_end_and_devices": "Starts with a new inquiry: 'And it came to pass after this, that David inquired of the LORD...' (2:1). Ends with David's diplomatic message to the men of Jabesh-gilead concluding (2:7). This is a pivotal narrative shift. David moves from fugitive to monarch, but only of his own tribe, Judah. His message to Jabesh-gilead is a savvy political move, rewarding their loyalty to Saul while inviting their loyalty to him."
+          "scene_name": "The Lament: 'How the Mighty Have Fallen'",
+          "reference": "1:17-21",
+          "why_start_end_and_devices": "Starts David's elegy. Ends 'no dew on you, mountains of Gilboa.' Devices: The Song of the Bow—public grief for an enemy."
         },
         {
           "scene_number": 5,
+          "scene_name": "Saul and Jonathan, Beloved and Swift",
+          "reference": "1:22-27",
+          "why_start_end_and_devices": "Starts their valor recalled. Ends 'how the mighty have fallen.' Devices: Magnanimous love—'your love to me was wonderful.'"
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "David Anointed King of Judah at Hebron",
+          "reference": "2:1-4",
+          "why_start_end_and_devices": "Starts 'shall I go up?' Ends anointed king over Judah. Devices: David inquires of the LORD before every move."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "David Thanks the Men of Jabesh-gilead",
+          "reference": "2:5-7",
+          "why_start_end_and_devices": "Starts the message of blessing. Ends 'be strong and valiant.' Devices: Honoring those who honored Saul—political wisdom and grace."
+        },
+        {
+          "scene_number": 8,
           "scene_name": "Abner Makes Ish-bosheth King of Israel",
           "reference": "2:8-11",
           "why_start_end_and_devices": "Starts with the 'But Abner...' (2:8) presenting the antithesis to David's anointing. Ends with the narrative summary of the two rival kingdoms and their durations (2:11). This brief scene establishes the central conflict of Story A: the 'two houses.' The narrative intentionally lists the territories of Ish-bosheth to show the breadth of Abner's control, contrasting it with David's single tribe."
         },
         {
-          "scene_number": 6,
+          "scene_number": 9,
           "scene_name": "The Deadly Game at Gibeon",
           "reference": "2:12-17",
           "why_start_end_and_devices": "Starts with the two armies meeting: 'And Abner... and the servants of Ish-bosheth, went out...' (2:12). Ends with the 'game' escalating, and the place named Helkath-hazzurim (2:17). A scene of tragic irony. The 'play' (v. 14) proposed by Abner turns into a bloody mutual slaughter (v. 16), symbolizing the self-destructive nature of this civil war."
         },
         {
-          "scene_number": 7,
+          "scene_number": 10,
           "scene_name": "The Death of Asahel",
           "reference": "2:18-23",
           "why_start_end_and_devices": "Starts with focus shifting to 'the three sons of Zeruiah' (2:18). Ends with Abner killing Asahel (2:23). This is a self-contained pursuit narrative. The dialogue (Abner's repeated warnings, Asahel's refusal) builds tension. Asahel's death is a key plot point, as it establishes the blood-feud that will motivate Joab in the next chapter."
         },
         {
-          "scene_number": 8,
-          "scene_name": "The Truce",
-          "reference": "2:24-32",
-          "why_start_end_and_devices": "Starts with Joab and Abishai taking up the pursuit (2:24). Ends with Joab's men returning to Hebron, concluding the episode (2:32). This scene resolves the battle. Abner's plea (v. 26) 'shall the sword devour for ever?' highlights the tragedy of the civil war. The scene ends with a casualty report (v. 30-31), contrasting the losses and emphasizing David's side as victorious."
+          "scene_number": 11,
+          "scene_name": "Abner Pleads for a Truce",
+          "reference": "2:24-28",
+          "why_start_end_and_devices": "Starts the pursuit to Gibeon. Ends the trumpet halting the chase. Devices: 'Must the sword devour forever?'—weariness of civil war."
         },
         {
-          "scene_number": 9,
+          "scene_number": 12,
+          "scene_name": "The Toll of the Day; Asahel Buried",
+          "reference": "2:29-32",
+          "why_start_end_and_devices": "Starts the night march. Ends Asahel buried at Bethlehem. Devices: The cost tallied—the feud's first blood."
+        },
+        {
+          "scene_number": 13,
           "scene_name": "The Waxing and Waning Houses",
           "reference": "3:1-5",
           "why_start_end_and_devices": "Starts with narrative summary: 'Now there was long war...' (3:1). Ends with the list of David's sons born in Hebron concluding (3:5). This is a narrative summary, not a specific action scene. It serves as a transition, showing the passage of time and the clear momentum of the war ('David waxed stronger and stronger...'). The list of sons establishes his growing dynasty."
         },
         {
-          "scene_number": 10,
+          "scene_number": 14,
           "scene_name": "Abner's Breach with Ish-bosheth",
           "reference": "3:6-11",
           "why_start_end_and_devices": "Starts with narrative context: 'And it came to pass, while there was war...' (3:6). Ends with Ish-bosheth's total capitulation: '...he could not answer Abner a word again, because he feared him' (3:11). The hinge of the civil war. The conflict over Saul's concubine (Rizpah) is a dispute over the right to the throne. Abner's disproportionate rage (v. 8-9) shows his pride, and he immediately begins his treasonous plan."
         },
         {
-          "scene_number": 11,
+          "scene_number": 15,
           "scene_name": "Abner's Overture and David's Condition",
           "reference": "3:12-16",
           "why_start_end_and_devices": "Starts with 'And Abner sent messengers to David...' (3:12). Ends with the tragicomic image of Phaltiel weeping (3:16) ending the subplot of Michal's return. A scene of political negotiation. David's one condition—the return of his wife Michal—is brilliant. It re-establishes his legal claim to Saul's house, publicly shames Ish-bosheth, and tests Abner's ability to deliver."
         },
         {
-          "scene_number": 12,
+          "scene_number": 16,
           "scene_name": "Abner Secures Israel for David",
           "reference": "3:17-21",
           "why_start_end_and_devices": "Starts with 'And Abner had communication with the elders...' (3:17). Ends with 'And Abner said unto David, I will arise... And David sent Abner away; and he went in peace' (3:21). Abner acts as the kingmaker, reminding the elders that David was God's choice (v. 18). The scene concludes with a feast and a covenant, seemingly sealing the unification of the kingdom."
         },
         {
-          "scene_number": 13,
+          "scene_number": 17,
           "scene_name": "The Murder of Abner",
           "reference": "3:22-27",
           "why_start_end_and_devices": "Starts with Joab's arrival: 'And, behold, the servants of David and Joab came...' (3:22). Ends with the murder completed: '...and he smote him there under the fifth rib... and he died' (3:27). A scene of intense dramatic irony. David has just sent Abner away 'in peace' (v. 21), and Joab, under the pretense of peace ('spake quietly,' v. 27), murders him. The blood-feud (from 2:23) is Joab's motive, but the political motive (eliminating a rival general) is the subtext."
         },
         {
-          "scene_number": 14,
-          "scene_name": "David's Mourning and Curse",
-          "reference": "3:28-39",
-          "why_start_end_and_devices": "Starts with 'And afterward when David heard it, he said...' (3:28). Ends with David's final lament: '...the LORD shall reward the doer of evil...' (3:39). David again publicly and dramatically distances himself from the murder of his rival. He fasts, laments (v. 33-34), and pronounces a curse on Joab's house (v. 29). This scene solidifies the people's trust in David ('whatsoever the king did pleased all the people,' v. 36)."
+          "scene_number": 18,
+          "scene_name": "David Curses Joab; Mourns Abner",
+          "reference": "3:28-32",
+          "why_start_end_and_devices": "Starts David disavowing the murder. Ends weeping at Abner's grave. Devices: Public innocence proclaimed; genuine mourning."
         },
         {
-          "scene_number": 15,
-          "scene_name": "The Murder of Ish-bosheth",
-          "reference": "4:1-7",
-          "why_start_end_and_devices": "Starts with 'And when Saul's son heard that Abner was dead...' (4:1). Ends with the murderers completing the act: '...and beheaded him, and took his head, and gat them away...' (4:7). The final collapse of the house of Saul. The narrative emphasizes the weakness of Ish-bosheth ('his hands were feeble,' v. 1) and the treachery of his own captains. The murder, happening while the king is asleep on his bed, is portrayed as cowardly and base."
+          "scene_number": 19,
+          "scene_name": "'Should Abner Die as a Fool Dies?'",
+          "reference": "3:33-37",
+          "why_start_end_and_devices": "Starts the lament. Ends all the people pleased. Devices: David's grief wins the nation's trust."
         },
         {
-          "scene_number": 16,
+          "scene_number": 20,
+          "scene_name": "'These Men Are Too Hard for Me'",
+          "reference": "3:38-39",
+          "why_start_end_and_devices": "Starts 'a prince has fallen.' Ends leaving Joab to the LORD. Devices: A king constrained by his ruthless commander."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Ish-bosheth's Fear; Mephibosheth Lamed",
+          "reference": "4:1-4",
+          "why_start_end_and_devices": "Starts the king's courage failing. Ends the crippled heir noted. Devices: A narrative aside foreshadowing later kindness."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Ish-bosheth Murdered in His Bed",
+          "reference": "4:5-7",
+          "why_start_end_and_devices": "Starts the assassins entering. Ends carrying off his head. Devices: Treachery in the noonday heat."
+        },
+        {
+          "scene_number": 23,
           "scene_name": "The Murderers' Reward",
           "reference": "4:8-12",
           "why_start_end_and_devices": "Starts with 'And they brought the head of Ishbosheth unto David...' (4:8). Ends with the story concluding: '...and buried the head... in the sepulchre of Abner' (4:12). This scene parallels the opening of the story (1:11-16). Once again, messengers bring news of a rival's death, expecting a reward. Once again, David executes them for their treachery. This inclusio frames the entire civil war narrative, establishing David's consistent refusal to build his kingdom on assassination."
@@ -146,72 +188,144 @@
         },
         {
           "scene_number": 6,
-          "scene_name": "Bringing the Ark to Perez-uzzah",
-          "reference": "6:1-11",
-          "why_start_end_and_devices": "Starts with 'Again, David gathered together all the chosen men...' (6:1). Ends with the ark resting in Obed-edom's house for three months (6:11). A scene of joyous worship that turns to tragic judgment. The error is procedural: they use a 'new cart' (v. 3), a Philistine method, instead of carrying it on poles as God commanded. Uzzah's death (v. 7) is a terrible reminder of God's holiness. David's fear (v. 9) halts the procession."
+          "scene_name": "The Ark Set on a New Cart; David Dances",
+          "reference": "6:1-5",
+          "why_start_end_and_devices": "Starts thirty thousand gathered. Ends celebration with all their might. Devices: Joyful but careless—the cart, not the poles."
         },
         {
           "scene_number": 7,
-          "scene_name": "David Brings the Ark to Jerusalem",
-          "reference": "6:12-19",
-          "why_start_end_and_devices": "Starts with David hearing of Obed-edom's blessing (6:12). Ends with the people being blessed and sent home (6:19). The second, successful attempt. This time, the procession is marked by sacrifice (v. 13) and David's humble worship (dancing, v. 14). This scene establishes Jerusalem as the religious center of Israel."
+          "scene_name": "Uzzah Struck for Touching the Ark",
+          "reference": "6:6-8",
+          "why_start_end_and_devices": "Starts the oxen stumbling. Ends David's anger. Devices: Holiness violated—reverence over good intentions."
         },
         {
           "scene_number": 8,
+          "scene_name": "David Afraid; the Ark at Obed-edom's",
+          "reference": "6:9-11",
+          "why_start_end_and_devices": "Starts 'how can the ark come to me?' Ends Obed-edom blessed. Devices: Fear of God; blessing where the ark abides."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "David Dances Before the Ark into the City",
+          "reference": "6:12-15",
+          "why_start_end_and_devices": "Starts hearing of the blessing. Ends shouting and trumpets. Devices: This time done rightly—sacrifice and abandon."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Michal Despises; the People Blessed",
+          "reference": "6:16-19",
+          "why_start_end_and_devices": "Starts Michal watching with contempt. Ends each going home with bread. Devices: Worshipful king vs. scornful daughter of Saul."
+        },
+        {
+          "scene_number": 11,
           "scene_name": "Michal Despises David",
           "reference": "6:20-23",
           "why_start_end_and_devices": "Starts with 'Then David returned to bless his household...' (6:20). Ends with the judgment on Michal: 'Therefore Michal... had no child unto the day of her death' (6:23). A tragic coda to the celebration. Michal represents the 'house of Saul,' with its pride and cold formalism. David's response (v. 21-22) is a defense of humble, joyful worship and a reminder that God chose him over her father, Saul. Her barrenness signals the final end of Saul's line."
         },
         {
-          "scene_number": 9,
+          "scene_number": 12,
           "scene_name": "David's Desire to Build a Temple",
           "reference": "7:1-3",
           "why_start_end_and_devices": "Starts with the king sitting in his house, at rest (7:1). Ends with Nathan's initial, human-based approval (7:3). This scene sets up the covenant. David, now at rest from his enemies (v. 1), contrasts his 'house of cedar' with God's 'curtains' (the tabernacle). His desire is pious, and Nathan's approval seems logical."
         },
         {
-          "scene_number": 10,
-          "scene_name": "The Davidic Covenant (Nathan's Oracle)",
-          "reference": "7:4-17",
-          "why_start_end_and_devices": "Starts with 'And it came to pass that night, that the word of the LORD came unto Nathan...' (7:4). Ends with the oracle concluding (7:17). This is the theological centerpiece of the entire book. It is a single, indivisible oracle. The core is a divine wordplay: David wants to build God a 'house' (temple), but God will instead build David a 'house' (dynasty). It establishes the eternal covenant that will define Israelite messianic hope. The promise of an eternal son (v. 13-14) is the promise of the Messiah."
-        },
-        {
-          "scene_number": 11,
-          "scene_name": "David's Prayer of Thanksgiving",
-          "reference": "7:18-29",
-          "why_start_end_and_devices": "Starts with 'Then went king David in, and sat before the LORD...' (7:18). Ends with the prayer concluding (7:29). A single, complete prayer. David's response to the covenant is one of profound humility ('Who am I, O Lord GOD?,' v. 18) and gratitude. He rehearses the covenant's promises, showing he has fully accepted this divine gift."
-        },
-        {
-          "scene_number": 12,
-          "scene_name": "David's Victories (Summary)",
-          "reference": "8:1-14",
-          "why_start_end_and_devices": "Starts with 'And after this it came to pass, that David smote the Philistines...' (8:1). Ends with the summary statement: '...And the LORD preserved David whithersoever he went' (8:14). This is a summary of David's military accomplishments, fulfilling the promise that he would subdue his enemies. It's a list, not a detailed narrative, showing the complete 'rest' (cf. 7:1) God had given him."
-        },
-        {
           "scene_number": 13,
+          "scene_name": "'Would You Build Me a House?'",
+          "reference": "7:4-7",
+          "why_start_end_and_devices": "Starts the LORD's word to Nathan. Ends 'I have never asked for a house of cedar.' Devices: God reverses David's intention."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "'The LORD Will Make You a House'",
+          "reference": "7:8-11",
+          "why_start_end_and_devices": "Starts 'I took you from the pasture.' Ends 'the LORD will make you a house.' Devices: The great wordplay—dynasty, not building."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'Your Throne Established Forever'",
+          "reference": "7:12-17",
+          "why_start_end_and_devices": "Starts the offspring promised. Ends the everlasting throne. Devices: The Davidic covenant—messianic horizon."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "'Who Am I, O Lord GOD?'",
+          "reference": "7:18-21",
+          "why_start_end_and_devices": "Starts David sitting before the LORD. Ends 'you have done this great thing.' Devices: Humility before grace."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "'There Is None Like You'",
+          "reference": "7:22-24",
+          "why_start_end_and_devices": "Starts the praise of God's uniqueness. Ends Israel his own people. Devices: Redemption history as worship."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "'Bless the House of Your Servant'",
+          "reference": "7:25-29",
+          "why_start_end_and_devices": "Starts the prayer to confirm the word. Ends 'blessed forever.' Devices: Taking hold of the promise in prayer."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Victories Over Philistia, Moab, and Zobah",
+          "reference": "8:1-6",
+          "why_start_end_and_devices": "Starts subduing the Philistines. Ends garrisons in Aram. Devices: 'The LORD gave David victory wherever he went.'"
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Spoils Dedicated to the LORD",
+          "reference": "8:7-12",
+          "why_start_end_and_devices": "Starts the gold shields. Ends consecrated silver and gold. Devices: Plunder devoted—conquest as worship."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Edom Subdued; David's Fame",
+          "reference": "8:13-14",
+          "why_start_end_and_devices": "Starts the Valley of Salt. Ends garrisons throughout Edom. Devices: The empire's reach summarized."
+        },
+        {
+          "scene_number": 22,
           "scene_name": "David's Administration",
           "reference": "8:15-18",
           "why_start_end_and_devices": "Starts with summary statement: 'And David reigned over all Israel...' (8:15). Ends with the list of his cabinet concluding (8:18). A brief, formal list that establishes the order and justice of David's kingdom at its peak. This, combined with the military summary, presents the ideal state of the kingdom before the fall in chapter 11."
         },
         {
-          "scene_number": 14,
-          "scene_name": "David's Kindness to Mephibosheth",
-          "reference": "9:1-13",
-          "why_start_end_and_devices": "Starts with David's inquiry: 'And David said, Is there yet any that is left of the house of Saul...?' (9:1). Ends with the narrative concluding: 'So Mephibosheth dwelt in Jerusalem...' (9:13). This entire chapter is one complete scene. It demonstrates David's covenant faithfulness (his oath to Jonathan, 1 Sam. 20). He shows hesed (covenant love) to the last descendant of Saul, reversing the world's expectations. He brings Saul's lame heir to his own table, an act of radical grace."
+          "scene_number": 23,
+          "scene_name": "'Is Anyone Left of Saul's House?'",
+          "reference": "9:1-5",
+          "why_start_end_and_devices": "Starts David's search for kindness' sake. Ends Mephibosheth summoned. Devices: Covenant love with Jonathan honored."
         },
         {
-          "scene_number": 15,
+          "scene_number": 24,
+          "scene_name": "Mephibosheth Before the King",
+          "reference": "9:6-8",
+          "why_start_end_and_devices": "Starts the lame man bowing. Ends 'a dead dog like me?' Devices: Grace to the unworthy—a gospel picture."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Restored to Saul's Land; a Seat at the Table",
+          "reference": "9:9-13",
+          "why_start_end_and_devices": "Starts Ziba assigned to farm the land. Ends eating at the king's table 'like one of the king's sons.' Devices: Full restoration to a crippled heir."
+        },
+        {
+          "scene_number": 26,
           "scene_name": "The Insult of the Ammonites",
           "reference": "10:1-5",
           "why_start_end_and_devices": "Starts with 'And it came to pass after this, that the king of... Ammon died...' (10:1). Ends with the shamed messengers tarrying at Jericho (10:5). The inciting incident for the final war. David, acting in kindness (as in ch 9), is met with suspicion and grotesque insult (shaving half the beard, cutting the robes). This public humiliation makes war unavoidable."
         },
         {
-          "scene_number": 16,
-          "scene_name": "The First Ammonite-Syrian Campaign",
-          "reference": "10:6-14",
-          "why_start_end_and_devices": "Starts with The Ammonites preparing for war (10:6). Ends with Joab and Abishai defeating the coalition (10:14). A narrative of Joab's brilliant military strategy. He faces an enemy on two fronts, splits his army, and relies on his brother's support ('If the Syrians be too strong... then thou shalt help me...', v. 11). His speech (v. 12) is a model of pious courage."
+          "scene_number": 27,
+          "scene_name": "Ammon Hires the Arameans",
+          "reference": "10:6-8",
+          "why_start_end_and_devices": "Starts Ammon realizing their offense. Ends the battle lines drawn. Devices: A coalition against Israel."
         },
         {
-          "scene_number": 17,
+          "scene_number": 28,
+          "scene_name": "Joab and Abishai Divide and Conquer",
+          "reference": "10:9-14",
+          "why_start_end_and_devices": "Starts the two-front threat. Ends both armies fleeing. Devices: 'Be strong...the LORD will do what is good.'"
+        },
+        {
+          "scene_number": 29,
           "scene_name": "The Second Syrian Campaign",
           "reference": "10:15-19",
           "why_start_end_and_devices": "Starts with 'And when the Syrians saw that they were smitten...' (10:15). Ends with the story arc concluding: 'So the Syrians feared to help... Ammon any more' (10:19). David himself takes the field to put a final end to the Syrian threat. This victory establishes his total supremacy over the region, from the desert to the Euphrates, and concludes his triumphant reign. It sets the stage for the Ammonite-only war in chapter 11."
@@ -232,132 +346,192 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "The Plot Against Uriah",
-          "reference": "11:6-13",
-          "why_start_end_and_devices": "Starts with 'And David sent to Joab, saying, Send me Uriah...' (11:6). Ends with Uriah, drunk, sleeping at the door, foiling David's plan (11:13). A scene of escalating tension and dramatic irony. David's attempts to cover his sin are thwarted by Uriah's loyalty—a loyalty that contrasts sharply with David's treachery. Uriah's refusal to go home ('The ark, and Israel... abide in tents... shall I then go into mine house...?', v. 11) is a powerful, unwitting rebuke."
+          "scene_name": "David Summons Uriah",
+          "reference": "11:6-9",
+          "why_start_end_and_devices": "Starts recalling Uriah from the front. Ends Uriah sleeping at the door. Devices: The cover-up begins."
         },
         {
           "scene_number": 3,
+          "scene_name": "Uriah Will Not Go Home",
+          "reference": "11:10-13",
+          "why_start_end_and_devices": "Starts David's probing. Ends Uriah's loyalty even when drunk. Devices: A righteous soldier shaming the king."
+        },
+        {
+          "scene_number": 4,
           "scene_name": "The Murder of Uriah",
           "reference": "11:14-17",
           "why_start_end_and_devices": "Starts with 'And it came to pass in the morning, that David wrote a letter...' (11:14). Ends with the deed done: '...and Uriah the Hittite died also' (11:17). The sin deepens from adultery to murder. David uses Joab as his instrument, and the loyal Uriah is made to carry his own death warrant. The narrative is cold and procedural."
         },
         {
-          "scene_number": 4,
-          "scene_name": "Joab's Report",
-          "reference": "11:18-25",
-          "why_start_end_and_devices": "Starts with 'Then Joab sent and told David...' (11:18). Ends with David's cynical reply: '...the sword devoureth one as well as another...' (11:25). This scene reveals the complicity of Joab and the hardening of David's heart. Joab's carefully constructed message (v. 20-21) shows he knows he is covering for the king. David's reply is a cold dismissal, showing his relief that the cover-up is complete."
+          "scene_number": 5,
+          "scene_name": "Joab's Calculated Report",
+          "reference": "11:18-21",
+          "why_start_end_and_devices": "Starts the battle account. Ends 'your servant Uriah is dead.' Devices: Joab knows how to manage the king's guilt."
         },
         {
-          "scene_number": 5,
+          "scene_number": 6,
+          "scene_name": "'The Sword Devours One as Another'",
+          "reference": "11:22-25",
+          "why_start_end_and_devices": "Starts the messenger's report. Ends David's cold reassurance. Devices: The chilling dismissal of murder."
+        },
+        {
+          "scene_number": 7,
           "scene_name": "David Takes Bathsheba",
           "reference": "11:26-27",
           "why_start_end_and_devices": "Starts with 'And when the wife of Uriah heard...' (11:26). Ends with the divine verdict: 'But the thing that David had done displeased the LORD' (11:27). A brief, chilling summary of the sin's 'success.' The narrative moves from mourning to marriage with shocking speed. The final sentence (v. 27b) serves as the hinge and introduces the next scene."
         },
         {
-          "scene_number": 6,
+          "scene_number": 8,
           "scene_name": "Nathan's Parable",
           "reference": "12:1-6",
           "why_start_end_and_devices": "Starts with 'And the LORD sent Nathan unto David...' (12:1). Ends with David's angry, self-condemning judgment: '...the man that hath done this thing shall surely die...' (12:5-6). A brilliant use of parable. Nathan traps the king by appealing to his role as the shepherd-king and judge. David, blind to his own sin, passes judgment on himself."
         },
         {
-          "scene_number": 7,
-          "scene_name": "Thou Art the Man",
-          "reference": "12:7-14",
-          "why_start_end_and_devices": "Starts with the accusation: 'And Nathan said to David, Thou art the man' (12:7). Ends with the prophet departing: 'And Nathan departed unto his house' (12:14). The confrontation. Nathan speaks for God, recounting God's blessings (v. 7-8) and contrasting them with David's sin (v. 9). The judgment is pronounced: the sword, the public humiliation, and the death of the child (v. 10-14). David's simple confession ('I have sinned,' v. 13) is met with pardon, but the consequences are irrevocable."
-        },
-        {
-          "scene_number": 8,
-          "scene_name": "The Death of the Child",
-          "reference": "12:15-23",
-          "why_start_end_and_devices": "Starts with 'And the LORD struck the child...' (12:15). Ends with David's submission: '...I shall go to him, but he shall not return to me' (12:23). The first consequence is exacted. David's fasting and prayer show his desperate repentance, but the judgment is firm. His immediate change in behavior after the death (v. 20-21) shows his understanding and acceptance of God's will, a stark contrast to his behavior in chapter 11."
-        },
-        {
           "scene_number": 9,
+          "scene_name": "'You Are the Man!'",
+          "reference": "12:7-10",
+          "why_start_end_and_devices": "Starts Nathan's accusation. Ends 'the sword will never depart.' Devices: The parable's trap sprung; the sentence pronounced."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "'I Have Sinned'; the Child Will Die",
+          "reference": "12:11-14",
+          "why_start_end_and_devices": "Starts the public humiliation foretold. Ends the child's death decreed. Devices: Confession met with forgiveness and consequence."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "David Fasts for the Dying Child",
+          "reference": "12:15-19",
+          "why_start_end_and_devices": "Starts the child stricken. Ends 'the child is dead.' Devices: Desperate intercession; the servants' fear to tell him."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "'Can I Bring Him Back?'",
+          "reference": "12:20-23",
+          "why_start_end_and_devices": "Starts David rising and worshiping. Ends 'I will go to him.' Devices: Faith in reunion beyond death."
+        },
+        {
+          "scene_number": 13,
           "scene_name": "The Birth of Solomon",
           "reference": "12:24-25",
           "why_start_end_and_devices": "Starts with 'And David comforted Bathsheba...' (12:24). Ends with the child named Jedidiah ('Beloved of the LORD') (12:25). A brief but critical scene of restoration. Out of the ashes of sin and death comes the heir of the promise. The naming of Solomon (peace) and Jedidiah (beloved) shows that God's covenant (ch 7) will endure despite David's sin, not because of his righteousness."
         },
         {
-          "scene_number": 10,
+          "scene_number": 14,
           "scene_name": "The War Against Ammon Concludes",
           "reference": "12:26-31",
           "why_start_end_and_devices": "Starts with 'And Joab fought against Rabbah...' (12:26). Ends with the war concluding and the host returning (12:31). This scene jarringly returns to the war mentioned in 11:1. It functions as a narrative 'cleanup,' showing that while David was lost in sin, the kingdom's business continued. His brutal actions against the Ammonites (v. 31) may reflect the hardening of his own heart."
         },
         {
-          "scene_number": 11,
-          "scene_name": "Amnon's Lust for Tamar",
-          "reference": "13:1-14",
-          "why_start_end_and_devices": "Starts with 'And it came to pass after this, that Absalom... had a fair sister... Tamar; and Amnon... loved her' (13:1). Ends with the rape completed: '...he forced her, and lay with her' (13:14). The 'sword' (12:10) enters David's house. The scene is a dark parallel to David's sin: a royal son, in idleness ('lean from day to day,' v. 4), sees, desires, and 'takes' (v. 14). Jonadab's 'subtil' counsel (v. 3) mirrors Satan's."
+          "scene_number": 15,
+          "scene_name": "Amnon's Sick Desire for Tamar",
+          "reference": "13:1-5",
+          "why_start_end_and_devices": "Starts Amnon's obsession. Ends Jonadab's wicked scheme. Devices: Lust dressed as lovesickness."
         },
         {
-          "scene_number": 12,
+          "scene_number": 16,
+          "scene_name": "The Feigned Illness; the Trap Set",
+          "reference": "13:6-9",
+          "why_start_end_and_devices": "Starts the pretended sickness. Ends the room emptied. Devices: The king unwittingly sends Tamar to harm."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Amnon Violates Tamar",
+          "reference": "13:10-14",
+          "why_start_end_and_devices": "Starts Tamar bringing the cakes. Ends the assault. Devices: Her wise plea ignored—violence in the royal house."
+        },
+        {
+          "scene_number": 18,
           "scene_name": "Amnon's Hatred and Tamar's Desolation",
           "reference": "13:15-20",
           "why_start_end_and_devices": "Starts with 'Then Amnon hated her exceedingly...' (13:15). Ends with Tamar remaining 'desolate in her brother Absalom's house' (13:20). The immediate aftermath. Amnon's irrational hatred (v. 15) is even more wicked than his lust. Tamar's actions (rent garment, ashes, v. 19) are a public display of her mourning and the shame brought upon the house."
         },
         {
-          "scene_number": 13,
+          "scene_number": 19,
           "scene_name": "David's Anger; Absalom's Hatred",
           "reference": "13:21-22",
           "why_start_end_and_devices": "Starts with 'But when king David heard of all these things, he was very wroth' (13:21). Ends with 'And Absalom... hated Amnon...' (13:22). This brief scene shows David's paralysis. He is 'wroth,' but does nothing. His failure to execute justice (as in ch 12) directly causes the next tragedy. Absalom's 'hatred' (v. 22) takes the place of his father's justice."
         },
         {
-          "scene_number": 14,
-          "scene_name": "Absalom's Revenge",
-          "reference": "13:23-29",
-          "why_start_end_and_devices": "Starts with 'And it came to pass after two full years...' (13:23). Ends with Amnon killed, and the king's sons fleeing (13:29). The 'sword' strikes again. Absalom's plan is cold, calculated, and patient ('two full years'). The feast is a dark parallel to the one where Amnon's plot was hatched."
+          "scene_number": 20,
+          "scene_name": "Absalom's Sheepshearing Feast",
+          "reference": "13:23-27",
+          "why_start_end_and_devices": "Starts the two-year wait. Ends the king's sons going. Devices: Patient, premeditated revenge."
         },
         {
-          "scene_number": 15,
-          "scene_name": "The King Hears the News",
-          "reference": "13:30-36",
-          "why_start_end_and_devices": "Starts with 'And it came to pass, while they were in the way, that tidings came...' (13:30). Ends with the king and his sons weeping (13:36). A scene of misinformation and grief. The initial report (v. 30, 'Absalom hath slain all the king's sons') is a fulfillment of David's own fear (12:10). Jonadab, the subtle counselor (v. 3), reappears, now coldly explaining the logic of the revenge (v. 32-33)."
+          "scene_number": 21,
+          "scene_name": "Amnon Killed at Absalom's Command",
+          "reference": "13:28-29",
+          "why_start_end_and_devices": "Starts the order to the servants. Ends the sons fleeing on mules. Devices: Blood for blood—the sword in David's house."
         },
         {
-          "scene_number": 16,
+          "scene_number": 22,
+          "scene_name": "False Report: All the Sons Killed",
+          "reference": "13:30-33",
+          "why_start_end_and_devices": "Starts the rumor reaching David. Ends Jonadab's correction. Devices: Panic, then partial relief."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Only Amnon Dead; the Sons Return Weeping",
+          "reference": "13:34-36",
+          "why_start_end_and_devices": "Starts the watchman's sighting. Ends bitter weeping. Devices: Grief floods the palace."
+        },
+        {
+          "scene_number": 24,
           "scene_name": "Absalom's Flight",
           "reference": "13:37-39",
           "why_start_end_and_devices": "Starts with 'But Absalom fled, and went to Talmai...' (13:37). Ends with the narrative summarizing David's state: '...he was comforted concerning Amnon, seeing he was dead' (13:39). A concluding summary of the event. Absalom is in exile (like David once was), and David's grief for Amnon wanes, while his 'soul longed to go forth unto Absalom.' This sets the tension for the next chapter."
         },
         {
-          "scene_number": 17,
-          "scene_name": "Joab's Parable of the Woman of Tekoah",
-          "reference": "14:1-11",
-          "why_start_end_and_devices": "Starts with 'Now Joab the son of Zeruiah perceived that the king's heart was toward Absalom' (14:1). Ends with the king giving his oath to the woman (14:11). A parallel to Nathan's parable. Joab, the political operator, uses a 'wise woman' to trap David. The parable (v. 5-7) is designed to force David to make a judgment that will contradict his own actions (sparing a son who is a murderer)."
+          "scene_number": 25,
+          "scene_name": "Joab Sends the Wise Woman",
+          "reference": "14:1-3",
+          "why_start_end_and_devices": "Starts Joab perceiving the king's heart. Ends the scripted words. Devices: Indirect persuasion—a staged appeal."
         },
         {
-          "scene_number": 18,
+          "scene_number": 26,
+          "scene_name": "Her Plea for Her 'Surviving Son'",
+          "reference": "14:4-7",
+          "why_start_end_and_devices": "Starts the woman's tale of fratricide. Ends the avengers demanding her son. Devices: A parable mirroring Absalom's case."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "David Swears to Protect Her Son",
+          "reference": "14:8-11",
+          "why_start_end_and_devices": "Starts the king's reassurance. Ends the oath 'not a hair will fall.' Devices: David trapped by his own verdict."
+        },
+        {
+          "scene_number": 28,
           "scene_name": "The Woman Applies the Parable",
           "reference": "14:12-17",
           "why_start_end_and_devices": "Starts with 'Then the woman said, Let thine handmaid... speak...' (14:12). Ends with her flattering appeal concluding (14:17). The 'thou art the man' moment, but political, not theological. The woman (speaking for Joab) applies the parable to Absalom ('God doth devise means, that his banished be not expelled,' v. 14), appealing to David's mercy over his justice."
         },
         {
-          "scene_number": 19,
+          "scene_number": 29,
           "scene_name": "David Discerns Joab's Hand",
           "reference": "14:18-20",
           "why_start_end_and_devices": "Starts with 'Then the king answered...' (14:18). Ends with the woman confirming: '...thy servant Joab, he bade me...' (14:20). A brief scene showing David's insight. He sees through the plot to the plotter, Joab. The woman's final, flattering words (v. 20) confirm his political wisdom."
         },
         {
-          "scene_number": 20,
+          "scene_number": 30,
           "scene_name": "Joab Brings Absalom to Jerusalem",
           "reference": "14:21-24",
           "why_start_end_and_devices": "Starts with 'And the king said unto Joab...' (14:21). Ends with the cold homecoming: '...So Absalom... and saw not the king's face' (14:24). David capitulates but offers only a partial, halfway reconciliation. This act of 'mercy' is politically disastrous. By bringing Absalom back but refusing to see him, David creates a focal point for discontent and deepens his son's resentment."
         },
         {
-          "scene_number": 21,
+          "scene_number": 31,
           "scene_name": "Absalom's Description",
           "reference": "14:25-27",
           "why_start_end_and_devices": "Starts with 'But in all Israel there was none to be so much praised as Absalom...' (14:25). Ends with the list of his children (14:27). A narrative pause to describe the prince. The focus on his physical beauty and the weight of his hair (v. 26) explains his popular appeal. He is the physical ideal of a king, in contrast to his father's spiritual (though fallen) kingship."
         },
         {
-          "scene_number": 22,
+          "scene_number": 32,
           "scene_name": "Absalom Forces Joab's Hand",
           "reference": "14:28-32",
           "why_start_end_and_devices": "Starts with 'So Absalom dwelt two full years in Jerusalem...' (14:28). Ends with Absalom's message to Joab concluding (14:32). This scene shows Absalom's true character: impatient, manipulative, and violent. When Joab (his former ally) refuses to come, Absalom burns his barley field (v. 30). This act of coercion works, and Joab agrees to be his mediator."
         },
         {
-          "scene_number": 23,
+          "scene_number": 33,
           "scene_name": "The King's Cold Reconciliation",
           "reference": "14:33",
           "why_start_end_and_devices": "Starts with 'So Joab came to the king...' (14:33). Ends with '...the king kissed Absalom' (14:33). A single-verse scene that concludes the story. The kiss is a superficial gesture of peace. No words of repentance are spoken by Absalom; no words of true forgiveness by David. This false peace is the direct catalyst for the rebellion that begins in 15:1."
@@ -402,150 +576,240 @@
         },
         {
           "scene_number": 6,
-          "scene_name": "David and Hushai's Counter-Espionage",
-          "reference": "15:30-37",
-          "why_start_end_and_devices": "Starts with 'And David went up by the ascent of mount Olivet...' (15:30). Ends with 'So Hushai David's friend came into the city, and Absalom came...' (15:37). David, weeping and barefoot, is at his lowest. He hears of Ahithophel's defection and utters a desperate, key prayer: 'O LORD, I pray thee, turn the counsel of Ahithophel into foolishness' (v. 31). Hushai's arrival immediately after (v. 32) is the direct answer to that prayer."
+          "scene_name": "David Weeps Up Olivet; Ahithophel Defects",
+          "reference": "15:30-31",
+          "why_start_end_and_devices": "Starts the weeping ascent. Ends 'turn Ahithophel's counsel to foolishness.' Devices: A king in flight; a desperate prayer."
         },
         {
           "scene_number": 7,
+          "scene_name": "Hushai Sent Back as a Spy",
+          "reference": "15:32-37",
+          "why_start_end_and_devices": "Starts Hushai meeting David. Ends Hushai entering the city. Devices: The counter-espionage plan—answer to the prayer."
+        },
+        {
+          "scene_number": 8,
           "scene_name": "Ziba's Deception",
           "reference": "16:1-4",
           "why_start_end_and_devices": "Starts with 'And when David was a little past the top of the hill, behold, Ziba...' (16:1). Ends with David passing judgment: '...Behold, thine are all that pertained unto Mephibosheth' (16:4). The first of two encounters on the road. Ziba, Mephibosheth's servant, appears with provisions and, with a slanderous lie (v. 3), deceives the weary David. David, in his haste and distress, passes a rash judgment, transferring Mephibosheth's lands to Ziba."
         },
         {
-          "scene_number": 8,
-          "scene_name": "Shimei Curses David",
-          "reference": "16:5-14",
-          "why_start_end_and_devices": "Starts with 'And when king David came to Bahurim, behold, thence came out a man...' (16:5). Ends with 'And the king, and all the people... came weary, and refreshed themselves there' (16:14). The second encounter. Shimei (of Saul's house) curses David, pelting him with stones. Abishai's warrior impulse ('let me go over... take off his head,' v. 9) is rebuked by David. David's response (v. 11-12) is one of profound, penitent submission, seeing Shimei's curse as part of God's judgment for his sin."
+          "scene_number": 9,
+          "scene_name": "Shimei Curses and Throws Stones",
+          "reference": "16:5-8",
+          "why_start_end_and_devices": "Starts Shimei the Benjaminite. Ends 'man of blood.' Devices: Kicking the king when he is down."
         },
         {
-          "scene_number": 9,
+          "scene_number": 10,
+          "scene_name": "'Let Him Curse'; David's Restraint",
+          "reference": "16:9-14",
+          "why_start_end_and_devices": "Starts Abishai's offer to behead him. Ends arriving weary at the Jordan. Devices: 'Perhaps the LORD will repay good'—submission to providence."
+        },
+        {
+          "scene_number": 11,
           "scene_name": "Hushai Infiltrates Absalom's Court",
           "reference": "16:15-19",
           "why_start_end_and_devices": "Starts with 'And Absalom, and all the people... came to Jerusalem...' (16:15). Ends with Hushai convincing Absalom of his 'loyalty' (16:19). A scene of high-stakes deception. Hushai plays the part of a political turncoat. His ambiguous flattery ('God save the king,' v. 16; 'his will I be,' v. 18) convinces the vain Absalom."
         },
         {
-          "scene_number": 10,
+          "scene_number": 12,
           "scene_name": "Ahithophel's First Counsel (Public Humiliation)",
           "reference": "16:20-23",
           "why_start_end_and_devices": "Starts with 'Then said Absalom to Ahithophel, Give counsel...' (16:20). Ends with the narrative confirming Ahithophel's authority (16:23). Ahithophel's counsel to lie with David's concubines (v. 21) is satanic. It is a direct, public fulfillment of Nathan's prophecy (12:11), and it is politically designed to make the breach between David and Absalom irreparable."
         },
         {
-          "scene_number": 11,
+          "scene_number": 13,
           "scene_name": "Ahithophel's Second Counsel (Swift Pursuit)",
           "reference": "17:1-4",
           "why_start_end_and_devices": "Starts with 'Moreover Ahithophel said unto Absalom...' (17:1). Ends with 'And the saying pleased Absalom well, and all the elders...' (17:4). Ahithophel's military advice is brilliant: a swift, surgical strike against David alone ('smite the king only,' v. 2) while he is weary. This plan would have succeeded."
         },
         {
-          "scene_number": 12,
-          "scene_name": "Hushai's Counsel (Strategic Delay)",
-          "reference": "17:5-14",
-          "why_start_end_and_devices": "Starts with 'Then said Absalom, Call now Hushai...' (17:5). Ends with the fatal decision: 'And Absalom... said, The counsel of Hushai... is better...' (17:14). The decisive debate. Hushai masterfully plays on Absalom's vanity and fear of David's reputation. He paints a terrifying picture of David as a 'bear robbed of her whelps' (v. 8) and proposes a massive, slow, ceremonial army with Absalom personally leading (v. 11)—an appeal to vanity that gives David time. The narrator's theological conclusion (v. 14b) is key: 'For the LORD had appointed to defeat the good counsel of Ahithophel...'"
-        },
-        {
-          "scene_number": 13,
-          "scene_name": "Hushai's Warning and the Narrow Escape",
-          "reference": "17:15-22",
-          "why_start_end_and_devices": "Starts with 'Then said Hushai unto Zadok and to Abiathar...' (17:15). Ends with 'By the morning light there lacked not one of them that was not gone over Jordan' (17:22). A spy-thriller scene. The message is passed (v. 17), the messengers are spotted (v. 18), hidden by a woman in a well (v. 19), and the pursuers are deceived (v. 20). David receives the warning and makes the crucial night-crossing of the Jordan."
-        },
-        {
           "scene_number": 14,
+          "scene_name": "Hushai Argues for Delay",
+          "reference": "17:5-10",
+          "why_start_end_and_devices": "Starts Absalom calling Hushai. Ends 'all Israel knows your father is a fighter.' Devices: Flattery and fear used to misdirect."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'Gather All Israel'; the LORD Thwarts Ahithophel",
+          "reference": "17:11-14",
+          "why_start_end_and_devices": "Starts Hushai's grand alternative. Ends the LORD frustrating good counsel. Devices: Providence working through human persuasion."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Warning Sent; the Spies Nearly Caught",
+          "reference": "17:15-18",
+          "why_start_end_and_devices": "Starts Hushai's message to the priests. Ends the boy reporting them. Devices: A breathless relay of intelligence."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Hidden in the Well; David Crosses the Jordan",
+          "reference": "17:19-22",
+          "why_start_end_and_devices": "Starts the covered well. Ends all the people crossing by dawn. Devices: A woman's quick wit; narrow escape."
+        },
+        {
+          "scene_number": 18,
           "scene_name": "Ahithophel's Suicide",
           "reference": "17:23",
           "why_start_end_and_devices": "This one verse is a complete scene, a final coda to Ahithophel's story. Ahithophel, wise enough to see that Absalom's choice to follow Hushai's advice has doomed the rebellion, 'put his household in order, and hanged himself.' His suicide is a final, cold, and calculated act."
         },
         {
-          "scene_number": 15,
+          "scene_number": 19,
           "scene_name": "David Gathers at Mahanaim",
           "reference": "17:24-29",
           "why_start_end_and_devices": "Starts with 'Then David came to Mahanaim...' (17:24). Ends with the list of provisions concluding (17:29). The tide turns. While Absalom musters his army (v. 25-26), David is met with a flood of provisions from Barzillai and others (v. 27-29). The list of supplies shows that the land is providing for God's anointed, even in exile."
         },
         {
-          "scene_number": 16,
+          "scene_number": 20,
           "scene_name": "David Prepares for Battle",
           "reference": "18:1-5",
           "why_start_end_and_devices": "Starts with 'And David numbered the people...' (18:1). Ends with the king's final, fateful command: 'Deal gently for my sake with the young man, even with Absalom' (18:5). David organizes his veteran army under his three loyal generals (Joab, Abishai, Ittai). The people's refusal to let him go to battle (v. 3) shows their love and reverses the rebellion. The scene ends with David's heart-wrenching command, which places his generals in an impossible position: win the war, but spare the traitor-in-chief."
         },
         {
-          "scene_number": 17,
-          "scene_name": "The Battle and Death of Absalom",
-          "reference": "18:6-17",
-          "why_start_end_and_devices": "Starts with 'So the people went out into the field...' (18:6). Ends with 'And they took Absalom, and cast him into a great pit... and laid a very great heap of stones upon him' (18:17). The battle is decided by God: 'the wood devoured more people... than the sword' (v. 8). Absalom, whose 'goodly' appearance (ch 14) and long hair (14:26) were his pride, is 'caught by his head' (v. 9) and left suspended. Joab, defying the king's command, executes Absalom, ending the war. The 'heap of stones' (v. 17) is a burial for a criminal (cf. Achan, Josh. 7:26)."
+          "scene_number": 21,
+          "scene_name": "The Battle in the Forest of Ephraim",
+          "reference": "18:6-8",
+          "why_start_end_and_devices": "Starts the battle joined. Ends 'the forest devoured more than the sword.' Devices: The terrain itself fights."
         },
         {
-          "scene_number": 18,
+          "scene_number": 22,
+          "scene_name": "Absalom Caught in the Oak",
+          "reference": "18:9-13",
+          "why_start_end_and_devices": "Starts Absalom's hair (or head) in the branches. Ends the soldier's refusal to strike. Devices: The vain prince undone; the king's order remembered."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Joab Kills Absalom",
+          "reference": "18:14-17",
+          "why_start_end_and_devices": "Starts Joab's three darts. Ends the body in the pit. Devices: Ruthless Joab defies David's plea."
+        },
+        {
+          "scene_number": 24,
           "scene_name": "Absalom's Pillar",
           "reference": "18:18",
           "why_start_end_and_devices": "This is a one-verse parenthetical note by the narrator. This note contrasts the monument Absalom built for himself (to keep his 'name in remembrance') with the heap of stones he actually received. It is a final, ironic commentary on his vanity."
         },
         {
-          "scene_number": 19,
-          "scene_name": "The Messengers Race to David",
-          "reference": "18:19-27",
-          "why_start_end_and_devices": "Starts with 'Then said Ahimaaz the son of Zadok, Let me now run...' (18:19). Ends with the watchman identifying the runners (18:27). A scene of great suspense. Joab, knowing the news will be devastating, tries to stop Ahimaaz. The race between Ahimaaz (who knows only of the victory) and Cushi (who carries the full news) builds tension for the final revelation."
+          "scene_number": 25,
+          "scene_name": "Ahimaaz and the Cushite Race to David",
+          "reference": "18:19-23",
+          "why_start_end_and_devices": "Starts Ahimaaz begging to run. Ends outrunning the Cushite. Devices: Two messengers, one dreaded message."
         },
         {
-          "scene_number": 20,
+          "scene_number": 26,
+          "scene_name": "The Watchman Sees Them Coming",
+          "reference": "18:24-27",
+          "why_start_end_and_devices": "Starts David at the gate. Ends 'he is a good man, he brings good news.' Devices: Dramatic irony—the father awaits."
+        },
+        {
+          "scene_number": 27,
           "scene_name": "The King Receives the News",
           "reference": "18:28-33",
           "why_start_end_and_devices": "Starts with 'And Ahimaaz called, and said unto the king, All is well' (18:28). Ends with David's famous lament: '...O Absalom, my son, my son!' (18:33). The climax of the story. David's repeated, frantic question, 'Is the young man Absalom safe?' (v. 29, 32) shows his singular focus. When Cushi delivers the news, David's grief (v. 33) is one of the most powerful expressions of sorrow in all of literature."
         },
         {
-          "scene_number": 21,
+          "scene_number": 28,
+          "scene_name": "David Mourns Absalom",
+          "reference": "19:1-4",
+          "why_start_end_and_devices": "Starts the victory turned to grief. Ends 'O Absalom, my son!' Devices: A father's grief eclipsing a king's duty."
+        },
+        {
+          "scene_number": 29,
           "scene_name": "Joab Rebukes the King",
-          "reference": "19:1-8a",
-          "why_start_end_and_devices": "Starts with 'And it was told Joab, Behold, the king weepeth...' (19:1). Ends with 'Then the king arose, and sat in the gate' (19:8a). The victory is 'turned into mourning' (v. 2). Joab's rebuke (v. 5-7) is brutal, insubordinate, and absolutely necessary. He accuses David of loving his enemies and hating his friends, forcing the king to choose between his personal grief and his royal duty. David, subdued, obeys."
+          "reference": "19:5-8a",
+          "why_start_end_and_devices": "Starts Joab's blunt confrontation. Ends David sitting in the gate. Devices: Harsh, necessary counsel—'you love those who hate you.'"
         },
         {
-          "scene_number": 22,
-          "scene_name": "Israel and Judah Contend for the King",
-          "reference": "19:8b-15",
-          "why_start_end_and_devices": "Starts with '...and all the people came before the king' (19:8b). Ends with '...all the people of Judah, conducted the king, and also half the people of Israel' (19:15). A scene of political maneuvering. Israel is 'at strife' (v. 9), unsure what to do. David sends a message to Judah (his own tribe), 'Why are ye the last...?' (v. 11-12), and in a stunning political move, makes Amasa (Absalom's general) his new commander (v. 13). This secures Judah but alienates Joab."
+          "scene_number": 30,
+          "scene_name": "Israel Debates Bringing the King Back",
+          "reference": "19:8b-10",
+          "why_start_end_and_devices": "Starts the tribes' quarreling. Ends 'why say nothing about bringing the king back?' Devices: Political vacuum after the rebellion."
         },
         {
-          "scene_number": 23,
-          "scene_name": "Shimei Pardoned",
-          "reference": "19:16-23",
-          "why_start_end_and_devices": "Starts with 'And Shimei the son of Gera... hasted and came down...' (19:16). Ends with David sparing his life: 'Therefore the king said unto Shimei, Thou shalt not die' (19:23). The first of three 'tests' of the returning king. Shimei, who cursed David on his way out (16:5), is the first to greet him on his way in. Abishai again demands his death (v. 21). David's pardon (v. 22-23) is a public act of royal grace, though his 'last words' (1 Kings 2:8-9) will show its political nature."
+          "scene_number": 31,
+          "scene_name": "David Woos Judah; the Return Begins",
+          "reference": "19:11-15",
+          "why_start_end_and_devices": "Starts David appealing to Judah. Ends crossing back over the Jordan. Devices: Amasa appointed—reconciliation and shrewd politics."
         },
         {
-          "scene_number": 24,
-          "scene_name": "Mephibosheth's Plea",
-          "reference": "19:24-30",
-          "why_start_end_and_devices": "Starts with 'And Mephibosheth the son of Saul came down...' (19:24). Ends with Mephibosheth's submissive reply: '...yea, let him take all...' (19:30). The second test: adjudicating Ziba's claim (16:1-4). Mephibosheth presents his case. David's response ('Why speakest thou any more of thy matters? I have said, Thou and Ziba divide the land,' v. 29) is a hasty, weary, and perhaps unjust compromise. He does not fully reverse his rash judgment."
+          "scene_number": 32,
+          "scene_name": "Shimei Begs for Mercy",
+          "reference": "19:16-20",
+          "why_start_end_and_devices": "Starts Shimei hurrying down. Ends 'do not hold me guilty.' Devices: The curser now grovels."
         },
         {
-          "scene_number": 25,
-          "scene_name": "Barzillai's Farewell",
-          "reference": "19:31-40",
-          "why_start_end_and_devices": "Starts with 'And Barzillai the Gileadite came down...' (19:31). Ends with 'So the king returned... to Gilgal' (19:40). The third 'test': rewarding loyalty. Barzillai, who provided for David (17:27), is offered a place at court. His humble refusal on account of his age (v. 34-37) contrasts with the political jockeying of others. He sends Chimham in his place, and David accepts."
+          "scene_number": 33,
+          "scene_name": "David Spares Him",
+          "reference": "19:21-23",
+          "why_start_end_and_devices": "Starts Abishai's renewed demand. Ends the oath of pardon. Devices: A day of mercy, not vengeance."
         },
         {
-          "scene_number": 26,
+          "scene_number": 34,
+          "scene_name": "Mephibosheth's Mourning Explained",
+          "reference": "19:24-28",
+          "why_start_end_and_devices": "Starts his neglected appearance. Ends throwing himself on the king's mercy. Devices: Loyalty proven by grief."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "'Let Ziba Take It All'",
+          "reference": "19:29-30",
+          "why_start_end_and_devices": "Starts David's split ruling. Ends 'let him take it all.' Devices: Contentment over property—love for the king."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "David Invites Barzillai",
+          "reference": "19:31-34",
+          "why_start_end_and_devices": "Starts the aged benefactor. Ends 'why should the king repay me?' Devices: Gratitude offered to a faithful supporter."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "'Let Me Die in My Own Town'",
+          "reference": "19:35-37",
+          "why_start_end_and_devices": "Starts Barzillai's humble refusal. Ends commending Chimham. Devices: A poignant old man's contentment."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Chimham Goes in His Place",
+          "reference": "19:38-40",
+          "why_start_end_and_devices": "Starts the king's kiss and blessing. Ends the people escorting David. Devices: Kindness passed to the next generation."
+        },
+        {
+          "scene_number": 39,
           "scene_name": "The Breach Between Israel and Judah",
           "reference": "19:41-43",
           "why_start_end_and_devices": "Starts with 'And, behold, all the men of Israel came to the king...' (19:41). Ends with 'And the words of the men of Judah were fiercer than the words of the men of Israel' (19:43). The celebration of the king's return immediately sours. A tribal dispute over who has more right to David (Israel's 'ten parts' vs. Judah's kinship) shows the fragility of the union. Judah's 'fierce' words set the stage for the next rebellion."
         },
         {
-          "scene_number": 27,
+          "scene_number": 40,
           "scene_name": "Sheba's Rebellion",
           "reference": "20:1-3",
           "why_start_end_and_devices": "Starts with 'And there happened to be there a man of Belial, whose name was Sheba...' (20:1). Ends with David dealing with his concubines (20:3). The direct result of 19:43. Sheba, a Benjamite, exploits the tribal rift ('We have no part in David,' v. 1). The men of Israel immediately forsake David for Sheba. The scene ends with David's final, tragic act of the rebellion: isolating the ten concubines defiled by Absalom, 'shut up unto the day of their death.'"
         },
         {
-          "scene_number": 28,
-          "scene_name": "Joab Murders Amasa",
-          "reference": "20:4-13",
-          "why_start_end_and_devices": "Starts with 'Then said the king to Amasa, Assemble me the men of Judah...' (20:4). Ends with '...and he died... and Joab and Abishai... pursued after Sheba' (20:10-13). Joab, having been replaced by Amasa (19:13), takes his revenge. Amasa's delay (v. 5) gives Joab the opportunity. The murder is grotesquely graphic (v. 10), mirroring Abner's murder. Joab, stained with blood, calmly re-assumes command of the army."
+          "scene_number": 41,
+          "scene_name": "Amasa Delays; Joab's Hidden Dagger",
+          "reference": "20:4-8",
+          "why_start_end_and_devices": "Starts the muster against Sheba. Ends the meeting at the great stone. Devices: Suspense—Joab's concealed weapon."
         },
         {
-          "scene_number": 29,
-          "scene_name": "The Defeat of Sheba",
-          "reference": "20:14-22",
-          "why_start_end_and_devices": "Starts with 'And he went through all the tribes of Israel...' (20:14). Ends with 'So Joab returned to Jerusalem unto the king' (20:22). The rebellion ends, not by Joab's military might, but by the 'wise woman' of Abel (v. 16), who, like the woman of Tekoah, negotiates for her city. She has Sheba's head thrown over the wall, ending the revolt."
+          "scene_number": 42,
+          "scene_name": "Joab Murders Amasa on the Road",
+          "reference": "20:9-13",
+          "why_start_end_and_devices": "Starts the false kiss. Ends the body dragged from the road. Devices: Treachery repeated; Joab eliminates a rival."
         },
         {
-          "scene_number": 30,
+          "scene_number": 43,
+          "scene_name": "Sheba Besieged at Abel; the Wise Woman",
+          "reference": "20:14-18",
+          "why_start_end_and_devices": "Starts the siege and ramp. Ends 'let them ask at Abel.' Devices: A wise woman intervenes to save a city."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Sheba's Head Thrown Over the Wall",
+          "reference": "20:19-22",
+          "why_start_end_and_devices": "Starts her negotiation. Ends the rebellion ended. Devices: One head for a whole city—pragmatic wisdom."
+        },
+        {
+          "scene_number": 45,
           "scene_name": "David's Cabinet Restored",
           "reference": "20:23-26",
           "why_start_end_and_devices": "This is a formal list. This scene provides the inclusio for the entire rebellion arc (ch 15-20). By mirroring the list of 8:15-18, the narrator signals that the kingdom is finally, after all the bloodshed, back in order. The 'sword' in David's house has been temporarily sheathed."
@@ -566,81 +830,177 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "(A) Atonement for Saul's Sin (Rizpah's Vigil)",
-          "reference": "21:7-14",
-          "why_start_end_and_devices": "Starts with David sparing Mephibosheth (21:7). Ends with '...And after that God was intreated for the land' (21:14). The resolution of the famine. David gives over seven of Saul's sons. The scene is dominated by the powerful, tragic image of Rizpah (Saul's concubine) protecting the bodies of her sons (v. 10). This act of devotion shames David into giving all of Saul's house a proper burial."
+          "scene_name": "(A) Rizpah Guards the Bodies",
+          "reference": "21:7-10",
+          "why_start_end_and_devices": "Starts sparing Mephibosheth. Ends Rizpah's vigil on the rock. Devices: A mother's devotion through harvest to rain."
         },
         {
           "scene_number": 3,
+          "scene_name": "(A) The Bones of Saul and Jonathan Buried",
+          "reference": "21:11-14",
+          "why_start_end_and_devices": "Starts David hearing of Rizpah. Ends 'God answered prayer for the land.' Devices: Honoring the dead ends the famine."
+        },
+        {
+          "scene_number": 4,
           "scene_name": "(B) Battles with the Giants (I)",
           "reference": "21:15-17",
           "why_start_end_and_devices": "Starts with 'Moreover the Philistines had yet war again...' (21:15). Ends with David saved by Abishai, and his men forbidding him from fighting (21:17). The first part of the 'B' frame (heroes' exploits). This scene highlights David's vulnerability ('David waxed faint,' v. 15) and his dependence on his men. He is rescued by Abishai from a giant."
         },
         {
-          "scene_number": 4,
+          "scene_number": 5,
           "scene_name": "(B) Battles with the Giants (II)",
           "reference": "21:18-22",
           "why_start_end_and_devices": "Starts with 'And it came to pass after this...' (21:18). Ends with the list of giant-slayers concluding (21:22). A summary list of three more victories over giants, attributed not to David, but to his men (Sibbechai, Elhanan, Jonathan). This completes the 'B' element, focusing on the exploits of the heroes."
         },
         {
-          "scene_number": 5,
-          "scene_name": "(C) David's Song of Deliverance (Psalm 18) (Part 1: The Deliverance)",
-          "reference": "22:1-20",
-          "why_start_end_and_devices": "Starts with 'And David spake unto the LORD the words of this song...' (22:1). Ends with 'He brought me forth also into a large place...' (22:20). The 'C' center of the chiasm. This is a complete psalm (Psalm 18). This first scene break is at a natural selah (pause) in the poem, concluding the description of God's dramatic, warlike intervention."
-        },
-        {
           "scene_number": 6,
-          "scene_name": "(C) David's Song (Part 2: The Covenantal Righteousness)",
-          "reference": "22:21-30",
-          "why_start_end_and_devices": "Starts with 'The LORD rewarded me according to my righteousness...' (22:21). Ends with 'For by thee I have run through a troop: by my God have I leaped over a wall' (22:30). The second part of the psalm. This section is a theological reflection on God's hesed (covenant faithfulness) and His deliverance of the righteous (David). This is the idealized David, the man after God's heart."
+          "scene_name": "(C) 'The LORD Is My Rock and Fortress'",
+          "reference": "22:1-4",
+          "why_start_end_and_devices": "Starts the song's superscription. Ends 'I am saved from my enemies.' Devices: A cascade of metaphors for refuge."
         },
         {
           "scene_number": 7,
-          "scene_name": "(C) David's Song (Part 3: The Warlike Power)",
-          "reference": "22:31-41",
-          "why_start_end_and_devices": "Starts with 'As for God, his way is perfect...' (22:31). Ends with '...that I might destroy them that hate me' (22:41). The third part of the psalm. Here David attributes his military prowess entirely to God ('It is God that girdeth me with strength,' v. 33; 'Thou hast also given me the shield of thy salvation,' v. 36)."
+          "scene_name": "(C) 'In My Distress I Called'",
+          "reference": "22:5-7",
+          "why_start_end_and_devices": "Starts the waves of death. Ends 'my cry reached his ears.' Devices: Sheol imagery; answered prayer."
         },
         {
           "scene_number": 8,
-          "scene_name": "(C) David's Song (Part 4: The Final Victory)",
-          "reference": "22:42-51",
-          "why_start_end_and_devices": "Starts with 'They looked, but there was none to save...' (22:42). Ends with the psalm concluding (22:51). The final section of the psalm. It describes total victory over all enemies, both foreign ('strangers,' v. 45-46) and domestic. It ends by praising God, who shows mercy to 'his anointed, unto David, and to his seed for evermore' (v. 51), echoing the Davidic Covenant."
+          "scene_name": "(C) The LORD Descends in Storm",
+          "reference": "22:8-12",
+          "why_start_end_and_devices": "Starts the earth quaking. Ends thick clouds his canopy. Devices: Theophany—God rides the cherubim."
         },
         {
           "scene_number": 9,
-          "scene_name": "(C') David's Last Words",
-          "reference": "23:1-7",
-          "why_start_end_and_devices": "Starts with 'Now these be the last words of David...' (23:1). Ends with the oracle concluding (23:7). The 'C'' center of the chiasm. This is David's final prophetic oracle. It contrasts the 'ruler... that ruleth in the fear of God' (v. 3-4) with the 'sons of Belial' (v. 6). It is his final reflection on the 'everlasting covenant' (v. 5) that God made with his 'house.'"
+          "scene_name": "(C) Thunder and the Sea Laid Bare",
+          "reference": "22:13-16",
+          "why_start_end_and_devices": "Starts lightning bolts. Ends the foundations of the world exposed. Devices: Cosmic rescue imagery."
         },
         {
           "scene_number": 10,
-          "scene_name": "(B') The Three Mighty Men",
-          "reference": "23:8-17",
-          "why_start_end_and_devices": "Starts with 'These be the names of the mighty men...' (23:8). Ends with '...These things did these three mighty men' (23:17). The first part of the 'B'' frame (heroes' exploits), mirroring 21:15-22. This section lists the 'first three' and includes the famous narrative of their loyalty in fetching water from Bethlehem—a story of their devotion to David."
+          "scene_name": "(C) 'He Drew Me Out of Deep Waters'",
+          "reference": "22:17-20",
+          "why_start_end_and_devices": "Starts the reach from on high. Ends 'he delighted in me.' Devices: Deliverance grounded in God's favor."
         },
         {
           "scene_number": 11,
-          "scene_name": "(B') The Thirty Mighty Men",
-          "reference": "23:18-39",
-          "why_start_end_and_devices": "Starts with 'And Abishai... was chief among three...' (23:18). Ends with the list concluding with 'Uriah the Hittite: thirty and seven in all' (23:39). The second part of the 'B'' frame. It lists Abishai, Benaiah, and 'the thirty.' The list's conclusion is a stunning, tragic, and intentional literary device: the final name is 'Uriah the Hittite,' the man David murdered. This list subtly reminds the reader of the sin that defines the book's tragedy."
+          "scene_name": "(C) Rewarded According to Righteousness",
+          "reference": "22:21-25",
+          "why_start_end_and_devices": "Starts 'the LORD rewarded me.' Ends 'according to my cleanness.' Devices: Covenant integrity affirmed."
         },
         {
           "scene_number": 12,
-          "scene_name": "(A') David's Sinful Census",
-          "reference": "24:1-9",
-          "why_start_end_and_devices": "Starts with 'And again the anger of the LORD was kindled... and he moved David...' (24:1; note 'Satan' in 1 Chron. 21:1). Ends with Joab delivering the numbers (24:9). The first part of the 'A'' frame (David's sin), mirroring 21:1 (Saul's sin). David's sin is pride and military self-reliance. Even Joab, a murderer, knows this is a sin ('Joab... said, Now the LORD... add... an hundredfold... but why doth my lord the king delight in this thing?', v. 3)."
+          "scene_name": "(C) 'With the Faithful You Show Yourself Faithful'",
+          "reference": "22:26-30",
+          "why_start_end_and_devices": "Starts the character of God toward each. Ends 'I can leap a wall.' Devices: God matches the heart he meets."
         },
         {
           "scene_number": 13,
+          "scene_name": "(C) 'God Arms Me with Strength'",
+          "reference": "22:31-35",
+          "why_start_end_and_devices": "Starts 'his way is perfect.' Ends 'trains my hands for battle.' Devices: The warrior empowered by God."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "(C) 'You Made My Enemies Turn Their Backs'",
+          "reference": "22:36-41",
+          "why_start_end_and_devices": "Starts the shield of salvation. Ends the foes destroyed. Devices: Victory attributed wholly to God."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "(C) 'They Looked, but None Saved Them'",
+          "reference": "22:42-46",
+          "why_start_end_and_devices": "Starts the cry of the defeated. Ends foreigners cringing. Devices: Total triumph over enemies."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "(C) 'The LORD Lives; Blessed Be My Rock'",
+          "reference": "22:47-51",
+          "why_start_end_and_devices": "Starts the doxology. Ends 'to David and his offspring forever.' Devices: The song closes on the covenant promise."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "(C') 'The Last Words of David'",
+          "reference": "23:1-4",
+          "why_start_end_and_devices": "Starts 'the oracle of David.' Ends a ruler like morning light. Devices: The Spirit-inspired king's testament."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "(C') 'An Everlasting Covenant'",
+          "reference": "23:5-7",
+          "why_start_end_and_devices": "Starts 'is not my house right with God?' Ends the worthless thrown away like thorns. Devices: Confidence in the covenant amid failure."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "(B') The Three Mighty Men's Exploits",
+          "reference": "23:8-12",
+          "why_start_end_and_devices": "Starts Josheb and Eleazar. Ends Shammah holding the field. Devices: Heroic feats—the LORD wrought victory."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "(B') The Water from Bethlehem's Well",
+          "reference": "23:13-17",
+          "why_start_end_and_devices": "Starts the longing for water. Ends David pouring it out to the LORD. Devices: Reverence for the blood-risk of his men."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "(B') Abishai and Benaiah",
+          "reference": "23:18-23",
+          "why_start_end_and_devices": "Starts Abishai's three hundred. Ends Benaiah over the guard. Devices: The lion in the pit; the Egyptian's spear."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "(B') The Thirty (1)",
+          "reference": "23:24-29",
+          "why_start_end_and_devices": "Starts Asahel. Ends Heleb son of Baanah. Devices: The honor roll of David's warriors."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "(B') The Thirty (2)",
+          "reference": "23:30-35",
+          "why_start_end_and_devices": "Starts Benaiah the Pirathonite. Ends Hezro the Carmelite. Devices: The roster continues."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "(B') The Thirty (3); Uriah the Hittite",
+          "reference": "23:36-39",
+          "why_start_end_and_devices": "Starts Igal. Ends 'Uriah the Hittite—thirty-seven in all.' Devices: A quiet, damning final name."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "(A') David Orders a Census",
+          "reference": "24:1-4",
+          "why_start_end_and_devices": "Starts the LORD's anger; David incited. Ends Joab's objection overruled. Devices: Pride numbering the army—trust misplaced."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "(A') The Count: Israel and Judah",
+          "reference": "24:5-9",
+          "why_start_end_and_devices": "Starts the nine-month survey. Ends the totals reported. Devices: The fateful tally completed."
+        },
+        {
+          "scene_number": 27,
           "scene_name": "(A') The Prophet's Choice of Judgment",
           "reference": "24:10-14",
           "why_start_end_and_devices": "Starts with 'And David's heart smote him...' (24:10). Ends with David's choice: '...let us fall now into the hand of the LORD; for his mercies are great...' (24:14). David's repentance is immediate. The prophet Gad offers three choices (famine, war, plague). David's choice to fall into God's hand rather than man's hand shows his restored faith, in contrast to his earlier fears (e.g., his flight to Gath)."
         },
         {
-          "scene_number": 14,
-          "scene_name": "(A') The Plague and the Threshing Floor",
-          "reference": "24:15-25",
-          "why_start_end_and_devices": "Starts with 'So the LORD sent a pestilence...' (24:15). Ends with 'So the LORD was intreated for the land, and the plague was stayed from Israel' (24:25). The resolution of the 'A'' frame. The plague is stayed at the 'threshingfloor of Araunah' (v. 16). David's intercession (v. 17) shows his shepherd heart ('I have sinned... but these sheep, what have they done?'). He refuses to offer a sacrifice that 'cost me nothing' (v. 24), buys the threshing floor, and makes atonement. This site, bought with a price to atone for sin, becomes the site of Solomon's Temple, the book's final, hopeful look to the future."
+          "scene_number": 28,
+          "scene_name": "(A') The Plague; 'I Have Sinned'",
+          "reference": "24:15-17",
+          "why_start_end_and_devices": "Starts the pestilence. Ends 'let your hand be against me.' Devices: The shepherd pleads for his sheep."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "(A') The Threshing Floor of Araunah",
+          "reference": "24:18-21",
+          "why_start_end_and_devices": "Starts Gad's command. Ends Araunah's offer. Devices: The site of future temple worship revealed."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "(A') 'I Will Not Offer What Costs Me Nothing'",
+          "reference": "24:22-25",
+          "why_start_end_and_devices": "Starts the free gift declined. Ends the plague stopped. Devices: True sacrifice must cost—the altar that becomes the temple mount."
         }
       ]
     }

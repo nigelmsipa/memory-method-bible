@@ -10,27 +10,240 @@
       "why_start_end_and_literary_glue": "This unit forms a complete narrative arc detailing the transition from corrupt priesthood (Eli) to faithful judgeship (Samuel). Begins with Hannah's barrenness and vow (the classic biblical pattern for divinely-appointed leader). Follows Samuel's birth, establishment as prophet, and simultaneous decline/judgment of Eli's house. The narrative hinge is the capture and return of the Ark (symbolizing departure and return of God's glory). Opens with 'There was a certain man of Ramathaim-zophim...'—standard narrative introduction. Closes with 'his return was to Ramah...and there he built an altar'—perfect inclusio returning to Ramah (1:1, 19). Primary literary glue is stark contrast between Samuel and Eli's sons (Hophni & Phinehas): explicitly stated in 2:12-17 vs. 2:18-21, and 2:22-25 vs. 2:26. The phrase 'the word of the LORD was rare' (3:1) resolved by 'Samuel was established as a prophet' (3:20).",
       "reference": "1:1-7:17",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Hannah's Vexation and Vow", "reference": "1:1-11", "why_start_end_and_devices": "Opens with classic narrative setup 'There was a certain man...' establishing the central problem (barrenness) and personal conflict (Hannah vs. Peninnah). Setting at feast in Shiloh introduces the sanctuary, central to the story. Scene ends on climax of Hannah's personal anguish: her vow. The 'vow' structure is a classic literary device for introducing divinely-appointed leaders."},
-        {"scene_number": 2, "scene_name": "Eli's Misjudgment and Hannah's Blessing", "reference": "1:12-18", "why_start_end_and_devices": "New actor (Eli) observes and intervenes. Contrasts Eli's poor spiritual perception (seeing drunkenness) with Hannah's true piety. Scene is dialogue and resolution, ending with key narrative turn: 'her face was no longer sad.'"},
-        {"scene_number": 3, "scene_name": "The Birth and Dedication of Samuel", "reference": "1:19-28", "why_start_end_and_devices": "Shows fulfillment of vow from previous scene. Key literary device is wordplay on Samuel's name (Shawl me'El, 'asked of God'). Ends with Samuel left at sanctuary, setting stage for his childhood."},
-        {"scene_number": 4, "scene_name": "Hannah's Prophetic Song", "reference": "2:1-10", "why_start_end_and_devices": "Self-contained poetic unit: 'And Hannah prayed and said...' Song concludes with prophetic look to 'his king' and 'his anointed.' This song is thematic core of 1 & 2 Samuel, introducing the 'great reversal' theme (lowly exalted, mighty brought low) that defines Samuel, Saul, and David. Functions as overture for entire book."},
-        {"scene_number": 5, "scene_name": "The Contrast: Eli's Sons vs. Samuel", "reference": "2:11-21", "why_start_end_and_devices": "Narrative summary 'Elkanah went... The boy ministered...' introduces deliberate diptych structure: Panel 1 (vv. 12-17) wickedness of Eli's sons; Panel 2 (vv. 18-21) faithfulness of child Samuel. Ends with 'Samuel grew before the LORD,' heightening contrast."},
-        {"scene_number": 6, "scene_name": "Eli's Ineffective Rebuke and Samuel's Growth", "reference": "2:22-26", "why_start_end_and_devices": "New time marker 'Now Eli was very old...' Scene of failed authority. Eli's rebuke is correct but ineffectual ('they would not listen'). Climaxes with ominous note 'the LORD desired to put them to death.' Ends with contrast: Samuel's growth heightens tension."},
-        {"scene_number": 7, "scene_name": "The Prophecy Against the House of Eli", "reference": "2:27-36", "why_start_end_and_devices": "New speaker 'a man of God came to Eli...' Single, uninterrupted speech of judgment. Signals shift in divine authority from priesthood to prophets. First formal oracle of judgment in the narrative."},
-        {"scene_number": 8, "scene_name": "The Prophetic Call of Samuel", "reference": "3:1-14", "why_start_end_and_devices": "Key thematic statement 'the word of the LORD was rare...' marks story's turning point. Repetition of call (three times) builds suspense, emphasizes Eli's inability to 'see' or 'hear' God while boy Samuel does. Setting 'before the lamp of God went out' symbolizes flickering state of God's presence under Eli."},
-        {"scene_number": 9, "scene_name": "Samuel's First Prophetic Task", "reference": "3:15-18", "why_start_end_and_devices": "Samuel lay until morning...' New prophet must deliver judgment to old priest. Scene of intense dialogue and tension. Ends with Eli's complete, fatalistic submission 'It is the LORD. Let him do what seems good to him.'"},
-        {"scene_number": 10, "scene_name": "Samuel Established as Prophet", "reference": "3:19-4:1a", "why_start_end_and_devices": "Summary of Samuel's growth 'And Samuel grew...' resolves problem from 3:1 (word was rare). States Samuel established prophet from 'Dan to Beersheba' (all Israel). 4:1a acts as hinge connecting to next story."},
-        {"scene_number": 11, "scene_name": "The Ark Is Captured", "reference": "4:1b-11", "why_start_end_and_devices": "Narrative shift to new event 'Now Israel went out to battle...' Fulfillment of prophecy against Eli's house begins. People's superstition (using ark as 'talisman') contrasted with God's holiness. Scene ends catastrophically marked by repetition of bad news, culminating in ark's capture."},
-        {"scene_number": 12, "scene_name": "The Death of Eli", "reference": "4:12-18", "why_start_end_and_devices": "Messenger 'ran from the battle line...' builds tension as bad news delivered in stages, but Eli only reacts to ultimate loss: the ark. His death symbolizes end of failed judgeship."},
-        {"scene_number": 13, "scene_name": "The Birth of Ichabod", "reference": "4:19-22", "why_start_end_and_devices": "Narrative shifts to Phinehas's wife. Dying, repeated words 'The glory has departed...' provide thematic name for entire disaster. Repetition serves as epitaph for house of Eli."},
-        {"scene_number": 14, "scene_name": "The Ark in Ashdod: Dagon Falls", "reference": "5:1-5", "why_start_end_and_devices": "Narrative shifts to Philistines 'When the Philistines captured the ark...' Scene of profound irony: victors defeated by their 'prize.' Structured in two days: Day 1 Dagon falls; Day 2 he falls again and is broken. Ends with etiological note explaining custom."},
-        {"scene_number": 15, "scene_name": "The Ark Afflicts Gath and Ekron", "reference": "5:6-12", "why_start_end_and_devices": "'The hand of the LORD was heavy upon the people...' Shows 'glory' now 'heavy hand' on Philistines. Ark moves city to city, panic escalates from tumors to 'deadly panic.' Narrative escalation emphasizes God's power."},
-        {"scene_number": 16, "scene_name": "The Philistines' Plan to Return the Ark", "reference": "6:1-9", "why_start_end_and_devices": "New time/event marker 'The ark of the LORD was in the country...seven months.' Scene of consultation where heathen priests show better sense of God's holiness than Israel did in Ch. 4. Builds tension by proposing test (milk cows)."},
-        {"scene_number": 17, "scene_name": "The Ark Returns to Beth-shemesh", "reference": "6:10-18", "why_start_end_and_devices": "'The men did so...' Plan executed. Climax of test with repetition of cows 'lowing as they went' emphasizes miraculous nature. Scene resolves with Israelites' joy and sacrifice."},
-        {"scene_number": 18, "scene_name": "The Ark at Kiriath-jearim", "reference": "6:19-7:2", "why_start_end_and_devices": "New tragedy 'And he struck some of the men of Beth-shemesh...' Shows God's holiness dangerous for anyone irreverent, not just Philistines. Question 'Who is able to stand before this holy LORD God?' is key question. Scene ends with ark finding long-term home (20 years) and Israel finally repenting."},
-        {"scene_number": 19, "scene_name": "Samuel's Call to Repentance at Mizpah", "reference": "7:3-6", "why_start_end_and_devices": "Narrative refocuses on Samuel 'And Samuel said to all the house of Israel...' Direct result of 7:2 lamenting. Scene of national covenant renewal with Samuel (prophet) presiding, replacing Eli (priest)."},
-        {"scene_number": 20, "scene_name": "The Battle of Ebenezer and Victory", "reference": "7:7-12", "why_start_end_and_devices": "Philistine reaction 'When the Philistines heard...' leads to Israel being 'closed in' then providentially saved. God's thunder routes enemy. Naming of 'Ebenezer' (Stone of Help) concludes victory. Chiastic counterpart to battle in 4:1 where Israel trusted ark and lost; here they trust God and win."},
-        {"scene_number": 21, "scene_name": "The Judgeship of Samuel (Summary)", "reference": "7:13-17", "why_start_end_and_devices": "Concluding summary 'So the Philistines were subdued...' Describes peace brought by Samuel's leadership. Inclusio with Ramah (v. 17) returns to birthplace (1:1), formally closing the 7-chapter arc."}
+        {
+          "scene_number": 1,
+          "scene_name": "Elkanah's Two Wives; Yearly Worship at Shiloh",
+          "reference": "1:1-3",
+          "why_start_end_and_devices": "Starts with Elkanah of Ramah. Ends the yearly sacrifice; Hophni and Phinehas named. Devices: A barren wife (Hannah)—the biblical pattern of miraculous birth begins."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Hannah's Provocation and Grief",
+          "reference": "1:4-8",
+          "why_start_end_and_devices": "Starts the portions at the feast. Ends Elkanah's 'am I not more to you than ten sons?' Devices: Peninnah's taunting; Hannah's bitter weeping."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Hannah's Vow at the Temple",
+          "reference": "1:9-11",
+          "why_start_end_and_devices": "Starts Hannah rising to pray. Ends the Nazirite vow. Devices: 'If you give me a son, I will give him to the LORD.'"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Eli Mistakes Her Prayer for Drunkenness",
+          "reference": "1:12-14",
+          "why_start_end_and_devices": "Starts her lips moving silently. Ends Eli's rebuke. Devices: Misjudgment by the priest—Eli's failing discernment."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Hannah Explains; Eli Blesses Her",
+          "reference": "1:15-18",
+          "why_start_end_and_devices": "Starts her defense. Ends 'she was no longer downcast.' Devices: Faith that lifts the face; Eli's blessing."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Samuel Born; 'Asked of the LORD'",
+          "reference": "1:19-23",
+          "why_start_end_and_devices": "Starts the LORD remembering Hannah. Ends weaning the child. Devices: The naming etymology; vow honored."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Samuel Dedicated at Shiloh",
+          "reference": "1:24-28",
+          "why_start_end_and_devices": "Starts bringing the boy to Eli. Ends 'he worshiped the LORD there.' Devices: 'For this child I prayed'—the gift given back."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Hannah's Song: 'My Heart Rejoices'",
+          "reference": "2:1-3",
+          "why_start_end_and_devices": "Starts her exultation. Ends 'by him deeds are weighed.' Devices: A hymn echoed later by Mary's Magnificat."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The LORD Reverses Fortunes",
+          "reference": "2:4-8",
+          "why_start_end_and_devices": "Starts the bows of the mighty broken. Ends raising the poor to thrones. Devices: The great reversal—God lifts the lowly."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "He Will Judge the Earth; Exalt His King",
+          "reference": "2:9-10",
+          "why_start_end_and_devices": "Starts 'he guards the feet of his faithful.' Ends 'exalt the horn of his anointed.' Devices: A prophetic 'king/anointed' before there is one."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Sin of Eli's Sons",
+          "reference": "2:11-14",
+          "why_start_end_and_devices": "Starts Samuel ministering. Ends the priests' greedy custom. Devices: Contrast—Samuel serves while Eli's sons exploit."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "They Treat the LORD's Offering with Contempt",
+          "reference": "2:15-17",
+          "why_start_end_and_devices": "Starts seizing the fat. Ends 'they treated the LORD's offering with contempt.' Devices: Sacrilege weighed as 'very great sin.'"
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Samuel Ministers; Hannah's Yearly Robe",
+          "reference": "2:18-21",
+          "why_start_end_and_devices": "Starts the linen ephod. Ends Hannah bearing more children. Devices: Faithful Samuel rewarded; Hannah blessed."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Eli's Ineffective Rebuke and Samuel's Growth",
+          "reference": "2:22-26",
+          "why_start_end_and_devices": "New time marker 'Now Eli was very old...' Scene of failed authority. Eli's rebuke is correct but ineffectual ('they would not listen'). Climaxes with ominous note 'the LORD desired to put them to death.' Ends with contrast: Samuel's growth heightens tension."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "A Man of God Confronts Eli",
+          "reference": "2:27-30",
+          "why_start_end_and_devices": "Starts the unnamed prophet. Ends 'those who honor me I will honor.' Devices: The principle of honor and contempt stated."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Your House Cut Off; a Faithful Priest Promised",
+          "reference": "2:31-36",
+          "why_start_end_and_devices": "Starts the judgment on Eli's line. Ends the 'faithful priest' foretold. Devices: Both sons to die in one day—a sign."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "'Samuel!'—the Voice in the Night",
+          "reference": "3:1-5",
+          "why_start_end_and_devices": "Starts 'the word of the LORD was rare.' Ends Samuel running to Eli. Devices: The lamp not yet gone out; the call mistaken."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "'Speak, LORD, Your Servant Hears'",
+          "reference": "3:6-9",
+          "why_start_end_and_devices": "Starts the repeated call. Ends Eli's instruction. Devices: The threefold call; learning to listen to God."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Judgment Pronounced on Eli's House",
+          "reference": "3:10-14",
+          "why_start_end_and_devices": "Starts the LORD standing and calling. Ends the irrevocable judgment. Devices: 'I am about to do a thing'—the dreaded word."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Samuel's First Prophetic Task",
+          "reference": "3:15-18",
+          "why_start_end_and_devices": "Samuel lay until morning...' New prophet must deliver judgment to old priest. Scene of intense dialogue and tension. Ends with Eli's complete, fatalistic submission 'It is the LORD. Let him do what seems good to him.'"
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Samuel Established as Prophet",
+          "reference": "3:19-4:1a",
+          "why_start_end_and_devices": "Summary of Samuel's growth 'And Samuel grew...' resolves problem from 3:1 (word was rare). States Samuel established prophet from 'Dan to Beersheba' (all Israel). 4:1a acts as hinge connecting to next story."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Israel Defeated; the Ark Sent For",
+          "reference": "4:1b-4",
+          "why_start_end_and_devices": "Starts the battle at Ebenezer. Ends bringing the ark from Shiloh. Devices: Treating the ark as a magic talisman—false confidence."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Philistines Terrified, Then Take Courage",
+          "reference": "4:5-9",
+          "why_start_end_and_devices": "Starts Israel's shout. Ends 'be men, and fight.' Devices: Fear of 'the gods,' then resolve—dramatic tension."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Ark Captured; Hophni and Phinehas Die",
+          "reference": "4:10-11",
+          "why_start_end_and_devices": "Starts the great slaughter. Ends the ark taken and the two sons dead. Devices: The prophecy of 2:34 fulfilled in a day."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The News Reaches Eli",
+          "reference": "4:12-15",
+          "why_start_end_and_devices": "Starts the runner from the battle. Ends Eli waiting, heart trembling. Devices: Suspense—the blind old priest by the road."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Eli Falls and Dies",
+          "reference": "4:16-18",
+          "why_start_end_and_devices": "Starts the report. Ends Eli's neck broken at 'the ark is captured.' Devices: Grief over the ark, not just his sons—and the dynasty ends."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Birth of Ichabod",
+          "reference": "4:19-22",
+          "why_start_end_and_devices": "Narrative shifts to Phinehas's wife. Dying, repeated words 'The glory has departed...' provide thematic name for entire disaster. Repetition serves as epitaph for house of Eli."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Ark in Ashdod: Dagon Falls",
+          "reference": "5:1-5",
+          "why_start_end_and_devices": "Narrative shifts to Philistines 'When the Philistines captured the ark...' Scene of profound irony: victors defeated by their 'prize.' Structured in two days: Day 1 Dagon falls; Day 2 he falls again and is broken. Ends with etiological note explaining custom."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Tumors Strike Ashdod and Gath",
+          "reference": "5:6-9",
+          "why_start_end_and_devices": "Starts the LORD's heavy hand. Ends the panic at Gath. Devices: The captured ark proves no trophy—plague follows it."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Ekron Cries Out",
+          "reference": "5:10-12",
+          "why_start_end_and_devices": "Starts the ark sent to Ekron. Ends the cry going up to heaven. Devices: 'Send it away'—the Philistines desperate to be rid of it."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "The Philistines Plan a Guilt Offering",
+          "reference": "6:1-6",
+          "why_start_end_and_devices": "Starts seven months of plague. Ends 'why harden your hearts as Egypt did?' Devices: Pagan priests counsel restitution—golden tumors and mice."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Test of the Two Cows",
+          "reference": "6:7-9",
+          "why_start_end_and_devices": "Starts the new cart and milk cows. Ends 'we will know it was chance.' Devices: A test of providence—will the cows leave their calves?"
+        },
+        {
+          "scene_name": "The Cows Go Straight to Beth-shemesh",
+          "reference": "6:10-14",
+          "why_start_end_and_devices": "Starts the cows taking the road. Ends the cart at the great stone. Devices: Lowing as they go, never turning—divine guidance proven.",
+          "scene_number": 33
+        },
+        {
+          "scene_name": "The Golden Offerings; the Great Stone",
+          "reference": "6:15-18",
+          "why_start_end_and_devices": "Starts the Levites taking down the ark. Ends the stone 'to this day.' Devices: The five golden tumors as a witness.",
+          "scene_number": 34
+        },
+        {
+          "scene_name": "The Men of Beth-shemesh Struck; Send It Away",
+          "reference": "6:19-21",
+          "why_start_end_and_devices": "Starts the men struck for looking into the ark. Ends 'come down and take it.' Devices: Holiness is dangerous—reverence required.",
+          "scene_number": 35
+        },
+        {
+          "scene_name": "The Ark Rests at Kiriath-jearim",
+          "reference": "7:1-2",
+          "why_start_end_and_devices": "Starts the ark brought to Abinadab's house. Ends twenty years of mourning. Devices: A long, quiet interval before revival.",
+          "scene_number": 36
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Samuel's Call to Repentance at Mizpah",
+          "reference": "7:3-6",
+          "why_start_end_and_devices": "Narrative refocuses on Samuel 'And Samuel said to all the house of Israel...' Direct result of 7:2 lamenting. Scene of national covenant renewal with Samuel (prophet) presiding, replacing Eli (priest)."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "The Battle of Ebenezer and Victory",
+          "reference": "7:7-12",
+          "why_start_end_and_devices": "Philistine reaction 'When the Philistines heard...' leads to Israel being 'closed in' then providentially saved. God's thunder routes enemy. Naming of 'Ebenezer' (Stone of Help) concludes victory. Chiastic counterpart to battle in 4:1 where Israel trusted ark and lost; here they trust God and win."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "The Judgeship of Samuel (Summary)",
+          "reference": "7:13-17",
+          "why_start_end_and_devices": "Concluding summary 'So the Philistines were subdued...' Describes peace brought by Samuel's leadership. Inclusio with Ramah (v. 17) returns to birthplace (1:1), formally closing the 7-chapter arc."
+        }
       ]
     },
     {
@@ -39,25 +252,174 @@
       "why_start_end_and_literary_glue": "Self-contained drama covering single theme of Israel's transition to human king. Begins with catalyst (corruption of Samuel's sons, people's demand), ends with kingdom 'renewed' at Gilgal after Saul's first military victory. Framed by Samuel, rejected judge who opens unit and closes with powerful farewell, defining monarchy's terms. Opens 'When Samuel became old...' classic transitional marker. Closes 'you shall be swept away, both you and your king'—solemn final word of Samuel's farewell. Constant repetition of word 'king' (melek). Structured chiastically: A) Public demand (8:4-22), B) Private anointing (9:1-10:16), C) Public selection (10:17-27), B') Private validation (11:1-13), A') Public confirmation (11:14-12:25).",
       "reference": "8:1-12:25",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Elders Demand a King", "reference": "8:1-9", "why_start_end_and_devices": "'When Samuel became old...' establishes succession crisis driving narrative. Contrast between Samuel and his corrupt sons provides reason for elders' demand. Dialogue between Samuel and LORD reframes people's rejection of Samuel as rejection of Yahweh."},
-        {"scene_number": 2, "scene_name": "Samuel Warns of the 'Manner of the King'", "reference": "8:10-18", "why_start_end_and_devices": "'Samuel told all the words of the LORD...' Single formal speech listing consequences (draft, taxes, servitude) of kingship. Literary form is legal warning, prophetic lawsuit. Ends with ominous 'the LORD will not answer you in that day.'"},
-        {"scene_number": 3, "scene_name": "The People Insist on a King", "reference": "8:19-22", "why_start_end_and_devices": "'But the people refused to obey...' People's formal rejection of warning. Repetition 'that we also may be like all the nations' shows hearts are set. Scene ends somberly: God tells Samuel 'make them a king.'"},
-        {"scene_number": 4, "scene_name": "Saul Seeks His Father's Donkeys", "reference": "9:1-10", "why_start_end_and_devices": "Narrative shift 'There was a man of Benjamin...' introduces new protagonist Saul. 'Lost donkey' story is mundane, almost comical. Literary irony (man seeking donkeys finds kingdom) emphasizes God's unexpected choice. Scene ends with decision to seek the 'seer.'"},
-        {"scene_number": 5, "scene_name": "The Divine Appointment: Saul Meets Samuel", "reference": "9:11-17", "why_start_end_and_devices": "Two narrative threads (Samuel's commission, Saul's search) converge. 'As they went up the hill...' built on series of 'coincidences' revealed as divine providence. Climax is LORD's private word to Samuel 'This is the man.'"},
-        {"scene_number": 6, "scene_name": "Samuel Honors Saul at the Feast", "reference": "9:18-24", "why_start_end_and_devices": "Dramatic irony: Saul, unaware, treated as guest of honor. 'Portion set aside' symbolizes his being 'set aside' by God for kingship. Private feast before public revelation."},
-        {"scene_number": 7, "scene_name": "The Secret Anointing of Saul", "reference": "9:25-10:1", "why_start_end_and_devices": "'And when they had come down...' Private, prophetic confirmation. Setting (housetop, then city edge) emphasizes secrecy. Anointing and kiss are climactic actions, paralleling yet contrasting with David's later anointing (16:13)."},
-        {"scene_number": 8, "scene_name": "The Three Prophetic Signs", "reference": "10:2-8", "why_start_end_and_devices": "'When you depart from me today...' Samuel's single speech providing three verifiable signs confirming divine call. Ends with crucial command 'wait seven days at Gilgal'—command that becomes setup for Saul's first great failure (13:8-14)."},
-        {"scene_number": 9, "scene_name": "The Signs Fulfilled", "reference": "10:9-13", "why_start_end_and_devices": "'When he turned his back to leave...' Rapid narrative summary showing fulfillment. Climax is transformation of Saul ('God gave him another heart') and Spirit 'rushing upon him.' Proverbial saying 'Is Saul also among the prophets?' ends scene."},
-        {"scene_number": 10, "scene_name": "Saul's Discreet Return Home", "reference": "10:14-16", "why_start_end_and_devices": "Brief but character-revealing dialogue 'Saul's uncle said to him...' Saul's silence about kingdom can read as humility or discretion, standing in contrast to public figure he becomes."},
-        {"scene_number": 11, "scene_name": "The Public Selection by Lot at Mizpah", "reference": "10:17-24", "why_start_end_and_devices": "'Samuel called the people together...at Mizpah.' Public ceremony paralleling private anointing. Samuel's speech is formal rebuke reminding them why this happens. Irony of chosen king 'hiding among the baggage.' Ends with people's visual confirmation 'he was taller...than any of the people.'"},
-        {"scene_number": 12, "scene_name": "The Kingdom Defined and Saul Dismissed", "reference": "10:25-27", "why_start_end_and_devices": "'Samuel told the people the rights and duties of the kingdom...' Concludes Mizpah assembly, establishing 'constitution.' Initial split in opinion ('valiant men' vs. 'worthless fellows'). Saul's silence ('held his peace') is ambiguous—patience or weakness?"},
-        {"scene_number": 13, "scene_name": "The Crisis at Jabesh-gilead", "reference": "11:1-5", "why_start_end_and_devices": "'Then Nahash the Ammonite came up...' Test validating new king. Scene sets up crisis (Nahash's threat, people's helplessness) before Saul enters unaware, heightening tension."},
-        {"scene_number": 14, "scene_name": "Saul's Spirit-Empowered Rescue", "reference": "11:6-11", "why_start_end_and_devices": "'And the Spirit of God rushed upon Saul...' Saul's finest moment. Spirit rushing parallels 10:10. Gruesome hewing of oxen is powerful ancient call to arms. Scene ends with complete deliverance."},
-        {"scene_number": 15, "scene_name": "The Kingdom Confirmed at Gilgal", "reference": "11:12-15", "why_start_end_and_devices": "'Then the people said to Samuel...' Resolution of entire arc. Call to kill dissenters met by Saul's kingly magnanimity. Samuel seizes moment of unity to 'renew the kingdom' at Gilgal, sacred spot."},
-        {"scene_number": 16, "scene_name": "Samuel's Farewell: His Integrity", "reference": "12:1-5", "why_start_end_and_devices": "'And Samuel said to all Israel...' Beginning of great farewell transferring power. Establishes own integrity, contrasting with corrupt sons and 'manner of king.' People validate 'You have not defrauded us.'"},
-        {"scene_number": 17, "scene_name": "Samuel's Rebuke and Historical Review", "reference": "12:6-15", "why_start_end_and_devices": "'And Samuel said...The LORD is witness...' Core of speech. Recites Israel's history demonstrating pattern: sin → oppression → crying out → deliverance. Frames kingship demand as sinful pattern but offers conditional path."},
-        {"scene_number": 18, "scene_name": "The Sign of Thunder and Rain", "reference": "12:16-19", "why_start_end_and_devices": "'Now therefore stand still and see this great thing...' Divine exclamation point on speech. Miraculous sign (rain in dry harvest) validates Samuel's words, proving 'wickedness was great.' People's terror confirms message."},
-        {"scene_number": 19, "scene_name": "Samuel's Final Charge", "reference": "12:20-25", "why_start_end_and_devices": "'And Samuel said to the people, Do not be afraid...' Conclusion of speech and story arc. Mixture of comfort and solemn warning. Promise 'I will not cease to pray for you' shows transfer from political judge to spiritual intercessor. Final verse sets ominous tone for Saul's reign."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Elders Demand a King",
+          "reference": "8:1-5",
+          "why_start_end_and_devices": "Starts Samuel's corrupt sons as judges. Ends 'appoint a king like all the nations.' Devices: The fatal request—conformity to the nations."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'They Have Rejected Me'",
+          "reference": "8:6-9",
+          "why_start_end_and_devices": "Starts Samuel's displeasure. Ends the warning command. Devices: 'They have not rejected you but me'—the theological heart."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The King Will Take Your Sons and Fields",
+          "reference": "8:10-14",
+          "why_start_end_and_devices": "Starts Samuel's warning. Ends seizing the best fields. Devices: The repeated verb 'take'—monarchy's cost."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "He Will Take Your Best; You Will Cry Out",
+          "reference": "8:15-18",
+          "why_start_end_and_devices": "Starts the tithes and servants taken. Ends 'the LORD will not answer you.' Devices: Self-inflicted bondage foretold."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The People Insist on a King",
+          "reference": "8:19-22",
+          "why_start_end_and_devices": "'But the people refused to obey...' People's formal rejection of warning. Repetition 'that we also may be like all the nations' shows hearts are set. Scene ends somberly: God tells Samuel 'make them a king.'"
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Saul Searches for the Lost Donkeys",
+          "reference": "9:1-5",
+          "why_start_end_and_devices": "Starts handsome Saul, head and shoulders above all. Ends the fruitless search. Devices: An errand that becomes a destiny."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Let Us Inquire of the Seer",
+          "reference": "9:6-10",
+          "why_start_end_and_devices": "Starts the servant's suggestion. Ends heading to the seer. Devices: Providence guiding through ordinary steps."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Girls Direct Them to Samuel",
+          "reference": "9:11-14",
+          "why_start_end_and_devices": "Starts the young women at the well. Ends entering the town. Devices: Small encounters advancing the divine plan."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "'This Is the Man I Spoke to You About'",
+          "reference": "9:15-17",
+          "why_start_end_and_devices": "Starts the LORD's word to Samuel the day before. Ends 'he will govern my people.' Devices: Divine foreknowledge—Saul revealed."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Saul Meets Samuel; 'Am I Not a Benjaminite?'",
+          "reference": "9:18-21",
+          "why_start_end_and_devices": "Starts Saul approaching. Ends his humble protest. Devices: Saul's self-deprecation—'the least of the tribes.'"
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Honored Portion at the Feast",
+          "reference": "9:22-24",
+          "why_start_end_and_devices": "Starts the seat of honor. Ends the reserved thigh. Devices: A subtle coronation—Saul honored before he knows why."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "On the Roof; Saul Sent Off at Dawn",
+          "reference": "9:25-27",
+          "why_start_end_and_devices": "Starts the rooftop conversation. Ends 'that I may reveal to you the word of God.' Devices: Privacy before the sacred moment."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Samuel Anoints Saul with Oil",
+          "reference": "10:1",
+          "why_start_end_and_devices": "A single-verse hinge: the oil poured, the kiss, 'the LORD has anointed you ruler.' Devices: The secret anointing—Israel's first king made."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The First Two Signs",
+          "reference": "10:2-4",
+          "why_start_end_and_devices": "Starts the men at Rachel's tomb. Ends the loaves received. Devices: Confirming signs to steady Saul's faith."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Prophets and the New Heart",
+          "reference": "10:5-8",
+          "why_start_end_and_devices": "Starts the band of prophets. Ends 'God will be with you.' Devices: 'God changed his heart'—the Spirit's transformation promised."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Signs Fulfilled",
+          "reference": "10:9-13",
+          "why_start_end_and_devices": "'When he turned his back to leave...' Rapid narrative summary showing fulfillment. Climax is transformation of Saul ('God gave him another heart') and Spirit 'rushing upon him.' Proverbial saying 'Is Saul also among the prophets?' ends scene."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Saul's Discreet Return Home",
+          "reference": "10:14-16",
+          "why_start_end_and_devices": "Brief but character-revealing dialogue 'Saul's uncle said to him...' Saul's silence about kingdom can read as humility or discretion, standing in contrast to public figure he becomes."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Lot Falls on Saul",
+          "reference": "10:17-21",
+          "why_start_end_and_devices": "Starts the assembly at Mizpah. Ends Saul taken by lot. Devices: Public selection confirming the private anointing."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "'Long Live the King!'",
+          "reference": "10:22-24",
+          "why_start_end_and_devices": "Starts Saul hiding among the baggage. Ends the people's shout. Devices: The reluctant king—'do you see whom the LORD has chosen?'"
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Kingdom Defined and Saul Dismissed",
+          "reference": "10:25-27",
+          "why_start_end_and_devices": "'Samuel told the people the rights and duties of the kingdom...' Concludes Mizpah assembly, establishing 'constitution.' Initial split in opinion ('valiant men' vs. 'worthless fellows'). Saul's silence ('held his peace') is ambiguous—patience or weakness?"
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Crisis at Jabesh-gilead",
+          "reference": "11:1-5",
+          "why_start_end_and_devices": "'Then Nahash the Ammonite came up...' Test validating new king. Scene sets up crisis (Nahash's threat, people's helplessness) before Saul enters unaware, heightening tension."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Saul's Spirit-Empowered Rescue",
+          "reference": "11:6-11",
+          "why_start_end_and_devices": "'And the Spirit of God rushed upon Saul...' Saul's finest moment. Spirit rushing parallels 10:10. Gruesome hewing of oxen is powerful ancient call to arms. Scene ends with complete deliverance."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "The Kingdom Confirmed at Gilgal",
+          "reference": "11:12-15",
+          "why_start_end_and_devices": "'Then the people said to Samuel...' Resolution of entire arc. Call to kill dissenters met by Saul's kingly magnanimity. Samuel seizes moment of unity to 'renew the kingdom' at Gilgal, sacred spot."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Samuel's Farewell: His Integrity",
+          "reference": "12:1-5",
+          "why_start_end_and_devices": "'And Samuel said to all Israel...' Beginning of great farewell transferring power. Establishes own integrity, contrasting with corrupt sons and 'manner of king.' People validate 'You have not defrauded us.'"
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Samuel Recounts the LORD's Deliverances",
+          "reference": "12:6-11",
+          "why_start_end_and_devices": "Starts the call to account before the LORD. Ends the judges who saved them. Devices: Covenant lawsuit—history as evidence."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Fear the LORD, King and People Alike",
+          "reference": "12:12-15",
+          "why_start_end_and_devices": "Starts the demand for a king recalled. Ends the conditional blessing/curse. Devices: King and people both under God's law."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Sign of Thunder and Rain",
+          "reference": "12:16-19",
+          "why_start_end_and_devices": "'Now therefore stand still and see this great thing...' Divine exclamation point on speech. Miraculous sign (rain in dry harvest) validates Samuel's words, proving 'wickedness was great.' People's terror confirms message."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Samuel's Final Charge",
+          "reference": "12:20-25",
+          "why_start_end_and_devices": "'And Samuel said to the people, Do not be afraid...' Conclusion of speech and story arc. Mixture of comfort and solemn warning. Promise 'I will not cease to pray for you' shows transfer from political judge to spiritual intercessor. Final verse sets ominous tone for Saul's reign."
+        }
       ]
     },
     {
@@ -66,21 +428,162 @@
       "why_start_end_and_literary_glue": "Compact tragedy in two acts detailing two sins leading to divine rejection. Framed by Saul's encounters with Samuel at Gilgal. First act (Ch. 13-14) is failure of patience and assumption of priestly duty, leading to prophecy of kingdom's end. Second act (Ch. 15) is direct disobedience regarding Amalek, leading to final irrevocable rejection. Tightly focused on Saul's character flaws (impatience, presumption, self-justification, jealousy). Opens 'Saul reigned for one year...' formal regnal introduction signaling new phase. Closes 'Samuel did not see Saul again...and the LORD regretted...'—one of Bible's most definitive, heartbreaking endings, sealing Saul's fate and preparing for 'man after his own heart.' Repetition of 'Gilgal' as test site; contrast between Saul (who fails) and Jonathan (who trusts and wins); 'obeying the voice of the LORD' theme; 'torn robe' motif symbolizing kingdom being torn from him.",
       "reference": "13:1-15:35",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Philistine Crisis and Saul's Impatience", "reference": "13:1-9", "why_start_end_and_devices": "Regnal formula sets test. 'Seven days' is direct call-back to Samuel's command in 10:8. Pressure (Philistines, scattering people) builds until Saul, in panic and presumption, fails: 'he offered the burnt offering.'"},
-        {"scene_number": 2, "scene_name": "The First Rejection: Samuel's Rebuke", "reference": "13:10-15a", "why_start_end_and_devices": "'As soon as he had finished...behold, Samuel came.' Confrontation scene. Saul's excuse is classic self-justification. Samuel's rebuke is consequence: kingdom 'shall not continue,' introducing 'man after God's heart' motif."},
-        {"scene_number": 3, "scene_name": "Israel's Disarmed State", "reference": "13:15b-23", "why_start_end_and_devices": "Summary of Saul's meager force highlights hopelessness, emphasizing total dependence on God. Specific detail about lack of smiths magnifies Jonathan's faith in next scene and Saul's foolishness."},
-        {"scene_number": 4, "scene_name": "Jonathan's Secret Plan of Faith", "reference": "14:1-7", "why_start_end_and_devices": "'One day Jonathan...said...' Purpose is contrast with Saul's lack of faith. Jonathan's words 'Perhaps the LORD will work for us' are exact lesson Saul failed to learn. Armor-bearer's assent seals the plan."},
-        {"scene_number": 5, "scene_name": "Jonathan's Attack and the Miraculous Panic", "reference": "14:8-15", "why_start_end_and_devices": "'Then Jonathan said...' Fulfillment of Jonathan's faith. Sign of 'two sharp rocks' focuses action. Climax is not military victory but divine one: 'earthquake' and 'panic from God.'"},
-        {"scene_number": 6, "scene_name": "Saul's Confused Reaction", "reference": "14:16-23", "why_start_end_and_devices": "'And the watchmen of Saul...looked...' Contrasts Saul's 'leadership' with Jonathan's. While Jonathan acts, Saul looks, numbers, calls for ark in confusion. Only joins battle after victory already won."},
-        {"scene_number": 7, "scene_name": "Saul's Rash Oath", "reference": "14:24-30", "why_start_end_and_devices": "'And the men of Israel were distressed...for Saul had put the people under oath...' Saul's second great error: failure of wisdom. Oath is foolish, harmful, rooted in pride. Irony: Jonathan, the hero, is one who breaks it."},
-        {"scene_number": 8, "scene_name": "The People Sin by Eating Blood", "reference": "14:31-35", "why_start_end_and_devices": "'They struck down the Philistines...' Direct consequence of Saul's foolish oath. Starving people in haste sin. Saul's response is ritual (building altar), not repentance, ironically atoning for sin he himself caused."},
-        {"scene_number": 9, "scene_name": "The Lot Falls on Jonathan", "reference": "14:36-42", "why_start_end_and_devices": "'Then Saul said, Let us go down...' Scene of suspense. God's silence is central crisis. Saul, again, resorts to ritual (casting lots) to find sin, not realizing he is the problem. Tension climaxes as lot narrows to Jonathan."},
-        {"scene_number": 10, "scene_name": "The People Rescue Jonathan", "reference": "14:43-46", "why_start_end_and_devices": "'Then Saul said to Jonathan, Tell me...' Climax of 'rash oath' subplot. Saul's legalistic foolishness contrasted with people's wisdom. People, not king, deliver true hero. Scene ends with Saul abandoning campaign."},
-        {"scene_number": 11, "scene_name": "Summary of Saul's Wars", "reference": "14:47-52", "why_start_end_and_devices": "'When Saul had taken the kingship...' Formulaic summary closing this section, separating first test (Philistine war) from second (Amalekite war). 'Hard fighting...all the days of Saul.'"},
-        {"scene_number": 12, "scene_name": "The Second Test: The Amalekite Command", "reference": "15:1-9", "why_start_end_and_devices": "'And Samuel said to Saul, The LORD sent me...' Deliberate setup for final test. Samuel's introduction is solemn reminder of why Saul must obey. Narrative shows partial obedience followed by direct, willful disobedience: 'Saul and the people spared Agag.'"},
-        {"scene_number": 13, "scene_name": "The Rebuke: 'To Obey is Better than Sacrifice'", "reference": "15:10-23", "why_start_end_and_devices": "'The word of the LORD came to Samuel, I regret...' Theological and narrative climax. Tense dialogue: Saul's greeting, Samuel's pointed question ('What is this bleating?'), Saul's excuse ('to sacrifice'), Samuel's immortal speech (v. 22-23)—central thesis of book."},
-        {"scene_number": 14, "scene_name": "The Torn Robe and Saul's Final Plea", "reference": "15:24-31", "why_start_end_and_devices": "'Saul said to Samuel, I have sinned...' Saul's 'repentance' is false, concerned only with public honor ('honor me now before elders'), not sin. Key symbolic act: tearing of Samuel's robe (v. 27-28) Samuel interprets as prophecy of kingdom torn from Saul."},
-        {"scene_number": 15, "scene_name": "The Slaying of Agag and Samuel's Final Departure", "reference": "15:32-35", "why_start_end_and_devices": "'Then Samuel said, Bring Agag...' Horrifying, somber conclusion. Samuel, prophet, must complete work king failed. Scene ends with final, tragic separation: 'Samuel did not see Saul again.' Repetition of LORD's regret frames chapter and ends story arc."}
+        {
+          "scene_number": 1,
+          "scene_name": "Jonathan Strikes the Garrison; the Army Trembles",
+          "reference": "13:1-4",
+          "why_start_end_and_devices": "Starts Saul's reign and standing army. Ends Israel a 'stench' to the Philistines. Devices: Jonathan's initiative provokes the crisis."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Saul's Impatient Sacrifice",
+          "reference": "13:5-9",
+          "why_start_end_and_devices": "Starts the vast Philistine host. Ends Saul offering the burnt offering himself. Devices: Fear-driven disobedience—the army melting away."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The First Rejection: Samuel's Rebuke",
+          "reference": "13:10-15a",
+          "why_start_end_and_devices": "'As soon as he had finished...behold, Samuel came.' Confrontation scene. Saul's excuse is classic self-justification. Samuel's rebuke is consequence: kingdom 'shall not continue,' introducing 'man after God's heart' motif."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Saul's Dwindling Force; the Raiders",
+          "reference": "13:15b-18",
+          "why_start_end_and_devices": "Starts the count of six hundred men. Ends the three raiding companies. Devices: Israel outnumbered and harassed."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "No Smith in Israel; the Philistine Monopoly",
+          "reference": "13:19-23",
+          "why_start_end_and_devices": "Starts the iron monopoly. Ends the garrison at the pass. Devices: Disarmed Israel—only Saul and Jonathan have swords."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Jonathan's Secret Resolve",
+          "reference": "14:1-3",
+          "why_start_end_and_devices": "Starts Jonathan slipping away. Ends Saul unaware under the pomegranate tree. Devices: Faith acting quietly, apart from the paralyzed king."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "'Nothing Can Hinder the LORD'",
+          "reference": "14:4-7",
+          "why_start_end_and_devices": "Starts the cliffs Bozez and Seneh. Ends 'do all that is in your heart.' Devices: The great faith-statement—God saves by many or few."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Sign at the Pass",
+          "reference": "14:8-12",
+          "why_start_end_and_devices": "Starts the plan for a sign. Ends 'the LORD has given them into our hand.' Devices: Climbing on hands and feet—audacious trust."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Panic of God",
+          "reference": "14:13-15",
+          "why_start_end_and_devices": "Starts the first twenty struck down. Ends the earth quaking. Devices: 'A panic from God'—heaven fights for Israel."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Saul Sees the Confusion",
+          "reference": "14:16-19",
+          "why_start_end_and_devices": "Starts the watchmen's report. Ends Saul halting the priest mid-inquiry. Devices: Saul's impulsiveness—acting before seeking God."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The LORD Saves Israel That Day",
+          "reference": "14:20-23",
+          "why_start_end_and_devices": "Starts the Philistines in disarray. Ends 'the LORD saved Israel.' Devices: Hidden Israelites rejoin the rout—victory spreads."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Saul's Rash Oath; the Honey",
+          "reference": "14:24-27",
+          "why_start_end_and_devices": "Starts the curse on eating. Ends Jonathan's eyes brightening. Devices: A foolish vow weakening the army."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Jonathan's Objection",
+          "reference": "14:28-30",
+          "why_start_end_and_devices": "Starts the soldiers telling him. Ends 'how much greater the victory!' Devices: Wisdom contrasted with Saul's rashness."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The People Sin by Eating Blood",
+          "reference": "14:31-35",
+          "why_start_end_and_devices": "'They struck down the Philistines...' Direct consequence of Saul's foolish oath. Starving people in haste sin. Saul's response is ritual (building altar), not repentance, ironically atoning for sin he himself caused."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Saul Seeks God; No Answer",
+          "reference": "14:36-39",
+          "why_start_end_and_devices": "Starts the plan for a night pursuit. Ends 'though it be Jonathan, he must die.' Devices: God's silence exposes hidden guilt—and Saul's rashness."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Lot Falls on Jonathan",
+          "reference": "14:40-42",
+          "why_start_end_and_devices": "Starts the casting of lots. Ends Jonathan taken. Devices: The vow ensnaring the hero of the day."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The People Rescue Jonathan",
+          "reference": "14:43-46",
+          "why_start_end_and_devices": "'Then Saul said to Jonathan, Tell me...' Climax of 'rash oath' subplot. Saul's legalistic foolishness contrasted with people's wisdom. People, not king, deliver true hero. Scene ends with Saul abandoning campaign."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Summary of Saul's Wars",
+          "reference": "14:47-52",
+          "why_start_end_and_devices": "'When Saul had taken the kingship...' Formulaic summary closing this section, separating first test (Philistine war) from second (Amalekite war). 'Hard fighting...all the days of Saul.'"
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Destroy Amalek Completely",
+          "reference": "15:1-3",
+          "why_start_end_and_devices": "Starts the LORD's command through Samuel. Ends the total herem ordered. Devices: A test of obedience—'spare nothing.'"
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Saul Spares Agag and the Best",
+          "reference": "15:4-9",
+          "why_start_end_and_devices": "Starts the muster. Ends keeping the best animals and the king. Devices: Selective obedience—the seed of rejection."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "'I Have Carried Out the LORD's Command'",
+          "reference": "15:10-15",
+          "why_start_end_and_devices": "Starts the LORD's regret. Ends Saul blaming the people. Devices: Self-deception—'the bleating of sheep' betrays him."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "'Why Did You Not Obey?'",
+          "reference": "15:16-19",
+          "why_start_end_and_devices": "Starts Samuel's interruption. Ends 'you did evil in the LORD's sight.' Devices: 'When you were small in your own eyes'—pride exposed."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "'To Obey Is Better Than Sacrifice'",
+          "reference": "15:20-23",
+          "why_start_end_and_devices": "Starts Saul's excuse. Ends 'he has rejected you as king.' Devices: The famous oracle—rebellion as witchcraft."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Saul Confesses; the Torn Robe",
+          "reference": "15:24-27",
+          "why_start_end_and_devices": "Starts 'I have sinned.' Ends the robe tearing. Devices: A confession aimed at honor, not repentance."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Kingdom Torn Away",
+          "reference": "15:28-31",
+          "why_start_end_and_devices": "Starts 'the LORD has torn the kingdom from you.' Ends Saul worshiping. Devices: 'The Glory of Israel does not lie'—the irrevocable verdict."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Slaying of Agag and Samuel's Final Departure",
+          "reference": "15:32-35",
+          "why_start_end_and_devices": "'Then Samuel said, Bring Agag...' Horrifying, somber conclusion. Samuel, prophet, must complete work king failed. Scene ends with final, tragic separation: 'Samuel did not see Saul again.' Repetition of LORD's regret frames chapter and ends story arc."
+        }
       ]
     },
     {
@@ -89,26 +592,264 @@
       "why_start_end_and_literary_glue": "Masterfully interweaves rise of new true king (David) with moral/spiritual collapse of rejected king (Saul). Begins immediately after Saul's final rejection with God's new plan. Details David's introduction to court, victory over Goliath, subsequent growth of Saul's murderous jealousy. Arc concludes with definitive, heartbreaking separation of David from court and beloved friend Jonathan, marking transition from courtier to fugitive. Opens 'The LORD said to Samuel, How long will you grieve over Saul...fill your horn with oil, and go.'—clear new divine initiative flowing from Story C's end. Closes with Jonathan's 'Go in peace' (20:42/21:1)—final emotional farewell ending court phase, beginning fugitive phase. Powerful contrast between David and Saul highlighted by 'Spirit of the LORD': Spirit 'rushed upon David' (16:13), 'departed from Saul' (16:14), replaced by 'harmful spirit.' Friendship of David and Jonathan forms central emotional thread.",
       "reference": "16:1-20:42",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Secret Anointing of David", "reference": "16:1-13", "why_start_end_and_devices": "'The LORD said to Samuel...' Clear new divine initiative. Antitype to Saul's selection. Theme is seeing: Samuel 'looks on outward appearance,' LORD 'looks on heart.' Tension builds as each son paraded and rejected, culminating in call for forgotten shepherd boy."},
-        {"scene_number": 2, "scene_name": "David Is Brought to Saul's Court", "reference": "16:14-23", "why_start_end_and_devices": "Parallel narrative 'Now the Spirit of the LORD departed from Saul...' Profound dramatic irony: very man with evil spirit sends for man with good Spirit to find relief. Rejected king becomes dependent on anointed king."},
-        {"scene_number": 3, "scene_name": "The Defiance of Goliath", "reference": "17:1-11", "why_start_end_and_devices": "Narrative shift 'Now the Philistines gathered their armies...' Introduces new national crisis. Detailed description of Goliath (height, armor, spear) builds invincibility, emphasizing terror of Saul and army."},
-        {"scene_number": 4, "scene_name": "David Arrives at the Battlefield", "reference": "17:12-24", "why_start_end_and_devices": "'Now David was the son of Jesse...' Re-introduction showing David is outsider. Repetition of Goliath's challenge occurs as David arrives, setting up confrontation."},
-        {"scene_number": 5, "scene_name": "David's Indignation and Eliab's Rebuke", "reference": "17:25-30", "why_start_end_and_devices": "'And the men of Israel said...' Contrasts David's God-centered indignation ('defy the armies of the living God') with Eliab's jealous personal rebuke ('I know your presumption'). Reinforces 16:7 (God saw David's heart, Eliab saw presumptuous boy)."},
-        {"scene_number": 6, "scene_name": "David Convinces Saul", "reference": "17:31-39", "why_start_end_and_devices": "'When the words...were heard...' Saul sees 'youth' but David recounts faith (lion, bear). Saul's armor is symbol of human strength; David's rejection of it is symbolic rejection of worldly reliance."},
-        {"scene_number": 7, "scene_name": "The Battle of David and Goliath", "reference": "17:40-49", "why_start_end_and_devices": "'Then he took his staff...' Climax of story. Taunts (v. 43-44) met with David's famous faith speech (v. 45-47), theological center of chapter. Action is swift: 'David ran,' 'slung,' 'smote.'"},
-        {"scene_number": 8, "scene_name": "The Rout of the Philistines", "reference": "17:50-54", "why_start_end_and_devices": "'So David prevailed...' Immediate aftermath. David beheading Goliath with giant's own sword is deeply symbolic. Scene ends with victorious rout and David taking head to Jerusalem (future conquest)."},
-        {"scene_number": 9, "scene_name": "The Covenant of David and Jonathan", "reference": "17:55-18:4", "why_start_end_and_devices": "Narrative 'flashback' 'As soon as Saul saw David...' Establishes vital friendship shaping rest of story. Jonathan recognizes David; 'soul was knit' to him. Jonathan voluntarily transfers claim to throne by giving robe, armor, sword."},
-        {"scene_number": 10, "scene_name": "Saul's Jealousy Is Kindled", "reference": "18:5-9", "why_start_end_and_devices": "'And David went out and was successful...' Provides motive for Saul's fall. Song of women ('Saul...David his ten thousands,' v. 7) is trigger. Saul's reaction (v. 8-9) shows true character: pride and murderous jealousy."},
-        {"scene_number": 11, "scene_name": "Saul's First Javelin Attack", "reference": "18:10-16", "why_start_end_and_devices": "'The next day...harmful spirit...rushed upon Saul...' First open attempt on life. Explicit contrast: Saul prophetic and violent; David 'behaving himself wisely.' Saul's fear (v. 12, 15) shown as root of hatred."},
-        {"scene_number": 12, "scene_name": "The Snare of the King's Daughters", "reference": "18:17-30", "why_start_end_and_devices": "'Then Saul said to David, Here is my elder daughter...' Scene of plotting. Saul's insincere offer of Merab (v. 17-19) is 'snare.' When that fails, uses Michal (v. 20-30). 'Foreskins' dowry intended to get David killed. Plot backfires; David becomes 'king's son-in-law,' making Saul 'even more afraid.'"},
-        {"scene_number": 13, "scene_name": "Jonathan's First Intercession for David", "reference": "19:1-7", "why_start_end_and_devices": "'And Saul spoke to Jonathan...that they should kill David.' Complete cycle: conflict and resolution. Jonathan's mediation successful; Saul swears oath 'As the LORD lives, he shall not be put to death.' This oath soon broken shows Saul's untrustworthiness."},
-        {"scene_number": 14, "scene_name": "Saul's Second Javelin Attack and Michal's Deception", "reference": "19:8-17", "why_start_end_and_devices": "'And there was war again...' Parallels 18:10-16 but break more serious. David's success again triggers spirit and javelin. Escape enabled by wife Michal's deception (idol in bed), unlike brother Jonathan who uses truth."},
-        {"scene_number": 15, "scene_name": "David Flees to Samuel at Naioth", "reference": "19:18-24", "why_start_end_and_devices": "'Now David fled and escaped...went to Samuel...' David flees to prophet, source of anointing. Repetition of Spirit rushing on messengers and Saul shows God's protection. Saul 'naked' symbolizes spiritual state."},
-        {"scene_number": 16, "scene_name": "The Anxious Plan", "reference": "20:1-11", "why_start_end_and_devices": "'Then David fled from Naioth...and came...before Jonathan...' Sets up final test of Saul. David's 'There is but a step between me and death' captures tension. Jonathan still in denial; David's earnestness convinces him."},
-        {"scene_number": 17, "scene_name": "Jonathan Renews the Covenant", "reference": "20:12-17", "why_start_end_and_devices": "'And Jonathan said to David, The LORD, the God of Israel, be witness!' Formal covenant. Jonathan, recognizing David will be king, makes David swear to protect family. Selfless act of loyalty by prince."},
-        {"scene_number": 18, "scene_name": "The Test at the New Moon Feast", "reference": "20:18-29", "why_start_end_and_devices": "'Then Jonathan said to him, Tomorrow is the new moon...' Plan from 20:1-11 put into action. Tension builds as David's seat empty day one and two. Scene ends with Jonathan's pre-planned, truthful excuse."},
-        {"scene_number": 19, "scene_name": "Saul's Rage at Jonathan", "reference": "20:30-34", "why_start_end_and_devices": "'Then Saul's anger was kindled against Jonathan...' Climax of test confirming David's fears. Javelin reappears, hurled at own son, showing madness complete. Jonathan's 'fierce anger' marks final break with father."},
-        {"scene_number": 20, "scene_name": "The Final Farewell", "reference": "20:35-42", "why_start_end_and_devices": "'In the morning Jonathan went out...' Heartbreaking conclusion. Sign of arrows is public signal; private tearful farewell follows. Jonathan's 'Go in peace' and covenant repetition formally end David's court life, begin fugitive years."}
+        {
+          "scene_number": 1,
+          "scene_name": "Samuel Sent to Bethlehem",
+          "reference": "16:1-5",
+          "why_start_end_and_devices": "Starts 'how long will you mourn for Saul?' Ends consecrating Jesse. Devices: The horn of oil; a quiet, dangerous mission."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'The LORD Looks at the Heart'",
+          "reference": "16:6-10",
+          "why_start_end_and_devices": "Starts Eliab passed over. Ends seven sons rejected. Devices: The great principle—'man looks at the outward appearance.'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "David Anointed; the Spirit Rushes On Him",
+          "reference": "16:11-13",
+          "why_start_end_and_devices": "Starts the youngest sent for. Ends the Spirit coming on David. Devices: The shepherd-king chosen; oil and Spirit together."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "An Evil Spirit; a Skilled Harpist Sought",
+          "reference": "16:14-18",
+          "why_start_end_and_devices": "Starts the Spirit leaving Saul. Ends David recommended. Devices: Providence placing David in the court."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "David Soothes Saul with the Lyre",
+          "reference": "16:19-23",
+          "why_start_end_and_devices": "Starts Saul sending for David. Ends 'the evil spirit would depart.' Devices: David loved by Saul—dramatic irony to come."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Armies Face Off in the Valley",
+          "reference": "17:1-3",
+          "why_start_end_and_devices": "Starts the Philistines at Socoh. Ends the valley between them. Devices: The stage set for the duel."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Goliath the Champion Described",
+          "reference": "17:4-7",
+          "why_start_end_and_devices": "Starts the giant of Gath. Ends his shield-bearer. Devices: Towering detail building the threat."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Defiant Challenge; Israel's Terror",
+          "reference": "17:8-11",
+          "why_start_end_and_devices": "Starts 'choose a man.' Ends Saul and Israel dismayed. Devices: Forty days of defiance—no Israelite dares."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "David Sent to His Brothers",
+          "reference": "17:12-16",
+          "why_start_end_and_devices": "Starts Jesse's eight sons. Ends the giant's morning-and-evening defiance. Devices: Reintroducing David; the shepherd among warriors."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Jesse's Errand",
+          "reference": "17:17-19",
+          "why_start_end_and_devices": "Starts the bread and cheese. Ends 'bring back news.' Devices: An ordinary errand into history."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "David Hears the Defiance; Israel Flees",
+          "reference": "17:20-24",
+          "why_start_end_and_devices": "Starts David reaching the camp. Ends the men fleeing in fear. Devices: David sees what cowardice cannot face."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "David's Indignation and Eliab's Rebuke",
+          "reference": "17:25-30",
+          "why_start_end_and_devices": "'And the men of Israel said...' Contrasts David's God-centered indignation ('defy the armies of the living God') with Eliab's jealous personal rebuke ('I know your presumption'). Reinforces 16:7 (God saw David's heart, Eliab saw presumptuous boy)."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "David Volunteers; Saul Doubts",
+          "reference": "17:31-33",
+          "why_start_end_and_devices": "Starts David's words reported. Ends 'you are only a youth.' Devices: Faith against worldly assessment."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Lion and the Bear",
+          "reference": "17:34-37",
+          "why_start_end_and_devices": "Starts David's shepherd testimony. Ends 'the LORD will deliver me.' Devices: Past deliverances as the ground of present faith."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "David Rejects Saul's Armor",
+          "reference": "17:38-39",
+          "why_start_end_and_devices": "Starts the king's armor. Ends 'I cannot go in these.' Devices: Refusing the world's weapons."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Five Smooth Stones; the Champions Meet",
+          "reference": "17:40-44",
+          "why_start_end_and_devices": "Starts the sling and stones. Ends Goliath's curses. Devices: The mismatch heightened—staff and sling vs. sword and spear."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "'I Come in the Name of the LORD'; the Sling",
+          "reference": "17:45-49",
+          "why_start_end_and_devices": "Starts David's declaration. Ends the stone sinking into the giant's forehead. Devices: 'The battle is the LORD's'—faith vindicated."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Rout of the Philistines",
+          "reference": "17:50-54",
+          "why_start_end_and_devices": "'So David prevailed...' Immediate aftermath. David beheading Goliath with giant's own sword is deeply symbolic. Scene ends with victorious rout and David taking head to Jerusalem (future conquest)."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "'Whose Son Is This Youth?'",
+          "reference": "17:55-58",
+          "why_start_end_and_devices": "Starts Saul's question to Abner. Ends 'the son of Jesse.' Devices: David's lineage spotlighted—the future king introduced to the court."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Jonathan's Soul Knit to David",
+          "reference": "18:1-4",
+          "why_start_end_and_devices": "Starts the covenant of friendship. Ends Jonathan giving David his robe and sword. Devices: The heir to the throne yielding to David—deep symbolism."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Saul's Jealousy Is Kindled",
+          "reference": "18:5-9",
+          "why_start_end_and_devices": "'And David went out and was successful...' Provides motive for Saul's fall. Song of women ('Saul...David his ten thousands,' v. 7) is trigger. Saul's reaction (v. 8-9) shows true character: pride and murderous jealousy."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Saul Hurls the Spear",
+          "reference": "18:10-12",
+          "why_start_end_and_devices": "Starts the evil spirit. Ends Saul afraid of David. Devices: Jealousy turns murderous; 'the LORD was with David.'"
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "David Succeeds; Saul Fears Him",
+          "reference": "18:13-16",
+          "why_start_end_and_devices": "Starts David made commander. Ends 'all Israel loved David.' Devices: David's rise fuels Saul's dread."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Merab Offered, Then Withheld",
+          "reference": "18:17-19",
+          "why_start_end_and_devices": "Starts the offer of the elder daughter. Ends Merab given to another. Devices: Saul's treachery cloaked as honor."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Michal Loves David",
+          "reference": "18:20-23",
+          "why_start_end_and_devices": "Starts Michal's love. Ends David's humility about the bride-price. Devices: A snare disguised as a marriage."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Bride-Price of a Hundred Philistines",
+          "reference": "18:24-27",
+          "why_start_end_and_devices": "Starts the deadly condition. Ends David bringing double. Devices: Saul's plot to get David killed backfires."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Saul David's Enemy Continually",
+          "reference": "18:28-30",
+          "why_start_end_and_devices": "Starts Saul's realization. Ends David's growing fame. Devices: 'Saul was even more afraid'—the rivalry hardens."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Jonathan Warns David",
+          "reference": "19:1-3",
+          "why_start_end_and_devices": "Starts Saul's open order to kill. Ends Jonathan's plan to intercede. Devices: Loyalty risking the throne."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Jonathan Pleads; Saul Relents",
+          "reference": "19:4-7",
+          "why_start_end_and_devices": "Starts the defense of David. Ends the restored oath. Devices: A brief reconciliation—soon broken."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Spear Again; David Flees by Night",
+          "reference": "19:8-10",
+          "why_start_end_and_devices": "Starts renewed war and jealousy. Ends David escaping the spear. Devices: The cycle of murder attempts resumes."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Michal's Ruse with the Idol",
+          "reference": "19:11-13",
+          "why_start_end_and_devices": "Starts the house watched. Ends the idol in the bed. Devices: A wife saving her husband by deception."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Empty Bed Discovered",
+          "reference": "19:14-17",
+          "why_start_end_and_devices": "Starts the messengers deceived. Ends Michal's excuse. Devices: David escapes; the net closes only on an idol."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Saul's Messengers Prophesy",
+          "reference": "19:18-21",
+          "why_start_end_and_devices": "Starts David fleeing to Samuel. Ends three sets of messengers caught up in prophecy. Devices: The Spirit disarming the pursuers."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Saul Himself Prophesies Naked",
+          "reference": "19:22-24",
+          "why_start_end_and_devices": "Starts Saul going personally. Ends 'is Saul also among the prophets?' Devices: God humbling the king who hunts the anointed."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "David's Plea to Jonathan",
+          "reference": "20:1-4",
+          "why_start_end_and_devices": "Starts 'what have I done?' Ends Jonathan's pledge. Devices: David's life hanging by a friendship."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The New Moon Plan",
+          "reference": "20:5-8",
+          "why_start_end_and_devices": "Starts the festival absence plan. Ends the appeal to covenant love. Devices: A test to read Saul's heart."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Jonathan's Promise; to the Field",
+          "reference": "20:9-11",
+          "why_start_end_and_devices": "Starts Jonathan's reassurance. Ends going out to the field. Devices: Secrecy and loyalty intertwined."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Jonathan Renews the Covenant",
+          "reference": "20:12-17",
+          "why_start_end_and_devices": "'And Jonathan said to David, The LORD, the God of Israel, be witness!' Formal covenant. Jonathan, recognizing David will be king, makes David swear to protect family. Selfless act of loyalty by prince."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "The Sign of the Arrows Arranged",
+          "reference": "20:18-23",
+          "why_start_end_and_devices": "Starts the plan with the arrows. Ends 'the LORD is witness forever.' Devices: A coded signal; covenant invoked."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Saul Asks Why David Is Absent",
+          "reference": "20:24-29",
+          "why_start_end_and_devices": "Starts the empty seat. Ends David's excuse relayed. Devices: Suspense building toward Saul's explosion."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Saul's Rage at Jonathan",
+          "reference": "20:30-34",
+          "why_start_end_and_devices": "'Then Saul's anger was kindled against Jonathan...' Climax of test confirming David's fears. Javelin reappears, hurled at own son, showing madness complete. Jonathan's 'fierce anger' marks final break with father."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "The Arrows Signal Danger",
+          "reference": "20:35-39",
+          "why_start_end_and_devices": "Starts the boy and the arrows. Ends the secret understood. Devices: The pre-arranged code delivering the verdict."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "The Tearful Farewell",
+          "reference": "20:40-42",
+          "why_start_end_and_devices": "Starts the boy sent away. Ends 'go in peace.' Devices: Two friends parting under a covenant 'forever.'"
+        }
       ]
     },
     {
@@ -117,25 +858,222 @@
       "why_start_end_and_literary_glue": "Geographically and thematically distinct, following David's outlaw life after final court flight. Begins with first stop at Nob with desperate measures (lying, feigning madness). Core is contrast between Saul's vindictive pursuit (massacring Nob priests) and David's righteousness (twice sparing Saul). Ends with final definitive parting before David gives up on Israel and flees to Philistines. Opens 'Then David came to Nob, to Ahimelech the priest'—immediately follows 20:42 and his first fugitive action. Closes 'Then Saul said...Blessed be you, my son David!...So David went his way, and Saul returned to his place'—final meeting; paths diverge permanently. Constant 'fleeing' and 'hiding' (caves, wilderness). Chiasm of two 'sparing Saul' narratives (Ch. 24, 26) forms structural core. Presence of ephod with Abiathar shows God's guidance is with David, not Saul.",
       "reference": "21:1-26:25",
       "scenes": [
-        {"scene_number": 1, "scene_name": "David at Nob: Deception and Holy Bread", "reference": "21:1-9", "why_start_end_and_devices": "'Then David came to Nob...' Scene of desperation. David lies to Ahimelech showing fear and lack of faith. Acquisition of holy bread (symbolic) and Goliath's sword (practical) equips him. Ominous presence of Doeg (v. 7) is hook for future tragedy."},
-        {"scene_number": 2, "scene_name": "David at Gath: Feigning Madness", "reference": "21:10-15", "why_start_end_and_devices": "'And David rose and fled that day from Saul...' Brief, humiliating episode. David's attempt refuge with enemy fails; feigns madness. Shows how low he sunk, that only refuge is own land but away from Saul."},
-        {"scene_number": 3, "scene_name": "The Cave of Adullam: David Gathers Men", "reference": "22:1-5", "why_start_end_and_devices": "'David departed...to cave of Adullam.' Beginning of David's outlaw life. Family joins (v. 1); gathers band of 'distressed,' 'in debt,' 'discontented' (v. 2). Shows filial piety finding refuge for parents in Moab (v. 3-4)."},
-        {"scene_number": 4, "scene_name": "Saul's Paranoia and Doeg's Treachery", "reference": "22:6-10", "why_start_end_and_devices": "'Now Saul heard that David was discovered...' Parallel to David gathering men. Shows Saul's isolation and paranoia accusing own tribe (v. 8). Doeg's treacherous report is catalyst for tragedy."},
-        {"scene_number": 5, "scene_name": "The Massacre of the Priests at Nob", "reference": "22:11-19", "why_start_end_and_devices": "'Then the king sent to summon Ahimelech...' Horrifying consequence of David's 21:1-9 lie and Saul's madness. Saul who spared 'accursed' Agag now massacres 'anointed' priests. Footmen refuse; foreigner Doeg does work, showing complete depravity."},
-        {"scene_number": 6, "scene_name": "Abiathar Escapes to David", "reference": "22:20-23", "why_start_end_and_devices": "'But one of the sons of Ahimelech...escaped...' Resolution of Nob tragedy. Abiathar (last priest of Eli's line, fulfilling 2:33) flees to David with ephod. Symbolically transfers legitimate priesthood and God's guidance from Saul to David."},
-        {"scene_number": 7, "scene_name": "David Saves Keilah from the Philistines", "reference": "23:1-6", "why_start_end_and_devices": "'Now they told David, Behold, the Philistines...' Shows David as true king defending Israel while false king hunts him. Repeated inquiry of LORD contrasts with Saul's presumption."},
-        {"scene_number": 8, "scene_name": "David Flees Keilah", "reference": "23:7-13", "why_start_end_and_devices": "'When Saul was told that David had come to Keilah...' Tense scene showing Saul's craft and David's divinely-guided leadership. David's use of ephod shows total reliance on God."},
-        {"scene_number": 9, "scene_name": "Jonathan Strengthens David in Ziph", "reference": "23:14-18", "why_start_end_and_devices": "'And David remained in the wilderness...' Final, poignant meeting between friends. Jonathan strengthens David's hand in God. His speech formal abdication, acknowledging David as king. Last time they see each other."},
-        {"scene_number": 10, "scene_name": "The Ziphites' Betrayal and the 'Rock of Escape'", "reference": "23:19-29", "why_start_end_and_devices": "'Then the Ziphites came up to Saul...' Builds immense narrative tension. Betrayal and Saul's 'blessing' lead to David 'closed in.' Climax: providential messenger (Philistine invasion) saves David. Naming of 'Rock of Escape' concludes."},
-        {"scene_number": 11, "scene_name": "David Spares Saul in the Cave (Part 1)", "reference": "24:1-12", "why_start_end_and_devices": "'When Saul returned from following Philistines...' First of two 'sparing' scenes. Irony: Saul hunting David enters cave where David hides. Men see God's will to kill; David sees test. Cutting robe is symbolic; his conscience smites him even for this, showing respect for 'LORD's anointed.'"},
-        {"scene_number": 12, "scene_name": "Saul's Temporary Repentance", "reference": "24:13-22", "why_start_end_and_devices": "David's speech continues (or 'As soon as David...') Resolution of first sparing. Saul weeps and confesses 'You are more righteous than I.' Genuine but temporary. Prophetically confirms David's kingship (v. 20)."},
-        {"scene_number": 13, "scene_name": "The Death of Samuel and the Churlishness of Nabal", "reference": "25:1-12", "why_start_end_and_devices": "'Now Samuel died.' Major narrative marker ending era. Immediately moves to new test: Nabal (Saul-like character—rich, foolish, 'man of Belial'). His insulting reply is direct personal insult to future king."},
-        {"scene_number": 14, "scene_name": "David's Rash Vow and Abigail's Intervention", "reference": "25:13-22", "why_start_end_and_devices": "'And David said to his men, Every man strap on his sword!' Shows David's 'human' side—contrast to patience with Saul. Acts rashly to personal insult. Dialogue between servant and Abigail establishes Nabal's foolishness before meeting."},
-        {"scene_number": 15, "scene_name": "Abigail's Wise Appeal", "reference": "25:23-31", "why_start_end_and_devices": "'When Abigail saw David...' Central scene of story. Masterpiece of wise speech: takes blame, wordplay on husband's name ('Nabal,' fool), reframes entire event. Stops David from 'shedding blood without cause,' preserving moral fitness for kingship."},
-        {"scene_number": 16, "scene_name": "David Repents; Nabal Dies", "reference": "25:32-38", "why_start_end_and_devices": "'And David said to Abigail, Blessed be the LORD...' David's immediate repentance contrasts sharply with Saul's. Juxtaposes with Nabal's drunken feast and subsequent death 'by the LORD.' Message: David lets God handle vengeance."},
-        {"scene_number": 17, "scene_name": "David Marries Abigail", "reference": "25:39-44", "why_start_end_and_devices": "'When David heard that Nabal was dead...' Resolution. David sees God's justice. Marrying Abigail secures wealth and position; note about Michal severs last link to Saul's house."},
-        {"scene_number": 18, "scene_name": "The Ziphites' Second Betrayal; David Spares Saul Again", "reference": "26:1-12", "why_start_end_and_devices": "'Then the Ziphites came to Saul...' Parallels Chapter 24 (second witness). Again Ziphites betray, Saul hunts, David's men want to kill him, David refuses, citing 'LORD's anointed.' Deep sleep from LORD shows God gave Saul into hand."},
-        {"scene_number": 19, "scene_name": "David's Rebuke and Saul's Final Farewell", "reference": "26:13-25", "why_start_end_and_devices": "'Then David went over to the other side...' Parallels 24:8-15. Taunt to Abner is tactical move. Saul's response is 'repentance' but feels final, tragic. Last words (v. 25) are prophecy and concession. Their final parting ends story arc."}
+        {
+          "scene_number": 1,
+          "scene_name": "David and the Holy Bread at Nob",
+          "reference": "21:1-6",
+          "why_start_end_and_devices": "Starts David at Nob, alone and lying. Ends eating the consecrated bread. Devices: Mercy over ritual (cf. Jesus in Mark 2)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Doeg Present; Goliath's Sword Taken",
+          "reference": "21:7-9",
+          "why_start_end_and_devices": "Starts Doeg the Edomite noted. Ends David taking Goliath's sword. Devices: An ominous witness—seeds of the Nob massacre."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "David at Gath: Feigning Madness",
+          "reference": "21:10-15",
+          "why_start_end_and_devices": "'And David rose and fled that day from Saul...' Brief, humiliating episode. David's attempt refuge with enemy fails; feigns madness. Shows how low he sunk, that only refuge is own land but away from Saul."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Cave of Adullam: David Gathers Men",
+          "reference": "22:1-5",
+          "why_start_end_and_devices": "'David departed...to cave of Adullam.' Beginning of David's outlaw life. Family joins (v. 1); gathers band of 'distressed,' 'in debt,' 'discontented' (v. 2). Shows filial piety finding refuge for parents in Moab (v. 3-4)."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Saul's Paranoia and Doeg's Treachery",
+          "reference": "22:6-10",
+          "why_start_end_and_devices": "'Now Saul heard that David was discovered...' Parallel to David gathering men. Shows Saul's isolation and paranoia accusing own tribe (v. 8). Doeg's treacherous report is catalyst for tragedy."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Ahimelech's Defense",
+          "reference": "22:11-15",
+          "why_start_end_and_devices": "Starts the priests summoned. Ends 'your servant knew nothing.' Devices: An innocent man before a paranoid king."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Doeg Slaughters the Priests of Nob",
+          "reference": "22:16-19",
+          "why_start_end_and_devices": "Starts Saul's order. Ends the whole town put to the sword. Devices: Saul's descent into atrocity—the prophecy against Eli's house fulfilled."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Abiathar Escapes to David",
+          "reference": "22:20-23",
+          "why_start_end_and_devices": "'But one of the sons of Ahimelech...escaped...' Resolution of Nob tragedy. Abiathar (last priest of Eli's line, fulfilling 2:33) flees to David with ephod. Symbolically transfers legitimate priesthood and God's guidance from Saul to David."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "David Saves Keilah from the Philistines",
+          "reference": "23:1-6",
+          "why_start_end_and_devices": "'Now they told David, Behold, the Philistines...' Shows David as true king defending Israel while false king hunts him. Repeated inquiry of LORD contrasts with Saul's presumption."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Saul Pursues to Keilah; David Inquires",
+          "reference": "23:7-10",
+          "why_start_end_and_devices": "Starts Saul's delight at the trap. Ends David calling for the ephod. Devices: David seeking God where Saul presumes."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "'They Will Hand You Over'; David Leaves",
+          "reference": "23:11-13",
+          "why_start_end_and_devices": "Starts the double question to the LORD. Ends David escaping Keilah. Devices: Divine foreknowledge guiding the fugitive."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Jonathan Strengthens David in Ziph",
+          "reference": "23:14-18",
+          "why_start_end_and_devices": "'And David remained in the wilderness...' Final, poignant meeting between friends. Jonathan strengthens David's hand in God. His speech formal abdication, acknowledging David as king. Last time they see each other."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Ziphites Betray David",
+          "reference": "23:19-23",
+          "why_start_end_and_devices": "Starts the Ziphites informing Saul. Ends Saul's thorough search ordered. Devices: Betrayal by his own countrymen."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Encircled, Then Delivered: the Rock of Escape",
+          "reference": "23:24-29",
+          "why_start_end_and_devices": "Starts Saul closing in. Ends the Philistine raid recalling Saul. Devices: Last-second deliverance—'the Rock of Escape.'"
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Saul in the Cave; David Cuts His Robe",
+          "reference": "24:1-4",
+          "why_start_end_and_devices": "Starts Saul entering the very cave. Ends David cutting the robe's corner. Devices: Dramatic irony—the hunter at the hunted's mercy."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "David's Conscience: 'The LORD's Anointed'",
+          "reference": "24:5-7",
+          "why_start_end_and_devices": "Starts David's conscience-stricken heart. Ends restraining his men. Devices: Reverence for God's anointing over personal vindication."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "David Calls Out to Saul",
+          "reference": "24:8-12",
+          "why_start_end_and_devices": "Starts David bowing from afar. Ends 'may the LORD judge between us.' Devices: Innocence demonstrated by the uncut life and the cut robe."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "'May the LORD Judge Between Us'",
+          "reference": "24:13-15",
+          "why_start_end_and_devices": "Starts the proverb of the ancients. Ends 'after a dead dog, a flea?' Devices: David's self-abasement and appeal to God."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Saul Weeps: 'You Are More Righteous'",
+          "reference": "24:16-19",
+          "why_start_end_and_devices": "Starts Saul lifting his voice. Ends 'may the LORD reward you.' Devices: A moment of clarity and shame."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Saul's Plea for His Descendants",
+          "reference": "24:20-22",
+          "why_start_end_and_devices": "Starts 'I know you will surely be king.' Ends David sparing Saul's line. Devices: The doomed king's last request honored."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Samuel Dies; Nabal and Abigail Introduced",
+          "reference": "25:1-3",
+          "why_start_end_and_devices": "Starts all Israel mourning Samuel. Ends 'harsh and evil' Nabal vs. wise Abigail. Devices: A pivot to a domestic drama with national stakes."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "David's Request at Sheepshearing",
+          "reference": "25:4-9",
+          "why_start_end_and_devices": "Starts the festive shearing. Ends the young men waiting. Devices: A reasonable, courteous appeal for hospitality."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Nabal's Insult",
+          "reference": "25:10-12",
+          "why_start_end_and_devices": "Starts 'who is David?' Ends the men returning. Devices: Churlish contempt provoking deadly anger."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "David Arms for Vengeance; a Servant Warns Abigail",
+          "reference": "25:13-17",
+          "why_start_end_and_devices": "Starts four hundred men girding swords. Ends 'disaster is determined.' Devices: A wise servant averting catastrophe."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Abigail's Swift Provision",
+          "reference": "25:18-22",
+          "why_start_end_and_devices": "Starts the loaded donkeys. Ends David's rash oath of slaughter. Devices: Quiet wisdom racing reckless wrath."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Abigail's Humble Appeal",
+          "reference": "25:23-27",
+          "why_start_end_and_devices": "Starts Abigail falling at David's feet. Ends the gift offered. Devices: Taking blame to defuse vengeance."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "'The LORD Will Make a Sure House'",
+          "reference": "25:28-31",
+          "why_start_end_and_devices": "Starts the prophecy of David's dynasty. Ends 'remember your servant.' Devices: Theology that turns David from bloodguilt."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "David Blesses Abigail's Wisdom",
+          "reference": "25:32-35",
+          "why_start_end_and_devices": "Starts 'blessed be the LORD who sent you.' Ends David accepting her gift. Devices: Restraint praised as God's intervention."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Nabal's Heart Fails; He Dies",
+          "reference": "25:36-38",
+          "why_start_end_and_devices": "Starts the drunken feast. Ends the LORD striking Nabal. Devices: Divine judgment—David's hands kept clean."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "David Marries Abigail",
+          "reference": "25:39-44",
+          "why_start_end_and_devices": "'When David heard that Nabal was dead...' Resolution. David sees God's justice. Marrying Abigail secures wealth and position; note about Michal severs last link to Saul's house."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "The Ziphites Betray David Again",
+          "reference": "26:1-5",
+          "why_start_end_and_devices": "Starts the renewed betrayal. Ends David spotting Saul's camp. Devices: History repeating—another chance to kill Saul."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Into Saul's Camp by Night",
+          "reference": "26:6-8",
+          "why_start_end_and_devices": "Starts Abishai volunteering. Ends 'let me pin him to the ground.' Devices: Temptation voiced—'God has given him to you.'"
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "'Do Not Destroy Him'; the Spear and Jug Taken",
+          "reference": "26:9-12",
+          "why_start_end_and_devices": "Starts David's refusal. Ends taking the spear and water jug. Devices: Reverence again; a deep sleep from the LORD."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "David Rebukes Abner",
+          "reference": "26:13-16",
+          "why_start_end_and_devices": "Starts David calling across the valley. Ends 'you deserve to die' for failing to guard the king. Devices: Proof in hand—the missing spear."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "'Why Do You Pursue Me?'",
+          "reference": "26:17-20",
+          "why_start_end_and_devices": "Starts Saul recognizing David's voice. Ends 'a partridge in the mountains.' Devices: David's plaintive appeal to justice."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Saul's Last Words to David",
+          "reference": "26:21-25",
+          "why_start_end_and_devices": "Starts 'I have sinned...I have played the fool.' Ends each going his way. Devices: Their final meeting—Saul blesses, but David trusts him not."
+        }
       ]
     },
     {
@@ -144,22 +1082,126 @@
       "why_start_end_and_literary_glue": "Final unit concludes book by skillfully interweaving two parallel climactic narratives. Begins with David's final loss of faith in God's protection, driving him to Philistines. Alternates between David's compromised Ziklag life and Saul's final desperate hours culminating in witch of Endor visit. Plots converge on same battle (David providentially dismissed). Ends with Saul's tragic death, completing power transfer. Opens 'Then David said in his heart, I shall now perish one day by the hand of Saul.'—direct result of 26:25 final parting, showing faith broken, initiating desperate plan. Closes with 'And they took their bones and buried them...and fasted seven days'—somber conclusion of Saul's reign, main subject of book, leaving David's story 'to be continued' for 2 Samuel. Powerful narrative intercutting builds suspense: David's plot (Ch. 27), Saul's (Ch. 28), David's (Ch. 29-30), final climax of Saul's (Ch. 31). Central theme: 'despair'—David's despair leads to Philistines; Saul's despair leads to witch.",
       "reference": "27:1-31:13",
       "scenes": [
-        {"scene_number": 1, "scene_name": "David Flees to Achish of Gath", "reference": "27:1-7", "why_start_end_and_devices": "'Then David said in his heart...' David's failure of faith. 'Despairs' (v. 1). Move to Gath (home of Goliath) is shocking turn. Request for Ziklag is shrewd political move to escape spotlight, but based on deception."},
-        {"scene_number": 2, "scene_name": "David's Deceptive Raids", "reference": "27:8-12", "why_start_end_and_devices": "'Now David and his men went up...' Details David's 'double life.' Raids Israel's enemies but lies to Achish, claiming Israeli raids. Irony and deception puts him in terrible moral/political bind."},
-        {"scene_number": 3, "scene_name": "The Philistines Gather; David's Dilemma", "reference": "28:1-2", "why_start_end_and_devices": "'In those days the Philistines gathered...' Consequence of previous scene. Achish commands David fight against Israel. David trapped. Ambiguous answer 'Very well, you shall know' is brilliant tense dialogue."},
-        {"scene_number": 4, "scene_name": "Saul's Despair (The Narrative Switch)", "reference": "28:3-6", "why_start_end_and_devices": "Narrative switches from David to Saul. Summary of Samuel's death and Saul's past. Scene parallels David's: David's army with him; Saul's fleeing. David inquires of LORD; Saul inquires, God silent. Sets up his next desperate act."},
-        {"scene_number": 5, "scene_name": "Saul and the Witch of Endor", "reference": "28:7-14", "why_start_end_and_devices": "'Then Saul said to his servants, Seek out for me...' Ultimate act of Saul's rejection. King who 'put mediums out of land' now disguises self to seek one. Dialogue builds suspense culminating in appearance of 'Samuel.'"},
-        {"scene_number": 6, "scene_name": "The Prophecy of Saul's Doom", "reference": "28:15-19", "why_start_end_and_devices": "'Then Samuel said to Saul...' Scene of pure divine judgment. 'Spirit' confirms everything Samuel said in life: kingdom torn, Amalekite disobedience cause, sentence is death (v. 19)."},
-        {"scene_number": 7, "scene_name": "Saul's Utter Collapse", "reference": "28:20-25", "why_start_end_and_devices": "'Then Saul fell at once full length...' Pathetic end: Saul 'strengthless' and ate no food. Irony: witch must 'set morsel of bread' before king who needs coaxing. Leaves broken, doomed man."},
-        {"scene_number": 8, "scene_name": "The Philistine Lords Reject David (The Narrative Switch)", "reference": "29:1-5", "why_start_end_and_devices": "Narrative returns to David. Lords recognize danger. Repetition of song 'Saul...David his ten thousands' is ironic reason for dismissal. Very song sparking Saul's jealousy now saves David."},
-        {"scene_number": 9, "scene_name": "Achish Dismisses David", "reference": "29:6-11", "why_start_end_and_devices": "'Then Achish called David...' Resolution to David's crisis. Still-trusting Achish forced to dismiss. Providential deliverance: David can return without betraying Achish or Israel. Armies part ways."},
-        {"scene_number": 10, "scene_name": "The Sacking of Ziklag", "reference": "30:1-6", "why_start_end_and_devices": "'Now when David...came to Ziklag on third day...' David's own great test, parallel to Saul's. Returns to destroyed home. Men speak of stoning him. Unlike Saul (who turned to witch), climax: 'But David strengthened himself in the LORD his God.'"},
-        {"scene_number": 11, "scene_name": "David Inquires of the LORD and Pursues", "reference": "30:7-15", "why_start_end_and_devices": "'And David said to Abiathar the priest...' David, unlike Saul, has priest and ephod. Inquires of LORD, gets answer 'Pursue.' Finding Egyptian slave is providential key."},
-        {"scene_number": 12, "scene_name": "The Defeat of the Amalekites", "reference": "30:16-20", "why_start_end_and_devices": "'And when he had brought him down...' Total victory. Stark contrast: Amalekites 'spread abroad, eating and dancing' (like Israel at Sinai). David's victory complete: 'recovered all.'"},
-        {"scene_number": 13, "scene_name": "The Law of the Spoil", "reference": "30:21-25", "why_start_end_and_devices": "'And David came to the two hundred men...' Key leadership scene. Confronts 'worthless fellows' and establishes grace-based law of equity. Shows fitness to legislate wisely, contrasting Saul's rash oath."},
-        {"scene_number": 14, "scene_name": "David Sends Spoil to Judah", "reference": "30:26-31", "why_start_end_and_devices": "'When David came to Ziklag...' Closes David's arc for this book. Wise political and personal act repaying debts, solidifying Judah's support for inevitable rise to throne."},
-        {"scene_number": 15, "scene_name": "The Death of Saul and Jonathan on Gilboa", "reference": "31:1-7", "why_start_end_and_devices": "'Now the Philistines were fighting against Israel...' Narrative returns to battle David left. Repetition 'Saul and his...sons died together' is final stroke. Scene ends with total collapse of Saul's kingdom."},
-        {"scene_number": 16, "scene_name": "The Desecration and Burial of Saul", "reference": "31:8-13", "why_start_end_and_devices": "'The next day, when the Philistines came...' Book's epilogue. Philistines fasten body to wall. Inclusio with Story B: men of Jabesh-gilead (whom Saul saved in first act, Ch. 11) perform last loyalty, bravely recovering body. Noble deed closes tragic reign."}
+        {
+          "scene_number": 1,
+          "scene_name": "David Defects to Achish of Gath",
+          "reference": "27:1-4",
+          "why_start_end_and_devices": "Starts 'I will perish by Saul's hand.' Ends Saul ceasing his search. Devices: A faith-low moment; refuge among enemies."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Ziklag Granted",
+          "reference": "27:5-7",
+          "why_start_end_and_devices": "Starts David's request. Ends sixteen months in Philistine country. Devices: A base of operations—and a moral gray zone."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "David's Deceptive Raids",
+          "reference": "27:8-12",
+          "why_start_end_and_devices": "'Now David and his men went up...' Details David's 'double life.' Raids Israel's enemies but lies to Achish, claiming Israeli raids. Irony and deception puts him in terrible moral/political bind."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Philistines Gather; David's Dilemma",
+          "reference": "28:1-2",
+          "why_start_end_and_devices": "'In those days the Philistines gathered...' Consequence of previous scene. Achish commands David fight against Israel. David trapped. Ambiguous answer 'Very well, you shall know' is brilliant tense dialogue."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Saul's Despair (The Narrative Switch)",
+          "reference": "28:3-6",
+          "why_start_end_and_devices": "Narrative switches from David to Saul. Summary of Samuel's death and Saul's past. Scene parallels David's: David's army with him; Saul's fleeing. David inquires of LORD; Saul inquires, God silent. Sets up his next desperate act."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Saul Seeks the Medium of Endor",
+          "reference": "28:7-11",
+          "why_start_end_and_devices": "Starts 'find me a medium.' Ends 'bring up Samuel.' Devices: The king who banned mediums now consults one—utter desperation."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Samuel Summoned",
+          "reference": "28:12-14",
+          "why_start_end_and_devices": "Starts the woman's cry. Ends Saul bowing low. Devices: The dead prophet appears—dread confirmed."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Prophecy of Saul's Doom",
+          "reference": "28:15-19",
+          "why_start_end_and_devices": "'Then Samuel said to Saul...' Scene of pure divine judgment. 'Spirit' confirms everything Samuel said in life: kingdom torn, Amalekite disobedience cause, sentence is death (v. 19)."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Saul's Utter Collapse",
+          "reference": "28:20-25",
+          "why_start_end_and_devices": "'Then Saul fell at once full length...' Pathetic end: Saul 'strengthless' and ate no food. Irony: witch must 'set morsel of bread' before king who needs coaxing. Leaves broken, doomed man."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Philistine Lords Reject David (The Narrative Switch)",
+          "reference": "29:1-5",
+          "why_start_end_and_devices": "Narrative returns to David. Lords recognize danger. Repetition of song 'Saul...David his ten thousands' is ironic reason for dismissal. Very song sparking Saul's jealousy now saves David."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Achish Dismisses David",
+          "reference": "29:6-11",
+          "why_start_end_and_devices": "'Then Achish called David...' Resolution to David's crisis. Still-trusting Achish forced to dismiss. Providential deliverance: David can return without betraying Achish or Israel. Armies part ways."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Sacking of Ziklag",
+          "reference": "30:1-6",
+          "why_start_end_and_devices": "'Now when David...came to Ziklag on third day...' David's own great test, parallel to Saul's. Returns to destroyed home. Men speak of stoning him. Unlike Saul (who turned to witch), climax: 'But David strengthened himself in the LORD his God.'"
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "David Pursues with the Ephod",
+          "reference": "30:7-10",
+          "why_start_end_and_devices": "Starts calling for the ephod. Ends two hundred too exhausted to cross. Devices: Inquiring of God before acting—contrast with Saul."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Abandoned Egyptian Guides Them",
+          "reference": "30:11-15",
+          "why_start_end_and_devices": "Starts the half-dead Egyptian found. Ends leading David to the raiders. Devices: Providence using a discarded slave."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Defeat of the Amalekites",
+          "reference": "30:16-20",
+          "why_start_end_and_devices": "'And when he had brought him down...' Total victory. Stark contrast: Amalekites 'spread abroad, eating and dancing' (like Israel at Sinai). David's victory complete: 'recovered all.'"
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Law of the Spoil",
+          "reference": "30:21-25",
+          "why_start_end_and_devices": "'And David came to the two hundred men...' Key leadership scene. Confronts 'worthless fellows' and establishes grace-based law of equity. Shows fitness to legislate wisely, contrasting Saul's rash oath."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "David Sends Spoil to Judah",
+          "reference": "30:26-31",
+          "why_start_end_and_devices": "'When David came to Ziklag...' Closes David's arc for this book. Wise political and personal act repaying debts, solidifying Judah's support for inevitable rise to throne."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Saul Falls on His Sword on Gilboa",
+          "reference": "31:1-4",
+          "why_start_end_and_devices": "Starts the battle going against Israel. Ends Saul taking his own life. Devices: The tragic end foretold—the king's despairing death."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "His Armor-Bearer Dies; Israel Flees",
+          "reference": "31:5-7",
+          "why_start_end_and_devices": "Starts the armor-bearer following him in death. Ends Israelites abandoning their towns. Devices: National collapse in Saul's fall."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Desecration and Burial of Saul",
+          "reference": "31:8-13",
+          "why_start_end_and_devices": "'The next day, when the Philistines came...' Book's epilogue. Philistines fasten body to wall. Inclusio with Story B: men of Jabesh-gilead (whom Saul saved in first act, Ch. 11) perform last loyalty, bravely recovering body. Noble deed closes tragic reign."
+        }
       ]
     }
   ]
