@@ -18,12 +18,18 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "The Sacrifice and Judgment on Officials",
-          "reference": "1:7-1:13",
-          "why_start_end_and_devices": "'Be silent... Day of Yahweh is near' introduces sacrificial‑day metaphor and targeted classes (officials, king’s sons, threshold‑leapers, complacent). Ends with desolation outcomes. Devices: sacrificial metaphor, targeted invective, consequence statements."
+          "scene_name": "The LORD Has Prepared a Sacrifice",
+          "reference": "1:7-9",
+          "why_start_end_and_devices": "Silence before the near Day of the LORD, whose sacrifice will punish the princes and the violent."
         },
         {
           "scene_number": 3,
+          "scene_name": "I Will Search Jerusalem with Lamps",
+          "reference": "1:10-13",
+          "why_start_end_and_devices": "The cry from the Fish Gate and the search for the complacent who say 'the LORD will do nothing.'"
+        },
+        {
+          "scene_number": 4,
           "scene_name": "The Great and Dreadful Day of the LORD",
           "reference": "1:14-1:18",
           "why_start_end_and_devices": "Intensifies the theme: 'great day... near and hastening'; litany of 'a day of...' lines culminates in universalized end. Devices: synonymous parallelism, escalated repetition, climactic summary."
@@ -70,24 +76,30 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Woe to Rebellious Jerusalem",
-          "reference": "3:1-3:8",
-          "why_start_end_and_devices": "Woe oracle indicts leaders by office; contrasts Yahweh’s justice with persistent corruption; ends with universal gathering for poured‑out wrath. Devices: parallelism, role‑based invective, universalizing closure."
+          "scene_name": "Woe to the City of Oppressors",
+          "reference": "3:1-4",
+          "why_start_end_and_devices": "The indictment of rebellious Jerusalem: roaring-lion princes, wolf-judges, reckless prophets, profaning priests."
         },
         {
           "scene_number": 2,
+          "scene_name": "The Righteous LORD Within Her",
+          "reference": "3:5-8",
+          "why_start_end_and_devices": "God's daily justice against the shameless (5-7), and the call to wait for the day He rises to gather the nations (8)."
+        },
+        {
+          "scene_number": 3,
           "scene_name": "Promise of Purified Speech and Universal Worship",
           "reference": "3:9-3:13",
           "why_start_end_and_devices": "Hinge: 'For then I will change the speech...'; depicts humble remnant’s character and security. Devices: metaphor of pure speech, contrast humble vs deceitful."
         },
         {
-          "scene_number": 3,
+          "scene_number": 4,
           "scene_name": "A Song of Joy and God’s Dwelling",
           "reference": "3:14-3:17",
           "why_start_end_and_devices": "Doxological summons to rejoice; central promise that Yahweh is in the midst and rejoices over His people. Devices: hymn form, personification, presence motif."
         },
         {
-          "scene_number": 4,
+          "scene_number": 5,
           "scene_name": "Restoration of the Scattered and the Name",
           "reference": "3:18-3:20",
           "why_start_end_and_devices": "Future administrative gathers, removal of shame, making a name and praise among all peoples; ends with restoration 'before your eyes.' Devices: reversal (shame→renown), restoration formula, concluding oracle."
@@ -96,4 +108,3 @@
     }
   ]
 }
-
