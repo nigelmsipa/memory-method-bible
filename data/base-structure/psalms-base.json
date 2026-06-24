@@ -14,67 +14,1051 @@
           "scene_number": 1,
           "scene_name": "Psalm 1 – The Two Ways",
           "reference": "1:1-6",
-          "why_start_end_and_devices": "Complete Wisdom Psalm (6 vv). Antithetical parallelism contrasts righteous (tree by streams) and wicked (chaff), resolved by v. 6 summary."
+          "why_start_end_and_devices": "Wisdom prologue to the whole Psalter; antithetical parallelism — righteous as watered tree (1-3) vs. wicked as chaff (4-5), sealed by the summary verdict (6)."
         },
         {
           "scene_number": 2,
-          "scene_name": "Psalm 2 – The LORD's Anointed King",
-          "reference": "2:1-12",
-          "why_start_end_and_devices": "Royal Psalm in four movements with distinct speakers: nations rebel (1–3), LORD responds (4–6), Son declares decree (7–9), narrator exhorts (10–12)."
+          "scene_name": "Psalm 2 – The Nations Rage",
+          "reference": "2:1-3",
+          "why_start_end_and_devices": "Royal psalm, movement 1: earth's kings conspire to break the cords of the LORD and His Anointed."
         },
         {
           "scene_number": 3,
-          "scene_name": "Psalm 3 – Morning Prayer for Deliverance",
-          "reference": "3:1-8",
-          "why_start_end_and_devices": "Individual lament with Selah strophes. Complaint (1–2) → confidence (3–4) → remembrance (5–6) → petition (7–8). Superscription situates in Absalom crisis."
+          "scene_name": "Psalm 2 – Enthroned in Heaven Laughs",
+          "reference": "2:4-6",
+          "why_start_end_and_devices": "Movement 2 (speaker = the LORD): heaven's derisive laugh, then the decree 'I have installed My King on Zion.'"
         },
         {
           "scene_number": 4,
-          "scene_name": "Psalm 4 – Evening Prayer for Refuge",
-          "reference": "4:1-8",
-          "why_start_end_and_devices": "Companion to Ps 3; address to God (1), to men (2–5), to many (6), to self (7–8). Selah marks strophes; closes in peace."
+          "scene_name": "Psalm 2 – You Are My Son",
+          "reference": "2:7-9",
+          "why_start_end_and_devices": "Movement 3 (speaker = the Son): the begotten-decree and the iron-scepter inheritance of the nations."
         },
         {
           "scene_number": 5,
-          "scene_name": "Psalm 5 – A Plea for Guidance",
-          "reference": "5:1-12",
-          "why_start_end_and_devices": "Morning prayer (v. 3) structured as access plea (1–3), theology (4–7), petition (8–10), and blessing (11–12)."
+          "scene_name": "Psalm 2 – Kiss the Son",
+          "reference": "2:10-12",
+          "why_start_end_and_devices": "Movement 4 (narrator): wisdom-warning to kings, closing on the beatitude 'Blessed are all who take refuge in Him.'"
         },
         {
           "scene_number": 6,
-          "scene_name": "Psalm 6 – Depart from Me, You Workers of Evil",
-          "reference": "6:1-10",
-          "why_start_end_and_devices": "Penitential lament pivoting at v. 8: lament/mercy (1–7) → confident dismissal of enemies (8–10)."
+          "scene_name": "Psalm 3 – A Shield Around Me",
+          "reference": "3:1-4",
+          "why_start_end_and_devices": "Absalom-flight lament: complaint at swelling foes (1-2) answered by confidence in the LORD who lifts the head (3-4); two Selahs."
         },
         {
           "scene_number": 7,
-          "scene_name": "Psalm 7 – Appeal of the Slandered Saint",
-          "reference": "7:1-17",
-          "why_start_end_and_devices": "Shiggaion structure: refuge (1–2), oath of innocence (3–5), petition for judgment (6–9), confidence (10–13), wicked's self‑destruction (14–16), vow of praise (17)."
+          "scene_name": "Psalm 3 – I Lie Down and Sleep",
+          "reference": "3:5-8",
+          "why_start_end_and_devices": "Remembrance of sustained sleep (5-6) turning to petition 'Arise, O LORD' and the creed 'Salvation belongs to the LORD' (7-8)."
         },
         {
           "scene_number": 8,
-          "scene_name": "Psalm 8 – The Majesty of Man",
-          "reference": "8:1-9",
-          "why_start_end_and_devices": "Inclusio 'O LORD, our Lord...' frames meditation on humanity's crowned place under God's name‑glory."
+          "scene_name": "Psalm 4 – Answer Me When I Call",
+          "reference": "4:1-4",
+          "why_start_end_and_devices": "Evening companion to Ps 3: plea to the God of righteousness (1) and rebuke to the proud — 'be angry, yet do not sin' (2-4); Selah strophes."
         },
         {
           "scene_number": 9,
-          "scene_name": "Psalm 9 – A Liturgy of Thanksgiving",
-          "reference": "9:1-20",
-          "why_start_end_and_devices": "Partial acrostic (Aleph–Kaph) mixing thanksgiving for past deliverance (1–12) with plea for future help (13–20). Selah at 16, 20."
+          "scene_name": "Psalm 4 – Sleep in Peace",
+          "reference": "4:5-8",
+          "why_start_end_and_devices": "From offered sacrifices and the lifted light of God's face (5-7) to the psalm's resting note: 'I will lie down and sleep in peace' (8)."
         },
         {
           "scene_number": 10,
-          "scene_name": "Psalm 10 – The Problem of the Wicked",
-          "reference": "10:1-18",
-          "why_start_end_and_devices": "Pair with Ps 9; lament over arrogant oppressor (1–11) pivots to petition (12–15) and kingship trust (16–18)."
+          "scene_name": "Psalm 5 – Morning Plea for Audience",
+          "reference": "5:1-3",
+          "why_start_end_and_devices": "Lament opening: 'Give ear… consider my groaning,' framed by the dawn vigil — 'in the morning… I lay my plea before You.'"
         },
         {
           "scene_number": 11,
-          "scene_name": "Psalm 41 – A Plea from the Pit",
-          "reference": "41:1-13",
-          "why_start_end_and_devices": "Sickness and betrayal lament (5–9) culminating in the explicit doxology (v. 13) that closes Book I."
+          "scene_name": "Psalm 5 – No Evil Dwells with You",
+          "reference": "5:4-7",
+          "why_start_end_and_devices": "Meditation on God's character: He hates iniquity and bloodshed (4-6), yet the psalmist enters His house by abundant devotion (7)."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Psalm 5 – Lead Me in Your Righteousness",
+          "reference": "5:8-12",
+          "why_start_end_and_devices": "Petition against open-grave throats (8-10) closing in the blessing and shield of favor over the righteous (11-12)."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Psalm 6 – Do Not Rebuke Me in Anger",
+          "reference": "6:1-4",
+          "why_start_end_and_devices": "First penitential psalm: plea against wrathful discipline, 'how long, O LORD?', begging deliverance for devotion's sake."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Psalm 6 – Weary with Groaning",
+          "reference": "6:5-7",
+          "why_start_end_and_devices": "Depth of the lament: no praise in Sheol (5), the bed flooded with nightly tears, eyes failing from grief (6-7)."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Psalm 6 – Depart from Me, Workers of Evil",
+          "reference": "6:8-10",
+          "why_start_end_and_devices": "The confident pivot: the LORD has heard the weeping; enemies turn back in sudden, shamed disgrace."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Psalm 7 – Refuge from the Lion",
+          "reference": "7:1-2",
+          "why_start_end_and_devices": "Shiggaion opening: take refuge in God lest the pursuer shred the soul like a lion with none to rescue."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Psalm 7 – The Oath of Innocence",
+          "reference": "7:3-5",
+          "why_start_end_and_devices": "Self-imprecation: if guilt is on his hands, let the enemy trample him to the dust; Selah."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Psalm 7 – Arise, O Righteous Judge",
+          "reference": "7:6-9",
+          "why_start_end_and_devices": "Petition for the divine assize: the LORD takes His seat over the peoples and searches hearts and minds."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Psalm 7 – God Has Bent His Bow",
+          "reference": "7:10-13",
+          "why_start_end_and_devices": "Confidence in the righteous Judge who, against the unrepentant, sharpens His sword and readies fiery arrows."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Psalm 7 – Fallen into His Own Pit",
+          "reference": "7:14-17",
+          "why_start_end_and_devices": "Poetic justice — the wicked conceives trouble and falls into the pit he dug (14-16) — answered by the vow of praise (17)."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Psalm 8 – Majesty Above the Heavens",
+          "reference": "8:1-2",
+          "why_start_end_and_devices": "Inclusio opens: 'how majestic is Your name,' praise ordained from the mouths of infants to silence the foe."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Psalm 8 – What Is Man?",
+          "reference": "8:3-5",
+          "why_start_end_and_devices": "The heart of the hymn: gazing at moon and stars, the wonder that God crowns frail man with glory and honor."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Psalm 8 – Crowned to Rule",
+          "reference": "8:6-9",
+          "why_start_end_and_devices": "Dominion over flocks, beasts, birds, and fish (6-8), closing on the repeated refrain of God's majestic name (9)."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Psalm 9 – I Will Recount Your Wonders",
+          "reference": "9:1-2",
+          "why_start_end_and_devices": "Acrostic thanksgiving opens (Aleph–Beth): whole-hearted praise and joy in the Most High."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Psalm 9 – The Enemy Comes to Ruin",
+          "reference": "9:3-6",
+          "why_start_end_and_devices": "Past deliverance: enemies stumble and perish, nations rebuked, their very name and memory erased forever."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Psalm 9 – The LORD Reigns for Judgment",
+          "reference": "9:7-10",
+          "why_start_end_and_devices": "God's eternal throne of justice — a stronghold for the oppressed and a refuge for all who know His name."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Psalm 9 – The Avenger Remembers the Afflicted",
+          "reference": "9:11-14",
+          "why_start_end_and_devices": "Call to sing of Zion's King (11-12) turning to personal plea — lift me from the gates of death (13-14)."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Psalm 9 – The Nations in Their Own Net",
+          "reference": "9:15-20",
+          "why_start_end_and_devices": "Nations snared by their own hands (15-16, Higgaion Selah); the needy not forgotten; 'let the nations know they are but men' (17-20)."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Psalm 10 – Why Do You Stand Far Off?",
+          "reference": "10:1-2",
+          "why_start_end_and_devices": "Companion lament: the cry of God's apparent absence while the proud hunt the needy."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Psalm 10 – The Boast of the Wicked",
+          "reference": "10:3-7",
+          "why_start_end_and_devices": "Portrait of the godless man — boasting in greed, 'there is no God,' mouth full of cursing and deceit."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Psalm 10 – Lurking Like a Lion",
+          "reference": "10:8-11",
+          "why_start_end_and_devices": "The predator in ambush, crushing the helpless, telling himself 'God has forgotten… never sees.'"
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Psalm 10 – Arise, O LORD, Lift Your Hand",
+          "reference": "10:12-15",
+          "why_start_end_and_devices": "Petition: break the arm of the wicked; You, helper of the fatherless, see and repay the trouble."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Psalm 10 – The LORD Is King Forever",
+          "reference": "10:16-18",
+          "why_start_end_and_devices": "Resolution: the eternal King vindicates the fatherless and oppressed so that earthly men strike terror no more."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Psalm 11 – Flee Like a Bird?",
+          "reference": "11:1-3",
+          "why_start_end_and_devices": "Confronting the counsel of despair: 'if the foundations are destroyed, what can the righteous do?'"
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Psalm 11 – The LORD in His Holy Temple",
+          "reference": "11:4-7",
+          "why_start_end_and_devices": "The answer of faith: the enthroned LORD tests the righteous, rains judgment on the wicked, and the upright will see His face."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Psalm 12 – Flattering Lips and Double Hearts",
+          "reference": "12:1-4",
+          "why_start_end_and_devices": "Lament for a faithless generation of smooth, boastful tongues; plea that the LORD cut them off."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Psalm 12 – Words Pure as Refined Silver",
+          "reference": "12:5-8",
+          "why_start_end_and_devices": "The LORD's oracle to arise for the oppressed (5), and the contrast of His flawless words with the wicked who strut about (6-8)."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Psalm 13 – How Long, O LORD?",
+          "reference": "13:1-6",
+          "why_start_end_and_devices": "Compact lament: the fourfold 'how long' (1-2) moving through petition (3-4) to trust and song (5-6)."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Psalm 14 – The Fool Says, 'No God'",
+          "reference": "14:1-3",
+          "why_start_end_and_devices": "Indictment of universal corruption — the LORD looks down and finds none who do good, not one."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Psalm 14 – Salvation Out of Zion",
+          "reference": "14:4-7",
+          "why_start_end_and_devices": "The evildoers who devour God's people are overwhelmed with dread; closing longing for restoration from Zion."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Psalm 15 – Who May Dwell on Your Holy Hill",
+          "reference": "15:1-5",
+          "why_start_end_and_devices": "Entrance liturgy: the character of the guest God welcomes — blameless walk, truthful tongue, no bribe; 'never shaken.'"
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Psalm 16 – Apart from You No Good Thing",
+          "reference": "16:1-4",
+          "why_start_end_and_devices": "Miktam of refuge: the LORD as the only good, the saints as delight, with no libations poured to other gods."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Psalm 16 – The LORD Is My Portion",
+          "reference": "16:5-8",
+          "why_start_end_and_devices": "Pleasant boundary lines and a secure lot (5-6); the LORD set always before him, He will not be shaken (7-8)."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Psalm 16 – You Will Not Abandon My Soul",
+          "reference": "16:9-11",
+          "why_start_end_and_devices": "Confidence into resurrection hope — 'nor let Your Holy One see decay' — and the path of life with eternal pleasures."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Psalm 17 – Hear My Righteous Plea",
+          "reference": "17:1-5",
+          "why_start_end_and_devices": "Prayer of integrity: lips free of deceit, tried in the night and found resolved not to sin; steps held to God's paths."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Psalm 17 – The Apple of Your Eye",
+          "reference": "17:6-9",
+          "why_start_end_and_devices": "Petition for wondrous love — 'keep me as the apple of Your eye, hide me in the shadow of Your wings' from assailants."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Psalm 17 – Like a Lion Hungry for Prey",
+          "reference": "17:10-12",
+          "why_start_end_and_devices": "The encircling foes: callous hearts, arrogant mouths, set to cast him down like a lurking young lion."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Psalm 17 – I Will Behold Your Face",
+          "reference": "17:13-15",
+          "why_start_end_and_devices": "Closing contrast: men of the world whose portion is this life (13-14) against the psalmist who awakes satisfied in God's likeness (15)."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Psalm 18 – I Love You, O LORD My Strength",
+          "reference": "18:1-3",
+          "why_start_end_and_devices": "Royal thanksgiving opens: a cascade of refuge-titles — rock, fortress, deliverer, shield, horn of salvation."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Psalm 18 – The Cords of Death",
+          "reference": "18:4-6",
+          "why_start_end_and_devices": "Distress: the snares of Sheol entangle, and from His temple He hears the cry."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Psalm 18 – The Earth Shook and Quaked",
+          "reference": "18:7-9",
+          "why_start_end_and_devices": "Theophany begins — smoke and consuming fire, the heavens parted as He descends."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Psalm 18 – He Mounted a Cherub and Flew",
+          "reference": "18:10-12",
+          "why_start_end_and_devices": "The storm-rider: darkness His canopy, hailstones and coals breaking from His brightness."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Psalm 18 – The LORD Thundered from Heaven",
+          "reference": "18:13-15",
+          "why_start_end_and_devices": "The Most High's voice; sea-channels and world-foundations laid bare at the blast of His breath."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Psalm 18 – He Drew Me Out of Deep Waters",
+          "reference": "18:16-19",
+          "why_start_end_and_devices": "The rescue: reaching from on high to take hold, bringing him into the open 'because He delighted in me.'"
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Psalm 18 – Rewarded for Clean Hands",
+          "reference": "18:20-24",
+          "why_start_end_and_devices": "The righteousness motif — kept the ways of the LORD, blameless before Him, repaid for clean hands."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Psalm 18 – With the Faithful You Show Yourself Faithful",
+          "reference": "18:25-27",
+          "why_start_end_and_devices": "Wisdom couplet on reciprocity: faithful, blameless, pure, shrewd — God saves the afflicted, humbles the haughty."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "Psalm 18 – You Light My Lamp",
+          "reference": "18:28-30",
+          "why_start_end_and_devices": "Empowerment: God lights the darkness, lets him scale a wall; His way perfect, His word flawless, a shield to all who trust."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Psalm 18 – He Trains My Hands for Battle",
+          "reference": "18:31-34",
+          "why_start_end_and_devices": "'Who is God besides the LORD?' — the Rock who arms with strength, makes feet like a deer, bends a bow of bronze."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Psalm 18 – Your Right Hand Upholds Me",
+          "reference": "18:35-37",
+          "why_start_end_and_devices": "The shield of salvation and broadened path (35-36) enabling pursuit of the enemy until consumed (37)."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Psalm 18 – Subdued Beneath My Feet",
+          "reference": "18:38-40",
+          "why_start_end_and_devices": "Victory: foes crushed and unable to rise, armed with strength, enemies put to flight."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "Psalm 18 – Head of the Nations",
+          "reference": "18:41-45",
+          "why_start_end_and_devices": "Enemies cry with none to save (41-42); made head of nations as foreigners cower and come trembling (43-45)."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Psalm 18 – The LORD Lives!",
+          "reference": "18:46-48",
+          "why_start_end_and_devices": "Doxological turn: blessed be the Rock, the God who avenges and rescues from violent men."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "Psalm 18 – Loving Devotion to His Anointed",
+          "reference": "18:49-50",
+          "why_start_end_and_devices": "Closing vow to praise among the nations, sealed by covenant — 'to David and his descendants forever.'"
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "Psalm 19 – The Heavens Declare the Glory of God",
+          "reference": "19:1-6",
+          "why_start_end_and_devices": "General revelation: the wordless speech of sky pouring forth knowledge (1-4), the sun like a bridegroom running its circuit (5-6)."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Psalm 19 – The Law of the LORD Is Perfect",
+          "reference": "19:7-9",
+          "why_start_end_and_devices": "Special revelation: six poised lines on law, testimony, precepts, commandment, fear, and judgments — reviving, sure, right, radiant."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "Psalm 19 – Sweeter than Honey",
+          "reference": "19:10-14",
+          "why_start_end_and_devices": "Torah more precious than gold (10-11), the prayer to be cleansed of hidden and willful sins (12-13), closing on acceptable words and meditation (14)."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Psalm 20 – May the LORD Answer You",
+          "reference": "20:1-5",
+          "why_start_end_and_devices": "Intercession for the king before battle: help from the sanctuary, accepted offerings, and granted petitions; Selah."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "Psalm 20 – Some Trust in Chariots",
+          "reference": "20:6-9",
+          "why_start_end_and_devices": "Confidence — 'now I know the LORD saves His anointed'; the contrast of horses with the name of the LORD; 'O LORD, save the king.'"
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "Psalm 21 – The King Rejoices in Your Strength",
+          "reference": "21:1-4",
+          "why_start_end_and_devices": "Thanksgiving for the king: granted his heart's desire, crowned with gold, given length of days forever; Selah."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "Psalm 21 – Splendor and Majesty",
+          "reference": "21:5-7",
+          "why_start_end_and_devices": "The king's glory and everlasting blessings, grounded in trust — 'through the devotion of the Most High he will not be shaken.'"
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "Psalm 21 – Your Hand Will Find Your Foes",
+          "reference": "21:8-13",
+          "why_start_end_and_devices": "Address shifting to judgment of enemies in the fiery furnace of His appearing (8-12), closing 'Be exalted, O LORD' (13)."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "Psalm 22 – My God, Why Have You Forsaken Me?",
+          "reference": "22:1-2",
+          "why_start_end_and_devices": "The cry of dereliction: forsaken and unanswered by day and night — the opening of the great passion psalm."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "Psalm 22 – Yet You Are Holy",
+          "reference": "22:3-5",
+          "why_start_end_and_devices": "The turn to the fathers' trust: enthroned on Israel's praises, He delivered those who cried and trusted."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Psalm 22 – Scorned and Despised",
+          "reference": "22:6-8",
+          "why_start_end_and_devices": "'I am a worm, not a man' — mockers shake their heads, taunting 'let the LORD deliver him.'"
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "Psalm 22 – From My Mother's Womb",
+          "reference": "22:9-11",
+          "why_start_end_and_devices": "Appeal to lifelong dependence from birth, with the petition 'be not far from me, for trouble is near.'"
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "Psalm 22 – Poured Out Like Water",
+          "reference": "22:12-15",
+          "why_start_end_and_devices": "The suffering deepens: bulls of Bashan, lions' jaws, disjointed bones, melting heart, 'You lay me in the dust of death.'"
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "Psalm 22 – They Pierced My Hands and Feet",
+          "reference": "22:16-18",
+          "why_start_end_and_devices": "The crucifixion imagery: encircling dogs, counted bones, garments divided and cast for by lot."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "Psalm 22 – Deliver My Soul from the Sword",
+          "reference": "22:19-21",
+          "why_start_end_and_devices": "The last cries for rescue from sword, lion, and wild oxen — ending 'You have answered me!'"
+        },
+        {
+          "scene_number": 79,
+          "scene_name": "Psalm 22 – I Will Proclaim Your Name",
+          "reference": "22:22-24",
+          "why_start_end_and_devices": "The vow of praise in the assembly; the LORD has not despised the affliction of the afflicted."
+        },
+        {
+          "scene_number": 80,
+          "scene_name": "Psalm 22 – The Ends of the Earth Will Turn",
+          "reference": "22:25-28",
+          "why_start_end_and_devices": "Widening praise: the poor satisfied, all the earth's families bowing, for dominion belongs to the LORD."
+        },
+        {
+          "scene_number": 81,
+          "scene_name": "Psalm 22 – To a People Yet Unborn",
+          "reference": "22:29-31",
+          "why_start_end_and_devices": "The cosmic reach into the future — posterity will serve Him and proclaim His righteousness, 'all that He has done.'"
+        },
+        {
+          "scene_number": 82,
+          "scene_name": "Psalm 23 – The LORD Is My Shepherd",
+          "reference": "23:1-6",
+          "why_start_end_and_devices": "Complete shepherd psalm: green pastures and quiet waters, the valley of shadow, the prepared table, and dwelling in the house of the LORD forever."
+        },
+        {
+          "scene_number": 83,
+          "scene_name": "Psalm 24 – The Earth Is the LORD's",
+          "reference": "24:1-2",
+          "why_start_end_and_devices": "Creation claim: the world and all its dwellers belong to Him who founded it on the seas."
+        },
+        {
+          "scene_number": 84,
+          "scene_name": "Psalm 24 – Clean Hands and a Pure Heart",
+          "reference": "24:3-6",
+          "why_start_end_and_devices": "Entrance liturgy: who may ascend the hill of the LORD — those who do not lift their soul to an idol; Selah."
+        },
+        {
+          "scene_number": 85,
+          "scene_name": "Psalm 24 – Lift Up Your Heads, O Gates",
+          "reference": "24:7-10",
+          "why_start_end_and_devices": "Antiphonal procession: the ancient doors open for the King of Glory, 'the LORD of Hosts'; Selah."
+        },
+        {
+          "scene_number": 86,
+          "scene_name": "Psalm 25 – To You I Lift Up My Soul",
+          "reference": "25:1-3",
+          "why_start_end_and_devices": "Acrostic opens: trust that none who wait for the LORD will be put to shame."
+        },
+        {
+          "scene_number": 87,
+          "scene_name": "Psalm 25 – Show Me Your Ways",
+          "reference": "25:4-7",
+          "why_start_end_and_devices": "Petition for guidance and mercy — 'remember not the sins of my youth' — grounded in the LORD's age-old compassion."
+        },
+        {
+          "scene_number": 88,
+          "scene_name": "Psalm 25 – Good and Upright Is the LORD",
+          "reference": "25:8-10",
+          "why_start_end_and_devices": "He guides the humble and teaches sinners; all His ways loving and faithful to covenant-keepers."
+        },
+        {
+          "scene_number": 89,
+          "scene_name": "Psalm 25 – The Friendship of the LORD",
+          "reference": "25:11-14",
+          "why_start_end_and_devices": "Plea for pardon of great iniquity (11) and the promise that the LORD confides His covenant to those who fear Him (12-14)."
+        },
+        {
+          "scene_number": 90,
+          "scene_name": "Psalm 25 – Turn to Me, I Am Lonely",
+          "reference": "25:15-18",
+          "why_start_end_and_devices": "Eyes ever on the LORD (15) amid loneliness, multiplying troubles, and the plea to take away all sins."
+        },
+        {
+          "scene_number": 91,
+          "scene_name": "Psalm 25 – Redeem Israel, O God",
+          "reference": "25:19-22",
+          "why_start_end_and_devices": "Final petition against many fierce enemies, sheltering in integrity, widening to the nation: 'Redeem Israel from all its distress.'"
+        },
+        {
+          "scene_number": 92,
+          "scene_name": "Psalm 26 – Vindicate Me, for I Have Walked in Integrity",
+          "reference": "26:1-3",
+          "why_start_end_and_devices": "Plea of the innocent: 'test me… examine my heart,' walking in God's truth and devotion."
+        },
+        {
+          "scene_number": 93,
+          "scene_name": "Psalm 26 – I Do Not Sit with the Deceitful",
+          "reference": "26:4-7",
+          "why_start_end_and_devices": "Protestation of separation from the wicked, balanced by washed hands going about the altar in thanksgiving."
+        },
+        {
+          "scene_number": 94,
+          "scene_name": "Psalm 26 – I Love the House Where You Dwell",
+          "reference": "26:8-12",
+          "why_start_end_and_devices": "Love for God's dwelling (8) with the plea not to be swept away with sinners (9-10); 'my feet stand on level ground' (11-12)."
+        },
+        {
+          "scene_number": 95,
+          "scene_name": "Psalm 27 – The LORD Is My Light and Salvation",
+          "reference": "27:1-3",
+          "why_start_end_and_devices": "Bold confidence: 'whom shall I fear?' — though an army encamps, the heart will not fear."
+        },
+        {
+          "scene_number": 96,
+          "scene_name": "Psalm 27 – One Thing I Have Asked",
+          "reference": "27:4-6",
+          "why_start_end_and_devices": "The single desire to dwell in the house of the LORD and gaze on His beauty; hidden in His shelter, lifted high on a rock."
+        },
+        {
+          "scene_number": 97,
+          "scene_name": "Psalm 27 – Your Face, O LORD, I Will Seek",
+          "reference": "27:7-10",
+          "why_start_end_and_devices": "The turn to petition — 'hide not Your face' — resting on the promise 'though father and mother forsake me, the LORD will receive me.'"
+        },
+        {
+          "scene_number": 98,
+          "scene_name": "Psalm 27 – Wait for the LORD",
+          "reference": "27:11-14",
+          "why_start_end_and_devices": "Plea against false witnesses (11-12), the certainty of seeing His goodness in the land of the living (13), and the closing charge to wait courageously (14)."
+        },
+        {
+          "scene_number": 99,
+          "scene_name": "Psalm 28 – Be Not Deaf to Me, O My Rock",
+          "reference": "28:1-2",
+          "why_start_end_and_devices": "Cry against the silence of God, lifting hands toward His holy sanctuary."
+        },
+        {
+          "scene_number": 100,
+          "scene_name": "Psalm 28 – Do Not Drag Me Away with the Wicked",
+          "reference": "28:3-5",
+          "why_start_end_and_devices": "Plea to be spared the fate of the deceitful, who will be torn down for ignoring the works of the LORD."
+        },
+        {
+          "scene_number": 101,
+          "scene_name": "Psalm 28 – The LORD Is My Strength and Shield",
+          "reference": "28:6-9",
+          "why_start_end_and_devices": "Sudden praise — the cry has been heard (6-7) — widening to intercession: 'Save Your people… shepherd them forever' (8-9)."
+        },
+        {
+          "scene_number": 102,
+          "scene_name": "Psalm 29 – Ascribe to the LORD Glory",
+          "reference": "29:1-2",
+          "why_start_end_and_devices": "Summons to the heavenly beings to worship in the splendor of holiness."
+        },
+        {
+          "scene_number": 103,
+          "scene_name": "Psalm 29 – The Voice of the LORD over the Waters",
+          "reference": "29:3-6",
+          "why_start_end_and_devices": "The thunder-theophany: His voice breaks the cedars of Lebanon and makes the mountains skip."
+        },
+        {
+          "scene_number": 104,
+          "scene_name": "Psalm 29 – The Voice That Shakes the Wilderness",
+          "reference": "29:7-9",
+          "why_start_end_and_devices": "Flames of fire, the shaken Wilderness of Kadesh, the twisted oaks — and in His temple all cry, 'Glory!'"
+        },
+        {
+          "scene_number": 105,
+          "scene_name": "Psalm 29 – Enthroned over the Flood",
+          "reference": "29:10-11",
+          "why_start_end_and_devices": "The LORD enthroned as eternal King who gives His people strength and blesses them with peace."
+        },
+        {
+          "scene_number": 106,
+          "scene_name": "Psalm 30 – You Lifted Me Up",
+          "reference": "30:1-3",
+          "why_start_end_and_devices": "Temple-dedication thanksgiving: healed and drawn up from Sheol, not letting foes rejoice."
+        },
+        {
+          "scene_number": 107,
+          "scene_name": "Psalm 30 – Joy Comes in the Morning",
+          "reference": "30:4-5",
+          "why_start_end_and_devices": "Call to the saints to praise: His anger fleeting, His favor a lifetime — 'weeping may stay the night, but joy comes in the morning.'"
+        },
+        {
+          "scene_number": 108,
+          "scene_name": "Psalm 30 – When You Hid Your Face",
+          "reference": "30:6-10",
+          "why_start_end_and_devices": "From false security (6) to dismay when God hid His face (7), and the bargaining cry from the Pit (8-10)."
+        },
+        {
+          "scene_number": 109,
+          "scene_name": "Psalm 30 – Mourning into Dancing",
+          "reference": "30:11-12",
+          "why_start_end_and_devices": "The reversal: sackcloth stripped and joy put on, that the heart may sing and give thanks forever."
+        },
+        {
+          "scene_number": 110,
+          "scene_name": "Psalm 31 – In You I Take Refuge",
+          "reference": "31:1-3",
+          "why_start_end_and_devices": "Opening trust: 'be my rock of refuge,' led and guided for the sake of His name."
+        },
+        {
+          "scene_number": 111,
+          "scene_name": "Psalm 31 – Into Your Hands I Commit My Spirit",
+          "reference": "31:4-6",
+          "why_start_end_and_devices": "Freed from the hidden net (4); the entrusting word later spoken by Christ (5); hatred of idols, trust in the LORD (6)."
+        },
+        {
+          "scene_number": 112,
+          "scene_name": "Psalm 31 – Wasting Away with Grief",
+          "reference": "31:7-10",
+          "why_start_end_and_devices": "Gladness in His devotion (7-8) turning to lament — eyes failing, life consumed, bones wasting (9-10)."
+        },
+        {
+          "scene_number": 113,
+          "scene_name": "Psalm 31 – A Broken Vessel",
+          "reference": "31:11-13",
+          "why_start_end_and_devices": "Social desolation: a disgrace to neighbors, dreaded by friends, forgotten like the dead, surrounded by terror and plots."
+        },
+        {
+          "scene_number": 114,
+          "scene_name": "Psalm 31 – My Times Are in Your Hands",
+          "reference": "31:14-16",
+          "why_start_end_and_devices": "The pivot of trust — 'You are my God; my times are in Your hands' — with the plea for a shining face."
+        },
+        {
+          "scene_number": 115,
+          "scene_name": "Psalm 31 – How Great Is Your Goodness",
+          "reference": "31:17-20",
+          "why_start_end_and_devices": "Plea against lying lips (17-18) leading to wonder at the goodness stored up and the hiding place of God's presence (19-20)."
+        },
+        {
+          "scene_number": 116,
+          "scene_name": "Psalm 31 – Be Strong, All Who Hope in the LORD",
+          "reference": "31:21-24",
+          "why_start_end_and_devices": "Blessing for devotion shown in a besieged city (21-22), closing with the charge to love the LORD and take courage (23-24)."
+        },
+        {
+          "scene_number": 117,
+          "scene_name": "Psalm 32 – Blessed Is He Whose Sin Is Covered",
+          "reference": "32:1-2",
+          "why_start_end_and_devices": "Maskil beatitude on forgiveness — the man against whom the LORD counts no iniquity."
+        },
+        {
+          "scene_number": 118,
+          "scene_name": "Psalm 32 – When I Kept Silent",
+          "reference": "32:3-5",
+          "why_start_end_and_devices": "The cost of concealment — wasting bones and heavy hand (3-4) — broken by confession and instant forgiveness (5); Selahs."
+        },
+        {
+          "scene_number": 119,
+          "scene_name": "Psalm 32 – You Are My Hiding Place",
+          "reference": "32:6-7",
+          "why_start_end_and_devices": "The godly pray while God may be found; He is the hiding place surrounding with songs of deliverance; Selah."
+        },
+        {
+          "scene_number": 120,
+          "scene_name": "Psalm 32 – I Will Instruct You",
+          "reference": "32:8-11",
+          "why_start_end_and_devices": "God's promise to teach the way (8), the warning not to be like a senseless mule (9), and the contrast of the wicked's sorrows with the joy of the upright (10-11)."
+        },
+        {
+          "scene_number": 121,
+          "scene_name": "Psalm 33 – Sing to Him a New Song",
+          "reference": "33:1-3",
+          "why_start_end_and_devices": "Hymn opening: fitting praise from the upright, with harp and ten-stringed lyre and a shout of joy."
+        },
+        {
+          "scene_number": 122,
+          "scene_name": "Psalm 33 – By the Word of the LORD",
+          "reference": "33:4-7",
+          "why_start_end_and_devices": "God's trustworthy word and love (4-5) by which the heavens were made and the seas gathered into storehouses (6-7)."
+        },
+        {
+          "scene_number": 123,
+          "scene_name": "Psalm 33 – He Spoke, and It Came to Be",
+          "reference": "33:8-12",
+          "why_start_end_and_devices": "The earth summoned to fear (8-9); the LORD frustrates the nations' plans, but His counsel stands forever — 'blessed is the nation whose God is the LORD' (10-12)."
+        },
+        {
+          "scene_number": 124,
+          "scene_name": "Psalm 33 – The LORD Looks Down from Heaven",
+          "reference": "33:13-15",
+          "why_start_end_and_devices": "The all-seeing Maker who fashions every heart and weighs all their works."
+        },
+        {
+          "scene_number": 125,
+          "scene_name": "Psalm 33 – No King Saved by His Army",
+          "reference": "33:16-19",
+          "why_start_end_and_devices": "The vanity of horse and army for salvation (16-17); the LORD's eye is on those who hope in His devotion, to keep them alive in famine (18-19)."
+        },
+        {
+          "scene_number": 126,
+          "scene_name": "Psalm 33 – Our Soul Waits for the LORD",
+          "reference": "33:20-22",
+          "why_start_end_and_devices": "Closing confidence — He is our help and shield — with the prayer that His devotion rest on those who hope in Him."
+        },
+        {
+          "scene_number": 127,
+          "scene_name": "Psalm 34 – I Will Bless the LORD at All Times",
+          "reference": "34:1-3",
+          "why_start_end_and_devices": "Acrostic thanksgiving opens with the summons to magnify the LORD together; the afflicted invited to rejoice."
+        },
+        {
+          "scene_number": 128,
+          "scene_name": "Psalm 34 – Taste and See",
+          "reference": "34:4-7",
+          "why_start_end_and_devices": "Sought the LORD and was delivered (4); faces radiant, unashamed (5-6); the angel of the LORD encamps around those who fear Him (7)."
+        },
+        {
+          "scene_number": 129,
+          "scene_name": "Psalm 34 – Those Who Fear Him Lack Nothing",
+          "reference": "34:8-10",
+          "why_start_end_and_devices": "'Taste and see that the LORD is good' (8); even young lions go hungry, but seekers of the LORD lack no good thing (9-10)."
+        },
+        {
+          "scene_number": 130,
+          "scene_name": "Psalm 34 – Keep Your Tongue from Evil",
+          "reference": "34:11-14",
+          "why_start_end_and_devices": "Wisdom instruction: who desires life must keep tongue from evil, turn from evil, and pursue peace."
+        },
+        {
+          "scene_number": 131,
+          "scene_name": "Psalm 34 – The LORD Is Near the Brokenhearted",
+          "reference": "34:15-18",
+          "why_start_end_and_devices": "The eyes and ears of the LORD toward the righteous (15-17); 'the LORD is near to the brokenhearted… saves the contrite in spirit' (18)."
+        },
+        {
+          "scene_number": 132,
+          "scene_name": "Psalm 34 – Not One of His Bones Broken",
+          "reference": "34:19-22",
+          "why_start_end_and_devices": "Many afflictions but full deliverance (19), the protected unbroken bones (20), and the redemption of His servants from condemnation (21-22)."
+        },
+        {
+          "scene_number": 133,
+          "scene_name": "Psalm 35 – Contend with My Opponents",
+          "reference": "35:1-3",
+          "why_start_end_and_devices": "Lament as appeal to the divine Warrior: 'take up shield and spear… say to my soul, I am your salvation.'"
+        },
+        {
+          "scene_number": 134,
+          "scene_name": "Psalm 35 – Like Chaff in the Wind",
+          "reference": "35:4-6",
+          "why_start_end_and_devices": "Imprecation that those who seek his life be driven back like chaff, the angel of the LORD pursuing."
+        },
+        {
+          "scene_number": 135,
+          "scene_name": "Psalm 35 – Caught in Their Own Net",
+          "reference": "35:7-10",
+          "why_start_end_and_devices": "The hidden net springing on its makers (7-8) and the rejoicing response of every bone, 'Who is like You, O LORD?' (9-10)."
+        },
+        {
+          "scene_number": 136,
+          "scene_name": "Psalm 35 – They Repay Evil for Good",
+          "reference": "35:11-14",
+          "why_start_end_and_devices": "The betrayal: hostile witnesses repay the kindness he showed when he mourned and fasted for them in their illness."
+        },
+        {
+          "scene_number": 137,
+          "scene_name": "Psalm 35 – Glee at My Stumbling",
+          "reference": "35:15-18",
+          "why_start_end_and_devices": "Mockers gathering in malice and gnashing teeth (15-16), the cry 'how long?', and the vow to thank Him in the great assembly (17-18)."
+        },
+        {
+          "scene_number": 138,
+          "scene_name": "Psalm 35 – Aha, Aha! Our Eyes Have Seen",
+          "reference": "35:19-21",
+          "why_start_end_and_devices": "The gloating of treacherous foes who do not speak peace but devise deceit against the quiet of the land."
+        },
+        {
+          "scene_number": 139,
+          "scene_name": "Psalm 35 – You Have Seen It, O LORD",
+          "reference": "35:22-24",
+          "why_start_end_and_devices": "Plea that the LORD not stay silent but awake to vindicate by His righteousness."
+        },
+        {
+          "scene_number": 140,
+          "scene_name": "Psalm 35 – Shout for Joy at My Vindication",
+          "reference": "35:25-28",
+          "why_start_end_and_devices": "That gloaters be clothed in shame (25-26) while those who favor his cause rejoice (27); closing in all-day praise (28)."
+        },
+        {
+          "scene_number": 141,
+          "scene_name": "Psalm 36 – No Fear of God Before His Eyes",
+          "reference": "36:1-4",
+          "why_start_end_and_devices": "Oracle on the wicked: flattering self-deceit, deceitful speech, and bedtime plotting of a path that is not good."
+        },
+        {
+          "scene_number": 142,
+          "scene_name": "Psalm 36 – Your Loving Devotion Reaches the Heavens",
+          "reference": "36:5-9",
+          "why_start_end_and_devices": "The great contrast — God's love to the clouds, righteousness like mountains (5-6), the feast of His house and 'the fountain of life; in Your light we see light' (7-9)."
+        },
+        {
+          "scene_number": 143,
+          "scene_name": "Psalm 36 – There the Evildoers Lie Fallen",
+          "reference": "36:10-12",
+          "why_start_end_and_devices": "Prayer to extend His devotion to the upright (10-11), sealed by the vision of the proud thrown down, unable to rise (12)."
+        },
+        {
+          "scene_number": 144,
+          "scene_name": "Psalm 37 – Do Not Fret Because of Evildoers",
+          "reference": "37:1-2",
+          "why_start_end_and_devices": "Acrostic wisdom opens: do not envy the wicked, for they wither quickly like grass."
+        },
+        {
+          "scene_number": 145,
+          "scene_name": "Psalm 37 – Delight Yourself in the LORD",
+          "reference": "37:3-6",
+          "why_start_end_and_devices": "The fourfold counsel — trust, delight, commit, be still — and the promise He will bring forth your righteousness like the dawn."
+        },
+        {
+          "scene_number": 146,
+          "scene_name": "Psalm 37 – Refrain from Anger",
+          "reference": "37:7-9",
+          "why_start_end_and_devices": "Be still and wait patiently; do not fret over those who prosper, for evildoers will be cut off but the hopeful inherit the land."
+        },
+        {
+          "scene_number": 147,
+          "scene_name": "Psalm 37 – The Meek Will Inherit the Land",
+          "reference": "37:10-11",
+          "why_start_end_and_devices": "'Yet a little while' and the wicked are gone, while the meek delight in abundant prosperity."
+        },
+        {
+          "scene_number": 148,
+          "scene_name": "Psalm 37 – Their Swords Pierce Their Own Hearts",
+          "reference": "37:12-15",
+          "why_start_end_and_devices": "The wicked scheme and gnash (12-13), draw sword and bow against the poor (14), but their own weapons turn on them (15)."
+        },
+        {
+          "scene_number": 149,
+          "scene_name": "Psalm 37 – Better the Little of the Righteous",
+          "reference": "37:16-20",
+          "why_start_end_and_devices": "The little of the righteous over the wealth of the wicked (16-17); the LORD knows the days of the blameless (18-19); the wicked vanish like smoke (20)."
+        },
+        {
+          "scene_number": 150,
+          "scene_name": "Psalm 37 – The Steps of a Man Are Ordered",
+          "reference": "37:21-24",
+          "why_start_end_and_devices": "The generous righteous inherit the land (21-22); their steps ordered by the LORD, upheld by His hand when they fall (23-24)."
+        },
+        {
+          "scene_number": 151,
+          "scene_name": "Psalm 37 – I Was Young and Now Am Old",
+          "reference": "37:25-28",
+          "why_start_end_and_devices": "The testimony of long life — the righteous never abandoned (25-26) — grounded in the LORD who loves justice and preserves His saints (27-28)."
+        },
+        {
+          "scene_number": 152,
+          "scene_name": "Psalm 37 – The Law in His Heart",
+          "reference": "37:29-31",
+          "why_start_end_and_devices": "The righteous inherit the land forever (29); the mouth that utters wisdom and the law kept in the heart (30-31)."
+        },
+        {
+          "scene_number": 153,
+          "scene_name": "Psalm 37 – Wait and Keep His Way",
+          "reference": "37:32-34",
+          "why_start_end_and_devices": "Though the wicked lie in wait (32-33), the LORD will not abandon the righteous to their power; wait and you will see the wicked cut off (34)."
+        },
+        {
+          "scene_number": 154,
+          "scene_name": "Psalm 37 – The Wicked Flourishing, Then Gone",
+          "reference": "37:35-38",
+          "why_start_end_and_devices": "A ruthless man flourishing like a green tree, then vanished (35-36); the future of the man of peace against the cutoff of transgressors (37-38)."
+        },
+        {
+          "scene_number": 155,
+          "scene_name": "Psalm 37 – Their Stronghold in Trouble",
+          "reference": "37:39-40",
+          "why_start_end_and_devices": "Closing creed: salvation of the righteous is from the LORD, their refuge and rescue."
+        },
+        {
+          "scene_number": 156,
+          "scene_name": "Psalm 38 – Do Not Rebuke Me in Your Anger",
+          "reference": "38:1-4",
+          "why_start_end_and_devices": "Penitential lament: God's arrows and heavy hand (1-2), no soundness because of sin, iniquities a crushing burden (3-4)."
+        },
+        {
+          "scene_number": 157,
+          "scene_name": "Psalm 38 – Festering Wounds",
+          "reference": "38:5-8",
+          "why_start_end_and_devices": "The bodily ruin of guilt — foul wounds, bowed low, burning pain, groaning in anguish of heart."
+        },
+        {
+          "scene_number": 158,
+          "scene_name": "Psalm 38 – My Friends Stand Aloof",
+          "reference": "38:9-12",
+          "why_start_end_and_devices": "Every desire laid bare before God (9), failing strength (10), friends and kinsmen keeping their distance while enemies plot (11-12)."
+        },
+        {
+          "scene_number": 159,
+          "scene_name": "Psalm 38 – Like a Deaf and Mute Man",
+          "reference": "38:13-16",
+          "why_start_end_and_devices": "Silent before slander (13-14), waiting on the LORD to answer (15), lest the enemy gloat when his foot slips (16)."
+        },
+        {
+          "scene_number": 160,
+          "scene_name": "Psalm 38 – I Confess My Iniquity",
+          "reference": "38:17-20",
+          "why_start_end_and_devices": "Ready to fall and confessing sin (17-18) while enemies repay good with evil and attack his pursuit of good (19-20)."
+        },
+        {
+          "scene_number": 161,
+          "scene_name": "Psalm 38 – Come Quickly to Help Me",
+          "reference": "38:21-22",
+          "why_start_end_and_devices": "The closing cry not to be forsaken: 'come quickly to help me, O Lord my Savior.'"
+        },
+        {
+          "scene_number": 162,
+          "scene_name": "Psalm 39 – I Will Guard My Mouth",
+          "reference": "39:1-3",
+          "why_start_end_and_devices": "Resolve to keep silent before the wicked (1-2) until the inner fire burns and he must speak (3)."
+        },
+        {
+          "scene_number": 163,
+          "scene_name": "Psalm 39 – The Measure of My Days",
+          "reference": "39:4-6",
+          "why_start_end_and_devices": "Meditation on mortality: life as a handbreadth, every man a mere breath who bustles in vain; Selah."
+        },
+        {
+          "scene_number": 164,
+          "scene_name": "Psalm 39 – My Hope Is in You",
+          "reference": "39:7-11",
+          "why_start_end_and_devices": "Hope turned to God (7), plea for deliverance from transgressions (8), silence under God's hand (9-10), and the moth-like fading of man (11); Selah."
+        },
+        {
+          "scene_number": 165,
+          "scene_name": "Psalm 39 – A Stranger Like All My Fathers",
+          "reference": "39:12-13",
+          "why_start_end_and_devices": "The closing plea of the sojourner that God turn His gaze and let him be cheered before he departs."
+        },
+        {
+          "scene_number": 166,
+          "scene_name": "Psalm 40 – He Put a New Song in My Mouth",
+          "reference": "40:1-3",
+          "why_start_end_and_devices": "Thanksgiving: lifted from the miry pit and set on a rock, given a new song that many will see and fear."
+        },
+        {
+          "scene_number": 167,
+          "scene_name": "Psalm 40 – Your Wonders Are More Than I Can Count",
+          "reference": "40:4-5",
+          "why_start_end_and_devices": "The beatitude on trust (4) and the wonder at God's innumerable works and plans (5)."
+        },
+        {
+          "scene_number": 168,
+          "scene_name": "Psalm 40 – I Delight to Do Your Will",
+          "reference": "40:6-8",
+          "why_start_end_and_devices": "Sacrifice not desired but opened ears (6); 'Here I am… I delight to do Your will; Your law is within my heart' (7-8)."
+        },
+        {
+          "scene_number": 169,
+          "scene_name": "Psalm 40 – I Did Not Seal My Lips",
+          "reference": "40:9-10",
+          "why_start_end_and_devices": "The proclamation of righteousness, faithfulness, and salvation, unconcealed, in the great assembly."
+        },
+        {
+          "scene_number": 170,
+          "scene_name": "Psalm 40 – Evils Without Number Surround Me",
+          "reference": "40:11-13",
+          "why_start_end_and_devices": "The lament pivot: mercy implored (11) as countless evils and sins overtake him (12); 'hurry, O LORD, to help me' (13)."
+        },
+        {
+          "scene_number": 171,
+          "scene_name": "Psalm 40 – I Am Poor and Needy",
+          "reference": "40:14-17",
+          "why_start_end_and_devices": "Imprecation on those who seek his life (14-15), joy for all who seek God (16), and the closing cry, 'do not delay' (17)."
+        },
+        {
+          "scene_number": 172,
+          "scene_name": "Psalm 41 – Blessed Is He Who Cares for the Poor",
+          "reference": "41:1-3",
+          "why_start_end_and_devices": "Beatitude on compassion: the LORD protects, preserves, and sustains him on his sickbed."
+        },
+        {
+          "scene_number": 173,
+          "scene_name": "Psalm 41 – When Will He Die?",
+          "reference": "41:4-6",
+          "why_start_end_and_devices": "Confession 'heal me, for I have sinned' (4) against the malice of enemies who wish his death and spread slander (5-6)."
+        },
+        {
+          "scene_number": 174,
+          "scene_name": "Psalm 41 – My Close Friend Lifted His Heel",
+          "reference": "41:7-9",
+          "why_start_end_and_devices": "The deepest wound of betrayal — the trusted friend who shared his bread has turned against him."
+        },
+        {
+          "scene_number": 175,
+          "scene_name": "Psalm 41 – From Everlasting to Everlasting",
+          "reference": "41:10-13",
+          "why_start_end_and_devices": "Plea to be raised up (10-11), upheld in integrity (12), sealed by the doxology that closes Book I: 'Blessed be the LORD… Amen and Amen' (13)."
         }
       ]
     },
@@ -86,33 +1070,873 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Psalms 42–43 – The Soul's Thirst for God",
-          "reference": "42:1-11",
-          "why_start_end_and_devices": "Three‑strophe poem unified by refrain (42:5, 11; 43:5). Memorization sub‑chunks: 42:1–5 (thirst), 42:6–11 (exile prayer), 43:1–5 (vindication and light)."
+          "scene_name": "Psalm 42 – As the Deer Pants",
+          "reference": "42:1-5",
+          "why_start_end_and_devices": "Korahite Maskil; opening strophe of the 42–43 unit: thirst for the living God amid taunts, sealed by the refrain 'Why are you downcast, O my soul?' (5)."
         },
         {
           "scene_number": 2,
-          "scene_name": "Psalm 43 – Plea for Vindication",
-          "reference": "43:1-5",
-          "why_start_end_and_devices": "Continuation and conclusion of the 42–43 refrain structure; plea for light and truth leading to God's altar."
+          "scene_name": "Psalm 42 – Deep Calls to Deep",
+          "reference": "42:6-11",
+          "why_start_end_and_devices": "From the land of Jordan and Hermon (6-7) the despairing soul recalls God's song by night and repeats the refrain (11)."
         },
         {
           "scene_number": 3,
-          "scene_name": "Psalm 50 – God as Judge",
-          "reference": "50:1-23",
-          "why_start_end_and_devices": "Covenant lawsuit: narrator (1), theophany (2–6), case against 'saints' (7–15), case against 'wicked' (16–21), concluding warning (22–23). Selah at 6, 15."
+          "scene_name": "Psalm 43 – Send Out Your Light and Truth",
+          "reference": "43:1-5",
+          "why_start_end_and_devices": "Conclusion of the 42–43 poem: plea for vindication and for the light that leads to God's altar, closing on the third refrain (5)."
         },
         {
           "scene_number": 4,
-          "scene_name": "Psalm 51 – The Great Penitential",
-          "reference": "51:1-19",
-          "why_start_end_and_devices": "Model repentance: mercy (1–2), confession (3–6), cleansing (7–12), vow (13–17), plea for Zion (18–19)."
+          "scene_name": "Psalm 44 – We Have Heard with Our Ears",
+          "reference": "44:1-3",
+          "why_start_end_and_devices": "Communal psalm opens with the fathers' testimony: the land won not by sword but by God's right hand and the light of His face."
         },
         {
           "scene_number": 5,
-          "scene_name": "Psalm 72 – The King's Prayer and Doxology",
-          "reference": "72:1-20",
-          "why_start_end_and_devices": "Royal prayer (1–17) followed by editorial doxology (18–20) concluding Book II with 'Amen and Amen' and colophon (v. 20)."
+          "scene_name": "Psalm 44 – You Are My King, O God",
+          "reference": "44:4-8",
+          "why_start_end_and_devices": "Present confession of dependence — not trusting bow or sword — boasting in God's name all day long; Selah."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Psalm 44 – But You Have Rejected Us",
+          "reference": "44:9-12",
+          "why_start_end_and_devices": "The bitter turn: routed before the foe, given up like sheep to be devoured, sold for nothing."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Psalm 44 – A Byword Among the Nations",
+          "reference": "44:13-16",
+          "why_start_end_and_devices": "The reproach of defeat — a mockery to neighbors, shame covering the face before scorner and reviler."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Psalm 44 – Yet We Have Not Forgotten You",
+          "reference": "44:17-19",
+          "why_start_end_and_devices": "The protest of innocence: hearts not turned back though crushed in the lair of jackals and covered with darkness."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Psalm 44 – As Sheep to Be Slaughtered",
+          "reference": "44:20-22",
+          "why_start_end_and_devices": "Appeal to the God who knows the heart's secrets — 'for Your sake we face death all day long.'"
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Psalm 44 – Wake Up, O Lord!",
+          "reference": "44:23-26",
+          "why_start_end_and_devices": "The audacious closing cry against God's apparent sleep: 'Rise up; be our help! Redeem us for Your loving devotion.'"
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Psalm 45 – My Heart Is Stirred by a Noble Theme",
+          "reference": "45:1-2",
+          "why_start_end_and_devices": "Royal wedding song opens: the poet's tongue a ready pen, addressing the king graced and blessed by God."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Psalm 45 – Ride Forth in Splendor",
+          "reference": "45:3-5",
+          "why_start_end_and_devices": "The warrior-king summoned to ride for truth and justice, his arrows piercing the hearts of his foes."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Psalm 45 – Your Throne, O God, Endures Forever",
+          "reference": "45:6-7",
+          "why_start_end_and_devices": "The psalm's height: the king addressed as God, anointed above his companions with the oil of joy (quoted of the Son in Heb 1)."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Psalm 45 – Garments Fragrant with Myrrh",
+          "reference": "45:8-9",
+          "why_start_end_and_devices": "The wedding scene: ivory palaces, glad harps, and the queen in gold of Ophir at the king's right hand."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Psalm 45 – Forget Your People, O Daughter",
+          "reference": "45:10-12",
+          "why_start_end_and_devices": "Counsel to the bride to leave her father's house so the king will desire her beauty, with tribute from Tyre."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Psalm 45 – Led to the King with Joy",
+          "reference": "45:13-15",
+          "why_start_end_and_devices": "The glorious procession of the gold-robed princess and her companions into the palace."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Psalm 45 – Your Name Through All Generations",
+          "reference": "45:16-17",
+          "why_start_end_and_devices": "Closing promise to the king: sons to succeed him as princes, and a name praised by the nations forever."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Psalm 46 – God Is Our Refuge and Strength",
+          "reference": "46:1-3",
+          "why_start_end_and_devices": "'An ever-present help in trouble'; no fear though earth gives way and mountains fall into the sea; Selah."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Psalm 46 – A River Gladdens the City of God",
+          "reference": "46:4-7",
+          "why_start_end_and_devices": "The unmoved city where the Most High dwells (4-5); nations rage and melt, but 'the LORD of Hosts is with us' (6-7); Selah."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Psalm 46 – Be Still and Know That I Am God",
+          "reference": "46:8-11",
+          "why_start_end_and_devices": "'Come, see the works of the LORD' who makes wars cease (8-9), and the divine self-declaration of exaltation (10-11); Selah."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Psalm 47 – Clap Your Hands, All Peoples",
+          "reference": "47:1-4",
+          "why_start_end_and_devices": "Enthronement summons: the great King over all the earth who subdues nations and chooses Jacob's inheritance; Selah."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Psalm 47 – God Has Ascended",
+          "reference": "47:5-9",
+          "why_start_end_and_devices": "God ascends amid shouts and horn-blast (5); the fivefold 'sing praises' (6-7); 'God reigns… seated on His holy throne' (8-9)."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Psalm 48 – Mount Zion, the City of the Great King",
+          "reference": "48:1-3",
+          "why_start_end_and_devices": "Zion-hymn: great is the LORD in His city, beautiful in loftiness, His citadels a proven fortress."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Psalm 48 – The Kings Saw and Fled",
+          "reference": "48:4-8",
+          "why_start_end_and_devices": "The assembled kings seized with labor-pangs of terror (4-6); ships of Tarshish wrecked; 'God will establish her forever' (7-8); Selah."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Psalm 48 – We Contemplate Your Devotion",
+          "reference": "48:9-11",
+          "why_start_end_and_devices": "Within the temple, meditation on God's love and the praise of His name reaching to the ends of the earth."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Psalm 48 – Walk About Zion",
+          "reference": "48:12-14",
+          "why_start_end_and_devices": "Survey her towers and ramparts to tell the next generation: 'this God is our God forever, our guide even to death.'"
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Psalm 49 – Hear This, All You Peoples",
+          "reference": "49:1-4",
+          "why_start_end_and_devices": "Wisdom psalm opens to low and high alike — the sage inclines his ear to a riddle solved with the harp."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Psalm 49 – No Man Can Redeem His Brother",
+          "reference": "49:5-9",
+          "why_start_end_and_devices": "The riddle stated: wealth cannot buy off death, for the ransom of a soul is forever beyond price."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Psalm 49 – Wise and Fool Alike Perish",
+          "reference": "49:10-12",
+          "why_start_end_and_devices": "All die and leave their wealth to others; despite named estates, man is 'like the beasts that perish.'"
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Psalm 49 – God Will Redeem My Soul",
+          "reference": "49:13-15",
+          "why_start_end_and_devices": "The fate of the self-confident — death their shepherd (13-14, Selah) — against the hope 'God will redeem my life from Sheol' (15)."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Psalm 49 – Do Not Be Afraid When a Man Grows Rich",
+          "reference": "49:16-20",
+          "why_start_end_and_devices": "The refrain-conclusion: the rich carry nothing away, and the man without understanding is like the beasts that perish."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Psalm 50 – God Summons the Earth",
+          "reference": "50:1-3",
+          "why_start_end_and_devices": "Asaph's covenant-lawsuit opens with theophany: from Zion God shines forth, fire and tempest before Him."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Psalm 50 – Gather to Me My Saints",
+          "reference": "50:4-6",
+          "why_start_end_and_devices": "God calls heaven and earth as witnesses to judge His covenant people; the heavens proclaim His righteousness; Selah."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Psalm 50 – The Cattle on a Thousand Hills",
+          "reference": "50:7-11",
+          "why_start_end_and_devices": "The first charge: God needs no bull from the stall, for every beast of the forest is already His."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Psalm 50 – Sacrifice a Thank Offering",
+          "reference": "50:12-15",
+          "why_start_end_and_devices": "What God desires is thanksgiving and kept vows — 'call upon Me in the day of trouble; I will deliver you.'"
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Psalm 50 – What Right Have You to Recite My Statutes?",
+          "reference": "50:16-18",
+          "why_start_end_and_devices": "The case against the wicked who mouth the covenant while befriending thieves and adulterers."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Psalm 50 – You Slander Your Own Brother",
+          "reference": "50:19-21",
+          "why_start_end_and_devices": "The tongue harnessed to deceit; God's silence mistaken for approval — 'now I rebuke you to your face.'"
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Psalm 50 – Consider This, You Who Forget God",
+          "reference": "50:22-23",
+          "why_start_end_and_devices": "The closing warning and promise: the thank offering honors Him, and the rightly ordered way sees His salvation."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Psalm 51 – Have Mercy on Me, O God",
+          "reference": "51:1-2",
+          "why_start_end_and_devices": "The great penitential opens after Nathan's rebuke: appeal to God's devotion to blot out and wash away sin."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Psalm 51 – Against You Only Have I Sinned",
+          "reference": "51:3-6",
+          "why_start_end_and_devices": "Confession laid bare — sin ever before him, sinful from conception, yet God desires truth in the inmost being."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Psalm 51 – Whiter Than Snow",
+          "reference": "51:7-9",
+          "why_start_end_and_devices": "Plea for cleansing with hyssop and for the crushed bones to rejoice, that God would hide His face from sin."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Psalm 51 – Create in Me a Clean Heart",
+          "reference": "51:10-12",
+          "why_start_end_and_devices": "The heart of the prayer: a renewed spirit, not cast from His presence, the joy of salvation restored."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Psalm 51 – Then I Will Teach Transgressors",
+          "reference": "51:13-15",
+          "why_start_end_and_devices": "The vow that flows from pardon: teaching sinners, singing of righteousness, lips opened to declare His praise."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Psalm 51 – A Broken and Contrite Heart",
+          "reference": "51:16-17",
+          "why_start_end_and_devices": "The sacrifice God will not despise is not burnt offering but a broken spirit."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Psalm 51 – Build Up the Walls of Jerusalem",
+          "reference": "51:18-19",
+          "why_start_end_and_devices": "The closing turn to Zion's good, when right sacrifices will again delight Him."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Psalm 52 – Why Boast of Evil, O Mighty Man?",
+          "reference": "52:1-4",
+          "why_start_end_and_devices": "Indictment of Doeg the informer: a tongue like a sharpened razor that loves devouring falsehood; Selah."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Psalm 52 – God Will Bring You Down",
+          "reference": "52:5-7",
+          "why_start_end_and_devices": "The certain ruin of the man who made wealth, not God, his refuge — at which the righteous will look and fear."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Psalm 52 – Like an Olive Tree in the House of God",
+          "reference": "52:8-9",
+          "why_start_end_and_devices": "The contrast of the psalmist: flourishing and trusting in God's devotion forever, waiting on His good name."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Psalm 53 – The Fool Says, 'No God'",
+          "reference": "53:1-6",
+          "why_start_end_and_devices": "Elohistic counterpart to Psalm 14: universal corruption, God looking down from heaven, and the longing for salvation out of Zion."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Psalm 54 – Save Me by Your Name",
+          "reference": "54:1-3",
+          "why_start_end_and_devices": "Plea when the Ziphites betrayed David: ruthless strangers with no regard for God seek his life; Selah."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Psalm 54 – Surely God Is My Helper",
+          "reference": "54:4-7",
+          "why_start_end_and_devices": "Confidence that God sustains the soul and will repay enemies, sealed by a freewill sacrifice of praise."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Psalm 55 – Listen to My Prayer, O God",
+          "reference": "55:1-3",
+          "why_start_end_and_devices": "Lament opens in restless complaint at the voice and pressure of the wicked who bring disaster."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Psalm 55 – Oh, for Wings Like a Dove!",
+          "reference": "55:4-8",
+          "why_start_end_and_devices": "Terror of death within (4-5) and the longing to fly far away to rest in the wilderness (6-8); Selah."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Psalm 55 – Violence and Strife in the City",
+          "reference": "55:9-11",
+          "why_start_end_and_devices": "Prayer to confound the conspirators' speech, for malice and oppression never leave the streets."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Psalm 55 – It Is You, My Companion",
+          "reference": "55:12-14",
+          "why_start_end_and_devices": "The wound of betrayal — not an enemy but a close friend with whom he walked to the house of God."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Psalm 55 – But I Call to God",
+          "reference": "55:15-16",
+          "why_start_end_and_devices": "Imprecation that death seize the treacherous (15) against the trust 'I call to God, and the LORD saves me' (16)."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "Psalm 55 – Morning, Noon, and Night I Cry",
+          "reference": "55:17-19",
+          "why_start_end_and_devices": "Threefold daily prayer heard; the One enthroned for the ages will humble those with no fear of God; Selah."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Psalm 55 – Smooth as Butter, Yet Drawn Swords",
+          "reference": "55:20-21",
+          "why_start_end_and_devices": "The traitor's covenant-breaking: speech softer than oil, but war in his heart."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Psalm 55 – Cast Your Burden on the LORD",
+          "reference": "55:22-23",
+          "why_start_end_and_devices": "The closing wisdom-word: He sustains the righteous, while men of bloodshed will not live out half their days."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Psalm 56 – When I Am Afraid, I Trust in You",
+          "reference": "56:1-4",
+          "why_start_end_and_devices": "Miktam from Gath: hounded all day, yet the refrain of faith — 'in God I trust… what can man do to me?'"
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "Psalm 56 – They Twist My Words",
+          "reference": "56:5-7",
+          "why_start_end_and_devices": "The conspiracy of foes who lurk for his life, met with the plea to cast down the nations in anger."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Psalm 56 – My Tears in Your Bottle",
+          "reference": "56:8-11",
+          "why_start_end_and_devices": "God's tender record of his wanderings (8) and the renewed refrain of trust without fear (9-11)."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "Psalm 56 – Walk Before God in the Light of Life",
+          "reference": "56:12-13",
+          "why_start_end_and_devices": "Vows of thanksgiving for a soul delivered from death and feet kept from stumbling."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "Psalm 57 – In the Shadow of Your Wings",
+          "reference": "57:1-3",
+          "why_start_end_and_devices": "Miktam from the cave: refuge under God's wings until danger passes, the Most High who fulfills His purpose; Selah."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Psalm 57 – My Soul Among Lions",
+          "reference": "57:4-6",
+          "why_start_end_and_devices": "Surrounded by men with sword-tongues (4); the refrain 'be exalted, O God' (5); the foes fallen into their own pit (6); Selah."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "Psalm 57 – Awake, My Glory!",
+          "reference": "57:7-8",
+          "why_start_end_and_devices": "The steadfast heart roused to song — harp and lyre summoned to 'awaken the dawn.'"
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Psalm 57 – I Will Praise You Among the Nations",
+          "reference": "57:9-11",
+          "why_start_end_and_devices": "Praise widening to the peoples, devotion reaching the heavens, sealed by the repeated 'be exalted, O God.'"
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "Psalm 58 – Do You Indeed Speak Justly, O Rulers?",
+          "reference": "58:1-2",
+          "why_start_end_and_devices": "Indictment of corrupt judges who devise injustice in their hearts and deal out violence."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "Psalm 58 – Venom Like a Cobra",
+          "reference": "58:3-5",
+          "why_start_end_and_devices": "The wicked estranged from the womb, deaf as a snake refusing the charmer's tune."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "Psalm 58 – Shatter Their Teeth, O God",
+          "reference": "58:6-8",
+          "why_start_end_and_devices": "Imprecation that the lions' fangs be torn out and they melt away like water, a slug, a stillbirth."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "Psalm 58 – A Reward for the Righteous",
+          "reference": "58:9-11",
+          "why_start_end_and_devices": "God sweeps them away before the pot feels the thorns (9); the righteous rejoice that 'there is a God who judges the earth' (10-11)."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "Psalm 59 – Deliver Me from My Enemies",
+          "reference": "59:1-3",
+          "why_start_end_and_devices": "Prayer as Saul watched David's house: fierce men lie in wait for no fault of his own."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "Psalm 59 – Rouse Yourself to Help Me",
+          "reference": "59:4-5",
+          "why_start_end_and_devices": "The cry to the LORD of Hosts to awake and visit the treacherous nations; Selah."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Psalm 59 – Snarling Like Dogs",
+          "reference": "59:6-8",
+          "why_start_end_and_devices": "The foes prowling the city with swords in their lips (6-7), met by the God who laughs at the nations (8)."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "Psalm 59 – You Are My Fortress",
+          "reference": "59:9-10",
+          "why_start_end_and_devices": "The refrain of watching for God his strength, who in devotion comes to meet him."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "Psalm 59 – That God Rules over Jacob",
+          "reference": "59:11-13",
+          "why_start_end_and_devices": "Prayer to scatter and consume the proud so the ends of the earth know that God rules; Selah."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "Psalm 59 – They Prowl for Food",
+          "reference": "59:14-15",
+          "why_start_end_and_devices": "The dog-refrain returns: foes scavenging and growling, unsatisfied."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "Psalm 59 – I Will Sing of Your Strength in the Morning",
+          "reference": "59:16-17",
+          "why_start_end_and_devices": "The closing contrast: morning song to the fortress and refuge in times of trouble."
+        },
+        {
+          "scene_number": 79,
+          "scene_name": "Psalm 60 – You Have Rejected Us, O God",
+          "reference": "60:1-3",
+          "why_start_end_and_devices": "Communal lament after a hard campaign: God has broken and shaken the land — 'restore us!'"
+        },
+        {
+          "scene_number": 80,
+          "scene_name": "Psalm 60 – A Banner for Those Who Fear You",
+          "reference": "60:4-5",
+          "why_start_end_and_devices": "The raised standard and the plea to save with God's right hand that His beloved be delivered; Selah."
+        },
+        {
+          "scene_number": 81,
+          "scene_name": "Psalm 60 – God Has Spoken from His Sanctuary",
+          "reference": "60:6-8",
+          "why_start_end_and_devices": "The divine oracle of ownership: Shechem, Gilead, Ephraim, Judah — 'Moab is My washbasin… over Philistia I shout.'"
+        },
+        {
+          "scene_number": 82,
+          "scene_name": "Psalm 60 – With God We Will Triumph",
+          "reference": "60:9-12",
+          "why_start_end_and_devices": "Who will lead to Edom? (9-10) The confession that human help is worthless and only with God comes valor (11-12)."
+        },
+        {
+          "scene_number": 83,
+          "scene_name": "Psalm 61 – Lead Me to the Rock Higher Than I",
+          "reference": "61:1-4",
+          "why_start_end_and_devices": "From the ends of the earth a faint heart calls to its refuge, longing to dwell in God's tent forever; Selah."
+        },
+        {
+          "scene_number": 84,
+          "scene_name": "Psalm 61 – Enthroned in God's Presence Forever",
+          "reference": "61:5-8",
+          "why_start_end_and_devices": "God has heard his vows and given the heritage of those who fear Him; prayer for the king's long, guarded reign."
+        },
+        {
+          "scene_number": 85,
+          "scene_name": "Psalm 62 – In God Alone My Soul Finds Rest",
+          "reference": "62:1-2",
+          "why_start_end_and_devices": "The opening creed of stillness: He alone is rock, salvation, and fortress — 'I will never be shaken.'"
+        },
+        {
+          "scene_number": 86,
+          "scene_name": "Psalm 62 – Like a Leaning Wall",
+          "reference": "62:3-4",
+          "why_start_end_and_devices": "The assault of foes who bless with their mouths but curse within, plotting to topple him; Selah."
+        },
+        {
+          "scene_number": 87,
+          "scene_name": "Psalm 62 – Rest in God Alone, O My Soul",
+          "reference": "62:5-7",
+          "why_start_end_and_devices": "The refrain renewed as self-exhortation: salvation, honor, and refuge all rest on God the strong rock."
+        },
+        {
+          "scene_number": 88,
+          "scene_name": "Psalm 62 – Pour Out Your Hearts Before Him",
+          "reference": "62:8-10",
+          "why_start_end_and_devices": "Counsel to the people to trust at all times (8), for men are vapor and stolen riches worthless (9-10); Selah."
+        },
+        {
+          "scene_number": 89,
+          "scene_name": "Psalm 62 – Power and Devotion Belong to God",
+          "reference": "62:11-12",
+          "why_start_end_and_devices": "The closing twofold revelation: strength and steadfast love are His, and He repays each according to his deeds."
+        },
+        {
+          "scene_number": 90,
+          "scene_name": "Psalm 63 – My Soul Thirsts for You",
+          "reference": "63:1-4",
+          "why_start_end_and_devices": "From the Wilderness of Judah: thirst in a dry land (1), the sanctuary vision (2), and blessing God while life lasts (3-4)."
+        },
+        {
+          "scene_number": 91,
+          "scene_name": "Psalm 63 – My Soul Clings to You",
+          "reference": "63:5-8",
+          "why_start_end_and_devices": "Satisfied as with rich food (5), night-watch meditation (6), joy in the shadow of His wings, upheld by His right hand (7-8)."
+        },
+        {
+          "scene_number": 92,
+          "scene_name": "Psalm 63 – The King Will Rejoice in God",
+          "reference": "63:9-11",
+          "why_start_end_and_devices": "The fate of those who seek his life — a portion for foxes — against the rejoicing king and the silencing of liars."
+        },
+        {
+          "scene_number": 93,
+          "scene_name": "Psalm 64 – Hide Me from the Secret Plots",
+          "reference": "64:1-4",
+          "why_start_end_and_devices": "Lament against a mob who sharpen tongues like swords and ambush the innocent without fear."
+        },
+        {
+          "scene_number": 94,
+          "scene_name": "Psalm 64 – Who Will See Them?",
+          "reference": "64:5-6",
+          "why_start_end_and_devices": "The conspirators emboldened in their hidden scheme, certain the depths of the heart cannot be searched."
+        },
+        {
+          "scene_number": 95,
+          "scene_name": "Psalm 64 – But God Will Shoot Them",
+          "reference": "64:7-10",
+          "why_start_end_and_devices": "The sudden reversal: God's arrow strikes, their own tongues turn on them (7-8), and all mankind fears while the righteous rejoice (9-10)."
+        },
+        {
+          "scene_number": 96,
+          "scene_name": "Psalm 65 – Praise Awaits You in Zion",
+          "reference": "65:1-4",
+          "why_start_end_and_devices": "Thanksgiving hymn: the God who hears prayer and atones for transgressions; blessed are those brought to dwell in His courts."
+        },
+        {
+          "scene_number": 97,
+          "scene_name": "Psalm 65 – The Hope of All the Ends of the Earth",
+          "reference": "65:5-8",
+          "why_start_end_and_devices": "Awesome deeds of salvation (5); the God who formed the mountains and stilled the roaring seas and nations (6-7), feared to earth's ends (8)."
+        },
+        {
+          "scene_number": 98,
+          "scene_name": "Psalm 65 – You Crown the Year with Bounty",
+          "reference": "65:9-11",
+          "why_start_end_and_devices": "Providence over the land: watered furrows, the streams of God, the year crowned with overflowing paths of plenty."
+        },
+        {
+          "scene_number": 99,
+          "scene_name": "Psalm 65 – The Hills Are Robed with Joy",
+          "reference": "65:12-13",
+          "why_start_end_and_devices": "The harvest doxology: pastures and valleys decked with flocks and grain — 'they shout in triumph; indeed, they sing.'"
+        },
+        {
+          "scene_number": 100,
+          "scene_name": "Psalm 66 – Make a Joyful Noise, All the Earth",
+          "reference": "66:1-4",
+          "why_start_end_and_devices": "Call to universal praise of God's awesome deeds before which His enemies cower; Selah."
+        },
+        {
+          "scene_number": 101,
+          "scene_name": "Psalm 66 – He Turned the Sea into Dry Land",
+          "reference": "66:5-7",
+          "why_start_end_and_devices": "'Come and see the works of God' — the Exodus crossing remembered, the eternal Ruler watching the nations; Selah."
+        },
+        {
+          "scene_number": 102,
+          "scene_name": "Psalm 66 – You Brought Us into Abundance",
+          "reference": "66:8-12",
+          "why_start_end_and_devices": "The communal testimony of testing — refined like silver, led through fire and water — yet brought to a place of plenty."
+        },
+        {
+          "scene_number": 103,
+          "scene_name": "Psalm 66 – I Will Fulfill My Vows to You",
+          "reference": "66:13-15",
+          "why_start_end_and_devices": "The turn to personal worship: burnt offerings and vows spoken in distress now paid; Selah."
+        },
+        {
+          "scene_number": 104,
+          "scene_name": "Psalm 66 – Come and Listen, I Will Declare",
+          "reference": "66:16-20",
+          "why_start_end_and_devices": "The witness to all who fear God (16-17): unconfessed sin would have blocked the prayer, but God has surely heard (18-20)."
+        },
+        {
+          "scene_number": 105,
+          "scene_name": "Psalm 67 – May God Be Gracious to Us",
+          "reference": "67:1-4",
+          "why_start_end_and_devices": "The Aaronic-blessing echo (1, Selah) so that His salvation is known among all nations, who are called to be glad (2-4); Selah."
+        },
+        {
+          "scene_number": 106,
+          "scene_name": "Psalm 67 – Let All the Peoples Praise You",
+          "reference": "67:5-7",
+          "why_start_end_and_devices": "The refrain renewed (5) and the harvest blessing that the ends of the earth may fear Him (6-7)."
+        },
+        {
+          "scene_number": 107,
+          "scene_name": "Psalm 68 – God Arises, His Enemies Scattered",
+          "reference": "68:1-3",
+          "why_start_end_and_devices": "The processional war-hymn opens with the ark-formula: as smoke and wax vanish, so the wicked perish, but the righteous rejoice."
+        },
+        {
+          "scene_number": 108,
+          "scene_name": "Psalm 68 – A Father of the Fatherless",
+          "reference": "68:4-6",
+          "why_start_end_and_devices": "Praise to the cloud-Rider whose name is the LORD, defender of widows, who settles the lonely in families."
+        },
+        {
+          "scene_number": 109,
+          "scene_name": "Psalm 68 – When You Marched Through the Wasteland",
+          "reference": "68:7-10",
+          "why_start_end_and_devices": "The Sinai theophany remembered (7-8, Selah) and the abundant rain refreshing His weary inheritance (9-10)."
+        },
+        {
+          "scene_number": 110,
+          "scene_name": "Psalm 68 – Kings of Armies Flee",
+          "reference": "68:11-14",
+          "why_start_end_and_devices": "The women proclaim the victory and divide plunder (11-12); the dove with silver wings; kings scattered like snow on Zalmon (13-14)."
+        },
+        {
+          "scene_number": 111,
+          "scene_name": "Psalm 68 – The Mountain God Chose",
+          "reference": "68:15-16",
+          "why_start_end_and_devices": "Why does mighty Bashan gaze in envy at Zion, the modest peak where the LORD will dwell forever?"
+        },
+        {
+          "scene_number": 112,
+          "scene_name": "Psalm 68 – You Ascended on High",
+          "reference": "68:17-18",
+          "why_start_end_and_devices": "God's myriad chariots (17) and the ascent leading captives and receiving gifts (18), cited of Christ's ascension in Eph 4."
+        },
+        {
+          "scene_number": 113,
+          "scene_name": "Psalm 68 – He Daily Bears Our Burden",
+          "reference": "68:19-20",
+          "why_start_end_and_devices": "The doxological pause: blessed be the Lord, the God of deliverance and rescue from death; Selah."
+        },
+        {
+          "scene_number": 114,
+          "scene_name": "Psalm 68 – God Will Crush the Heads of His Foes",
+          "reference": "68:21-23",
+          "why_start_end_and_devices": "The renewed war-oracle bringing enemies up from Bashan and the depths of the sea to judgment."
+        },
+        {
+          "scene_number": 115,
+          "scene_name": "Psalm 68 – Your Procession into the Sanctuary",
+          "reference": "68:24-27",
+          "why_start_end_and_devices": "The festival march seen: singers and musicians among tambourine-maidens, with Benjamin, Judah, Zebulun, and Naphtali."
+        },
+        {
+          "scene_number": 116,
+          "scene_name": "Psalm 68 – Kings Will Bring You Gifts",
+          "reference": "68:28-31",
+          "why_start_end_and_devices": "Prayer to summon God's strength (28-29) and rebuke the warlike nations until envoys come from Egypt and Cush (30-31)."
+        },
+        {
+          "scene_number": 117,
+          "scene_name": "Psalm 68 – Ascribe Power to God",
+          "reference": "68:32-35",
+          "why_start_end_and_devices": "The closing summons to the kingdoms to sing (32-33, Selah) and ascribe strength to the One awesome in His sanctuary (34-35)."
+        },
+        {
+          "scene_number": 118,
+          "scene_name": "Psalm 69 – The Waters Are Up to My Neck",
+          "reference": "69:1-3",
+          "why_start_end_and_devices": "The great lament opens: sunk in miry depths, weary with crying, eyes failing while looking for God."
+        },
+        {
+          "scene_number": 119,
+          "scene_name": "Psalm 69 – Hated Without Cause",
+          "reference": "69:4-6",
+          "why_start_end_and_devices": "Foes outnumber the hairs of his head (4); confessed folly (5); the plea that none who hope in God be shamed through him (6)."
+        },
+        {
+          "scene_number": 120,
+          "scene_name": "Psalm 69 – Zeal for Your House Has Consumed Me",
+          "reference": "69:7-9",
+          "why_start_end_and_devices": "Scorn endured for God's sake, a stranger to his brothers, the verse John applies to Christ cleansing the temple (9)."
+        },
+        {
+          "scene_number": 121,
+          "scene_name": "Psalm 69 – The Song of Drunkards",
+          "reference": "69:10-12",
+          "why_start_end_and_devices": "Mourning and sackcloth turned to mockery; the gossip of those at the gate and the songs of drunkards."
+        },
+        {
+          "scene_number": 122,
+          "scene_name": "Psalm 69 – Rescue Me from the Mire",
+          "reference": "69:13-15",
+          "why_start_end_and_devices": "The turn to petition for a time of favor: deliver from the deep waters, let not the Pit close its mouth."
+        },
+        {
+          "scene_number": 123,
+          "scene_name": "Psalm 69 – Hide Not Your Face from Your Servant",
+          "reference": "69:16-18",
+          "why_start_end_and_devices": "Urgent appeal to the God of good devotion to draw near and redeem in the face of his foes."
+        },
+        {
+          "scene_number": 124,
+          "scene_name": "Psalm 69 – Gall for Food, Vinegar for Thirst",
+          "reference": "69:19-21",
+          "why_start_end_and_devices": "The reproach that broke his heart, with the line fulfilled at the cross — 'they gave me vinegar to quench my thirst.'"
+        },
+        {
+          "scene_number": 125,
+          "scene_name": "Psalm 69 – May Their Table Become a Snare",
+          "reference": "69:22-24",
+          "why_start_end_and_devices": "The imprecation begins: darkened eyes and bent backs, God's burning wrath poured out on the persecutors."
+        },
+        {
+          "scene_number": 126,
+          "scene_name": "Psalm 69 – Blotted Out of the Book of Life",
+          "reference": "69:25-28",
+          "why_start_end_and_devices": "Their tents deserted (25, cited of Judas in Acts 1) and their names erased from the register of the righteous."
+        },
+        {
+          "scene_number": 127,
+          "scene_name": "Psalm 69 – I Will Praise God's Name in Song",
+          "reference": "69:29-31",
+          "why_start_end_and_devices": "The vow of thanksgiving that pleases the LORD more than any sacrificial bull."
+        },
+        {
+          "scene_number": 128,
+          "scene_name": "Psalm 69 – Let Heaven and Earth Praise Him",
+          "reference": "69:32-34",
+          "why_start_end_and_devices": "The humble revived because the LORD listens to the needy; all creation summoned to praise."
+        },
+        {
+          "scene_number": 129,
+          "scene_name": "Psalm 69 – God Will Save Zion",
+          "reference": "69:35-36",
+          "why_start_end_and_devices": "The closing hope of restored cities of Judah inherited by the servants who love His name."
+        },
+        {
+          "scene_number": 130,
+          "scene_name": "Psalm 70 – Make Haste to Deliver Me",
+          "reference": "70:1-5",
+          "why_start_end_and_devices": "Urgent appeal (mirroring 40:13-17): shame for those who seek his life, joy for those who seek God, 'O LORD, do not delay.'"
+        },
+        {
+          "scene_number": 131,
+          "scene_name": "Psalm 71 – In You I Take Refuge",
+          "reference": "71:1-3",
+          "why_start_end_and_devices": "The aged saint's prayer opens: 'be my rock of refuge, where I can always go,' never to be put to shame."
+        },
+        {
+          "scene_number": 132,
+          "scene_name": "Psalm 71 – My Confidence from My Youth",
+          "reference": "71:4-6",
+          "why_start_end_and_devices": "Deliverance sought from the unjust, leaning on God since birth — 'My praise is always for You.'"
+        },
+        {
+          "scene_number": 133,
+          "scene_name": "Psalm 71 – Do Not Cast Me Off in Old Age",
+          "reference": "71:7-9",
+          "why_start_end_and_devices": "A portent to many yet sheltered in God (7-8), with the plea not to be forsaken when strength fails (9)."
+        },
+        {
+          "scene_number": 134,
+          "scene_name": "Psalm 71 – My Enemies Say God Has Forsaken Him",
+          "reference": "71:10-12",
+          "why_start_end_and_devices": "The foes who plot, certain there is none to rescue, answered by 'be not far from me, O God.'"
+        },
+        {
+          "scene_number": 135,
+          "scene_name": "Psalm 71 – But I Will Always Hope",
+          "reference": "71:13-14",
+          "why_start_end_and_devices": "Prayer that accusers be shamed (13) set against the resolve to hope and 'praise You more and more' (14)."
+        },
+        {
+          "scene_number": 136,
+          "scene_name": "Psalm 71 – Your Righteousness All Day Long",
+          "reference": "71:15-16",
+          "why_start_end_and_devices": "A mouth declaring God's measureless righteousness and salvation, coming in the strength of the Lord GOD."
+        },
+        {
+          "scene_number": 137,
+          "scene_name": "Psalm 71 – Until I Proclaim to the Next Generation",
+          "reference": "71:17-18",
+          "why_start_end_and_devices": "Taught from youth, the gray-headed saint asks to live to declare God's power to those yet to come."
+        },
+        {
+          "scene_number": 138,
+          "scene_name": "Psalm 71 – Who, O God, Is Like You?",
+          "reference": "71:19-21",
+          "why_start_end_and_devices": "God's righteousness reaching the heavens (19); the confidence that He who showed many troubles will revive and restore (20-21)."
+        },
+        {
+          "scene_number": 139,
+          "scene_name": "Psalm 71 – I Will Sing with the Harp",
+          "reference": "71:22-24",
+          "why_start_end_and_devices": "The closing vow of joyful praise from redeemed lips and tongue, his accusers disgraced."
+        },
+        {
+          "scene_number": 140,
+          "scene_name": "Psalm 72 – Endow the King with Your Justice",
+          "reference": "72:1-4",
+          "why_start_end_and_devices": "Solomon's royal psalm: prayer that the king judge the afflicted with righteousness and crush the oppressor."
+        },
+        {
+          "scene_number": 141,
+          "scene_name": "Psalm 72 – Like Rain on the Mown Grass",
+          "reference": "72:5-7",
+          "why_start_end_and_devices": "His reign feared as long as sun and moon endure, refreshing as showers, the righteous flourishing in his days."
+        },
+        {
+          "scene_number": 142,
+          "scene_name": "Psalm 72 – From Sea to Sea",
+          "reference": "72:8-11",
+          "why_start_end_and_devices": "The universal dominion: nomads bowing, kings of Tarshish and Sheba bringing tribute, all nations serving him."
+        },
+        {
+          "scene_number": 143,
+          "scene_name": "Psalm 72 – He Delivers the Needy",
+          "reference": "72:12-14",
+          "why_start_end_and_devices": "The heart of the king's justice: pity for the poor, redemption from oppression, for their blood is precious in his sight."
+        },
+        {
+          "scene_number": 144,
+          "scene_name": "Psalm 72 – May His Name Endure Forever",
+          "reference": "72:15-17",
+          "why_start_end_and_devices": "Blessing of long life and abundant grain, his everlasting name in which all nations are blessed."
+        },
+        {
+          "scene_number": 145,
+          "scene_name": "Psalm 72 – Blessed Be His Glorious Name",
+          "reference": "72:18-20",
+          "why_start_end_and_devices": "The doxology closing Book II — 'may all the earth be filled with His glory. Amen and amen' — with the colophon ending the prayers of David (20)."
         }
       ]
     },
@@ -121,16 +1945,14 @@
       "story_title": "Book III – The Crisis of Faith",
       "why_start_end_and_literary_glue": "Psalms 73–89 constitute the darkest section—Asaphite laments (73–83) and national crises (74, 79, 89) wrestling with covenant and theodicy. Start (73:1): 'Truly God is good...' End (89:52): doxology 'Amen and Amen.' Literary Glue: national lament and questioning within curated collections.",
       "reference": "73:1 - 89:52",
-      "scenes": [
-      ]
+      "scenes": []
     },
     {
       "story_letter": "D",
       "story_title": "Book IV – The LORD Reigns",
       "why_start_end_and_literary_glue": "Psalms 90–106 answer Book III's crisis with the proclamation 'YHWH reigns!' (93, 96, 97, 99). Opens with Moses' psalm (90) contrasting God's eternality and human frailty; ends with explicit doxology at 106:48. Literary Glue: the Enthronement Psalms form the theological core.",
       "reference": "90:1 - 106:48",
-      "scenes": [
-      ]
+      "scenes": []
     },
     {
       "story_letter": "E",
@@ -268,4 +2090,3 @@
     }
   ]
 }
-
