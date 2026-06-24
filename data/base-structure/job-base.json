@@ -18,36 +18,48 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "The First Heavenly Council",
-          "reference": "1:6-12",
-          "why_start_end_and_devices": "Starts with 'Now there was a day...' shifting to the heavenly court (1:6). Ends with YHWH's constraint, 'only upon himself put not forth thine hand' (1:12). A dramatic legal dialogue where the accuser challenges disinterested piety and God sets test boundaries."
+          "scene_name": "The Sons of God; the LORD Praises Job",
+          "reference": "1:6-8",
+          "why_start_end_and_devices": "Satan among the heavenly host. Devices: A glimpse behind the veil—heaven's court."
         },
         {
           "scene_number": 3,
-          "scene_name": "The First Test Executed",
-          "reference": "1:13-19",
-          "why_start_end_and_devices": "Starts with 'And there was a day...' returning to earth (1:13). Ends with the final refrain 'and I only am escaped alone to tell thee' (1:19). Escalating repetition across four messengers alternates human and natural calamities striking livelihood, wealth, transport, and children."
+          "scene_name": "'Does Job Fear God for Nothing?'—the Wager",
+          "reference": "1:9-12",
+          "why_start_end_and_devices": "The accuser's cynical challenge. Devices: The book's central question of disinterested faith."
         },
         {
           "scene_number": 4,
+          "scene_name": "The Sabeans and the Fire from Heaven",
+          "reference": "1:13-15",
+          "why_start_end_and_devices": "Oxen taken, servants slain. Devices: Disaster striking in rapid succession."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Chaldeans and the Great Wind",
+          "reference": "1:16-19",
+          "why_start_end_and_devices": "'I alone have escaped to tell you.' Devices: The fourfold messengers—total loss."
+        },
+        {
+          "scene_number": 6,
           "scene_name": "Job's First Response",
           "reference": "1:20-22",
           "why_start_end_and_devices": "Starts with 'Then Job arose...' (1:20). Ends with the narrator's verdict 'In all this Job sinned not' (1:22). Formal mourning (rent mantle, shaved head) paired with confessional worship: 'The LORD gave, and the LORD hath taken away; blessed be the name of the LORD.'"
         },
         {
-          "scene_number": 5,
+          "scene_number": 7,
           "scene_name": "The Second Heavenly Council",
           "reference": "2:1-6",
           "why_start_end_and_devices": "Starts with 'Again there was a day...' (2:1). Ends with 'but save his life' (2:6). A parallel council shifts the test from possessions to person ('skin for skin'); God again sets the boundary."
         },
         {
-          "scene_number": 6,
+          "scene_number": 8,
           "scene_name": "The Second Test and Job's Wife",
           "reference": "2:7-10",
           "why_start_end_and_devices": "Starts with Satan going forth to smite Job (2:7). Ends with the narrator's verdict 'did not Job sin with his lips' (2:10). The test becomes bodily; Job's wife voices the predicted temptation ('curse God, and die'), which Job refuses, asserting reception of both good and adversity."
         },
         {
-          "scene_number": 7,
+          "scene_number": 9,
           "scene_name": "The Arrival of the Friends",
           "reference": "2:11-13",
           "why_start_end_and_devices": "Starts with the friends hearing and appointing to come (2:11). Ends with the seven-day silence upon seeing great grief (2:13). Introduces Eliphaz, Bildad, Zophar; shared silence forms a dramatic pause bridging to Job's lament."
@@ -60,32 +72,396 @@
       "why_start_end_and_literary_glue": "The first formal cycle of debate: Job's lament opens (ch. 3), then Eliphaz–Job, Bildad–Job, Zophar–Job, concluding with Job's extended reply (chs. 12-14). Start (3:1): Job breaks the silence and curses his day. End (14:22): Job closes his long reply; 15:1 marks Eliphaz beginning cycle two. Literary Glue: strict alternation of speakers and the thematic clash between retributive justice (friends) and Job's defense of integrity with protest at God's governance.",
       "reference": "3:1 - 14:22",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Job's Lament: Cursing the Day", "reference": "3:1-10", "why_start_end_and_devices": "Starts with 'After this opened Job his mouth...' (3:1). Ends with 'nor see the dawning of the day' (3:9-10). A soliloquy of lament invoking darkness to unmake his birth day; imagery reverses creation's ordering." },
-        { "scene_number": 2, "scene_name": "Job's Lament: Why Did I Not Die at Birth?", "reference": "3:11-19", "why_start_end_and_devices": "Starts with 'Why died I not from the womb?' (3:11). Ends with 'and the servant is free from his master' (3:19). Shifts from day-curse to longing for death's rest; Sheol as equalizing repose." },
-        { "scene_number": 3, "scene_name": "Job's Lament: Why is Light Given to the Miserable?", "reference": "3:20-26", "why_start_end_and_devices": "Starts with 'Wherefore is light given to him that is in misery...' (3:20). Ends 'yet trouble came' (3:26). Universalizes the lament and states his dread realized." },
-        { "scene_number": 4, "scene_name": "Eliphaz (1): The Gentle Rebuke", "reference": "4:1-11", "why_start_end_and_devices": "Starts 'Then Eliphaz... answered' (4:1). Ends 'they perish for lack of wisdom' (4:11). Appeals to Job's past teaching, asserts retribution: 'Who ever perished, being innocent?'" },
-        { "scene_number": 5, "scene_name": "Eliphaz (2): The Vision in the Night", "reference": "4:12-21", "why_start_end_and_devices": "Starts with secret vision (4:12). Ends 'they perish for ever without any regarding it' (4:20-21). Claims revelation: 'Shall mortal man be more just than God?'" },
-        { "scene_number": 6, "scene_name": "Eliphaz (3): Man is Born to Trouble", "reference": "5:1-7", "why_start_end_and_devices": "Starts 'Call now...' (5:1). Ends 'as the sparks fly upward' (5:7). Argues inevitability of trouble for the foolish; no heavenly advocate." },
-        { "scene_number": 7, "scene_name": "Eliphaz (4): The Blessing of Divine Chastening", "reference": "5:8-18", "why_start_end_and_devices": "Starts 'I would seek unto God...' (5:8). Ends 'he woundeth, and his hands make whole' (5:18). Introduces chastening (musar) as corrective, not punitive." },
-        { "scene_number": 8, "scene_name": "Eliphaz (5): The Reward of Submission", "reference": "5:19-27", "why_start_end_and_devices": "Starts 'He shall deliver thee in six troubles...' (5:19). Ends 'know thou it for thy good' (5:27). Wooing promises if Job repents." },
-        { "scene_number": 9, "scene_name": "Job's Reply (1): My Grief is Justified", "reference": "6:1-13", "why_start_end_and_devices": "Starts 'But Job answered...' (6:1). Ends 'is not my help in me?' (6:13). Justifies rash words by heavy grief; friends likened to a deceitful brook." },
-        { "scene_number": 10, "scene_name": "Job's Reply (2): The Treachery of Friends", "reference": "6:14-30", "why_start_end_and_devices": "Starts 'To him that is afflicted pity...' (6:14). Ends 'my righteousness is in it' (6:29-30). Confronts friends; demands instruction if in error." },
-        { "scene_number": 11, "scene_name": "Job's Reply (3): Man's Life is Warfare", "reference": "7:1-10", "why_start_end_and_devices": "Starts 'Is there not an appointed time to man...' (7:1). Ends 'he shall return no more to his house' (7:10). Poem of weariness and death's finality." },
-        { "scene_number": 12, "scene_name": "Job's Reply (4): A Parody of Psalm 8", "reference": "7:11-21", "why_start_end_and_devices": "Starts 'Therefore I will not refrain my mouth...' (7:11). Ends 'thou shalt seek me in the morning, but I shall not be' (7:21). Bold address to God, twisting 'What is man...' into an accusation of divine over-scrutiny." },
-        { "scene_number": 13, "scene_name": "Bildad's First Speech: The Rushing Wind", "reference": "8:1-7", "why_start_end_and_devices": "Starts 'Then answered Bildad...' (8:1). Ends 'thy latter end should greatly increase' (8:7). Blunt retribution: children died for sin; repent and be restored." },
-        { "scene_number": 14, "scene_name": "Bildad's Appeal to Tradition", "reference": "8:8-22", "why_start_end_and_devices": "Starts 'For inquire... of the former age' (8:8). Ends 'the place of the wicked shall come to nought' (8:22). Tradition and nature metaphors (papyrus, spider's web) affirm rigid doctrine." },
-        { "scene_number": 15, "scene_name": "Job's Reply (1): How Can Man Be Just With God?", "reference": "9:1-12", "why_start_end_and_devices": "Starts 'Then Job answered...' (9:1). Ends 'who can hinder him?...' (9:12). Concedes God's power but questions possibility of a just legal standing." },
-        { "scene_number": 16, "scene_name": "Job's Reply (2): The Hopeless Case", "reference": "9:13-24", "why_start_end_and_devices": "Starts 'If God will not withdraw his anger...' (9:13). Ends 'if not, where, and who is he?' (9:24). Laments lack of an umpire and a world given over to the wicked." },
-        { "scene_number": 17, "scene_name": "Job's Reply (3): My Days Are Swift", "reference": "9:25 - 10:7", "why_start_end_and_devices": "Starts 'Now my days are swifter than a post...' (9:25). Ends 'thou knowest that I am not wicked' (10:7). Combines lament with direct accusation to God as oppressor." },
-        { "scene_number": 18, "scene_name": "Job's Reply (4): God the Potter", "reference": "10:8-22", "why_start_end_and_devices": "Starts 'Thine hands have made me and fashioned me...' (10:8). Ends 'where the light is as darkness' (10:22). Creator motif used to argue betrayal; plea to be left alone before Sheol." },
-        { "scene_number": 19, "scene_name": "Zophar's First Speech: The Dogmatist", "reference": "11:1-12", "why_start_end_and_devices": "Starts 'Then answered Zophar...' (11:1). Ends with the insult 'man... born like a wild ass's colt' (11:12). Accuses Job; God's wisdom is unsearchable; Job deserves worse." },
-        { "scene_number": 20, "scene_name": "Zophar's Call to Repentance", "reference": "11:13-20", "why_start_end_and_devices": "Starts 'If thou prepare thine heart...' (11:13). Ends with warning 'the hope of the wicked... shall be as the giving up of the ghost' (11:20). Conditional restoration offered." },
-        { "scene_number": 21, "scene_name": "Job's Reply (1): I Am Not Inferior to You", "reference": "12:1-12", "why_start_end_and_devices": "Starts 'And Job answered...' (12:1). Ends 'in whose hand is the soul of every living thing...' (12:10-12). Sarcasm toward friends; appeal to creation as witness to God's absolute power." },
-        { "scene_number": 22, "scene_name": "Job's Reply (2): The Power of God", "reference": "12:13-25", "why_start_end_and_devices": "Starts 'With him is wisdom and strength...' (12:13). Ends 'maketh them to stagger like a drunken man' (12:25). Poem of God's de-creative reversals of human order." },
-        { "scene_number": 23, "scene_name": "Job's Reply (3): Miserable Comforters", "reference": "13:1-12", "why_start_end_and_devices": "Starts 'Lo, mine eye hath seen all this...' (13:1). Ends 'your remembrances are like unto ashes' (13:12). Indicts friends as forgers of lies; demands silence." },
-        { "scene_number": 24, "scene_name": "Job's Reply (4): Though He Slay Me", "reference": "13:13-28", "why_start_end_and_devices": "Starts 'Hold your peace, let me alone...' (13:13). Ends 'as a garment that is moth-eaten' (13:28). Paradox of trust amidst legal challenge: 'Though he slay me, yet will I trust in him.'" },
-        { "scene_number": 25, "scene_name": "Job's Reply (5): Man's Frailty", "reference": "14:1-12", "why_start_end_and_devices": "Starts 'Man that is born of a woman...' (14:1). Ends 'till the heavens be no more, they shall not awake' (14:12). Poem on brevity and helplessness of human life." },
-        { "scene_number": 26, "scene_name": "Job's Reply (6): The Cry for an Afterlife", "reference": "14:13-22", "why_start_end_and_devices": "Starts 'O that thou wouldest hide me in the grave...' (14:13). Ends with pain and mourning (14:22). Pivotal hope: 'If a man die, shall he live again?' longing for appointed restoration." }
+        {
+          "scene_number": 1,
+          "scene_name": "Job Curses the Day of His Birth",
+          "reference": "3:1-5",
+          "why_start_end_and_devices": "'Let the day perish on which I was born.' Devices: Anti-creation language; despair unleashed."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'Let That Night Be Barren'",
+          "reference": "3:6-10",
+          "why_start_end_and_devices": "Darkness summoned over his conception. Devices: A curse on existence itself."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "'Why Did I Not Die at Birth?'",
+          "reference": "3:11-15",
+          "why_start_end_and_devices": "Longing for the stillness of the grave. Devices: Death idealized as rest."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "'There the Weary Are at Rest'",
+          "reference": "3:16-19",
+          "why_start_end_and_devices": "Small and great alike freed in Sheol. Devices: The grave as the great leveler."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'Why Is Light Given to the Miserable?'",
+          "reference": "3:20-23",
+          "why_start_end_and_devices": "Longing for death like hidden treasure. Devices: The riddle of unwanted life."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "'What I Feared Has Come Upon Me'",
+          "reference": "3:24-26",
+          "why_start_end_and_devices": "Sighing instead of bread; no peace. Devices: Dread realized."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Eliphaz: 'You Have Instructed Many—Now You Faint'",
+          "reference": "4:1-6",
+          "why_start_end_and_devices": "A gentle but pointed opening. Devices: Past comfort turned against the sufferer."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "'Who, Being Innocent, Ever Perished?'",
+          "reference": "4:7-11",
+          "why_start_end_and_devices": "The retribution principle stated. Devices: The friends' fatal assumption."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Spirit That Passed Before His Face",
+          "reference": "4:12-16",
+          "why_start_end_and_devices": "A dread night vision. Devices: Eerie revelation lending authority."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "'Can Mortal Man Be Righteous Before God?'",
+          "reference": "4:17-21",
+          "why_start_end_and_devices": "'They are crushed like a moth.' Devices: Human frailty before God."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "'Resentment Kills the Fool'",
+          "reference": "5:1-4",
+          "why_start_end_and_devices": "The fool's children far from safety. Devices: Cause-and-effect moralism."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "'Man Is Born to Trouble'",
+          "reference": "5:5-7",
+          "why_start_end_and_devices": "'As sparks fly upward.' Devices: A famous proverb of inevitable suffering."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "'I Would Appeal to God Who Does Wonders'",
+          "reference": "5:8-13",
+          "why_start_end_and_devices": "'He catches the wise in their craftiness.' Devices: God's reversals praised."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "'Blessed Is the One God Corrects'",
+          "reference": "5:14-18",
+          "why_start_end_and_devices": "'He wounds, but he binds up.' Devices: Suffering reframed as discipline."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'He Will Deliver You from Six Troubles'",
+          "reference": "5:19-23",
+          "why_start_end_and_devices": "Protection from famine, sword, and beast. Devices: Promises of the restored life."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "'You Will Come to the Grave in Full Vigor'",
+          "reference": "5:24-27",
+          "why_start_end_and_devices": "'We have examined this; it is true.' Devices: Confident closing claim."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "'The Arrows of the Almighty Are in Me'",
+          "reference": "6:1-4",
+          "why_start_end_and_devices": "'My anguish outweighs the sand.' Devices: Pain measured against the sea."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "'Does the Wild Donkey Bray Over Grass?'",
+          "reference": "6:5-7",
+          "why_start_end_and_devices": "Complaint has its cause. Devices: Earthy images defending his cry."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "'Oh That God Would Crush Me'",
+          "reference": "6:8-13",
+          "why_start_end_and_devices": "A longing to be released. Devices: Death preferred to false comfort."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Failing Stream of Friendship",
+          "reference": "6:14-17",
+          "why_start_end_and_devices": "'My brothers are as treacherous as a wadi.' Devices: The dry-riverbed metaphor."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Caravans That Find No Water",
+          "reference": "6:18-20",
+          "why_start_end_and_devices": "Travelers who perish disappointed. Devices: Hope that betrays."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "'Now You Are Nothing to Me'",
+          "reference": "6:21-23",
+          "why_start_end_and_devices": "'You see my calamity and are afraid.' Devices: Friends shrinking from his pain."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "'Teach Me, and I Will Be Silent'",
+          "reference": "6:24-27",
+          "why_start_end_and_devices": "'Show me where I have erred.' Devices: A demand for honest reproof."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "'Is There Injustice on My Tongue?'",
+          "reference": "6:28-30",
+          "why_start_end_and_devices": "Pleading his integrity. Devices: Insisting on his discernment."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "'Man's Life Is Hard Service'",
+          "reference": "7:1-6",
+          "why_start_end_and_devices": "'My days are swifter than a weaver's shuttle.' Devices: Life as forced labor."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "'My Life Is but a Breath'",
+          "reference": "7:7-10",
+          "why_start_end_and_devices": "'The eye that sees me will see me no more.' Devices: Transience and finality."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "'I Will Not Keep Silent'",
+          "reference": "7:11-16",
+          "why_start_end_and_devices": "'Am I the sea, that you set a guard over me?' Devices: Bold complaint to God."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "'What Is Man That You Make So Much of Him?'",
+          "reference": "7:17-21",
+          "why_start_end_and_devices": "A bitter parody of Psalm 8. Devices: Scrutiny felt as oppression."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Bildad: 'Does God Pervert Justice?'",
+          "reference": "8:1-4",
+          "why_start_end_and_devices": "'Your children sinned against him.' Devices: Blunt retribution theology."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "'If You Seek God, He Will Restore You'",
+          "reference": "8:5-7",
+          "why_start_end_and_devices": "'Your latter days will be prosperous.' Devices: Conditional restoration offered."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "'Inquire of the Past: the Papyrus Withers'",
+          "reference": "8:8-13",
+          "why_start_end_and_devices": "'So perish the paths of all who forget God.' Devices: Appeal to ancestral wisdom."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "'The Hope of the Godless Perishes'",
+          "reference": "8:14-19",
+          "why_start_end_and_devices": "'His confidence is a spider's web.' Devices: Fragile-thread imagery."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "'God Will Not Reject a Blameless Man'",
+          "reference": "8:20-22",
+          "why_start_end_and_devices": "'He will yet fill your mouth with laughter.' Devices: A hopeful close."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "'Who Has Resisted Him and Prospered?'",
+          "reference": "9:1-4",
+          "why_start_end_and_devices": "'How can a mortal be righteous before God?' Devices: The cosmic power-imbalance."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "'He Moves Mountains; He Commands the Sun'",
+          "reference": "9:5-7",
+          "why_start_end_and_devices": "Creation under his control. Devices: Hymn to God's might—turned anxious."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "'He Passes by, and I Do Not See Him'",
+          "reference": "9:8-12",
+          "why_start_end_and_devices": "'Who can say to him, What are you doing?' Devices: God's inscrutable freedom."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "'How Then Can I Answer Him?'",
+          "reference": "9:13-18",
+          "why_start_end_and_devices": "'Though I were innocent, my mouth would condemn me.' Devices: The futility of self-defense."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "'He Destroys Both the Blameless and the Wicked'",
+          "reference": "9:19-24",
+          "why_start_end_and_devices": "'He covers the faces of the judges.' Devices: The scandalous charge of divine injustice."
+        },
+        {
+          "scene_name": "'My Days Are Swifter Than a Runner'",
+          "reference": "9:25-28",
+          "why_start_end_and_devices": "'I dread all my sufferings.' Devices: Time fleeing without relief.",
+          "scene_number": 39
+        },
+        {
+          "scene_name": "'If I Wash Myself with Snow'",
+          "reference": "9:29-31",
+          "why_start_end_and_devices": "'You would plunge me into a pit.' Devices: Cleansing that cannot avail.",
+          "scene_number": 40
+        },
+        {
+          "scene_name": "'If Only There Were a Mediator'",
+          "reference": "9:32-35",
+          "why_start_end_and_devices": "'Someone to lay his hand on us both.' Devices: The longing for an arbiter—gospel ache.",
+          "scene_number": 41
+        },
+        {
+          "scene_name": "'Why Do You Contend with Me?'",
+          "reference": "10:1-3",
+          "why_start_end_and_devices": "'I will give free rein to my complaint.' Devices: A turn to direct address.",
+          "scene_number": 42
+        },
+        {
+          "scene_name": "'You Know That I Am Not Guilty'",
+          "reference": "10:4-7",
+          "why_start_end_and_devices": "'Do you see as a mortal sees?' Devices: Questioning God's mode of judgment.",
+          "scene_number": 43
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "'Your Hands Shaped Me—Will You Destroy Me?'",
+          "reference": "10:8-12",
+          "why_start_end_and_devices": "'You clothed me with skin and flesh.' Devices: The Potter who now seems to break the vessel."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "'You Hunt Me Like a Lion'",
+          "reference": "10:13-17",
+          "why_start_end_and_devices": "'You bring fresh witnesses against me.' Devices: God as relentless adversary."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "'Let Me Have a Little Comfort Before I Go'",
+          "reference": "10:18-22",
+          "why_start_end_and_devices": "'To the land of deepest night.' Devices: A plea before the darkness."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Zophar: 'Would That God Would Speak Against You'",
+          "reference": "11:1-6",
+          "why_start_end_and_devices": "'God exacts less than your guilt deserves.' Devices: The harshest of the comforters."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "'Can You Fathom the Deep Things of God?'",
+          "reference": "11:7-12",
+          "why_start_end_and_devices": "'Higher than heaven, deeper than Sheol.' Devices: God's unsearchableness used as a club."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "'If You Devote Your Heart to Him'",
+          "reference": "11:13-16",
+          "why_start_end_and_devices": "'You will forget your misery.' Devices: Conditional restoration."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "'But the Eyes of the Wicked Will Fail'",
+          "reference": "11:17-20",
+          "why_start_end_and_devices": "'Their hope is a dying gasp.' Devices: Veiled accusation in the warning."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Job: 'No Doubt You Are the People'",
+          "reference": "12:1-6",
+          "why_start_end_and_devices": "'I have become a laughingstock.' Devices: Stinging sarcasm."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "'Ask the Animals, and They Will Teach You'",
+          "reference": "12:7-12",
+          "why_start_end_and_devices": "'In his hand is the life of every creature.' Devices: Creation itself knows God's sovereignty."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "'With God Are Wisdom and Power'",
+          "reference": "12:13-18",
+          "why_start_end_and_devices": "'He leads counselors away stripped.' Devices: A dark hymn to God's overturning power."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "'He Deprives the Elders of Discernment'",
+          "reference": "12:19-22",
+          "why_start_end_and_devices": "'He uncovers the deeps out of darkness.' Devices: God toppling the mighty."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "'He Makes Nations Great, and Destroys Them'",
+          "reference": "12:23-25",
+          "why_start_end_and_devices": "'They grope in the dark without light.' Devices: History as God's free, baffling work."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "'I Desire to Argue My Case with God'",
+          "reference": "13:1-6",
+          "why_start_end_and_devices": "'You are worthless physicians.' Devices: Turning from friends to God."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "'Will You Speak Falsely for God?'",
+          "reference": "13:7-12",
+          "why_start_end_and_devices": "'Your maxims are proverbs of ashes.' Devices: Indicting the friends' dishonest defense of God."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "'Though He Slay Me, Yet Will I Hope in Him'",
+          "reference": "13:13-16",
+          "why_start_end_and_devices": "'I will defend my ways to his face.' Devices: The book's high point of defiant faith."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "'I Know I Will Be Vindicated'",
+          "reference": "13:17-19",
+          "why_start_end_and_devices": "'Who is he that will contend with me?' Devices: Legal confidence."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "'Withdraw Your Hand from Me'",
+          "reference": "13:20-22",
+          "why_start_end_and_devices": "Two requests before he will speak. Devices: Setting terms for the lawsuit."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "'Why Do You Hide Your Face?'",
+          "reference": "13:23-28",
+          "why_start_end_and_devices": "'You write bitter things against me.' Devices: God as both judge and jailer."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "'Man Born of Woman Is of Few Days'",
+          "reference": "14:1-6",
+          "why_start_end_and_devices": "'He springs up like a flower and withers.' Devices: The brevity-of-life meditation."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "'There Is Hope for a Tree, but Not for Man'",
+          "reference": "14:7-12",
+          "why_start_end_and_devices": "'A tree may sprout again—but man lies down.' Devices: The poignant tree-versus-man contrast."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "'If Only You Would Hide Me in Sheol'",
+          "reference": "14:13-17",
+          "why_start_end_and_devices": "'If a man dies, will he live again?' Devices: A flicker of resurrection hope."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "'As Water Wears Away Stones, You Destroy Hope'",
+          "reference": "14:18-22",
+          "why_start_end_and_devices": "'His sons come to honor, and he does not know.' Devices: Erosion as a figure of despair."
+        }
       ]
     },
     {
@@ -94,19 +470,234 @@
       "why_start_end_and_literary_glue": "A second complete cycle mirroring Story B (Eliphaz–Job, Bildad–Job, Zophar–Job). The rhetoric hardens: the friends move to explicit accusation, while Job's defense becomes more desperate and bold. Start (15:1): Eliphaz answers. End (21:34): Job condemns their answers as falsehood, closing cycle two.",
       "reference": "15:1 - 21:34",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Eliphaz (1): Vain Knowledge", "reference": "15:1-16", "why_start_end_and_devices": "Starts 'Then answered Eliphaz...' (15:1). Ends 'which drinketh iniquity like water?' (15:16). Calls Job's words wind and revives 'how can man be clean?' as accusation." },
-        { "scene_number": 2, "scene_name": "Eliphaz (2): The Torment of the Wicked", "reference": "15:17-35", "why_start_end_and_devices": "Starts 'I will shew thee...' (15:17). Ends 'their belly prepareth deceit' (15:35). Vivid portrait of the wicked that thinly veils Job." },
-        { "scene_number": 3, "scene_name": "Job's Reply (1): Miserable Comforters", "reference": "16:1-17", "why_start_end_and_devices": "Starts 'Then Job answered...' (16:1). Ends 'also in my hands is no violence' (16:17). Coins 'miserable comforters'; depicts God as hostile warrior." },
-        { "scene_number": 4, "scene_name": "Job's Reply (2): My Witness is in Heaven", "reference": "16:18 - 17:16", "why_start_end_and_devices": "Starts 'O earth, cover not thou my blood...' (16:18). Ends 'when our rest together is in the dust' (17:16). Affirms a heavenly witness (16:19), then sinks back to grave-bound hope." },
-        { "scene_number": 5, "scene_name": "Bildad's Second Speech: The Snare for the Wicked", "reference": "18:1-21", "why_start_end_and_devices": "Starts 'Then answered Bildad...' (18:1). Ends 'this is the place of him that knoweth not God' (18:21). Single sustained snare imagery directed at Job." },
-        { "scene_number": 6, "scene_name": "Job's Reply (1): How Long Will Ye Vex My Soul?", "reference": "19:1-12", "why_start_end_and_devices": "Starts 'Then Job answered...' (19:1). Ends 'they encamp round about my tabernacle' (19:12). Laments friends' vexation and God's assault." },
-        { "scene_number": 7, "scene_name": "Job's Reply (2): Forsaken by All", "reference": "19:13-22", "why_start_end_and_devices": "Starts 'He hath put my brethren far from me...' (19:13). Ends with plea for pity (19:21-22). Catalogue of abandonment by all." },
-        { "scene_number": 8, "scene_name": "Job's Reply (3): I Know That My Redeemer Liveth", "reference": "19:23-29", "why_start_end_and_devices": "Starts 'Oh that my words were now written!' (19:23). Ends with warning of judgment (19:29). Theological climax: living Go'el who will stand; Job shall see him." },
-        { "scene_number": 9, "scene_name": "Zophar's Second Speech: The Sinner's Short Triumph", "reference": "20:1-11", "why_start_end_and_devices": "Starts 'Then answered Zophar...' (20:1). Ends 'he shall not save of that which he desired' (20:11). Hasty, visceral portrait of the wicked." },
-        { "scene_number": 10, "scene_name": "Zophar (2): The Sinner's Inevitable Doom", "reference": "20:12-29", "why_start_end_and_devices": "Starts 'Though wickedness be sweet...' (20:12). Ends 'This is the portion of a wicked man from God...' (20:29). Sin as sweet food turned poison; wrath certain." },
-        { "scene_number": 11, "scene_name": "Job's Reply (1): The Prosperity of the Wicked", "reference": "21:1-16", "why_start_end_and_devices": "Starts 'But Job answered...' (21:1). Ends 'The counsel of the wicked is far from me' (21:16). Observes wicked flourishing; rejects their counsel." },
-        { "scene_number": 12, "scene_name": "Job's Reply (2): The Randomness of Suffering", "reference": "21:17-26", "why_start_end_and_devices": "Starts 'How oft is the candle of the wicked put out!' (21:17). Ends 'and they shall lie down alike in the dust' (21:26). Argues suffering lacks consistent retributive pattern." },
-        { "scene_number": 13, "scene_name": "Job's Reply (3): Falsehood", "reference": "21:27-34", "why_start_end_and_devices": "Starts 'Behold, I know your thoughts...' (21:27). Ends 'there remaineth falsehood' (21:34). Dismisses their answers as lies; judgment deferred to future." }
+        {
+          "scene_number": 1,
+          "scene_name": "Eliphaz: 'Your Own Mouth Condemns You'",
+          "reference": "15:1-6",
+          "why_start_end_and_devices": "'Should a wise man answer with empty notions?' Devices: The gloves come off."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'Were You the First Man Born?'",
+          "reference": "15:7-11",
+          "why_start_end_and_devices": "'Are God's consolations not enough for you?' Devices: Mocking Job's presumption."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "'What Is Man, That He Could Be Pure?'",
+          "reference": "15:12-16",
+          "why_start_end_and_devices": "'Man drinks up evil like water.' Devices: Total depravity as argument."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "'The Wicked Man Writhes in Pain'",
+          "reference": "15:17-21",
+          "why_start_end_and_devices": "'Terrifying sounds fill his ears.' Devices: A vivid portrait of the doomed."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'Distress Terrifies Him'",
+          "reference": "15:22-26",
+          "why_start_end_and_devices": "'He charges against God defiantly.' Devices: The wicked's reckless arrogance."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "'He Will Not Be Rich; His Branch Withers'",
+          "reference": "15:27-31",
+          "why_start_end_and_devices": "'Let him not deceive himself.' Devices: Wealth that cannot last."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "'They Conceive Trouble and Bring Forth Evil'",
+          "reference": "15:32-35",
+          "why_start_end_and_devices": "'Their womb fashions deceit.' Devices: Grim closing image."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Job: 'Miserable Comforters Are You All'",
+          "reference": "16:1-6",
+          "why_start_end_and_devices": "'I also could speak like you.' Devices: Bitter role-reversal."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "'God Has Worn Me Out; Men Gape at Me'",
+          "reference": "16:7-11",
+          "why_start_end_and_devices": "'He has handed me over to the ungodly.' Devices: God and men both against him."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "'He Has Made Me His Target'",
+          "reference": "16:12-17",
+          "why_start_end_and_devices": "'My face is red with weeping.' Devices: The archer-God image; suffering's intensity."
+        },
+        {
+          "scene_name": "'My Witness Is in Heaven'",
+          "reference": "16:18-22",
+          "why_start_end_and_devices": "'My intercessor is on high.' Devices: A reach toward a heavenly advocate.",
+          "scene_number": 11
+        },
+        {
+          "scene_name": "'My Spirit Is Broken; Mockers Surround Me'",
+          "reference": "17:1-5",
+          "why_start_end_and_devices": "'The grave awaits me.' Devices: Despair pressing in.",
+          "scene_number": 12
+        },
+        {
+          "scene_name": "'He Has Made Me a Byword'",
+          "reference": "17:6-10",
+          "why_start_end_and_devices": "'Upright men are appalled.' Devices: Public shame.",
+          "scene_number": 13
+        },
+        {
+          "scene_name": "'Where Then Is My Hope?'",
+          "reference": "17:11-16",
+          "why_start_end_and_devices": "'Will hope go down with me to the dust?' Devices: Hope sinking toward Sheol.",
+          "scene_number": 14
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Bildad: 'When Will You End These Speeches?'",
+          "reference": "18:1-4",
+          "why_start_end_and_devices": "'You who tear yourself in anger.' Devices: Impatient rebuke."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "'The Lamp of the Wicked Is Snuffed Out'",
+          "reference": "18:5-10",
+          "why_start_end_and_devices": "'A snare lies in his path.' Devices: A web of traps imagery."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "'Terrors Startle Him on Every Side'",
+          "reference": "18:11-16",
+          "why_start_end_and_devices": "'Death's firstborn devours his limbs.' Devices: Personified terror."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "'No Posterity Among His People'",
+          "reference": "18:17-21",
+          "why_start_end_and_devices": "'Such is the place of him who knows not God.' Devices: Total erasure as judgment."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Job: 'How Long Will You Torment Me?'",
+          "reference": "19:1-6",
+          "why_start_end_and_devices": "'Know that God has wronged me.' Devices: A daring accusation."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "'He Has Walled Up My Way'",
+          "reference": "19:7-12",
+          "why_start_end_and_devices": "'I cry out, but there is no justice.' Devices: God as besieging army."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "'My Relatives Have Failed Me'",
+          "reference": "19:13-17",
+          "why_start_end_and_devices": "'My breath is offensive to my wife.' Devices: Utter isolation."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "'Have Pity on Me, My Friends'",
+          "reference": "19:18-22",
+          "why_start_end_and_devices": "'The hand of God has struck me.' Devices: A heartbreaking plea."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "'I Know That My Redeemer Lives'",
+          "reference": "19:23-25",
+          "why_start_end_and_devices": "'He will stand upon the earth at last.' Devices: The book's most famous confession of hope."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "'In My Flesh I Will See God'",
+          "reference": "19:26-29",
+          "why_start_end_and_devices": "'My own eyes will behold him.' Devices: A vision piercing the despair."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Zophar: 'The Triumph of the Wicked Is Brief'",
+          "reference": "20:1-5",
+          "why_start_end_and_devices": "'Their joy is but a moment.' Devices: Fleeting prosperity."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "'Though His Pride Reaches the Heavens, He Perishes'",
+          "reference": "20:6-11",
+          "why_start_end_and_devices": "'He vanishes like a dream.' Devices: The high brought low."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "'Evil Is Sweet in His Mouth, but Turns to Poison'",
+          "reference": "20:12-16",
+          "why_start_end_and_devices": "'The venom of cobras within him.' Devices: The sweet-then-bitter motif."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "'He Will Vomit Up His Riches'",
+          "reference": "20:17-22",
+          "why_start_end_and_devices": "'In his fullness, distress overtakes him.' Devices: Ill-gotten gain disgorged."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "'A Flying Weapon Will Pierce Him'",
+          "reference": "20:23-26",
+          "why_start_end_and_devices": "'A fire unfanned will consume him.' Devices: Inescapable doom."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "'This Is the Wicked Man's Heritage'",
+          "reference": "20:27-29",
+          "why_start_end_and_devices": "'The heavens will expose his guilt.' Devices: Cosmic witness against him."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Job: 'Listen, and Let That Be Your Comfort'",
+          "reference": "21:1-6",
+          "why_start_end_and_devices": "'Look at me and be appalled.' Devices: Demanding a real hearing."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "'Their Houses Are Safe from Fear'",
+          "reference": "21:7-10",
+          "why_start_end_and_devices": "'Why do the wicked live on and grow mighty?' Devices: The central challenge to retribution."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "'They Spend Their Days in Prosperity'",
+          "reference": "21:11-13",
+          "why_start_end_and_devices": "'They go down to the grave in peace.' Devices: The scandal of the wicked's easy death."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "'Yet They Say, Depart from Us'",
+          "reference": "21:14-16",
+          "why_start_end_and_devices": "'What is the Almighty, that we should serve him?' Devices: Prosperous defiance."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "'How Often Is the Lamp of the Wicked Snuffed Out?'",
+          "reference": "21:17-21",
+          "why_start_end_and_devices": "Disputing the friends' formula. Devices: Turning their proverb into a question."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "'One Dies in Full Vigor, Another in Bitterness'",
+          "reference": "21:22-26",
+          "why_start_end_and_devices": "'Together they lie down in the dust.' Devices: Death's indifference."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "'The Wicked Are Spared in the Day of Calamity'",
+          "reference": "21:27-30",
+          "why_start_end_and_devices": "'Have you not asked the travelers?' Devices: Common experience as evidence."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "'How Then Will You Comfort Me with Empty Words?'",
+          "reference": "21:31-34",
+          "why_start_end_and_devices": "'Your answers are nothing but falsehood.' Devices: The cycle ends in deadlock."
+        }
       ]
     },
     {
@@ -115,19 +706,174 @@
       "why_start_end_and_literary_glue": "The dialogue collapses: Eliphaz (ch. 22), Job (chs. 23-24), Bildad (ch. 25), and Job (chs. 26-27); Zophar is silent. The anonymous wisdom poem (ch. 28) closes the human debate by locating true wisdom with God alone. Start (22:1): Eliphaz answers. End (28:28): 'The fear of the Lord, that is wisdom.' Literary Glue: progressive breakdown of the speaker pattern and the narrator's interlude summarizing the failure of human wisdom.",
       "reference": "22:1 - 28:28",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Eliphaz's Third Speech: The Specific Accusation", "reference": "22:1-11", "why_start_end_and_devices": "Starts 'Then Eliphaz...' (22:1). Ends 'terrors shall make thee afraid' (22:10-11). Fabricated charges (oppressing poor) to fit doctrine." },
-        { "scene_number": 2, "scene_name": "Eliphaz (2): God in the Heavens", "reference": "22:12-20", "why_start_end_and_devices": "Starts 'Is not God in the height of heaven?' (22:12). Ends with past judgment example (22:20). Accuses Job of practical atheism; God too high to see." },
-        { "scene_number": 3, "scene_name": "Eliphaz (3): The Final Call to Repent", "reference": "22:21-30", "why_start_end_and_devices": "Starts 'Acquaint now thyself with him...' (22:21). Ends 'he shall be delivered by the pureness of thine hands' (22:30). Closing promises of restoration." },
-        { "scene_number": 4, "scene_name": "Job's Reply (1): Oh That I Knew Where I Might Find Him!", "reference": "23:1-17", "why_start_end_and_devices": "Starts 'Then Job answered...' (23:1). Ends 'because I was not cut off before the darkness' (23:17). Legal longing for God's tribunal; faith refined: 'when he hath tried me, I shall come forth as gold.'" },
-        { "scene_number": 5, "scene_name": "Job's Reply (2): Why Does God Not Judge?", "reference": "24:1-17", "why_start_end_and_devices": "Starts 'Why, seeing times are not hidden...' (24:1). Ends 'they know not the light' (24:17). Social injustice detailed without immediate divine redress." },
-        { "scene_number": 6, "scene_name": "Job's Reply (3): Who Will Make Me a Liar?", "reference": "24:18-25", "why_start_end_and_devices": "Starts 'He is swift as the waters...' (24:18). Ends 'who will make me a liar?' (24:25). Likely sarcasm quoting friends before restating his case and issuing a challenge." },
-        { "scene_number": 7, "scene_name": "Bildad's Final Speech: Man the Worm", "reference": "25:1-6", "why_start_end_and_devices": "Starts 'Then answered Bildad...' (25:1). Ends 'How much less man, that is a worm?' (25:6). Short, exhausted reprise of transcendence vs. impurity." },
-        { "scene_number": 8, "scene_name": "Job's Final Reply (1): Mocking the Friends' Help", "reference": "26:1-14", "why_start_end_and_devices": "Starts 'But Job answered...' (26:1). Ends 'how little a portion is heard of him?' (26:14). Sarcasm toward 'help'; superior poem on God's majesty." },
-        { "scene_number": 9, "scene_name": "Job's Final Reply (2): The Oath of Integrity", "reference": "27:1-6", "why_start_end_and_devices": "Starts 'Moreover Job continued his parable...' (27:1). Ends 'my heart shall not reproach me...' (27:6). Formal oath to hold fast righteousness." },
-        { "scene_number": 10, "scene_name": "Job's Final Reply (3): The Hypocrite's Hope", "reference": "27:7-23", "why_start_end_and_devices": "Starts 'Let mine enemy be as the wicked...' (27:7). Ends 'This is the portion of a wicked man...' (27:13-23). Co-opts friends' retribution rhetoric; debated textual placement underscores collapse." },
-        { "scene_number": 11, "scene_name": "The Interlude: Where Shall Wisdom Be Found?", "reference": "28:1-11", "why_start_end_and_devices": "Starts 'Surely there is a vein for the silver...' (28:1). Ends 'he bringeth forth to light' (28:11). Anonymous narrator extols human ingenuity in mining hidden things." },
-        { "scene_number": 12, "scene_name": "The Interlude: Wisdom is Priceless", "reference": "28:12-22", "why_start_end_and_devices": "Starts 'But where shall wisdom be found?' (28:12). Ends 'God understandeth the way thereof...' (28:23). Wisdom cannot be bought; even Death knows only rumor of it." },
-        { "scene_number": 13, "scene_name": "The Interlude: God Alone Knows the Way", "reference": "28:23-28", "why_start_end_and_devices": "Starts 'God understandeth the way thereof...' (28:23). Ends 'to depart from evil is understanding' (28:28). Only moral wisdom is disclosed to man; cosmic wisdom remains God's." }
+        {
+          "scene_number": 1,
+          "scene_name": "Eliphaz: 'Is Not Your Wickedness Great?'",
+          "reference": "22:1-5",
+          "why_start_end_and_devices": "'Can a man be of benefit to God?' Devices: The accusation turns specific."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'You Stripped the Naked; Snares Surround You'",
+          "reference": "22:6-11",
+          "why_start_end_and_devices": "Inventing crimes to fit the theory. Devices: False charges of oppression."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "'Does God Not See Through the Clouds?'",
+          "reference": "22:12-16",
+          "why_start_end_and_devices": "'You say, What does God know?' Devices: Painting Job as a scoffer."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "'Yet He Filled Their Houses with Good Things'",
+          "reference": "22:17-20",
+          "why_start_end_and_devices": "'The righteous see their ruin and rejoice.' Devices: The wicked's downfall savored."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'Submit to God and Be at Peace'",
+          "reference": "22:21-25",
+          "why_start_end_and_devices": "'Lay your gold in the dust.' Devices: The altar call of retribution."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "'Then You Will Delight in the Almighty'",
+          "reference": "22:26-30",
+          "why_start_end_and_devices": "'He saves the humble.' Devices: Restoration promised on repentance."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "'I Would Lay My Case Before Him'",
+          "reference": "23:1-4",
+          "why_start_end_and_devices": "'If only I knew where to find him.' Devices: Longing for the divine courtroom."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "'There an Upright Man Could Reason with Him'",
+          "reference": "23:5-7",
+          "why_start_end_and_devices": "'I would be acquitted forever.' Devices: Confidence in a fair hearing."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "'He Knows the Way I Take'",
+          "reference": "23:8-12",
+          "why_start_end_and_devices": "'I have treasured his words more than my food.' Devices: Faith amid God's hiddenness."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "'He Does Whatever He Pleases'",
+          "reference": "23:13-17",
+          "why_start_end_and_devices": "'Therefore I am terrified before him.' Devices: Awe shading into dread."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "'Why Are Times Not Kept by the Almighty?'",
+          "reference": "24:1-6",
+          "why_start_end_and_devices": "The wicked move boundary stones. Devices: Social injustice catalogued."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "'From the City the Dying Groan'",
+          "reference": "24:7-12",
+          "why_start_end_and_devices": "'Yet God charges no one with wrong.' Devices: The cry of the oppressed unanswered."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "'There Are Those Who Rebel Against the Light'",
+          "reference": "24:13-17",
+          "why_start_end_and_devices": "Murderer, adulterer, thief by night. Devices: Deeds of darkness."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "'They Are Foam on the Water'",
+          "reference": "24:18-21",
+          "why_start_end_and_devices": "Their portion is cursed. Devices: The fleeting fate of the wicked (perhaps quoting the friends)."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'Who Can Prove Me a Liar?'",
+          "reference": "24:22-25",
+          "why_start_end_and_devices": "A challenge closing the speech. Devices: Job's defiant confidence."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Bildad's Final Speech: Man the Worm",
+          "reference": "25:1-6",
+          "why_start_end_and_devices": "Starts 'Then answered Bildad...' (25:1). Ends 'How much less man, that is a worm?' (25:6). Short, exhausted reprise of transcendence vs. impurity."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Job Mocks Bildad's 'Help'",
+          "reference": "26:1-4",
+          "why_start_end_and_devices": "'How you have helped the powerless!' Devices: Withering sarcasm."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "'The Dead Tremble; He Stretches Out the North'",
+          "reference": "26:5-10",
+          "why_start_end_and_devices": "'He suspends the earth over nothing.' Devices: A majestic creation hymn."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "'These Are but the Fringes of His Ways'",
+          "reference": "26:11-14",
+          "why_start_end_and_devices": "'The thunder of his power who can understand?' Devices: God's works as mere whispers."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Job's Final Reply (2): The Oath of Integrity",
+          "reference": "27:1-6",
+          "why_start_end_and_devices": "Starts 'Moreover Job continued his parable...' (27:1). Ends 'my heart shall not reproach me...' (27:6). Formal oath to hold fast righteousness."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "'What Hope Has the Godless?'",
+          "reference": "27:7-12",
+          "why_start_end_and_devices": "'Will God hear his cry?' Devices: Job affirms a truth the friends misapply."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "'This Is the Wicked Man's Portion'",
+          "reference": "27:13-18",
+          "why_start_end_and_devices": "'His house is like a moth's cocoon.' Devices: Conceding judgment in principle."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "'Terrors Overtake Him Like a Flood'",
+          "reference": "27:19-23",
+          "why_start_end_and_devices": "'The east wind carries him off.' Devices: A storm of ruin.')"
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "'There Is a Mine for Silver'",
+          "reference": "28:1-6",
+          "why_start_end_and_devices": "Man digs deep for precious metals. Devices: Human ingenuity surveyed."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "'Man Tunnels Through the Rock'",
+          "reference": "28:7-11",
+          "why_start_end_and_devices": "'He brings hidden things to light.' Devices: Mastery of the earth.')"
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "'But Where Can Wisdom Be Found?'",
+          "reference": "28:12-17",
+          "why_start_end_and_devices": "'It cannot be bought with gold.' Devices: The poem's pivot—wisdom is not minable."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "'It Cannot Be Bought with Gold'",
+          "reference": "28:18-22",
+          "why_start_end_and_devices": "'Destruction and Death say, We have heard a rumor.' Devices: Wisdom hidden from all.')"
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Interlude: God Alone Knows the Way",
+          "reference": "28:23-28",
+          "why_start_end_and_devices": "Starts 'God understandeth the way thereof...' (28:23). Ends 'to depart from evil is understanding' (28:28). Only moral wisdom is disclosed to man; cosmic wisdom remains God's."
+        }
       ]
     },
     {
@@ -136,14 +882,126 @@
       "why_start_end_and_literary_glue": "Job's final comprehensive speech in three movements—past honor (ch. 29), present humiliation (ch. 30), and oath of innocence (ch. 31)—ends with the editorial colophon 'The words of Job are ended' (31:40). Start (29:1): formal narrative introduction. End (31:40): explicit closure. Literary Glue: Past/Present/Oath structure functioning as a legal summation before silent heaven.",
       "reference": "29:1 - 31:40",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Job's Lament for His Past (1): As I Was in Months Past", "reference": "29:1-11", "why_start_end_and_devices": "Starts 'Moreover Job continued...' (29:1). Ends 'the aged arose and stood up' (29:8-11). Idyllic remembrance centered on God's nearness and public honor." },
-        { "scene_number": 2, "scene_name": "Job's Lament for His Past (2): I Was Eyes to the Blind", "reference": "29:12-25", "why_start_end_and_devices": "Starts 'Because I delivered the poor...' (29:12). Ends 'as one that comforteth the mourners' (29:25). Self-portrait of social righteousness—father to the poor, eyes to the blind." },
-        { "scene_number": 3, "scene_name": "Job's Lament for His Present (1): The Scorn of the Vile", "reference": "30:1-15", "why_start_end_and_devices": "Starts 'But now...' (30:1). Ends 'my welfare passeth away as a cloud' (30:15). Sharp contrast: derision from the base-born; social collapse." },
-        { "scene_number": 4, "scene_name": "Job's Lament for His Present (2): The Assault of God", "reference": "30:16-31", "why_start_end_and_devices": "Starts 'And now my soul is poured out...' (30:16). Ends 'the harp also is turned to mourning' (30:31). Physical-spiritual agony; God portrayed as cruel; unanswered cries." },
-        { "scene_number": 5, "scene_name": "Job's Oath of Innocence (1): Personal Purity", "reference": "31:1-12", "why_start_end_and_devices": "Starts 'I made a covenant with mine eyes...' (31:1). Ends with adultery curse (31:12). Negative confession against lust, deceit, adultery." },
-        { "scene_number": 6, "scene_name": "Job's Oath of Innocence (2): Social Justice", "reference": "31:13-23", "why_start_end_and_devices": "Starts 'If I did despise the cause of my manservant...' (31:13). Ends 'I should have been afraid' (31:23). Righteous treatment of dependents and care for the vulnerable." },
-        { "scene_number": 7, "scene_name": "Job's Oath of Innocence (3): Inward Piety", "reference": "31:24-34", "why_start_end_and_devices": "Starts 'If I have made gold my hope...' (31:24). Ends 'and went not out of the door' (31:34). Secret sins denied: wealth-trust, astral idolatry, spite, hypocrisy." },
-        { "scene_number": 8, "scene_name": "Job's Oath of Innocence (4): The Final Challenge", "reference": "31:35-40", "why_start_end_and_devices": "Starts 'Oh that one would hear me!' (31:35). Ends 'The words of Job are ended' (31:40). Signs his case; demands the Almighty's indictment; seals with land-oath." }
+        {
+          "scene_number": 1,
+          "scene_name": "'Oh, for the Days When God Watched Over Me'",
+          "reference": "29:1-6",
+          "why_start_end_and_devices": "'When my path was drenched with cream.' Devices: Nostalgia for the golden past."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'The Young Men Stepped Aside'",
+          "reference": "29:7-11",
+          "why_start_end_and_devices": "Honored at the city gate. Devices: A portrait of former dignity.')"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "'I Was Eyes to the Blind, Feet to the Lame'",
+          "reference": "29:12-17",
+          "why_start_end_and_devices": "'I broke the fangs of the wicked.' Devices: A resume of righteousness."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "'I Thought I Would Die in My Own Nest'",
+          "reference": "29:18-20",
+          "why_start_end_and_devices": "'My glory fresh upon me.' Devices: Expectation of a secure end."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'I Chose Their Way and Sat as Chief'",
+          "reference": "29:21-25",
+          "why_start_end_and_devices": "'I dwelt as a king among his troops.' Devices: The height from which he fell.')"
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Outcasts Who Now Deride Me",
+          "reference": "30:1-4",
+          "why_start_end_and_devices": "'Men whose fathers I would have disdained.' Devices: The reversal of status."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "'A Senseless, Nameless Brood'",
+          "reference": "30:5-8",
+          "why_start_end_and_devices": "Driven from the land. Devices: Contempt for his mockers."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "'They Detest Me and Keep Their Distance'",
+          "reference": "30:9-12",
+          "why_start_end_and_devices": "'Now I am their taunt-song.' Devices: Public humiliation."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "'My Dignity Is Driven Away Like the Wind'",
+          "reference": "30:13-15",
+          "why_start_end_and_devices": "'My safety vanishes like a cloud.' Devices: Honor dissolved.')"
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "'God Has Thrown Me in the Mud'",
+          "reference": "30:16-19",
+          "why_start_end_and_devices": "'My life ebbs away.' Devices: Reduced to dust and ashes."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "'I Cry to You, but You Do Not Answer'",
+          "reference": "30:20-23",
+          "why_start_end_and_devices": "'You turn on me ruthlessly.' Devices: The silence of heaven."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "'My Inward Parts Are in Turmoil'",
+          "reference": "30:24-27",
+          "why_start_end_and_devices": "'Days of suffering confront me.' Devices: Ceaseless inner anguish."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "'My Harp Is Tuned to Mourning'",
+          "reference": "30:28-31",
+          "why_start_end_and_devices": "'My skin grows black and peels.' Devices: Music turned to weeping.')"
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "'I Made a Covenant with My Eyes'",
+          "reference": "31:1-6",
+          "why_start_end_and_devices": "'Let God weigh me in honest scales.' Devices: The oath of innocence begins."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'If My Step Has Turned from the Path'",
+          "reference": "31:7-12",
+          "why_start_end_and_devices": "'Then let others eat what I have sown.' Devices: Self-maledictory oaths.')"
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "'If I Have Denied Justice to My Servants'",
+          "reference": "31:13-18",
+          "why_start_end_and_devices": "'Did not he who made me make them?' Devices: A startling vision of shared humanity."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "'If I Have Withheld from the Poor'",
+          "reference": "31:19-23",
+          "why_start_end_and_devices": "'I dreaded destruction from God.' Devices: Charity from reverence.')"
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "'If I Have Put My Trust in Gold'",
+          "reference": "31:24-28",
+          "why_start_end_and_devices": "'That too would be sin to be judged.' Devices: Inward idolatry confessed against."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "'If I Have Rejoiced at My Enemy's Ruin'",
+          "reference": "31:29-34",
+          "why_start_end_and_devices": "'I have not concealed my sin like Adam.' Devices: Searching, inward integrity.')"
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Job's Oath of Innocence (4): The Final Challenge",
+          "reference": "31:35-40",
+          "why_start_end_and_devices": "Starts 'Oh that one would hear me!' (31:35). Ends 'The words of Job are ended' (31:40). Signs his case; demands the Almighty's indictment; seals with land-oath."
+        }
       ]
     },
     {
@@ -152,18 +1010,222 @@
       "why_start_end_and_literary_glue": "A distinct unit marked by the sudden arrival of Elihu (32:1-5). His four speeches (chs. 33-37) bridge failed human debate and divine answer by proposing that suffering instructs and reveals. Start (32:1): narrative transition introducing Elihu and his anger. End (37:24): his storm-laden conclusion flows into 38:1, YHWH from the whirlwind. Literary Glue: a single speaker developing a theology of educative suffering and divine transcendence.",
       "reference": "32:1 - 37:24",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Elihu's Introduction: His Anger is Kindled", "reference": "32:1-10", "why_start_end_and_devices": "Starts 'So these three men ceased...' (32:1). Ends 'the inspiration of the Almighty giveth them understanding' (32:8-10). Prose-poetry intro; claims inspiration over age." },
-        { "scene_number": 2, "scene_name": "Elihu's Introduction: I Am Full of Matter", "reference": "32:11-22", "why_start_end_and_devices": "Starts 'Behold, I waited for your words...' (32:11). Ends 'I should soon be taken away' (32:22). Declares constraint to speak and impartiality of judgment." },
-        { "scene_number": 3, "scene_name": "Elihu's First Speech (1): The Claim to Inspiration", "reference": "33:1-13", "why_start_end_and_devices": "Starts 'Wherefore, Job, I pray thee...' (33:1). Ends 'he giveth not account of any of his matters' (33:13). Offers himself as mediator-like and rebuts charge of divine silence." },
-        { "scene_number": 4, "scene_name": "Elihu's First Speech (2): How God Speaks", "reference": "33:14-33", "why_start_end_and_devices": "Starts 'For God speaketh once, yea twice...' (33:14). Ends 'I shall teach thee wisdom' (33:33). Argues God speaks via dreams and suffering to redeem from the pit." },
-        { "scene_number": 5, "scene_name": "Elihu's Second Speech: God is Just", "reference": "34:1-15", "why_start_end_and_devices": "Starts 'Furthermore Elihu answered...' (34:1). Ends 'all flesh shall perish together' (34:15). Affirms God's governance cannot be unjust." },
-        { "scene_number": 6, "scene_name": "Elihu (2): God is Not Blind to Sin", "reference": "34:16-30", "why_start_end_and_devices": "Starts 'If now thou hast understanding...' (34:16). Ends 'that the hypocrite reign not' (34:30). God's eyes on man's ways; public judgment of the wicked." },
-        { "scene_number": 7, "scene_name": "Elihu (3): The Call to Submit", "reference": "34:31-37", "why_start_end_and_devices": "Starts 'Surely it is meet to be said unto God...' (34:31). Ends 'he multiplieth his words against God' (34:37). Application: confession over contention." },
-        { "scene_number": 8, "scene_name": "Elihu's Third Speech: Your Sin Doesn't Hurt God", "reference": "35:1-16", "why_start_end_and_devices": "Starts 'Elihu spake moreover...' (35:1). Ends 'doth he speak words without knowledge' (35:16). God's transcendence means human righteousness/evil do not change Him; critiques Job's legal claim." },
-        { "scene_number": 9, "scene_name": "Elihu's Fourth Speech (1): The Goodness of God", "reference": "36:1-15", "why_start_end_and_devices": "Starts 'Elihu also proceeded...' (36:1). Ends 'openeth their ear in oppression' (36:15). Suffering instructs the righteous; God's might paired with care." },
-        { "scene_number": 10, "scene_name": "Elihu (2): The Majesty of God in the Storm", "reference": "36:16-33", "why_start_end_and_devices": "Starts 'Even so would he have removed thee...' (36:16). Ends with meteorological transition (36:33). Warns Job; pivots to storm theophany." },
-        { "scene_number": 11, "scene_name": "Elihu (3): The Storm Poem", "reference": "37:1-13", "why_start_end_and_devices": "Starts 'At this also my heart trembleth...' (37:1). Ends 'for correction, for his land, or for mercy' (37:13). Evokes the coming whirlwind as pedagogical." },
-        { "scene_number": 12, "scene_name": "Elihu (4): The Final Challenge", "reference": "37:14-24", "why_start_end_and_devices": "Starts 'Hearken unto this, O Job...' (37:14). Ends 'He respecteth not any that are wise of heart' (37:24). Pre-empts divine questions; extols God's terrible majesty." }
+        {
+          "scene_number": 1,
+          "scene_name": "Elihu's Anger Is Kindled",
+          "reference": "32:1-5",
+          "why_start_end_and_devices": "Against Job and against the friends. Devices: A new voice introduced in prose."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'I Am Young; I Waited for You to Speak'",
+          "reference": "32:6-10",
+          "why_start_end_and_devices": "'It is the spirit in a man that gives understanding.' Devices: Youthful boldness justified.')"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "'Not One of You Has Answered Job'",
+          "reference": "32:11-16",
+          "why_start_end_and_devices": "'I will not use your arguments.' Devices: Elihu distancing himself from the three."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "'I Am Full of Words; I Must Speak'",
+          "reference": "32:17-22",
+          "why_start_end_and_devices": "'Like new wineskins ready to burst.' Devices: Pent-up speech imagery.')"
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'The Breath of the Almighty Gives Me Life'",
+          "reference": "33:1-4",
+          "why_start_end_and_devices": "'My words come from an upright heart.' Devices: Claiming sincerity and inspiration."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "'I Too Was Formed from Clay'",
+          "reference": "33:5-7",
+          "why_start_end_and_devices": "'You need not fear me.' Devices: A more approachable mediator-figure."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "'God Is Greater Than Man'",
+          "reference": "33:8-13",
+          "why_start_end_and_devices": "'Why do you complain that he answers no one?' Devices: Rebuking Job's central charge.')"
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "'God Speaks in Dreams to Turn Man from Pride'",
+          "reference": "33:14-18",
+          "why_start_end_and_devices": "'To spare his soul from the pit.' Devices: Revelation as merciful warning."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "'He Is Chastened on a Bed of Pain'",
+          "reference": "33:19-22",
+          "why_start_end_and_devices": "'His soul draws near the pit.' Devices: Suffering as discipline, not just punishment."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "'If There Is a Mediator, His Flesh Is Renewed'",
+          "reference": "33:23-25",
+          "why_start_end_and_devices": "'I have found a ransom.' Devices: A redemptive note—an angel-interpreter."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "'God Redeems His Soul from the Pit'",
+          "reference": "33:26-30",
+          "why_start_end_and_devices": "'He restores him to righteousness.' Devices: Twice, even three times God works."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "'Listen, Job; If You Have Anything to Say'",
+          "reference": "33:31-33",
+          "why_start_end_and_devices": "An invitation to respond. Devices: Rhetorical openness.')"
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Elihu: 'Job Says He Is Innocent'",
+          "reference": "34:1-6",
+          "why_start_end_and_devices": "'Let us discern what is right.' Devices: Convening a jury of the wise."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "'Far Be It from God to Do Wrong'",
+          "reference": "34:7-11",
+          "why_start_end_and_devices": "'He repays a man for what he has done.' Devices: Defending divine justice."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'If He Withdrew His Spirit, All Would Perish'",
+          "reference": "34:12-15",
+          "why_start_end_and_devices": "'Mankind would return to the dust.' Devices: Life as wholly God's gift.')"
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "'Would You Condemn the Just and Mighty One?'",
+          "reference": "34:16-20",
+          "why_start_end_and_devices": "'He shows no partiality to princes.' Devices: God's impartial rule."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "'His Eyes Are on the Ways of Men'",
+          "reference": "34:21-25",
+          "why_start_end_and_devices": "'No darkness can hide the evildoer.' Devices: Divine omniscience."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "'He Strikes Them for Their Wickedness'",
+          "reference": "34:26-30",
+          "why_start_end_and_devices": "'Because they turned from following him.' Devices: Judgment with purpose.')"
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "'Should God Reward You on Your Terms?'",
+          "reference": "34:31-33",
+          "why_start_end_and_devices": "'You must decide, not I.' Devices: Pressing Job to submit."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "'Job Speaks Without Knowledge'",
+          "reference": "34:34-37",
+          "why_start_end_and_devices": "'He adds rebellion to his sin.' Devices: A harsh verdict.')"
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "'Do You Think It Just to Say, I Am More Righteous?'",
+          "reference": "35:1-5",
+          "why_start_end_and_devices": "'Look at the heavens.' Devices: God transcendent above human merit."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "'Your Sin Affects Only Other Men'",
+          "reference": "35:6-11",
+          "why_start_end_and_devices": "'Where is God my Maker, who gives songs in the night?' Devices: God beyond human gain or loss."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "'God Does Not Listen to Empty Pleas'",
+          "reference": "35:12-16",
+          "why_start_end_and_devices": "'Job opens his mouth with empty talk.' Devices: Pride blocking the answer.')"
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "'Bear with Me; I Have More to Say for God'",
+          "reference": "36:1-4",
+          "why_start_end_and_devices": "'My knowledge is perfect.' Devices: Elihu's bold self-confidence."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "'He Does Not Take His Eyes Off the Righteous'",
+          "reference": "36:5-7",
+          "why_start_end_and_devices": "'He enthrones them with kings forever.' Devices: God mighty yet attentive."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "'He Tells Them Their Sin'",
+          "reference": "36:8-12",
+          "why_start_end_and_devices": "'If they obey, they end in prosperity.' Devices: Affliction as God's instruction."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "'The Godless Harbor Resentment'",
+          "reference": "36:13-15",
+          "why_start_end_and_devices": "'He delivers the afflicted through their affliction.' Devices: Suffering as a saving voice.')"
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "'He Is Wooing You from the Jaws of Distress'",
+          "reference": "36:16-21",
+          "why_start_end_and_devices": "'Beware of turning to evil.' Devices: God's discipline as courtship."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "'Behold, God Is Exalted in His Power'",
+          "reference": "36:22-26",
+          "why_start_end_and_devices": "'Who has prescribed his ways?' Devices: The transition to the storm-hymn."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "'Who Can Understand the Spreading of the Clouds?'",
+          "reference": "36:27-29",
+          "why_start_end_and_devices": "'He draws up the drops of water.' Devices: The water cycle as wonder."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "'He Fills His Hands with Lightning'",
+          "reference": "36:30-33",
+          "why_start_end_and_devices": "'Its crashing declares his presence.' Devices: The gathering storm.')"
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "'God Thunders Wondrously with His Voice'",
+          "reference": "37:1-5",
+          "why_start_end_and_devices": "'My heart pounds and leaps.' Devices: Awe at the thunderstorm."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "'He Says to the Snow, Fall on the Earth'",
+          "reference": "37:6-10",
+          "why_start_end_and_devices": "'By the breath of God ice is formed.' Devices: Weather as divine command."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "'He Loads the Clouds with Moisture'",
+          "reference": "37:11-13",
+          "why_start_end_and_devices": "'Whether for correction or for love.' Devices: Nature as God's tool of mercy or judgment.')"
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "'Stop and Consider God's Wonders'",
+          "reference": "37:14-18",
+          "why_start_end_and_devices": "'Do you know how the clouds hang poised?' Devices: Questions anticipating God's own."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "'The Almighty Is Beyond Our Reach'",
+          "reference": "37:19-24",
+          "why_start_end_and_devices": "'He does not regard the wise of heart.' Devices: Setting the stage for the LORD's speech.')"
+        }
       ]
     },
     {
@@ -172,18 +1234,205 @@
       "why_start_end_and_literary_glue": "The climax and resolution: YHWH's two whirlwind speeches (and Job's two brief replies) reframe the debate through creation's scale and untamable creatures, followed by the prose epilogue restoring Job and judging the friends, closing the narrative frame. Start (38:1): 'Then the LORD answered Job out of the whirlwind.' End (42:17): Job dies 'old and full of days.' Literary Glue: direct divine interrogation and narrative closure mirroring the prologue.",
       "reference": "38:1 - 42:17",
       "scenes": [
-        { "scene_number": 1, "scene_name": "YHWH's First Speech (1): Where Wast Thou?", "reference": "38:1-18", "why_start_end_and_devices": "Starts 'Then the LORD answered Job...' (38:1). Ends 'Declare, if thou knowest it all' (38:18). Overwhelms Job with rhetorical questions concerning earth's founding and dawn's governance." },
-        { "scene_number": 2, "scene_name": "YHWH's First Speech (2): The Wonders of Nature", "reference": "38:19-38", "why_start_end_and_devices": "Starts 'Where is the way where light dwelleth?' (38:19). Ends 'who can stay the bottles of heaven?' (38:38). Snow's treasuries, rain on wilderness, and constellations reorient to non-anthropocentric providence." },
-        { "scene_number": 3, "scene_name": "YHWH's First Speech (3): The Wild Animals", "reference": "38:39 - 39:30", "why_start_end_and_devices": "Starts 'Wilt thou hunt the prey for the lion?' (38:39). Ends 'her young ones also suck up blood' (39:30). Wild lion, ibex, wild ass, wild ox, ostrich, war-horse, hawk—creation's non-domestic, untamable vitality." },
-        { "scene_number": 4, "scene_name": "Job's First Response: I Am Vile", "reference": "40:1-5", "why_start_end_and_devices": "Starts 'Moreover the LORD answered Job...' (40:1-2). Ends 'I will proceed no further' (40:5). Brief submission and silence under divine challenge." },
-        { "scene_number": 5, "scene_name": "YHWH's Second Speech (1): The Challenge to Govern", "reference": "40:6-14", "why_start_end_and_devices": "Starts 'Then answered the LORD... out of the whirlwind' (40:6-7). Ends 'thine own right hand can save thee' (40:14). Sarcastic invitation to run the moral order as Job imagines." },
-        { "scene_number": 6, "scene_name": "YHWH (2): Behold Now Behemoth", "reference": "40:15-24", "why_start_end_and_devices": "Starts 'Behold now behemoth...' (40:15). Ends with the hook/jin challenge (40:24). Exhibit A: sublime creature powerful and untamable, 'chief of the ways of God.'" },
-        { "scene_number": 7, "scene_name": "YHWH (3): Canst Thou Draw Out Leviathan?", "reference": "41:1-34", "why_start_end_and_devices": "Starts 'Canst thou draw out leviathan...' (41:1). Ends 'he is a king over all the children of pride' (41:34). Ultimate chaos-creature beyond human subjugation." },
-        { "scene_number": 8, "scene_name": "Job's Final Response: I Abhor Myself", "reference": "42:1-6", "why_start_end_and_devices": "Starts 'Then Job answered the LORD...' (42:1). Ends 'and repent in dust and ashes' (42:6). Moves from hearsay to sight; repents of words without knowledge." },
-        { "scene_number": 9, "scene_name": "The Epilogue: The Friends Judged", "reference": "42:7-9", "why_start_end_and_devices": "Starts 'And it was so, that after the LORD had spoken...' (42:7). Ends 'The LORD also accepted Job' (42:9). God vindicates Job, requires friends' sacrifices, and Job intercedes." },
-        { "scene_number": 10, "scene_name": "The Epilogue: Job's Restoration", "reference": "42:10-17", "why_start_end_and_devices": "Starts 'And the LORD turned the captivity of Job...' (42:10). Ends 'So Job died, being old and full of days' (42:17). Narrative restoration (double portion, new family) closes the frame begun in chs. 1-2." }
+        {
+          "scene_number": 1,
+          "scene_name": "The LORD from the Whirlwind: 'Brace Yourself'",
+          "reference": "38:1-3",
+          "why_start_end_and_devices": "'Who is this that darkens counsel?' Devices: God answers—but with questions."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'Where Were You When I Laid the Foundations?'",
+          "reference": "38:4-7",
+          "why_start_end_and_devices": "'While the morning stars sang together.' Devices: Creation's joyful dawn."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "'Who Shut Up the Sea Behind Doors?'",
+          "reference": "38:8-11",
+          "why_start_end_and_devices": "'Thus far you may come and no farther.' Devices: God bounding chaos."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "'Have You Ever Ordered the Dawn?'",
+          "reference": "38:12-15",
+          "why_start_end_and_devices": "'Light is withheld from the wicked.' Devices: The morning as moral light."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'Have You Journeyed to the Springs of the Sea?'",
+          "reference": "38:16-18",
+          "why_start_end_and_devices": "'Have you comprehended the earth's expanse?' Devices: The limits of human knowledge.')"
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "'Where Does Light Dwell?'",
+          "reference": "38:19-24",
+          "why_start_end_and_devices": "'Surely you know, for you were born then!' Devices: Divine irony."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "'Who Cuts a Channel for the Flood?'",
+          "reference": "38:25-30",
+          "why_start_end_and_devices": "'To water a land where no one lives.' Devices: God's care beyond human benefit."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "'Can You Bind the Pleiades?'",
+          "reference": "38:31-35",
+          "why_start_end_and_devices": "'Do you know the laws of the heavens?' Devices: The constellations under God's hand."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "'Who Has Wisdom to Count the Clouds?'",
+          "reference": "38:36-38",
+          "why_start_end_and_devices": "'Who can tip over the water jars of heaven?' Devices: Weather beyond human control.')"
+        },
+        {
+          "scene_name": "'Do You Hunt Prey for the Lioness?'",
+          "reference": "38:39-41",
+          "why_start_end_and_devices": "'Who provides food for the raven?' Devices: God feeds the wild.",
+          "scene_number": 10
+        },
+        {
+          "scene_name": "'When Do the Mountain Goats Give Birth?'",
+          "reference": "39:1-4",
+          "why_start_end_and_devices": "'Do you watch the doe bear her fawn?' Devices: Hidden births known only to God.",
+          "scene_number": 11
+        },
+        {
+          "scene_name": "'The Wild Donkey of the Wilderness'",
+          "reference": "39:5-8",
+          "why_start_end_and_devices": "'He scorns the commotion of the town.' Devices: Untamed freedom.",
+          "scene_number": 12
+        },
+        {
+          "scene_name": "'Will the Wild Ox Serve You?'",
+          "reference": "39:9-12",
+          "why_start_end_and_devices": "'Can you depend on him for your grain?' Devices: The uncontrollable beast.",
+          "scene_number": 13
+        },
+        {
+          "scene_name": "'The Ostrich Flaps Her Wings with Joy'",
+          "reference": "39:13-18",
+          "why_start_end_and_devices": "'She scorns the horse and rider.' Devices: A paradox of nature.",
+          "scene_number": 14
+        },
+        {
+          "scene_name": "'He Laughs at Fear, Afraid of Nothing'",
+          "reference": "39:19-22",
+          "why_start_end_and_devices": "'Do you give the horse his strength?' Devices: The warhorse's glory.",
+          "scene_number": 15
+        },
+        {
+          "scene_name": "'At the Trumpet He Snorts, Aha!'",
+          "reference": "39:23-25",
+          "why_start_end_and_devices": "'He catches the scent of battle.' Devices: Vivid martial imagery.",
+          "scene_number": 16
+        },
+        {
+          "scene_name": "'Does the Hawk Take Flight by Your Wisdom?'",
+          "reference": "39:26-30",
+          "why_start_end_and_devices": "'The eagle nests on the cliff.' Devices: The soaring birds under God's design.",
+          "scene_number": 17
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Job's First Response: I Am Vile",
+          "reference": "40:1-5",
+          "why_start_end_and_devices": "Starts 'Moreover the LORD answered Job...' (40:1-2). Ends 'I will proceed no further' (40:5). Brief submission and silence under divine challenge."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "'Would You Discredit My Justice?'",
+          "reference": "40:6-9",
+          "why_start_end_and_devices": "'Do you have an arm like God's?' Devices: The challenge renewed."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "'Adorn Yourself with Glory; Humble the Proud'",
+          "reference": "40:10-14",
+          "why_start_end_and_devices": "'Then I will admit you can save yourself.' Devices: A dare Job cannot meet.')"
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "'Behold Behemoth, Which I Made'",
+          "reference": "40:15-19",
+          "why_start_end_and_devices": "'He ranks first among the works of God.' Devices: The great beast displayed."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "'He Is Confident Though the River Rages'",
+          "reference": "40:20-24",
+          "why_start_end_and_devices": "'Can anyone capture him by the eyes?' Devices: Untamable power.')"
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "'Can You Pull in Leviathan with a Hook?'",
+          "reference": "41:1-6",
+          "why_start_end_and_devices": "'Will he make a covenant with you?' Devices: The unmasterable monster."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "'No One Is Fierce Enough to Rouse Him'",
+          "reference": "41:7-11",
+          "why_start_end_and_devices": "'Who then can stand against me?' Devices: From beast to the God who made it."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "'I Will Not Fail to Speak of His Limbs'",
+          "reference": "41:12-17",
+          "why_start_end_and_devices": "'His rows of shields are tightly sealed.' Devices: Impenetrable armor."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "'Firebrands Stream from His Mouth'",
+          "reference": "41:18-21",
+          "why_start_end_and_devices": "'Smoke pours from his nostrils.' Devices: A dragon of fire."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "'Strength Resides in His Neck'",
+          "reference": "41:22-24",
+          "why_start_end_and_devices": "'His heart is hard as rock.' Devices: Terrifying solidity."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "'When He Rises, the Mighty Are Terrified'",
+          "reference": "41:25-29",
+          "why_start_end_and_devices": "'He laughs at the rattle of the lance.' Devices: Fearlessness embodied."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "'He Is King Over All the Proud'",
+          "reference": "41:30-34",
+          "why_start_end_and_devices": "'Nothing on earth is his equal.' Devices: The climax—only God masters him.')"
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Job's Final Response: I Abhor Myself",
+          "reference": "42:1-6",
+          "why_start_end_and_devices": "Starts 'Then Job answered the LORD...' (42:1). Ends 'and repent in dust and ashes' (42:6). Moves from hearsay to sight; repents of words without knowledge."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "The Epilogue: The Friends Judged",
+          "reference": "42:7-9",
+          "why_start_end_and_devices": "Starts 'And it was so, that after the LORD had spoken...' (42:7). Ends 'The LORD also accepted Job' (42:9). God vindicates Job, requires friends' sacrifices, and Job intercedes."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The LORD Restores Job's Fortunes Twofold",
+          "reference": "42:10-13",
+          "why_start_end_and_devices": "'The LORD blessed Job's latter days more than his first.' Devices: Reversal and abundance."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "His Daughters; Job Dies Old and Full of Days",
+          "reference": "42:14-17",
+          "why_start_end_and_devices": "The fairest daughters in the land; four generations. Devices: A serene, restored ending.')"
+        }
       ]
     }
   ]
 }
-
