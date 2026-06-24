@@ -12,30 +12,60 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Call to Elders and the Drunkards",
-          "reference": "1:1-1:7",
-          "why_start_end_and_devices": "Starts with the prophetic superscription and establishes the unprecedented nature of the event with direct addresses; concludes as the stripping of vine and fig completes the initial devastation image. Devices: rhetorical questions, apostrophe, sensory imagery."
+          "scene_name": "What the Locust Swarms Have Devoured",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "The word to Joel: the unprecedented four-fold locust plague to be told to every generation."
         },
         {
           "scene_number": 2,
-          "scene_name": "The Priests, Farmers, and Public Lament",
-          "reference": "1:8-1:14",
-          "why_start_end_and_devices": "Shifts to ordered calls for lament across groups and ends with the formal command to consecrate a fast/assembly—moving from private grief to public liturgy. Devices: parallelism, strophic addresses."
+          "scene_name": "A Nation Has Invaded My Land",
+          "reference": "1:5-7",
+          "why_start_end_and_devices": "The drunkards roused to weep, the locust-army with lion's teeth that laid waste the vine and fig."
         },
         {
           "scene_number": 3,
+          "scene_name": "The Offerings Cut Off",
+          "reference": "1:8-10",
+          "why_start_end_and_devices": "Wailing like a widowed virgin as grain and drink offerings cease and the priests mourn."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Consecrate a Fast",
+          "reference": "1:11-14",
+          "why_start_end_and_devices": "The farmers dismayed and the call to the priests: proclaim a solemn assembly and cry out to the LORD."
+        },
+        {
+          "scene_number": 5,
           "scene_name": "The Pervasive Desolation and Crisis Prayer",
           "reference": "1:15-1:20",
           "why_start_end_and_devices": "Introduces the Day of Yahweh (near) and intensifies the land’s ruin, closing with the prophet’s desperate cry, which completes the lament over creation. Devices: metaphoric fire/drought, personified creation."
         },
         {
-          "scene_number": 4,
-          "scene_name": "The Imminent Day of Yahweh as Military Invasion",
-          "reference": "2:1-2:11",
-          "why_start_end_and_devices": "A trumpet summons and fresh Day‑warning launch an extended army‑locust metaphor; ends with the climactic ‘who can endure?’ that seals the terror unit. Devices: extended metaphor, intensifying parallelism."
+          "scene_number": 6,
+          "scene_name": "A Day of Darkness and Gloom",
+          "reference": "2:1-3",
+          "why_start_end_and_devices": "The ram's horn alarm for the Day of the LORD: a great army before whom the land turns from Eden to wasteland."
         },
         {
-          "scene_number": 5,
+          "scene_number": 7,
+          "scene_name": "Like the Crackling of Fire",
+          "reference": "2:4-6",
+          "why_start_end_and_devices": "The locust-army's terror: galloping like horses, bounding over mountaintops, nations writhing in horror."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Never Breaking Ranks",
+          "reference": "2:7-8",
+          "why_start_end_and_devices": "The disciplined invaders scaling walls in unswerving formation, bursting through the defenses."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Who Can Endure It?",
+          "reference": "2:9-11",
+          "why_start_end_and_devices": "Storming the city as the earth quakes and the heavens darken — the LORD's own dreadful army."
+        },
+        {
+          "scene_number": 10,
           "scene_name": "God’s Final Plea and the Priests’ Liturgy",
           "reference": "2:12-2:17",
           "why_start_end_and_devices": "Begins with ‘Yet even now, declares Yahweh’—a pivot from judgment to repentance—and concludes with the staged priestly intercession, the final action before divine response. Devices: chiasm (rend hearts/garments), triple assembly summons."
@@ -50,30 +80,71 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Ecological and Economic Restoration",
-          "reference": "2:18-2:27",
-          "why_start_end_and_devices": "Yahweh’s jealous pity reverses the disaster: removal of the northern threat, rains restored, crops renewed; closes with the confessional assurance ‘you shall know…’ Devices: apostrophe to land/animals, parallel blessing lists."
+          "scene_name": "The LORD Became Jealous for His Land",
+          "reference": "2:18-20",
+          "why_start_end_and_devices": "God's answer of mercy: grain, wine, and oil restored, the northern army driven away."
         },
         {
           "scene_number": 2,
+          "scene_name": "Do Not Be Afraid, O Land",
+          "reference": "2:21-23",
+          "why_start_end_and_devices": "The threefold 'do not fear' to land, beasts, and children of Zion, with the autumn and spring rains."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "I Will Repay the Years the Locusts Ate",
+          "reference": "2:24-27",
+          "why_start_end_and_devices": "Full threshing floors and the great promise of restored years — 'My people will never again be put to shame.'"
+        },
+        {
+          "scene_number": 4,
           "scene_name": "The Pouring Out of the Spirit",
           "reference": "2:28-2:32",
           "why_start_end_and_devices": "Topic shifts to universal Spirit outpouring ‘afterward,’ concluding with the promise that all who call on Yahweh’s name shall be saved. Devices: merism (sons/daughters; old/young), prophetic dreams/visions, Day linkage."
         },
         {
-          "scene_number": 3,
-          "scene_name": "The Great Gathering for Judgment in the Valley",
-          "reference": "3:1-3:14",
-          "why_start_end_and_devices": "In ‘those days’ Yahweh summons the nations for recompense, culminating in the ‘valley of decision’ refrain. Devices: martial imagery, apostrophe to nations, harvest/vintage metaphors."
+          "scene_number": 5,
+          "scene_name": "The Valley of Jehoshaphat",
+          "reference": "3:1-3",
+          "why_start_end_and_devices": "The gathering of the nations for judgment over the scattering and selling of God's inheritance."
         },
         {
-          "scene_number": 4,
-          "scene_name": "The LORD’s Final Theophany and Permanent Residence",
-          "reference": "3:15-3:21",
-          "why_start_end_and_devices": "Cosmic darkening frames Yahweh’s roaring theophany; contrasts nations’ shaking with Judah’s everlasting abundance and acquittal, closing with ‘Yahweh dwells in Zion.’ Devices: cosmic signs, Zion‑centered inclusio."
+          "scene_number": 6,
+          "scene_name": "What Do You Have Against Me, O Tyre?",
+          "reference": "3:4-6",
+          "why_start_end_and_devices": "The charge against Tyre, Sidon, and Philistia for plundering the temple and selling Judah to the Greeks."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "I Will Return Your Recompense",
+          "reference": "3:7-8",
+          "why_start_end_and_devices": "The reversal: the sold rousing, and their sellers' children sold to a distant nation."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Beat Your Plowshares into Swords",
+          "reference": "3:9-11",
+          "why_start_end_and_devices": "The ironic war-summons of the nations to gather, and the prayer 'bring down Your mighty ones, O LORD.'"
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Multitudes in the Valley of Decision",
+          "reference": "3:12-14",
+          "why_start_end_and_devices": "The harvest of judgment: swing the sickle, tread the winepress, for the Day of the LORD is near."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The LORD Will Roar from Zion",
+          "reference": "3:15-17",
+          "why_start_end_and_devices": "The darkened sun and moon, the LORD a refuge for His people, Jerusalem made holy."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Mountains Will Drip with Wine",
+          "reference": "3:18-21",
+          "why_start_end_and_devices": "The final restoration: streams flowing from the house of the LORD, Judah inhabited forever — 'the LORD dwells in Zion.'"
         }
       ]
     }
   ]
 }
-
