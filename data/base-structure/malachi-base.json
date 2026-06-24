@@ -26,15 +26,27 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Disputation on the Polluted Altar",
-          "reference": "1:6-1:14",
-          "why_start_end_and_devices": "'How have we despised your name?' answered by blemished/stolen/sick offerings; irony: 'Present to your governor'; closes with universal fear of Yahweh’s name. Devices: rhetorical questions, irony, contrastive universalism (1:11)."
+          "scene_name": "Where Is My Honor?",
+          "reference": "1:6-9",
+          "why_start_end_and_devices": "The dispute over the polluted altar: priests despising God's name by offering blind and lame animals."
         },
         {
           "scene_number": 2,
-          "scene_name": "The Covenant of Levi and the Corrupt Priesthood",
-          "reference": "2:1-2:9",
-          "why_start_end_and_devices": "Command to priests; threat of rebuke/offspring curse and dung‑shame; ideal Levi covenant (life/peace, true instruction) contrasted with present partiality; ends with despised status. Devices: covenant contrast, shocking metaphor, lex talionis."
+          "scene_name": "My Name Will Be Great Among the Nations",
+          "reference": "1:10-14",
+          "why_start_end_and_devices": "God's rejection of their offerings against the pure incense of the nations — 'I am a great King.'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "A Decree for the Priests",
+          "reference": "2:1-4",
+          "why_start_end_and_devices": "The curse on priests who will not honor God's name, that His covenant with Levi may yet continue."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Covenant of Levi",
+          "reference": "2:5-9",
+          "why_start_end_and_devices": "Levi's covenant of life and peace contrasted with the priests who caused many to stumble."
         }
       ]
     },
@@ -46,12 +58,18 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Treachery in Marriage and Divorce",
-          "reference": "2:10-2:16",
-          "why_start_end_and_devices": "Betrayal via intermarriage and divorce condemned; Yahweh as witness to the 'wife of your youth'; closes with violence/treachery prohibition. Devices: covenant‑marriage metaphor, legal witness, intensified prohibition."
+          "scene_name": "Judah Has Broken Faith",
+          "reference": "2:10-12",
+          "why_start_end_and_devices": "The profaning of the covenant by marrying the daughter of a foreign god."
         },
         {
           "scene_number": 2,
+          "scene_name": "I Hate Divorce",
+          "reference": "2:13-16",
+          "why_start_end_and_devices": "Tears on the altar over faithlessness to the wife of one's youth — 'guard yourselves in your spirit.'"
+        },
+        {
+          "scene_number": 3,
           "scene_name": "Demand for Justice and the Messenger's Purification",
           "reference": "2:17-3:5",
           "why_start_end_and_devices": "'How have we wearied?'—by saying evildoers are good/Where is justice? Answer: 'Behold, I send my messenger'; refiner’s fire cleanses Levites, then swift judgment enumerated. Devices: disputation, messenger motif, refiner/launderer similes."
@@ -66,18 +84,24 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Disputation on Robbing God of Tithes",
-          "reference": "3:6-3:12",
-          "why_start_end_and_devices": "'How shall we return?' → charge of robbing God; test Yahweh by bringing full tithe; windows of heaven, rebuked devourer, nations call you blessed. Devices: disputation, hortatory 'test,' blessing/curse reversal."
+          "scene_name": "Will a Man Rob God?",
+          "reference": "3:6-9",
+          "why_start_end_and_devices": "'Return to Me, and I will return to you'; the charge of robbing God in tithes and offerings."
         },
         {
           "scene_number": 2,
+          "scene_name": "The Windows of Heaven",
+          "reference": "3:10-12",
+          "why_start_end_and_devices": "The challenge to bring the full tithe and 'test Me' — the promise of blessing without measure."
+        },
+        {
+          "scene_number": 3,
           "scene_name": "Cynicism of the Wicked and the Remnant's Distinction",
           "reference": "3:13-3:18",
           "why_start_end_and_devices": "'How have we spoken?'—'It is vain to serve'; remnant fears Yahweh, book of remembrance written; distinction reaffirmed. Devices: contrastive parallelism, memorial book metaphor, remnant motif."
         },
         {
-          "scene_number": 3,
+          "scene_number": 4,
           "scene_name": "The Day of the LORD and the Promise of Elijah",
           "reference": "4:1-4:6",
           "why_start_end_and_devices": "Oven‑burning day for arrogant; sun of righteousness for fearers; 'Remember Moses' and 'Behold, I will send Elijah' to turn hearts; canonical warning close. Devices: apocalyptic similes, hortatory inclusio, prophetic forerunner promise."
@@ -86,4 +110,3 @@
     }
   ]
 }
-
