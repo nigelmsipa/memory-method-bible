@@ -14,13 +14,19 @@
           "scene_number": 1,
           "scene_name": "The Narrator's Premise",
           "reference": "1:1-2",
-          "why_start_end_and_devices": "Opens with third-person introduction and thesis 'Vanity of vanities! All is vanity'—a superlative framing the entire book."
+          "why_start_end_and_devices": "The book's frame opens: the words of the Teacher, son of David, and the thesis cry — 'Futility of futilities! Everything is futile.'"
         },
         {
           "scene_number": 2,
-          "scene_name": "The Narrator's Conclusion and Final Moral",
-          "reference": "12:8-14",
-          "why_start_end_and_devices": "Narrator resumes with inclusio (12:8), commends Qoheleth (12:9-10), warns on endless books (12:11-12), and concludes: 'Fear God and keep his commandments... for God will bring every deed into judgment.'"
+          "scene_name": "The Teacher's Epilogue",
+          "reference": "12:8-11",
+          "why_start_end_and_devices": "The closing inclusio repeats the futility-refrain (8) and praises the Teacher who arranged proverbs like goads from one Shepherd (9-11)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Conclusion: Fear God",
+          "reference": "12:12-14",
+          "why_start_end_and_devices": "The final word of the whole book: beyond endless books, 'fear God and keep His commandments… for God will bring every deed into judgment.'"
         }
       ]
     },
@@ -30,12 +36,66 @@
       "why_start_end_and_literary_glue": "A first-person, empirical investigation into profit/yitron (1:3–2:26) marked by 'I said/ saw/ made/ applied my heart' and the refrain 'vanity and striving after wind.' Starts with the profit question (1:3) and ends with the first positive refrain of enjoyment as God's gift (2:24-26).",
       "reference": "1:3 - 2:26",
       "scenes": [
-        { "scene_number": 1, "scene_name": "The Thesis: The Futility of Natural Cycles", "reference": "1:3-11", "why_start_end_and_devices": "Poem contrasting ceaseless natural cycles (sun, wind, rivers) with human finitude; anaphora creates weary motion; closes with 'no new thing under the sun' and 'no remembrance.'" },
-        { "scene_number": 2, "scene_name": "The Quest for Wisdom is Vexation", "reference": "1:12-18", "why_start_end_and_devices": "Qoheleth applies his heart to wisdom; antithesis (wisdom/folly) and refrain 'striving after wind'; concluding proverb: 'he who increases knowledge increases sorrow.'" },
-        { "scene_number": 3, "scene_name": "The Test of Pleasure and Possessions", "reference": "2:1-11", "why_start_end_and_devices": "Catalogue of great works (houses, vineyards, wealth), bound by 'whatever my eyes desired I did not keep from them' and verdict: all is vanity and striving after wind." },
-        { "scene_number": 4, "scene_name": "Wisdom vs. Folly: A Common, Hateful Fate", "reference": "2:12-17", "why_start_end_and_devices": "Wisdom excels folly, yet 'one event' (death) befalls both; irony culminates in 'Therefore I hated life.'" },
-        { "scene_number": 5, "scene_name": "The Test of Toil is Also Vanity", "reference": "2:18-23", "why_start_end_and_devices": "Toil's fruits left to another, perhaps fool or wise; ends with relentless diagnosis: days are sorrows, work is vexation, night lacks rest." },
-        { "scene_number": 6, "scene_name": "First Conclusion: Enjoyment is God's Gift", "reference": "2:24-26", "why_start_end_and_devices": "Pivot to positive refrain—eat, drink, enjoy good in toil, for it is from God's hand; God gives wisdom and joy to the one who pleases Him." }
+        {
+          "scene_number": 1,
+          "scene_name": "The Weariness of Natural Cycles",
+          "reference": "1:3-7",
+          "why_start_end_and_devices": "The thesis question 'what does a man gain?' answered by the endless round of generations, sun, wind, and rivers."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Nothing New Under the Sun",
+          "reference": "1:8-11",
+          "why_start_end_and_devices": "All things wearisome, the unsatisfied eye, and the verdict that there is nothing new and no remembrance."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Quest for Wisdom Is a Miserable Task",
+          "reference": "1:12-15",
+          "why_start_end_and_devices": "The king sets his mind to explore all under heaven — a grievous task, for the crooked cannot be straightened."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Much Wisdom, Much Sorrow",
+          "reference": "1:16-18",
+          "why_start_end_and_devices": "Surpassing all before him in wisdom, he learns it too is chasing wind: 'as knowledge grows, grief increases.'"
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Test of Pleasure",
+          "reference": "2:1-3",
+          "why_start_end_and_devices": "'I will test you with pleasure' — laughter, wine, and folly, while wisdom still guided him, prove futile."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Houses, Vineyards, and Treasure",
+          "reference": "2:4-8",
+          "why_start_end_and_devices": "The grand experiment of building: gardens, reservoirs, servants, herds, silver, gold, and singers."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Nothing to Be Gained Under the Sun",
+          "reference": "2:9-11",
+          "why_start_end_and_devices": "Greater than all before him, denying himself no pleasure — yet all his works prove a chasing of wind."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Wisdom and Folly: A Common Fate",
+          "reference": "2:12-17",
+          "why_start_end_and_devices": "Wisdom exceeds folly as light exceeds darkness, yet one fate overtakes both — so he comes to hate life."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Vanity of Toil Left to Another",
+          "reference": "2:18-23",
+          "why_start_end_and_devices": "Despair over labor that must be handed to a successor who may be a fool — grief even at night."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Enjoyment Is the Gift of God",
+          "reference": "2:24-26",
+          "why_start_end_and_devices": "The first of the book's refrains: nothing better than to eat, drink, and find satisfaction from God's hand."
+        }
       ]
     },
     {
@@ -44,13 +104,66 @@
       "why_start_end_and_literary_glue": "Moves from 'I' experiments to 'I saw/considered' observations, anchored by the 'times' poem (3:1-8). Observes sovereignty, injustice, oppression, envy, solitude, companionship, and political popularity under the sun. Ends with vanity refrain (4:16).",
       "reference": "3:1 - 4:16",
       "scenes": [
-        { "scene_number": 1, "scene_name": "The Poem of Appointed Times", "reference": "3:1-8", "why_start_end_and_devices": "Fourteen meristic pairs (birth/death... war/peace) form a totalizing structure reflecting fixed, appointed times under divine governance." },
-        { "scene_number": 2, "scene_name": "God's Sovereignty and Man's Enigma", "reference": "3:9-15", "why_start_end_and_devices": "Commentary on the poem: God makes everything beautiful in its time, sets eternity in man's heart—yet man cannot find out God's work; includes enjoyment refrain (12–13)." },
-        { "scene_number": 3, "scene_name": "The Enigma of Injustice", "reference": "3:16-22", "why_start_end_and_devices": "Wickedness in judgment's place mitigated by future judgment hope (3:17), yet man and beast share fate; closes with 'nothing better than to rejoice in his works.'" },
-        { "scene_number": 4, "scene_name": "The Problem of Oppression", "reference": "4:1-3", "why_start_end_and_devices": "Brief but complete lament: tears of the oppressed, no comforter; 'better the dead... better than both he who has not yet been.'" },
-        { "scene_number": 5, "scene_name": "The Vanity of Competitive and Solitary Toil", "reference": "4:4-8", "why_start_end_and_devices": "Envy-driven toil (4) and the 'one alone' (7–8) bind a meditation on amal; balanced proverb (6) commends quietness over grasping." },
-        { "scene_number": 6, "scene_name": "The Value of Companionship", "reference": "4:9-12", "why_start_end_and_devices": "Numerical proverb cluster on help, warmth, and defense; climaxes with 'a threefold cord is not quickly broken.'" },
-        { "scene_number": 7, "scene_name": "The Vanity of Political Popularity", "reference": "4:13-16", "why_start_end_and_devices": "Parable of poor wise youth vs. old foolish king; crowds shift and forget—'this also is vanity and striving after wind.'" }
+        {
+          "scene_number": 1,
+          "scene_name": "A Time for Every Purpose",
+          "reference": "3:1-4",
+          "why_start_end_and_devices": "The famous poem opens: a season for everything — born and dying, planting, weeping, and dancing."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "A Time for War and a Time for Peace",
+          "reference": "3:5-8",
+          "why_start_end_and_devices": "The poem's second half — stones, embracing, keeping, tearing, silence — closing on love, hate, war, and peace."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "He Has Set Eternity in Their Hearts",
+          "reference": "3:9-11",
+          "why_start_end_and_devices": "God making everything beautiful in its time, yet man unable to fathom His work from beginning to end."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Eat, Drink, and Do Good",
+          "reference": "3:12-15",
+          "why_start_end_and_devices": "The refrain renewed: enjoyment as God's gift, and the enduring works of God that men should fear."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Wickedness in the Place of Judgment",
+          "reference": "3:16-18",
+          "why_start_end_and_devices": "Injustice observed where righteousness should be, with the assurance that God will judge and test men."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Men and Beasts Share One Breath",
+          "reference": "3:19-22",
+          "why_start_end_and_devices": "The leveling enigma of death — all from dust, all to dust — so nothing is better than to enjoy one's work."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Tears of the Oppressed",
+          "reference": "4:1-3",
+          "why_start_end_and_devices": "The oppressed who have no comforter, leading him to admire the dead and the unborn above the living."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Vanity of Toil and Solitude",
+          "reference": "4:4-8",
+          "why_start_end_and_devices": "Labor born of envy, the self-consuming fool, and the lonely man who toils with no one to enjoy it."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "A Cord of Three Strands",
+          "reference": "4:9-12",
+          "why_start_end_and_devices": "The praise of companionship: two better than one, and the threefold cord not quickly broken."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Vanity of Political Popularity",
+          "reference": "4:13-16",
+          "why_start_end_and_devices": "Better a poor wise youth than an old foolish king, yet even the new favorite is soon forgotten."
+        }
       ]
     },
     {
@@ -59,15 +172,126 @@
       "why_start_end_and_literary_glue": "A second observation collection (5:1–8:17) ranging from reverent worship to wealth's futility, 'better-than' proverbs, and the enigma of justice. The throughline is what is 'good' for man and the unsearchability of God's works. Ends climactically with man's inability to find out all that God does (8:17).",
       "reference": "5:1 - 8:17",
       "scenes": [
-        { "scene_number": 1, "scene_name": "On Reverent Worship and Vows", "reference": "5:1-7", "why_start_end_and_devices": "Imperatives for the house of God: few words before heaven's God, keep vows, fear God—framed by 5:2 and 5:7." },
-        { "scene_number": 2, "scene_name": "The Vanity of Wealth and Oppression", "reference": "5:8-17", "why_start_end_and_devices": "Essay on money-love and its sorrows; thesis 5:10; catalog of evils leads to 'sore evil'—riches hoarded to hurt their owners." },
-        { "scene_number": 3, "scene_name": "Conclusion: Enjoyment is God's Gift", "reference": "5:18-20", "why_start_end_and_devices": "Second enjoyment refrain—good to eat, drink, and enjoy toil for it is God's gift; God answers him in the joy of his heart." },
-        { "scene_number": 4, "scene_name": "Riches Without Enjoyment", "reference": "6:1-6", "why_start_end_and_devices": "A man given riches yet not power to enjoy; stillborn child better; 'Do not all go to one place?'" },
-        { "scene_number": 5, "scene_name": "Desire's Emptiness and Man's Limits", "reference": "6:7-12", "why_start_end_and_devices": "Proverbs on appetite (7–9) transition to man's inability to contend with the Stronger (10–11) and the question 'who knows what is good...?' (12)." },
-        { "scene_number": 6, "scene_name": "'Better-Than' Proverbs and Consider God's Work", "reference": "7:1-14", "why_start_end_and_devices": "Sevenfold 'better' (tov) string of pearls; culminates in 'Consider the work of God'—prosperity and adversity from His hand." },
-        { "scene_number": 7, "scene_name": "The Danger of Extremes and Human Crookedness", "reference": "7:15-29", "why_start_end_and_devices": "Avoid over-righteous/over-wicked extremes; Qoheleth's search meets the ensnaring woman; conclusion: God made upright, men seek many schemes." },
-        { "scene_number": 8, "scene_name": "Wisdom, Authority, and the King", "reference": "8:1-9", "why_start_end_and_devices": "Court-wisdom essay: keep the king's command, discern time and judgment, yet power harms (8:9)." },
-        { "scene_number": 9, "scene_name": "The Great Enigma: Justice is Not Done", "reference": "8:10-17", "why_start_end_and_devices": "Wicked honored and justice inverted; thus commended joy (8:15); final climax: man cannot find out all God's work (8:17)." }
+        {
+          "scene_number": 1,
+          "scene_name": "Let Your Words Be Few",
+          "reference": "5:1-3",
+          "why_start_end_and_devices": "Reverence at the house of God: draw near to listen, for God is in heaven and you are on earth."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Fulfill Your Vows",
+          "reference": "5:4-7",
+          "why_start_end_and_devices": "Better not to vow than to vow and not pay; do not let your mouth make your flesh sin — 'fear God.'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "He Who Loves Money Is Never Satisfied",
+          "reference": "5:8-10",
+          "why_start_end_and_devices": "Oppression in the bureaucracy, and the insatiable craving of the lover of money and wealth."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Wealth Hoarded to the Owner's Harm",
+          "reference": "5:11-14",
+          "why_start_end_and_devices": "The consumers who multiply with goods, the sleepless rich, and wealth lost in a failed venture."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Naked He Came, Naked He Departs",
+          "reference": "5:15-17",
+          "why_start_end_and_devices": "Taking nothing for his labor, the man who eats all his days in darkness, sorrow, and anger."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Enjoyment Is a Gift from God",
+          "reference": "5:18-20",
+          "why_start_end_and_devices": "The refrain: God's gift of riches and the joy that keeps a man occupied so he seldom counts his days."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Riches Without Enjoyment",
+          "reference": "6:1-6",
+          "why_start_end_and_devices": "The grievous evil of wealth a man cannot enjoy — a stillborn child better off than the unsatisfied man."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Desire's Emptiness and Man's Limits",
+          "reference": "6:7-12",
+          "why_start_end_and_devices": "The never-satisfied appetite, the wise man's slight advantage, and who can know what is good or what comes after."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "A House of Mourning",
+          "reference": "7:1-4",
+          "why_start_end_and_devices": "The 'better-than' proverbs begin: a good name, the day of death, and the wise heart at home in mourning."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Crackling of Thorns",
+          "reference": "7:5-7",
+          "why_start_end_and_devices": "A wise man's rebuke better than the song of fools, and the corruption of extortion and bribery."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The End Is Better Than the Beginning",
+          "reference": "7:8-10",
+          "why_start_end_and_devices": "A patient spirit over a proud one, and the folly of pining for 'the old days.'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Consider the Work of God",
+          "reference": "7:11-14",
+          "why_start_end_and_devices": "Wisdom a sheltering inheritance; in prosperity be joyful, in adversity consider that God made both."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Do Not Be Overly Righteous",
+          "reference": "7:15-18",
+          "why_start_end_and_devices": "The puzzle of the perishing righteous and the long-lived wicked, and the balance the God-fearer keeps."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "No One on Earth Who Never Sins",
+          "reference": "7:19-22",
+          "why_start_end_and_devices": "Wisdom stronger than ten rulers, the universality of sin, and not heeding every overheard word."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Wisdom Was Beyond Me",
+          "reference": "7:23-25",
+          "why_start_end_and_devices": "His resolve to be wise that proved out of reach — 'what exists is very deep; who can fathom it?'"
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "God Made Mankind Upright",
+          "reference": "7:26-29",
+          "why_start_end_and_devices": "The snare-woman more bitter than death, and the conclusion that men have sought out many schemes."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Keep the King's Command",
+          "reference": "8:1-4",
+          "why_start_end_and_devices": "Wisdom that brightens the face, and prudence before the supreme word of the king."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "No One Has Power Over the Day of Death",
+          "reference": "8:5-9",
+          "why_start_end_and_devices": "A right time and procedure for everything, yet no power over the wind, death, or the release of wickedness."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "It Will Go Well with Those Who Fear God",
+          "reference": "8:10-13",
+          "why_start_end_and_devices": "The praised burial of the wicked and delayed sentences, yet the assurance of good for the reverent."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Man Cannot Comprehend God's Work",
+          "reference": "8:14-17",
+          "why_start_end_and_devices": "The futility of reversed justice, the commendation of enjoyment, and the unfathomable work done under the sun."
+        }
       ]
     },
     {
@@ -76,16 +300,91 @@
       "why_start_end_and_literary_glue": "A concluding exhortation (9:1–12:7): since one fate (death) happens to all, live joyfully, act despite uncertainty, rejoice yet remember judgment, and 'remember your Creator' before the dark days. Culminates in the allegory of old age and death (12:1-7).",
       "reference": "9:1 - 12:7",
       "scenes": [
-        { "scene_number": 1, "scene_name": "The Common Fate of All", "reference": "9:1-6", "why_start_end_and_devices": "One event to righteous and wicked alike; 'the dead know nothing'—complete unit of death's thesis." },
-        { "scene_number": 2, "scene_name": "Live Joyfully Now", "reference": "9:7-10", "why_start_end_and_devices": "Imperatives: go, eat, drink, live joyfully, do with might—because there is no work in Sheol. Strongest enjoyment refrain." },
-        { "scene_number": 3, "scene_name": "Time and Chance Happen to All", "reference": "9:11-12", "why_start_end_and_devices": "Observation: race not to the swift; time and chance; simile of birds/fish caught in an evil net closes thought." },
-        { "scene_number": 4, "scene_name": "The Unremembered Wise Man", "reference": "9:13-18", "why_start_end_and_devices": "Parable of poor wise savior forgotten; wisdom better than strength, yet one sinner destroys much good." },
-        { "scene_number": 5, "scene_name": "Proverbs on Folly, Rulers, and Sloth", "reference": "10:1-20", "why_start_end_and_devices": "Collection scene: folly's stench, rulers' inversions, risks, tongue of fools, slothful decay, and warning against cursing the king." },
-        { "scene_number": 6, "scene_name": "Act Despite Uncertainty", "reference": "11:1-6", "why_start_end_and_devices": "Cast bread, diversify, keep sowing—'you do not know' the ways of God or which will prosper. Exhortation to generous diligence." },
-        { "scene_number": 7, "scene_name": "Rejoice, but Remember Judgment", "reference": "11:7-10", "why_start_end_and_devices": "Light is sweet; rejoice, young man, but know God brings all into judgment; remove vexation—youth itself is hevel." },
-        { "scene_number": 8, "scene_name": "The Allegory of Old Age and Death", "reference": "12:1-7", "why_start_end_and_devices": "'Remember your Creator' before the darkening sequence of age; house-body metaphors (keepers/grinders/windows), silver cord cut, spirit returns to God." }
+        {
+          "scene_number": 1,
+          "scene_name": "The Common Fate of All",
+          "reference": "9:1-6",
+          "why_start_end_and_devices": "All in God's hands, yet one fate for righteous and wicked alike — 'a live dog is better than a dead lion.'"
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Live Joyfully Now",
+          "reference": "9:7-10",
+          "why_start_end_and_devices": "Eat your bread with joy, enjoy your wife, and work with all your might, for in Sheol there is no labor."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Time and Chance Happen to All",
+          "reference": "9:11-12",
+          "why_start_end_and_devices": "The race not to the swift; men ensnared like fish or birds in an evil time that suddenly falls."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Unremembered Wise Man",
+          "reference": "9:13-18",
+          "why_start_end_and_devices": "The poor wise man who saved a city yet was forgotten — 'wisdom is better than weapons of war.'"
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "A Little Folly Outweighs Wisdom",
+          "reference": "10:1-4",
+          "why_start_end_and_devices": "Dead flies spoiling perfume, the fool exposed on the road, and calmness that lays great offenses to rest."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Slaves on Horseback",
+          "reference": "10:5-7",
+          "why_start_end_and_devices": "The error from the ruler: folly exalted to high places while princes go on foot."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "He Who Digs a Pit May Fall In",
+          "reference": "10:8-11",
+          "why_start_end_and_devices": "The hazards of work, the dull axe needing more strength, and the snake that bites before charming."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Fool Multiplies Words",
+          "reference": "10:12-15",
+          "why_start_end_and_devices": "Gracious words of the wise against the fool whose talk begins in folly and ends in madness."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Do Not Curse the King",
+          "reference": "10:16-20",
+          "why_start_end_and_devices": "Woe to the land with a feasting youth-king; the cost of laziness; and the bird that carries your words."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Cast Your Bread upon the Waters",
+          "reference": "11:1-6",
+          "why_start_end_and_devices": "The call to bold, diversified action despite uncertainty, sowing seed without knowing which will prosper."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Rejoice, but Remember Judgment",
+          "reference": "11:7-10",
+          "why_start_end_and_devices": "Light is sweet; rejoice in youth — yet know that God will bring you to judgment, for youth is fleeting."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Remember Your Creator in Your Youth",
+          "reference": "12:1-2",
+          "why_start_end_and_devices": "The closing allegory begins: remember Him before the days of adversity and the darkening of the light."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Allegory of Old Age",
+          "reference": "12:3-5",
+          "why_start_end_and_devices": "The failing body as a decaying house — trembling keepers, dimming windows, the almond tree, the eternal home."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Silver Cord Is Snapped",
+          "reference": "12:6-7",
+          "why_start_end_and_devices": "Death imaged as a broken cord, bowl, and wheel — 'the dust returns to the ground and the spirit to God.'"
+        }
       ]
     }
   ]
 }
-
