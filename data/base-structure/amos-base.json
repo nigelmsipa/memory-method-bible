@@ -10,16 +10,72 @@
       "why_start_end_and_literary_glue": "Unified by the OAN formula encircling Israel (Damascus → Philistia → Tyre → Edom → Ammon → Moab → Judah → Israel), climaxing in Israel’s detailed indictment and military collapse. Start (1:1): superscription; (1:2) roaring prelude. End (2:16): stout-hearted flee naked—closure of the OAN. Glue: repeated 'for three … and for four … I will not revoke' plus fire/exile sentences.",
       "reference": "1:1 - 2:16",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Title, Prophet, and Roaring Introduction", "reference": "1:1-1:2", "why_start_end_and_devices": "Superscription gives author/time; transition to oracle with 'The LORD roars from Zion'—lion/theophany imagery signaling judgment." },
-        { "scene_number": 2, "scene_name": "Judgment on Damascus", "reference": "1:3-1:5", "why_start_end_and_devices": "First OAN formula; crime: threshing Gilead; sentence: fire and exile to Kir. Devices: formulaic indictment/sentence." },
-        { "scene_number": 3, "scene_name": "Judgment on Philistia (Gaza)", "reference": "1:6-1:8", "why_start_end_and_devices": "Slave-trading to Edom condemned; four Philistine cities named for totality; ends with remnant perishing." },
-        { "scene_number": 4, "scene_name": "Judgment on Tyre", "reference": "1:9-1:10", "why_start_end_and_devices": "Violation of covenant of brotherhood; brief, staccato oracle; fire on Tyre’s wall." },
-        { "scene_number": 5, "scene_name": "Judgment on Edom", "reference": "1:11-1:12", "why_start_end_and_devices": "Perpetual wrath against brother; sentence targets Teman/Bozrah; kinship betrayal motif." },
-        { "scene_number": 6, "scene_name": "Judgment on Ammon", "reference": "1:13-1:15", "why_start_end_and_devices": "Atrocity (ripping pregnant women) for border expansion; war tumult; king and princes exiled." },
-        { "scene_number": 7, "scene_name": "Judgment on Moab", "reference": "2:1-2:3", "why_start_end_and_devices": "Desecration of a king’s bones; ruler and princes cut off; formula + fire sentence." },
-        { "scene_number": 8, "scene_name": "Judgment on Judah", "reference": "2:4-2:5", "why_start_end_and_devices": "Legal/theological breach: rejected Yahweh’s law; palaces of Jerusalem consumed by fire." },
-        { "scene_number": 9, "scene_name": "Judgment on Israel’s Social Sin", "reference": "2:6-2:12", "why_start_end_and_devices": "Expanded indictment: selling the righteous, trampling poor, sexual impurity, profaning sanctuary; contrasts with Yahweh’s saving acts (Exodus, prophets, Nazirites)." },
-        { "scene_number": 10, "scene_name": "Concluding Military Judgment on Israel", "reference": "2:13-2:16", "why_start_end_and_devices": "Imagery of crushing/pressing; roles of swift/strong/mighty fail; flight naked—final OAN closure." }
+        {
+          "scene_number": 1,
+          "scene_name": "Title, Prophet, and Roaring Introduction",
+          "reference": "1:1-1:2",
+          "why_start_end_and_devices": "Superscription gives author/time; transition to oracle with 'The LORD roars from Zion'—lion/theophany imagery signaling judgment."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Judgment on Damascus",
+          "reference": "1:3-1:5",
+          "why_start_end_and_devices": "First OAN formula; crime: threshing Gilead; sentence: fire and exile to Kir. Devices: formulaic indictment/sentence."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Judgment on Philistia (Gaza)",
+          "reference": "1:6-1:8",
+          "why_start_end_and_devices": "Slave-trading to Edom condemned; four Philistine cities named for totality; ends with remnant perishing."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Judgment on Tyre",
+          "reference": "1:9-1:10",
+          "why_start_end_and_devices": "Violation of covenant of brotherhood; brief, staccato oracle; fire on Tyre’s wall."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Judgment on Edom",
+          "reference": "1:11-1:12",
+          "why_start_end_and_devices": "Perpetual wrath against brother; sentence targets Teman/Bozrah; kinship betrayal motif."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Judgment on Ammon",
+          "reference": "1:13-1:15",
+          "why_start_end_and_devices": "Atrocity (ripping pregnant women) for border expansion; war tumult; king and princes exiled."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Judgment on Moab",
+          "reference": "2:1-2:3",
+          "why_start_end_and_devices": "Desecration of a king’s bones; ruler and princes cut off; formula + fire sentence."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Judgment on Judah",
+          "reference": "2:4-2:5",
+          "why_start_end_and_devices": "Legal/theological breach: rejected Yahweh’s law; palaces of Jerusalem consumed by fire."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "They Sell the Righteous for Silver",
+          "reference": "2:6-8",
+          "why_start_end_and_devices": "Israel's social sins: selling the needy, trampling the poor, and profaning God's name."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "I Brought You Up from Egypt",
+          "reference": "2:9-12",
+          "why_start_end_and_devices": "God's grace recalled — the Amorite destroyed, the Exodus, prophets and Nazirites — all spurned."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Concluding Military Judgment on Israel",
+          "reference": "2:13-2:16",
+          "why_start_end_and_devices": "Imagery of crushing/pressing; roles of swift/strong/mighty fail; flight naked—final OAN closure."
+        }
       ]
     },
     {
@@ -28,18 +84,132 @@
       "why_start_end_and_literary_glue": "Three addresses marked by 'Hear this word' (3:1; 4:1; 5:1) move from covenant privilege and necessity of prophecy, to satire and repeated chastisements, to lament/ethical demands and woes. End (6:14): named foreign oppressor arises. Glue: refrain-like commands, doxology interruption, and anti-false security.",
       "reference": "3:1 - 6:14",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Privilege and Prophecy’s Necessity", "reference": "3:1-3:8", "why_start_end_and_devices": "'Hear this word' opens; seven rhetorical questions climax in 'The Lord GOD has spoken; who can but prophesy?'—cause/effect logic." },
-        { "scene_number": 2, "scene_name": "Samaria’s Humiliation and Plunder", "reference": "3:9-3:15", "why_start_end_and_devices": "Pagan witnesses summoned; accusation: oppression; results: ivory houses shattered, Bethel’s horns cut off." },
-        { "scene_number": 3, "scene_name": "Satire: The Cows of Bashan", "reference": "4:1-4:5", "why_start_end_and_devices": "Wealthy women mocked; hooks/exile imagery; concluding parody of cult highlights hypocrisy." },
-        { "scene_number": 4, "scene_name": "Five Unheeded Chastisements", "reference": "4:6-4:12", "why_start_end_and_devices": "Refrain 'yet you did not return to me' structures five disciplines (famine, drought, blight/locust, pestilence/sword, overthrow); culminates in 'prepare to meet your God.'" },
-        { "scene_number": 5, "scene_name": "Doxology I: Creator and Sovereign", "reference": "4:13", "why_start_end_and_devices": "Hymnic fragment interrupts: forms mountains, declares to man—'Yahweh, God of hosts, is his name!'" },
-        { "scene_number": 6, "scene_name": "Lament and Command to Seek God", "reference": "5:1-5:6", "why_start_end_and_devices": "Elegy over fallen virgin Israel; exhortation to seek Yahweh, not Bethel/Gilgal/Beersheba; fire warning on Joseph’s house." },
-        { "scene_number": 7, "scene_name": "Complaint Against Social Injustice", "reference": "5:7-5:13", "why_start_end_and_devices": "Turning justice to wormwood; taxing the poor; wise silent in evil time—framed indictment of civic corruption." },
-        { "scene_number": 8, "scene_name": "Seek Good; The Coming Lament", "reference": "5:14-5:17", "why_start_end_and_devices": "Brief exhortation to seek good; conditional grace; vision of universal wailing when Yahweh passes through." },
-        { "scene_number": 9, "scene_name": "Woe to Those Who Desire the Day of Yahweh", "reference": "5:18-5:20", "why_start_end_and_devices": "Refutes false eschatological optimism via lion/bear/serpent similes; day is darkness, not light." },
-        { "scene_number": 10, "scene_name": "Condemnation of Empty Ritualism", "reference": "5:21-5:27", "why_start_end_and_devices": "'I hate your feasts' → demand for justice to roll; exile beyond Damascus for idolatry." },
-        { "scene_number": 11, "scene_name": "Woe to the Complacent Elite", "reference": "6:1-6:7", "why_start_end_and_devices": "Ease in Zion/Samaria; luxury satire; first into exile—woe resolves in reversal of status." },
-        { "scene_number": 12, "scene_name": "Oath and Final Threat in the Sermons", "reference": "6:8-6:14", "why_start_end_and_devices": "Yahweh swears against pride; absurd proverbs (horses on rock) expose folly; oppressor nation raised from Hamath to Arabah." }
+        {
+          "scene_number": 1,
+          "scene_name": "You Only Have I Known",
+          "reference": "3:1-2",
+          "why_start_end_and_devices": "Election as the ground of accountability: 'therefore I will punish you for all your iniquities.'"
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Does a Lion Roar Without Prey?",
+          "reference": "3:3-6",
+          "why_start_end_and_devices": "The chain of cause and effect leading to the certainty of God-sent calamity."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Lion Has Roared",
+          "reference": "3:7-8",
+          "why_start_end_and_devices": "God revealing His plan to the prophets — 'the Lord GOD has spoken; who will not prophesy?'"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "See the Unrest in Samaria",
+          "reference": "3:9-11",
+          "why_start_end_and_devices": "The nations summoned to witness Samaria's oppression before the enemy plunders her citadels."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Altars of Bethel Cut Off",
+          "reference": "3:12-15",
+          "why_start_end_and_devices": "A scrap rescued like a torn ear, the horns of Bethel's altar cut off, the ivory houses destroyed."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Satire: The Cows of Bashan",
+          "reference": "4:1-4:5",
+          "why_start_end_and_devices": "Wealthy women mocked; hooks/exile imagery; concluding parody of cult highlights hypocrisy."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Yet You Did Not Return to Me",
+          "reference": "4:6-8",
+          "why_start_end_and_devices": "The first chastisements — famine and withheld rain — each met with the refrain of unrepentance."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Snatched from the Blaze",
+          "reference": "4:9-11",
+          "why_start_end_and_devices": "Blight, plague, and Sodom-like overthrow, yet still 'you did not return to Me.'"
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Prepare to Meet Your God",
+          "reference": "4:12",
+          "why_start_end_and_devices": "The climactic summons after the unheeded warnings."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Doxology I: Creator and Sovereign",
+          "reference": "4:13",
+          "why_start_end_and_devices": "Hymnic fragment interrupts: forms mountains, declares to man—'Yahweh, God of hosts, is his name!'"
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Lament and Command to Seek God",
+          "reference": "5:1-5:6",
+          "why_start_end_and_devices": "Elegy over fallen virgin Israel; exhortation to seek Yahweh, not Bethel/Gilgal/Beersheba; fire warning on Joseph’s house."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "He Made the Pleiades and Orion",
+          "reference": "5:7-9",
+          "why_start_end_and_devices": "Those who turn justice to wormwood set against the Maker of the constellations."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "You Trample on the Poor",
+          "reference": "5:10-13",
+          "why_start_end_and_devices": "Hatred of the honest reprover and the bribe-taking that deprives the poor of justice in the gate."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Seek Good; The Coming Lament",
+          "reference": "5:14-5:17",
+          "why_start_end_and_devices": "Brief exhortation to seek good; conditional grace; vision of universal wailing when Yahweh passes through."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Woe to Those Who Desire the Day of Yahweh",
+          "reference": "5:18-5:20",
+          "why_start_end_and_devices": "Refutes false eschatological optimism via lion/bear/serpent similes; day is darkness, not light."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Let Justice Roll Like a River",
+          "reference": "5:21-24",
+          "why_start_end_and_devices": "God's rejection of empty feasts and songs, demanding instead an ever-flowing stream of justice."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Exile Beyond Damascus",
+          "reference": "5:25-27",
+          "why_start_end_and_devices": "The wilderness question and the idols of Sakkuth and Kaiwan that bring exile."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Woe to Those at Ease in Zion",
+          "reference": "6:1-3",
+          "why_start_end_and_devices": "The complacent elite who dismiss the day of calamity, told to look at fallen kingdoms."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The First to Go into Exile",
+          "reference": "6:4-7",
+          "why_start_end_and_devices": "The ivory-couch luxury and bowls of wine of those who fail to grieve over the ruin of Joseph."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The LORD Abhors Jacob's Pride",
+          "reference": "6:8-11",
+          "why_start_end_and_devices": "The oath to deliver up the city, the grim scene of corpse-burning, houses smashed to rubble."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Justice Turned to Poison",
+          "reference": "6:12-14",
+          "why_start_end_and_devices": "The absurd boast of self-won victory, answered by the nation God raises up to oppress them."
+        }
       ]
     },
     {
@@ -48,17 +218,78 @@
       "why_start_end_and_literary_glue": "Vision reports (7:1; 7:4; 7:7; 8:1; 9:1) progress from relented threats (locusts, fire) to no‑relent plumb line, basket/end pun, and the Lord at the altar. A prose interlude (7:10–17) authenticates Amos and announces Amaziah’s doom. Ends (9:10) with non‑escapable sword for all sinners. Glue: 'This is what the Lord GOD showed me' formula and escalating finality.",
       "reference": "7:1 - 9:10",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Vision 1: Locusts (Relented)", "reference": "7:1-7:3", "why_start_end_and_devices": "Locusts after first harvest; intercession 'How can Jacob stand?'; Yahweh relents—conditionality emphasized." },
-        { "scene_number": 2, "scene_name": "Vision 2: Fire (Relented)", "reference": "7:4-7:6", "why_start_end_and_devices": "Cosmic fire devours deep/land; repeated intercession; Yahweh relents again—pattern set." },
-        { "scene_number": 3, "scene_name": "Vision 3: Plumb Line (No Relenting)", "reference": "7:7-7:9", "why_start_end_and_devices": "Measuring righteousness; 'I will not again pass by them'; high places and Jeroboam’s house targeted." },
-        { "scene_number": 4, "scene_name": "Interlude: Amos and Amaziah", "reference": "7:10-7:17", "why_start_end_and_devices": "Prose confrontation validates divine commissioning; pronounces Amaziah’s personal doom; exile confirmed." },
-        { "scene_number": 5, "scene_name": "Vision 4: Basket of Summer Fruit", "reference": "8:1-8:3", "why_start_end_and_devices": "Wordplay qayits/qets (fruit/end); temple songs to wailing; corpses cast out in silence." },
-        { "scene_number": 6, "scene_name": "Oracle: Oppressors of the Poor", "reference": "8:4-8:8", "why_start_end_and_devices": "Hear this, tramplers of needy; cheating measures; oath by Pride of Jacob; land trembles—economic injustice oracle." },
-        { "scene_number": 7, "scene_name": "Doxology II: Cosmic Darkness", "reference": "8:9-8:10", "why_start_end_and_devices": "Sun at noon darkened; festivals to mourning; mourning like for an only son—cosmic/hymnic fragment." },
-        { "scene_number": 8, "scene_name": "Famine of Hearing Yahweh’s Word", "reference": "8:11-8:14", "why_start_end_and_devices": "Spiritual famine announced; futile north-south search; idolaters fall, never to rise—unique judgment type." },
-        { "scene_number": 9, "scene_name": "Vision 5: The Lord by the Altar", "reference": "9:1-9:4", "why_start_end_and_devices": "Command to strike the thresholds; inescapable pursuit (Sheol/heaven/sea); eye set for evil, not good." },
-        { "scene_number": 10, "scene_name": "Doxology III: Universal Dominion", "reference": "9:5-9:6", "why_start_end_and_devices": "He who touches the earth and it melts; builds upper chambers in the heavens—'Yahweh is his name!'" },
-        { "scene_number": 11, "scene_name": "Judgment on Israel’s Special Status", "reference": "9:7-9:10", "why_start_end_and_devices": "Rhetorical question levels Israel with nations; sifting metaphor spares grain but slays sinners by the sword—judgment closure." }
+        {
+          "scene_number": 1,
+          "scene_name": "Vision 1: Locusts (Relented)",
+          "reference": "7:1-7:3",
+          "why_start_end_and_devices": "Locusts after first harvest; intercession 'How can Jacob stand?'; Yahweh relents—conditionality emphasized."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Vision 2: Fire (Relented)",
+          "reference": "7:4-7:6",
+          "why_start_end_and_devices": "Cosmic fire devours deep/land; repeated intercession; Yahweh relents again—pattern set."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Vision 3: Plumb Line (No Relenting)",
+          "reference": "7:7-7:9",
+          "why_start_end_and_devices": "Measuring righteousness; 'I will not again pass by them'; high places and Jeroboam’s house targeted."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Amaziah Confronts Amos",
+          "reference": "7:10-13",
+          "why_start_end_and_devices": "The priest of Bethel's charge of conspiracy and his order: 'Go away, you seer!'"
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "I Was No Prophet",
+          "reference": "7:14-17",
+          "why_start_end_and_devices": "Amos's defense as a herdsman called by God, and the personal judgment pronounced on Amaziah."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Vision 4: Basket of Summer Fruit",
+          "reference": "8:1-8:3",
+          "why_start_end_and_devices": "Wordplay qayits/qets (fruit/end); temple songs to wailing; corpses cast out in silence."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Oracle: Oppressors of the Poor",
+          "reference": "8:4-8:8",
+          "why_start_end_and_devices": "Hear this, tramplers of needy; cheating measures; oath by Pride of Jacob; land trembles—economic injustice oracle."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Doxology II: Cosmic Darkness",
+          "reference": "8:9-8:10",
+          "why_start_end_and_devices": "Sun at noon darkened; festivals to mourning; mourning like for an only son—cosmic/hymnic fragment."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Famine of Hearing Yahweh’s Word",
+          "reference": "8:11-8:14",
+          "why_start_end_and_devices": "Spiritual famine announced; futile north-south search; idolaters fall, never to rise—unique judgment type."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Vision 5: The Lord by the Altar",
+          "reference": "9:1-9:4",
+          "why_start_end_and_devices": "Command to strike the thresholds; inescapable pursuit (Sheol/heaven/sea); eye set for evil, not good."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Doxology III: Universal Dominion",
+          "reference": "9:5-9:6",
+          "why_start_end_and_devices": "He who touches the earth and it melts; builds upper chambers in the heavens—'Yahweh is his name!'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Judgment on Israel’s Special Status",
+          "reference": "9:7-9:10",
+          "why_start_end_and_devices": "Rhetorical question levels Israel with nations; sifting metaphor spares grain but slays sinners by the sword—judgment closure."
+        }
       ]
     },
     {
@@ -67,10 +298,19 @@
       "why_start_end_and_literary_glue": "Complete tonal reversal to unconditional restoration: rebuilding David’s fallen booth and overflowing agricultural blessing. Start (9:11): 'In that day I will raise up…' End (9:15): never uprooted. Glue: rebuild/plant/restore fortune motifs.",
       "reference": "9:11 - 9:15",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Restoration of David’s Fallen Dynasty", "reference": "9:11-9:12", "why_start_end_and_devices": "Raise/repair/rebuild contrasts fallen booth; aim: possess remnant of Edom and all called by Yahweh’s name. Devices: contrast, Davidic promise." },
-        { "scene_number": 2, "scene_name": "Final Promises of Abundance and Security", "reference": "9:13-9:15", "why_start_end_and_devices": "Plowman overtakes reaper; mountains drip sweet wine; fortunes restored; never uprooted—permanent tenure in land." }
+        {
+          "scene_number": 1,
+          "scene_name": "Restoration of David’s Fallen Dynasty",
+          "reference": "9:11-9:12",
+          "why_start_end_and_devices": "Raise/repair/rebuild contrasts fallen booth; aim: possess remnant of Edom and all called by Yahweh’s name. Devices: contrast, Davidic promise."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Final Promises of Abundance and Security",
+          "reference": "9:13-9:15",
+          "why_start_end_and_devices": "Plowman overtakes reaper; mountains drip sweet wine; fortunes restored; never uprooted—permanent tenure in land."
+        }
       ]
     }
   ]
 }
-
