@@ -12,24 +12,41 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Edom's High Place Made Low",
-          "reference": "1:1-1:7",
-          "why_start_end_and_devices": "Begins with the vision/oracle announcement and decree of smallness; height imagery ridicules Edom’s pride ('clefts of the rock' → 'among the stars') before the betrayal motif resolves the unit: allies who eat your bread ensnare you. Devices: irony, hyperbole, thieves/grape-gatherer analogies."
+          "scene_name": "The Pride of Edom Made Low",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "The vision against Edom: 'though you soar like the eagle and nest among the stars, I will bring you down.'"
         },
         {
           "scene_number": 2,
-          "scene_name": "The Crime: Days of Violence Against Jacob",
-          "reference": "1:8-1:14",
-          "why_start_end_and_devices": "Opens with the rhetorical 'Will I not… destroy the wise of Edom?' and catalogs Edom’s complicity on Judah’s disaster day. Verses 12–14 form a staccato series of 'do not' charges (gloat, plunder, hand over survivors), completing the indictment before the Day pivot. Devices: rhetorical questions, parallelism, prohibitive anaphora."
+          "scene_name": "Esau's Hidden Treasures Sought Out",
+          "reference": "1:5-7",
+          "why_start_end_and_devices": "Edom plundered worse than by thieves, betrayed by its own allies who set a trap."
         },
         {
           "scene_number": 3,
-          "scene_name": "The Day of Yahweh and Zion's Reign",
-          "reference": "1:15-1:21",
-          "why_start_end_and_devices": "The universal Day of Yahweh ('near upon all nations') introduces lex talionis ('as you have done…'), while Zion’s deliverance/holiness and the house of Jacob as fire reduce Esau to stubble. Geographic possession lists ('they shall possess…') culminate in the final sovereignty: 'the kingdom shall be Yahweh’s.' Devices: contrast, consumption/fire metaphor, inheritance formulae."
+          "scene_name": "The Wise Men of Edom Destroyed",
+          "reference": "1:8-10",
+          "why_start_end_and_devices": "The wise and mighty of Teman cut down, covered with shame for the violence against brother Jacob."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "You Stood Aloof",
+          "reference": "1:11-14",
+          "why_start_end_and_devices": "The indictment: standing aloof at Jerusalem's fall, gloating, and cutting off the fugitives."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "As You Have Done, It Will Be Done to You",
+          "reference": "1:15-18",
+          "why_start_end_and_devices": "The Day of the LORD near for all nations; deliverance on Zion while Esau becomes consumed stubble."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Kingdom Will Belong to the LORD",
+          "reference": "1:19-21",
+          "why_start_end_and_devices": "The restoration: Israel repossessing the land and deliverers ascending Zion to rule — 'the kingdom will belong to the LORD.'"
         }
       ]
     }
   ]
 }
-
