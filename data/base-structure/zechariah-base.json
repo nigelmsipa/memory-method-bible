@@ -18,57 +18,129 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "Vision of the Horsemen",
-          "reference": "1:7-1:17",
-          "why_start_end_and_devices": "Second date; patrol report of earth at rest; divine zeal for Zion and promise of comfort. Devices: dialogue with interpreting angel and Angel of Yahweh; compassion motif."
+          "scene_name": "The Horsemen Among the Myrtle Trees",
+          "reference": "1:7-11",
+          "why_start_end_and_devices": "The first night-vision: patrol-riders reporting all the earth at rest while Jerusalem still lies desolate."
         },
         {
           "scene_number": 3,
+          "scene_name": "How Long, O LORD?",
+          "reference": "1:12-14",
+          "why_start_end_and_devices": "The angel's intercession over the seventy years, answered by God's jealous love for Zion."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "I Will Return to Jerusalem with Mercy",
+          "reference": "1:15-17",
+          "why_start_end_and_devices": "Anger at the complacent nations and the promise that His house and a measuring line will be restored."
+        },
+        {
+          "scene_number": 5,
           "scene_name": "Vision of the Four Horns and Four Smiths",
           "reference": "1:18-1:21",
           "why_start_end_and_devices": "Horns that scattered Judah; smiths sent to terrify and cast them down. Devices: symbolic agents, terse Q&A interpretation."
         },
         {
-          "scene_number": 4,
-          "scene_name": "Vision of the Measuring Line",
-          "reference": "2:1-2:13",
-          "why_start_end_and_devices": "Man with measuring line; Jerusalem without walls with Yahweh as fiery wall; call to flee Babylon; ends with 'Be silent, all flesh.' Devices: measurement/ownership, glory‑presence, prophetic summons."
-        },
-        {
-          "scene_number": 5,
-          "scene_name": "Vision of Joshua the High Priest",
-          "reference": "3:1-3:10",
-          "why_start_end_and_devices": "Courtroom cleansing of Joshua; filthy garments replaced; Branch introduced; ends with peace under vine/fig tree. Devices: legal drama, reversal/cleansing, priestly vindication."
-        },
-        {
           "scene_number": 6,
-          "scene_name": "Vision of the Lampstand and Two Olive Trees",
-          "reference": "4:1-4:14",
-          "why_start_end_and_devices": "Angel awakens prophet; golden lampstand fed by two olives; 'Not by might... but by my Spirit'; Zerubbabel assured completion. Devices: symbol interpretation, programmatic oracle, two anointed ones."
+          "scene_name": "A Wall of Fire Around Her",
+          "reference": "2:1-5",
+          "why_start_end_and_devices": "The man with the measuring line; Jerusalem a city without walls, with God Himself as a wall of fire and glory."
         },
         {
           "scene_number": 7,
+          "scene_name": "The Apple of His Eye",
+          "reference": "2:6-9",
+          "why_start_end_and_devices": "The summons to flee Babylon, for whoever touches God's people touches the apple of His eye."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Many Nations Will Join the LORD",
+          "reference": "2:10-13",
+          "why_start_end_and_devices": "The call to rejoice as God comes to dwell, many nations joined to Him — 'be silent before the LORD.'"
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Joshua and the Accuser",
+          "reference": "3:1-3",
+          "why_start_end_and_devices": "The high priest in filthy garments, Satan at his right hand, rebuked by the LORD."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "I Have Removed Your Iniquity",
+          "reference": "3:4-7",
+          "why_start_end_and_devices": "The filthy clothes exchanged for splendid robes and a clean turban, with the charge to walk in God's ways."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "My Servant, the Branch",
+          "reference": "3:8-10",
+          "why_start_end_and_devices": "The messianic sign: the Branch, the seven-eyed stone, and iniquity removed in a single day."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Gold Lampstand and Two Olive Trees",
+          "reference": "4:1-3",
+          "why_start_end_and_devices": "The vision of the seven-lamped lampstand flanked by two olive trees."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Not by Might, but by My Spirit",
+          "reference": "4:4-7",
+          "why_start_end_and_devices": "The word to Zerubbabel: the great mountain leveled to a plain, the capstone brought with shouts of grace."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Day of Small Things",
+          "reference": "4:8-10",
+          "why_start_end_and_devices": "Zerubbabel's hands to finish the temple — 'who has despised the day of small things?'"
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Two Anointed Ones",
+          "reference": "4:11-14",
+          "why_start_end_and_devices": "The two olive branches explained: the anointed ones who stand by the Lord of all the earth."
+        },
+        {
+          "scene_number": 16,
           "scene_name": "Vision of the Flying Scroll",
           "reference": "5:1-5:4",
           "why_start_end_and_devices": "Cursing scroll flies over land to consume houses of thieves and perjurers. Devices: written curse as active agent; covenant sanctions."
         },
         {
-          "scene_number": 8,
-          "scene_name": "Vision of the Woman in the Basket (Ephah)",
-          "reference": "5:5-5:11",
-          "why_start_end_and_devices": "Wickedness personified confined in ephah and borne to Shinar; removal of impurity. Devices: personification, exile/purification motif."
+          "scene_number": 17,
+          "scene_name": "The Woman in the Basket",
+          "reference": "5:5-8",
+          "why_start_end_and_devices": "The measuring basket of the land's iniquity, with Wickedness personified as a woman shoved inside."
         },
         {
-          "scene_number": 9,
-          "scene_name": "Vision of the Four Chariots",
-          "reference": "6:1-6:8",
-          "why_start_end_and_devices": "Four chariots/spirits go out; north country pacified. Devices: parallel to opening patrol, universal reach of Yahweh’s agency."
+          "scene_number": 18,
+          "scene_name": "Carried to the Land of Shinar",
+          "reference": "5:9-11",
+          "why_start_end_and_devices": "The stork-winged women lifting the basket away to build it a house in Babylon."
         },
         {
-          "scene_number": 10,
-          "scene_name": "Crowning Joshua and Branch Prophecy",
-          "reference": "6:9-6:15",
-          "why_start_end_and_devices": "Word commands symbolic crowning of Joshua; Branch will build the temple; those far off will build if obedient. Devices: sign‑act, messianic Branch, conditional promise."
+          "scene_number": 19,
+          "scene_name": "The Four Chariots",
+          "reference": "6:1-4",
+          "why_start_end_and_devices": "The final vision: four chariots with colored horses coming from between two bronze mountains."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Four Winds of Heaven",
+          "reference": "6:5-8",
+          "why_start_end_and_devices": "The four spirits going out to patrol the earth, giving rest to God's Spirit in the north."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Crown for the Branch",
+          "reference": "6:9-12",
+          "why_start_end_and_devices": "The crowning of Joshua as a sign of the Branch who will build the temple of the LORD."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "A Priest on His Throne",
+          "reference": "6:13-15",
+          "why_start_end_and_devices": "The royal-priestly Branch ruling in peace, the crown a memorial, the far-off coming to build."
         }
       ]
     },
@@ -80,36 +152,54 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Inquiry on Fasting and Past Obedience",
-          "reference": "7:1-7:7",
-          "why_start_end_and_devices": "Date and question posed; Yahweh asks whether past fasting was for Him and recalls neglect of former prophets. Devices: rhetorical questions, historical allusion."
+          "scene_name": "Should We Still Fast?",
+          "reference": "7:1-3",
+          "why_start_end_and_devices": "The delegation's question about continuing the fasts of mourning over the temple's fall."
         },
         {
           "scene_number": 2,
-          "scene_name": "The Consequence of Disobedience",
-          "reference": "7:8-7:14",
-          "why_start_end_and_devices": "Call to justice/mercy refused; hearts like diamond; result is scattering among nations. Devices: cause‑effect oracle, hardening imagery."
+          "scene_name": "Was It Really for Me?",
+          "reference": "7:4-7",
+          "why_start_end_and_devices": "God's probing answer: their fasting and feasting were for themselves, not for Him."
         },
         {
           "scene_number": 3,
-          "scene_name": "The Lord Returns to Zion",
-          "reference": "8:1-8:8",
-          "why_start_end_and_devices": "'Thus says Yahweh of hosts' multiplied; jealousy for Zion; old and young in streets; covenant formula restored. Devices: oath formulas, peace tableau."
+          "scene_name": "Administer True Justice",
+          "reference": "7:8-10",
+          "why_start_end_and_devices": "The recurring prophetic word: show devotion, and do not oppress the widow, orphan, foreigner, or poor."
         },
         {
           "scene_number": 4,
+          "scene_name": "Hearts Like Flint",
+          "reference": "7:11-14",
+          "why_start_end_and_devices": "The fathers' stubborn refusal that brought God's anger and the scattering whirlwind."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Old Men and Children in the Streets",
+          "reference": "8:1-5",
+          "why_start_end_and_devices": "God's jealous return to dwell in the City of Truth, its streets full of the aged and playing children."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "I Will Bring Them Back",
+          "reference": "8:6-8",
+          "why_start_end_and_devices": "What seems impossible to the remnant is not impossible to God, who will gather His people home."
+        },
+        {
+          "scene_number": 7,
           "scene_name": "Rebuilding and Prosperity",
           "reference": "8:9-8:13",
           "why_start_end_and_devices": "'Let your hands be strong'; reversal from no wage/peace to fruitful vine/peaceful conditions. Devices: contrastive parallelism, builder exhortation."
         },
         {
-          "scene_number": 5,
+          "scene_number": 8,
           "scene_name": "Ethical Mandates for the Restored Community",
           "reference": "8:14-8:17",
           "why_start_end_and_devices": "From purposed disaster to purposed good; speak truth, judge peace; Yahweh hates falsehood. Devices: purpose chiasm, concise ethics."
         },
         {
-          "scene_number": 6,
+          "scene_number": 9,
           "scene_name": "The Fasts Become Feasts",
           "reference": "8:18-8:23",
           "why_start_end_and_devices": "Fasts of months become joyful feasts; nations seek Yahweh in Jerusalem; ten men grasp a Jew’s robe. Devices: reversal motif, synecdoche for universal pilgrimage."
@@ -124,45 +214,87 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Judgment on the Neighboring Nations",
-          "reference": "9:1-9:8",
-          "why_start_end_and_devices": "Geographic sweep (Damascus→Philistia); Yahweh encamps to guard His house. Devices: personification, city list oracle, protection assurance."
+          "scene_name": "The Burden Against Hadrach and Tyre",
+          "reference": "9:1-4",
+          "why_start_end_and_devices": "The oracle sweeping over Syria and proud, wealthy Tyre, whom the Lord will cast into the sea."
         },
         {
           "scene_number": 2,
+          "scene_name": "I Will Camp Around My House",
+          "reference": "9:5-8",
+          "why_start_end_and_devices": "Judgment on the Philistine cities and the promise that no oppressor will again overrun God's people."
+        },
+        {
+          "scene_number": 3,
           "scene_name": "The Humble King of Peace",
           "reference": "9:9-9:10",
           "why_start_end_and_devices": "'Rejoice greatly' summons; king on a donkey; ends with worldwide peace and dominion. Devices: contrastive royal imagery, messianic proclamation."
         },
         {
-          "scene_number": 3,
-          "scene_name": "Restoration and Victory over Greece",
-          "reference": "9:11-9:17",
-          "why_start_end_and_devices": "Blood of covenant frees prisoners; divine warrior imagery; closes with abundance and beauty. Devices: covenant language, martial theophany, praise."
+          "scene_number": 4,
+          "scene_name": "Prisoners of Hope",
+          "reference": "9:11-13",
+          "why_start_end_and_devices": "The blood of the covenant freeing the prisoners, and Judah drawn as God's bow against Greece."
         },
         {
-          "scene_number": 4,
+          "scene_number": 5,
+          "scene_name": "Jewels in a Crown",
+          "reference": "9:14-17",
+          "why_start_end_and_devices": "The LORD appearing as a storm-warrior to save His flock, who will sparkle like jewels over His land."
+        },
+        {
+          "scene_number": 6,
           "scene_name": "Call for Rain and Divine Leadership",
           "reference": "10:1-10:5",
           "why_start_end_and_devices": "Ask Yahweh for rain; reject diviners; cornerstone/tent‑peg/battle‑bow metaphors for leadership. Devices: polemic against false counsel, leadership metaphors."
         },
         {
-          "scene_number": 5,
-          "scene_name": "Gathering the Scattered and Restoring Israel",
-          "reference": "10:6-10:12",
-          "why_start_end_and_devices": "Strengthen Judah/save Joseph; whistle for them; return from Egypt/Assyria; walk in His name. Devices: regathering motif, repetition, covenant walk."
+          "scene_number": 7,
+          "scene_name": "I Will Whistle for Them",
+          "reference": "10:6-8",
+          "why_start_end_and_devices": "The strengthening of Judah and Joseph, redeemed and as numerous as before."
         },
         {
-          "scene_number": 6,
+          "scene_number": 8,
+          "scene_name": "Gathered from Egypt and Assyria",
+          "reference": "10:9-12",
+          "why_start_end_and_devices": "The scattered remembering God in distant lands, brought back through the sea of distress."
+        },
+        {
+          "scene_number": 9,
           "scene_name": "Prophecy of Lebanon and Bashan",
           "reference": "11:1-11:3",
           "why_start_end_and_devices": "'Open your doors, O Lebanon' lament; cedars devoured; shepherds wail. Devices: personification, hyperbole, transitional lament."
         },
         {
-          "scene_number": 7,
-          "scene_name": "Allegory of the Worthless Shepherd",
-          "reference": "11:4-11:17",
-          "why_start_end_and_devices": "Prophet becomes shepherd; two staffs (Grace/Union) broken; 30 pieces of silver thrown; woe on worthless shepherd. Devices: extended sign‑act, ironic valuation, curse oracle."
+          "scene_number": 10,
+          "scene_name": "Pasture the Flock Marked for Slaughter",
+          "reference": "11:4-6",
+          "why_start_end_and_devices": "The shepherd sign-act begins over a flock sold without remorse, whom God will no longer pity."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Two Staffs: Favor and Union",
+          "reference": "11:7-9",
+          "why_start_end_and_devices": "The two staffs taken up and the three shepherds dismissed amid mutual loathing."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Favor Broken",
+          "reference": "11:10-11",
+          "why_start_end_and_devices": "The staff Favor cut in two, revoking the covenant — recognized as the word of the LORD."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Thirty Pieces of Silver",
+          "reference": "11:12-14",
+          "why_start_end_and_devices": "The wages weighed out and thrown to the potter (fulfilled at Christ's betrayal), and Union broken."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Woe to the Worthless Shepherd",
+          "reference": "11:15-17",
+          "why_start_end_and_devices": "The foolish shepherd raised up who devours the flock — 'woe to the worthless shepherd!'"
         }
       ]
     },
@@ -174,42 +306,66 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Jerusalem: Cup of Trembling and Immovable Rock",
-          "reference": "12:1-12:9",
-          "why_start_end_and_devices": "Jerusalem burdens nations; Yahweh strengthens and seeks to destroy attackers. Devices: warfare metaphors, escalating defense promises."
+          "scene_name": "A Cup of Trembling",
+          "reference": "12:1-3",
+          "why_start_end_and_devices": "Jerusalem made a cup of drunkenness and a heavy stone that injures all who try to heave it away."
         },
         {
           "scene_number": 2,
+          "scene_name": "A Firepot Among the Sheaves",
+          "reference": "12:4-6",
+          "why_start_end_and_devices": "Horses struck with panic and the clans of Judah made a consuming flame among the nations."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Weakest Like David",
+          "reference": "12:7-9",
+          "why_start_end_and_devices": "God defending Jerusalem so the feeblest become like David, and the house of David like God."
+        },
+        {
+          "scene_number": 4,
           "scene_name": "Mourning for the Pierced One and Cleansing",
           "reference": "12:10-13:1",
           "why_start_end_and_devices": "Spirit poured out; they look on the pierced; deep lament; fountain opened for sin and impurity. Devices: lament genre, repentance‑to‑cleansing arc."
         },
         {
-          "scene_number": 3,
+          "scene_number": 5,
           "scene_name": "End of Idolatry and False Prophets",
           "reference": "13:2-13:6",
           "why_start_end_and_devices": "Names of idols cut off; prophets ashamed/deny prophetic identity; wounds explained away. Devices: purification oracle, shame/denial motif."
         },
         {
-          "scene_number": 4,
+          "scene_number": 6,
           "scene_name": "Striking the Shepherd and Refining the Remnant",
           "reference": "13:7-13:9",
           "why_start_end_and_devices": "'Awake, O sword' against my shepherd; two‑thirds cut; one‑third refined; covenant exchange restored. Devices: shepherd/flock metaphor, refining imagery."
         },
         {
-          "scene_number": 5,
-          "scene_name": "The Day of the LORD: Theophany and Split Mountain",
-          "reference": "14:1-14:7",
-          "why_start_end_and_devices": "Final apocalyptic event; Yahweh stands on Mount of Olives; unique day ends with light. Devices: theophany narrative, cosmic upheaval."
-        },
-        {
-          "scene_number": 6,
-          "scene_name": "Living Waters and Theocracy",
-          "reference": "14:8-14:15",
-          "why_start_end_and_devices": "Waters flow from Jerusalem; Yahweh king over all; plague on enemy armies. Devices: water symbolism, kingship proclamation, plague imagery."
-        },
-        {
           "scene_number": 7,
+          "scene_name": "The Nations Gathered Against Jerusalem",
+          "reference": "14:1-3",
+          "why_start_end_and_devices": "The Day of the LORD: the city captured and half exiled before the LORD goes out to fight."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "His Feet on the Mount of Olives",
+          "reference": "14:4-7",
+          "why_start_end_and_devices": "The Mount of Olives split to form a valley of escape, on a unique day with evening light."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The LORD King Over All the Earth",
+          "reference": "14:8-11",
+          "why_start_end_and_devices": "Living water flowing from Jerusalem, the LORD reigning alone, the city dwelling secure forever."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Plague on the Nations",
+          "reference": "14:12-15",
+          "why_start_end_and_devices": "The rotting plague and great panic on those who warred against Jerusalem, with their wealth collected."
+        },
+        {
+          "scene_number": 11,
           "scene_name": "Nations Worship and Universal Holiness",
           "reference": "14:16-14:21",
           "why_start_end_and_devices": "Survivors keep Feast of Booths; bells and pots 'Holy to Yahweh'; no Canaanite in Yahweh’s house. Devices: cultic imagery, holiness inclusio, universal worship."
@@ -218,4 +374,3 @@
     }
   ]
 }
-
