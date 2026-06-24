@@ -2637,7 +2637,608 @@
       "story_title": "Book IV – The LORD Reigns",
       "why_start_end_and_literary_glue": "Psalms 90–106 answer Book III's crisis with the proclamation 'YHWH reigns!' (93, 96, 97, 99). Opens with Moses' psalm (90) contrasting God's eternality and human frailty; ends with explicit doxology at 106:48. Literary Glue: the Enthronement Psalms form the theological core.",
       "reference": "90:1 - 106:48",
-      "scenes": []
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Psalm 90 – From Everlasting to Everlasting",
+          "reference": "90:1-2",
+          "why_start_end_and_devices": "The prayer of Moses opens Book IV: the eternal God our dwelling place before the mountains were born."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Psalm 90 – You Return Man to Dust",
+          "reference": "90:3-6",
+          "why_start_end_and_devices": "The contrast of God's timelessness with human transience — a thousand years like a day, men like morning grass."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Psalm 90 – Our Years End with a Sigh",
+          "reference": "90:7-10",
+          "why_start_end_and_devices": "Consumed by God's anger, secret sins exposed, the span of life seventy years of labor and sorrow."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Psalm 90 – Teach Us to Number Our Days",
+          "reference": "90:11-12",
+          "why_start_end_and_devices": "The wisdom-petition at the psalm's heart: to count our days that we may gain a heart of wisdom."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Psalm 90 – Satisfy Us in the Morning",
+          "reference": "90:13-15",
+          "why_start_end_and_devices": "The turn to mercy: 'Return, O LORD… satisfy us with Your loving devotion' for as many days as we have seen evil."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Psalm 90 – Establish the Work of Our Hands",
+          "reference": "90:16-17",
+          "why_start_end_and_devices": "The closing prayer that God's favor rest on His servants and confirm their labor."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Psalm 91 – In the Shadow of the Almighty",
+          "reference": "91:1-4",
+          "why_start_end_and_devices": "The psalm of refuge: dwelling in the secret place, covered with His feathers, His faithfulness a shield."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Psalm 91 – You Will Not Fear the Terror of Night",
+          "reference": "91:5-8",
+          "why_start_end_and_devices": "No fear of arrow, pestilence, or noonday calamity; thousands may fall, but no harm comes near."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Psalm 91 – No Evil Will Befall You",
+          "reference": "91:9-10",
+          "why_start_end_and_devices": "Because the LORD is your dwelling, no plague will approach your tent."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Psalm 91 – He Will Command His Angels",
+          "reference": "91:11-13",
+          "why_start_end_and_devices": "The promise of angelic guarding (cited at Christ's temptation): you will tread on lion and cobra."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Psalm 91 – With Long Life I Will Satisfy Him",
+          "reference": "91:14-16",
+          "why_start_end_and_devices": "God's own voice closes the psalm: deliverance and honor for the one who loves and knows His name."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Psalm 92 – A Song for the Sabbath",
+          "reference": "92:1-3",
+          "why_start_end_and_devices": "It is good to praise the LORD morning and night with harp and lyre."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Psalm 92 – How Deep Are Your Thoughts",
+          "reference": "92:4-6",
+          "why_start_end_and_devices": "Gladness in God's works, beyond the grasp of the senseless and the fool."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Psalm 92 – The Wicked Sprout Like Grass",
+          "reference": "92:7-9",
+          "why_start_end_and_devices": "Though evildoers flourish, they are destined for destruction, for the LORD is exalted forever."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Psalm 92 – My Horn Exalted Like a Wild Ox",
+          "reference": "92:10-11",
+          "why_start_end_and_devices": "Anointed with fresh oil, the psalmist sees the downfall of his foes."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Psalm 92 – The Righteous Flourish Like a Palm",
+          "reference": "92:12-15",
+          "why_start_end_and_devices": "Planted in the house of the LORD, still bearing fruit in old age — 'the LORD is upright… my Rock.'"
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Psalm 93 – The LORD Reigns, Robed in Majesty",
+          "reference": "93:1-5",
+          "why_start_end_and_devices": "The first enthronement psalm: the established world and the eternal throne; above the roar of the seas the LORD on high is majestic, and holiness adorns His house."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Psalm 94 – O God of Vengeance, Shine Forth",
+          "reference": "94:1-3",
+          "why_start_end_and_devices": "Appeal to the Judge of the earth: 'how long will the wicked exult?'"
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Psalm 94 – They Crush Your People",
+          "reference": "94:4-7",
+          "why_start_end_and_devices": "The arrogance of the oppressors who kill the widow and orphan, saying 'the LORD does not see.'"
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Psalm 94 – He Who Formed the Eye, Can He Not See?",
+          "reference": "94:8-11",
+          "why_start_end_and_devices": "The wisdom-rebuke to the senseless: the Maker of ear and eye knows the futile thoughts of man."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Psalm 94 – Blessed Is the Man You Discipline",
+          "reference": "94:12-15",
+          "why_start_end_and_devices": "The blessing of God's instruction, for the LORD will not forsake His people to a dug pit."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Psalm 94 – Your Consolation Delights My Soul",
+          "reference": "94:16-19",
+          "why_start_end_and_devices": "When the foot slips and anxiety overwhelms, the LORD's devotion supports and His comfort delights."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Psalm 94 – The LORD Is My Rock of Refuge",
+          "reference": "94:20-23",
+          "why_start_end_and_devices": "No corrupt throne can ally with God; He will repay the wicked their own iniquity."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Psalm 95 – The Rock of Our Salvation",
+          "reference": "95:1-3",
+          "why_start_end_and_devices": "Call to sing and shout to the great King above all gods."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Psalm 95 – The Sea Is His, for He Made It",
+          "reference": "95:4-5",
+          "why_start_end_and_devices": "The Creator who holds the depths of the earth and the mountain peaks in His hand."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Psalm 95 – The Sheep of His Hand",
+          "reference": "95:6-7",
+          "why_start_end_and_devices": "Worship and kneel before our Maker — 'Today, if you hear His voice…'"
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Psalm 95 – Do Not Harden Your Hearts",
+          "reference": "95:8-11",
+          "why_start_end_and_devices": "The warning of Meribah and Massah (quoted in Hebrews): the generation barred from God's rest."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Psalm 96 – Sing to the LORD a New Song",
+          "reference": "96:1-3",
+          "why_start_end_and_devices": "Universal summons to declare His glory and salvation among all the nations."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Psalm 96 – The Gods of the Nations Are Idols",
+          "reference": "96:4-6",
+          "why_start_end_and_devices": "Great is the LORD above all gods, the Maker of the heavens, splendor in His sanctuary."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Psalm 96 – Worship in the Splendor of Holiness",
+          "reference": "96:7-9",
+          "why_start_end_and_devices": "The families of nations called to ascribe glory, bring offerings, and tremble before Him."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Psalm 96 – He Comes to Judge the Earth",
+          "reference": "96:10-13",
+          "why_start_end_and_devices": "'The LORD reigns!' — heavens, sea, fields, and trees rejoice before the coming Judge of righteousness."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Psalm 97 – The LORD Reigns, Let the Earth Rejoice",
+          "reference": "97:1-3",
+          "why_start_end_and_devices": "Enthronement amid cloud and darkness; fire goes before Him to consume His foes."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Psalm 97 – The Mountains Melt Like Wax",
+          "reference": "97:4-6",
+          "why_start_end_and_devices": "The theophany: lightning, trembling earth, melting mountains, and the heavens proclaiming His righteousness."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Psalm 97 – Zion Hears and Rejoices",
+          "reference": "97:7-9",
+          "why_start_end_and_devices": "Idolaters put to shame while Zion exults, for the LORD is Most High over all the earth."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Psalm 97 – Light Shines on the Righteous",
+          "reference": "97:10-12",
+          "why_start_end_and_devices": "The call to hate evil and rejoice in the LORD who preserves and delivers His saints."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Psalm 98 – His Holy Arm Has Won the Victory",
+          "reference": "98:1-3",
+          "why_start_end_and_devices": "A new song for the salvation revealed to the nations and the ends of the earth."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Psalm 98 – Shout for Joy Before the King",
+          "reference": "98:4-6",
+          "why_start_end_and_devices": "The orchestra of praise: lyre, harp, trumpets, and ram's horn before the LORD, the King."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Psalm 98 – Let the Rivers Clap Their Hands",
+          "reference": "98:7-9",
+          "why_start_end_and_devices": "Sea, rivers, and mountains summoned to rejoice before the coming Judge of the world."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Psalm 99 – Enthroned Above the Cherubim",
+          "reference": "99:1-3",
+          "why_start_end_and_devices": "The LORD reigns and the nations tremble; great in Zion — 'He is holy!'"
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Psalm 99 – The Mighty King Loves Justice",
+          "reference": "99:4-6",
+          "why_start_end_and_devices": "Equity established in Jacob; Moses, Aaron, and Samuel among those who called and were answered."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Psalm 99 – Worship at His Holy Mountain",
+          "reference": "99:7-9",
+          "why_start_end_and_devices": "The God who spoke from the pillar of cloud, forgiving yet avenging — 'the LORD our God is holy.'"
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Psalm 100 – Make a Joyful Noise, All the Earth",
+          "reference": "100:1-5",
+          "why_start_end_and_devices": "The complete thanksgiving processional: know the LORD is God and Maker, enter His gates with thanks, for His devotion endures forever."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Psalm 101 – I Will Walk with Integrity of Heart",
+          "reference": "101:1-4",
+          "why_start_end_and_devices": "The king's covenant of conduct: singing of devotion and justice, setting no worthless thing before his eyes."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Psalm 101 – I Will Cut Off Every Evildoer",
+          "reference": "101:5-8",
+          "why_start_end_and_devices": "The vow to silence slanderers and the proud, favoring the faithful and purging the city of the LORD."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Psalm 102 – Hear My Prayer, O LORD",
+          "reference": "102:1-2",
+          "why_start_end_and_devices": "The afflicted one's lament opens: 'do not hide Your face… answer me quickly when I call.'"
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Psalm 102 – My Days Vanish Like Smoke",
+          "reference": "102:3-5",
+          "why_start_end_and_devices": "The wasting of body and soul — bones burning like embers, heart withered like grass."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Psalm 102 – Like a Lone Bird on a Housetop",
+          "reference": "102:6-7",
+          "why_start_end_and_devices": "The imagery of desolate isolation: a desert owl among the ruins, sleepless and alone."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Psalm 102 – Ashes Like Bread",
+          "reference": "102:8-11",
+          "why_start_end_and_devices": "Taunted by enemies, eating ashes and mixing tears, cast aside by God's indignation."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Psalm 102 – But You, O LORD, Sit Enthroned Forever",
+          "reference": "102:12-14",
+          "why_start_end_and_devices": "The great turn from self to the eternal King who will rise and have compassion on Zion."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Psalm 102 – The LORD Will Rebuild Zion",
+          "reference": "102:15-17",
+          "why_start_end_and_devices": "The nations and kings fearing His glory when He appears and answers the prayer of the destitute."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Psalm 102 – Written for a Generation to Come",
+          "reference": "102:18-20",
+          "why_start_end_and_devices": "The record for the unborn, of the God who looked down to hear the prisoner's groaning."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Psalm 102 – That They May Proclaim His Name in Zion",
+          "reference": "102:21-22",
+          "why_start_end_and_devices": "The gathered peoples and kingdoms assembling to serve the LORD."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Psalm 102 – Do Not Take Me in the Midst of My Days",
+          "reference": "102:23-24",
+          "why_start_end_and_devices": "The return to lament, set against the God whose years go on through all generations."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Psalm 102 – You Remain the Same",
+          "reference": "102:25-28",
+          "why_start_end_and_devices": "The creation-eternity of God (cited of the Son in Heb 1): heaven and earth wear out, but He endures and His servants' children are established."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Psalm 103 – Bless the LORD, O My Soul",
+          "reference": "103:1-2",
+          "why_start_end_and_devices": "The summons of the soul to bless His holy name and forget none of His benefits."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Psalm 103 – Who Forgives All Your Iniquities",
+          "reference": "103:3-5",
+          "why_start_end_and_devices": "The cascade of benefits: forgiveness, healing, redemption, devotion, and renewed youth."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "Psalm 103 – Slow to Anger, Abounding in Love",
+          "reference": "103:6-8",
+          "why_start_end_and_devices": "His ways made known to Moses; the Exodus-creed of the compassionate and gracious LORD."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Psalm 103 – As Far as the East from the West",
+          "reference": "103:9-12",
+          "why_start_end_and_devices": "He has not repaid us by our sins; His devotion as high as heaven, our transgressions removed beyond measure."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Psalm 103 – He Knows Our Frame",
+          "reference": "103:13-14",
+          "why_start_end_and_devices": "A father's compassion on those who fear Him, mindful that we are dust."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Psalm 103 – His Devotion from Everlasting to Everlasting",
+          "reference": "103:15-18",
+          "why_start_end_and_devices": "Man's days like a flower of the field, but the LORD's love everlasting to those who keep His covenant."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "Psalm 103 – Bless the LORD, All His Works",
+          "reference": "103:19-22",
+          "why_start_end_and_devices": "His throne in heaven and kingdom over all; angels, hosts, and works summoned to bless Him — 'Bless the LORD, O my soul!'"
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Psalm 104 – Clothed with Splendor and Majesty",
+          "reference": "104:1-4",
+          "why_start_end_and_devices": "Creation hymn: God wrapped in light, stretching the heavens, making the winds His messengers."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "Psalm 104 – You Set a Boundary for the Waters",
+          "reference": "104:5-9",
+          "why_start_end_and_devices": "The earth founded, the deep rebuked, and the bounds set that the waters never again cover the earth."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "Psalm 104 – Springs in the Valleys",
+          "reference": "104:10-12",
+          "why_start_end_and_devices": "The flowing springs giving drink to every beast, the birds singing among the branches."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Psalm 104 – Wine That Gladdens the Heart",
+          "reference": "104:13-15",
+          "why_start_end_and_devices": "Providence bringing forth food: wine, oil, and bread to sustain man."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "Psalm 104 – The Cedars of Lebanon",
+          "reference": "104:16-18",
+          "why_start_end_and_devices": "The well-watered trees, the stork's home, the high mountains for the wild goats and badgers."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Psalm 104 – The Moon Marks the Seasons",
+          "reference": "104:19-23",
+          "why_start_end_and_devices": "The ordained rhythm of day and night — lions prowling by dark, man going to his labor till evening."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "Psalm 104 – In Wisdom You Made Them All",
+          "reference": "104:24-26",
+          "why_start_end_and_devices": "Wonder at the teeming sea where the ships pass and Leviathan frolics."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "Psalm 104 – You Open Your Hand",
+          "reference": "104:27-30",
+          "why_start_end_and_devices": "All creatures depending on God for food and breath; when He sends His Spirit, He renews the earth."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "Psalm 104 – He Touches the Mountains and They Smolder",
+          "reference": "104:31-32",
+          "why_start_end_and_devices": "The prayer that God's glory endure, before whom the earth trembles."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "Psalm 104 – I Will Sing to the LORD All My Life",
+          "reference": "104:33-35",
+          "why_start_end_and_devices": "The closing vow of praise and the first 'Hallelujah' of the Psalter."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "Psalm 105 – Make Known His Deeds Among the Nations",
+          "reference": "105:1-3",
+          "why_start_end_and_devices": "Salvation-history hymn opens: give thanks, sing, and glory in His holy name."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "Psalm 105 – Seek His Face Always",
+          "reference": "105:4-6",
+          "why_start_end_and_devices": "Call to remember the wonders and judgments, O offspring of Abraham, His chosen ones."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Psalm 105 – He Remembers His Covenant Forever",
+          "reference": "105:7-11",
+          "why_start_end_and_devices": "The oath to Abraham, Isaac, and Jacob: 'I will give you the land of Canaan as your inheritance.'"
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "Psalm 105 – Do Not Touch My Anointed Ones",
+          "reference": "105:12-15",
+          "why_start_end_and_devices": "God's protection of the few wandering patriarchs, rebuking kings on their behalf."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "Psalm 105 – Joseph, Sold as a Slave",
+          "reference": "105:16-19",
+          "why_start_end_and_devices": "The famine called down and Joseph sent ahead, shackled until the word of the LORD proved him right."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "Psalm 105 – Master of His Household",
+          "reference": "105:20-22",
+          "why_start_end_and_devices": "Joseph released and made ruler over Egypt, to instruct its princes and elders."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "Psalm 105 – Jacob Dwelt in the Land of Ham",
+          "reference": "105:23-25",
+          "why_start_end_and_devices": "Israel made fruitful in Egypt, whose hearts God turned to hate His people."
+        },
+        {
+          "scene_number": 79,
+          "scene_name": "Psalm 105 – He Sent Moses and Aaron",
+          "reference": "105:26-27",
+          "why_start_end_and_devices": "The chosen servants performing His signs and wonders in the land of Ham."
+        },
+        {
+          "scene_number": 80,
+          "scene_name": "Psalm 105 – Darkness, Blood, and Frogs",
+          "reference": "105:28-30",
+          "why_start_end_and_devices": "The plagues recalled: darkness, waters turned to blood, the land teeming with frogs."
+        },
+        {
+          "scene_number": 81,
+          "scene_name": "Psalm 105 – Hail and Lightning",
+          "reference": "105:31-33",
+          "why_start_end_and_devices": "Swarming insects, hail and lightning, the shattered vines and trees of Egypt."
+        },
+        {
+          "scene_number": 82,
+          "scene_name": "Psalm 105 – He Struck All the Firstborn",
+          "reference": "105:34-36",
+          "why_start_end_and_devices": "The locusts devouring the land and the climactic plague on the firstborn."
+        },
+        {
+          "scene_number": 83,
+          "scene_name": "Psalm 105 – Brought Out with Silver and Gold",
+          "reference": "105:37-38",
+          "why_start_end_and_devices": "Israel led out unstumbling and laden, while the dread of them fell on glad Egypt."
+        },
+        {
+          "scene_number": 84,
+          "scene_name": "Psalm 105 – Bread of Heaven, Water from the Rock",
+          "reference": "105:39-41",
+          "why_start_end_and_devices": "The cloud and fire, the quail and manna, the rock opened to flow like a river."
+        },
+        {
+          "scene_number": 85,
+          "scene_name": "Psalm 105 – That They Might Keep His Statutes",
+          "reference": "105:42-45",
+          "why_start_end_and_devices": "God remembering His promise to Abraham, bringing His people out with joy to inherit the nations — 'Hallelujah!'"
+        },
+        {
+          "scene_number": 86,
+          "scene_name": "Psalm 106 – His Loving Devotion Endures Forever",
+          "reference": "106:1-3",
+          "why_start_end_and_devices": "The confessional history opens with praise and a blessing on those who practice righteousness."
+        },
+        {
+          "scene_number": 87,
+          "scene_name": "Psalm 106 – Remember Me in Your Favor",
+          "reference": "106:4-5",
+          "why_start_end_and_devices": "The personal plea to share in the prosperity and gladness of God's chosen nation."
+        },
+        {
+          "scene_number": 88,
+          "scene_name": "Psalm 106 – We Have Sinned Like Our Fathers",
+          "reference": "106:6-7",
+          "why_start_end_and_devices": "The confession begins: the fathers rebelled at the Red Sea, forgetting His abundant kindness."
+        },
+        {
+          "scene_number": 89,
+          "scene_name": "Psalm 106 – He Saved Them for His Name's Sake",
+          "reference": "106:8-12",
+          "why_start_end_and_devices": "Yet He rebuked the Red Sea and led them through the depths; then they believed and sang His praise."
+        },
+        {
+          "scene_number": 90,
+          "scene_name": "Psalm 106 – They Soon Forgot His Works",
+          "reference": "106:13-15",
+          "why_start_end_and_devices": "Craving in the wilderness, they tested God, who granted their request but sent a wasting disease."
+        },
+        {
+          "scene_number": 91,
+          "scene_name": "Psalm 106 – The Earth Swallowed Dathan",
+          "reference": "106:16-18",
+          "why_start_end_and_devices": "The envy of Moses and Aaron met by the opening earth and the consuming fire."
+        },
+        {
+          "scene_number": 92,
+          "scene_name": "Psalm 106 – They Made a Calf at Horeb",
+          "reference": "106:19-23",
+          "why_start_end_and_devices": "Exchanging their Glory for an ox-image (19-22), spared only because Moses stood in the breach (23)."
+        },
+        {
+          "scene_number": 93,
+          "scene_name": "Psalm 106 – They Despised the Pleasant Land",
+          "reference": "106:24-27",
+          "why_start_end_and_devices": "The unbelief that grumbled in the tents, provoking the oath to scatter them among the nations."
+        },
+        {
+          "scene_number": 94,
+          "scene_name": "Psalm 106 – Phinehas Stood and Intervened",
+          "reference": "106:28-31",
+          "why_start_end_and_devices": "The Baal of Peor apostasy and plague, restrained by Phinehas, credited to him as righteousness."
+        },
+        {
+          "scene_number": 95,
+          "scene_name": "Psalm 106 – The Waters of Meribah",
+          "reference": "106:32-33",
+          "why_start_end_and_devices": "Rebellion against God's Spirit that brought trouble even on Moses, who spoke rashly."
+        },
+        {
+          "scene_number": 96,
+          "scene_name": "Psalm 106 – They Mingled with the Nations",
+          "reference": "106:34-36",
+          "why_start_end_and_devices": "Failing to drive out the peoples, they adopted their customs and idols, which became a snare."
+        },
+        {
+          "scene_number": 97,
+          "scene_name": "Psalm 106 – Blood of Their Sons and Daughters",
+          "reference": "106:37-39",
+          "why_start_end_and_devices": "The deepest apostasy: child sacrifice to demons, the land polluted with innocent blood."
+        },
+        {
+          "scene_number": 98,
+          "scene_name": "Psalm 106 – Delivered into the Hand of the Nations",
+          "reference": "106:40-43",
+          "why_start_end_and_devices": "God's anger handing His people to their oppressors, who rescued many times yet bent on rebellion."
+        },
+        {
+          "scene_number": 99,
+          "scene_name": "Psalm 106 – He Remembered His Covenant",
+          "reference": "106:44-46",
+          "why_start_end_and_devices": "Nevertheless He heard their cry and relented in the abundance of His loving devotion."
+        },
+        {
+          "scene_number": 100,
+          "scene_name": "Psalm 106 – Gather Us from the Nations",
+          "reference": "106:47-48",
+          "why_start_end_and_devices": "The closing plea for ingathering and the doxology that ends Book IV: 'let all the people say, Amen! Hallelujah!'"
+        }
+      ]
     },
     {
       "story_letter": "E",
