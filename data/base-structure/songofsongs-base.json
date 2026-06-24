@@ -24,15 +24,60 @@
       "why_start_end_and_literary_glue": "First major cycle: passionate opening dialogue (Bride, Groom; Chorus introduced) expressing longing, insecurity, and mutual praise; concludes with the first refrain (2:7). Start (1:2): 'Let him kiss me…' End (2:7): 'do not stir up or awaken love until it pleases.' Literary Glue: swift antiphonal exchanges among the three voices, search/praise motifs.",
       "reference": "1:2 - 2:7",
       "scenes": [
-        { "scene_number": 1, "scene_name": "The Bride's Opening Soliloquy", "reference": "1:2-4", "why_start_end_and_devices": "Bride's longing (2–4a), Chorus response (4b), Bride's rejoicing (4c), Chorus close (4d); introduces all speakers and tone." },
-        { "scene_number": 2, "scene_name": "'Dark, but Lovely'", "reference": "1:5-6", "why_start_end_and_devices": "Bride addresses the Daughters: antithesis of complexion/beauty; explanation of labor‑darkened skin ('my own vineyard I have not kept')." },
-        { "scene_number": 3, "scene_name": "Where Do You Pasture?", "reference": "1:7-8", "why_start_end_and_devices": "Call‑and‑response: Bride inquires of Beloved; answer directs her to the flocks (shepherding imagery)." },
-        { "scene_number": 4, "scene_name": "The Groom's First Praise", "reference": "1:9-11", "why_start_end_and_devices": "Groom's admiration (9–10) with Chorus' embellishment (11): ornaments and royalty metaphors." },
-        { "scene_number": 5, "scene_name": "'My Beloved Is to Me…'", "reference": "1:12-14", "why_start_end_and_devices": "Bride's fragrant triad (spikenard, myrrh, henna); unified scent‑imagery expressing delight." },
-        { "scene_number": 6, "scene_name": "Mutual Praise and Rest", "reference": "1:15-17", "why_start_end_and_devices": "Stichomythia: Groom affirms her beauty; Bride praises him and evokes their natural 'house' setting." },
-        { "scene_number": 7, "scene_name": "Lily Among Thorns", "reference": "2:1-2", "why_start_end_and_devices": "Bride's humble self‑image ('rose/lily'); Groom heightens the metaphor: she unique among daughters." },
-        { "scene_number": 8, "scene_name": "The Apple Tree and Banquet", "reference": "2:3-6", "why_start_end_and_devices": "Bride's sustained metaphor: Beloved as fruitful, shading tree; banner of love; lovesickness and embrace." },
-        { "scene_number": 9, "scene_name": "First Refrain", "reference": "2:7", "why_start_end_and_devices": "Adjuration to Daughters of Jerusalem not to awaken love before its time; closes Cycle 1." }
+        {
+          "scene_number": 1,
+          "scene_name": "The Bride's Opening Soliloquy",
+          "reference": "1:2-4",
+          "why_start_end_and_devices": "Bride's longing (2–4a), Chorus response (4b), Bride's rejoicing (4c), Chorus close (4d); introduces all speakers and tone."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'Dark, but Lovely'",
+          "reference": "1:5-6",
+          "why_start_end_and_devices": "Bride addresses the Daughters: antithesis of complexion/beauty; explanation of labor‑darkened skin ('my own vineyard I have not kept')."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Where Do You Pasture?",
+          "reference": "1:7-8",
+          "why_start_end_and_devices": "Call‑and‑response: Bride inquires of Beloved; answer directs her to the flocks (shepherding imagery)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Groom's First Praise",
+          "reference": "1:9-11",
+          "why_start_end_and_devices": "Groom's admiration (9–10) with Chorus' embellishment (11): ornaments and royalty metaphors."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'My Beloved Is to Me…'",
+          "reference": "1:12-14",
+          "why_start_end_and_devices": "Bride's fragrant triad (spikenard, myrrh, henna); unified scent‑imagery expressing delight."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Mutual Praise and Rest",
+          "reference": "1:15-17",
+          "why_start_end_and_devices": "Stichomythia: Groom affirms her beauty; Bride praises him and evokes their natural 'house' setting."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Lily Among Thorns",
+          "reference": "2:1-2",
+          "why_start_end_and_devices": "Bride's humble self‑image ('rose/lily'); Groom heightens the metaphor: she unique among daughters."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Apple Tree and Banquet",
+          "reference": "2:3-6",
+          "why_start_end_and_devices": "Bride's sustained metaphor: Beloved as fruitful, shading tree; banner of love; lovesickness and embrace."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "First Refrain",
+          "reference": "2:7",
+          "why_start_end_and_devices": "Adjuration to Daughters of Jerusalem not to awaken love before its time; closes Cycle 1."
+        }
       ]
     },
     {
@@ -41,11 +86,42 @@
       "why_start_end_and_literary_glue": "Second cycle shifts to separation/longing: distant call, protection of love ('little foxes'), confidence, and a night search narrative; concludes with the second refrain (3:5). Start (2:8): 'The voice of my beloved!' End (3:5): refrain. Literary Glue: motifs of absence, search, springtime invitation, and reunion.",
       "reference": "2:8 - 3:5",
       "scenes": [
-        { "scene_number": 1, "scene_name": "The Call in Springtime", "reference": "2:8-14", "why_start_end_and_devices": "Bride describes Beloved's approach (8–9); Beloved invites (10–14): 'Rise up… winter is past'—pastoral nature imagery." },
-        { "scene_number": 2, "scene_name": "Catch the Little Foxes", "reference": "2:15", "why_start_end_and_devices": "Single‑verse interlude warning to guard the vineyard of love from small destroyers—memorable aphorism." },
-        { "scene_number": 3, "scene_name": "Belonging and Appeal", "reference": "2:16-17", "why_start_end_and_devices": "'My beloved is mine, and I am his'—statement of mutual possession with gazelle imagery and appeal to return." },
-        { "scene_number": 4, "scene_name": "Night Search and Finding", "reference": "3:1-4", "why_start_end_and_devices": "Dreamlike four‑step micro‑narrative: private search, city search, watchmen query, finding and bringing home." },
-        { "scene_number": 5, "scene_name": "Second Refrain", "reference": "3:5", "why_start_end_and_devices": "Identical adjuration to Daughters; definitive close to Cycle 2." }
+        {
+          "scene_number": 1,
+          "scene_name": "The Voice of My Beloved",
+          "reference": "2:8-10",
+          "why_start_end_and_devices": "The lover bounding over the hills like a gazelle, calling 'Arise, my darling, come away with me.'"
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "For Now the Winter Is Past",
+          "reference": "2:11-14",
+          "why_start_end_and_devices": "The springtime invitation: flowers, singing, ripening figs, and the dove summoned from the clefts of the rock."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Catch the Little Foxes",
+          "reference": "2:15",
+          "why_start_end_and_devices": "The vineyard-warning against the small foxes that spoil the blossoming vines of love."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "My Beloved Is Mine and I Am His",
+          "reference": "2:16-17",
+          "why_start_end_and_devices": "The mutual-possession refrain and the appeal for the beloved to return like a gazelle at daybreak."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Night Search and Finding",
+          "reference": "3:1-4",
+          "why_start_end_and_devices": "The bride's restless search through the city for the one she loves, until she finds and holds him."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Second Refrain",
+          "reference": "3:5",
+          "why_start_end_and_devices": "The recurring adjuration to the daughters of Jerusalem: 'Do not awaken love until the time is right.'"
+        }
       ]
     },
     {
@@ -54,25 +130,144 @@
       "why_start_end_and_literary_glue": "Central and longest cycle: public procession (3:6–11) → private praise (ch. 4) → consummation (4:16–5:1) → separation/search (5:2–8) → renewed praise and union (6–7) → final refrain (8:4). Start (3:6): Chorus 'Who is this…?' End (8:4): third refrain. Literary Glue: wedding imagery, wasfs, garden metaphors, and the consummation hinge.",
       "reference": "3:6 - 8:4",
       "scenes": [
-        { "scene_number": 1, "scene_name": "The Royal Procession", "reference": "3:6-11", "why_start_end_and_devices": "Chorus paints Solomon's palanquin, incense pillars, valiant guard; invitation to daughters to behold the king." },
-        { "scene_number": 2, "scene_name": "First Wasf: Bride's Beauty", "reference": "4:1-7", "why_start_end_and_devices": "Groom's sustained descriptive ode from eyes to neck to breasts; closes, 'You are altogether beautiful… no flaw.'" },
-        { "scene_number": 3, "scene_name": "Invitation from Lebanon", "reference": "4:8", "why_start_end_and_devices": "Single‑verse summons—come from Lebanon's peaks—transitioning toward union." },
-        { "scene_number": 4, "scene_name": "Heart Ravished", "reference": "4:9-11", "why_start_end_and_devices": "Groom extols the effect of her love; honeyed lips; distinct from physical catalogue of 4:1–7." },
-        { "scene_number": 5, "scene_name": "Locked Garden", "reference": "4:12-15", "why_start_end_and_devices": "Bride as enclosed garden, sealed spring; luxuriant, exotic botany image of purity and delight." },
-        { "scene_number": 6, "scene_name": "Consummation in the Garden", "reference": "4:16-5:1", "why_start_end_and_devices": "Bride invites winds; Groom enters garden and partakes; public 'Eat, friends; drink' coda—central hinge of the Song." },
-        { "scene_number": 7, "scene_name": "Second Dream: Lost Beloved", "reference": "5:2-8", "why_start_end_and_devices": "Knock; delay; search; beating by watchmen; adjuration to Daughters—parallel but darker to 3:1–4." },
-        { "scene_number": 8, "scene_name": "Chorus: What Is Your Beloved?", "reference": "5:9", "why_start_end_and_devices": "Single question invites the Bride's wasf of the Groom." },
-        { "scene_number": 9, "scene_name": "Second Wasf: Groom's Splendor", "reference": "5:10-16", "why_start_end_and_devices": "Bride's head‑to‑toe descriptive ode; closes, 'This is my beloved… and my friend.'" },
-        { "scene_number": 10, "scene_name": "Chorus: Where Has He Gone?", "reference": "6:1", "why_start_end_and_devices": "Single‑verse follow‑up; Chorus now joins the search." },
-        { "scene_number": 11, "scene_name": "Answer and Confidence", "reference": "6:2-3", "why_start_end_and_devices": "She knows his garden; repeats belonging ('I am my beloved's, and my beloved is mine')." },
-        { "scene_number": 12, "scene_name": "Third Wasf: Unique Among Women", "reference": "6:4-10", "why_start_end_and_devices": "Groom praises her as awe‑inspiring (Tirzah/Jerusalem); repeats motifs; emphasizes uniqueness among sixty queens, eighty concubines, virgins without number." },
-        { "scene_number": 13, "scene_name": "Garden Descent and Sudden Transport", "reference": "6:11-12", "why_start_end_and_devices": "Brief, enigmatic movement from nut garden to unexpected conveyance in noble chariots." },
-        { "scene_number": 14, "scene_name": "Return, O Shulamite", "reference": "6:13", "why_start_end_and_devices": "Call‑and‑response: 'Return!' // 'Why gaze upon the Shulamite…?'—pivot to dance scene." },
-        { "scene_number": 15, "scene_name": "Chorus Wasf: From Feet to Head", "reference": "7:1-5", "why_start_end_and_devices": "Unique upward catalogue by the Chorus; sensual, regal imagery culminating in hair enthralling the king." },
-        { "scene_number": 16, "scene_name": "Palm Tree Desire", "reference": "7:6-9", "why_start_end_and_devices": "Groom delights in her stature and breasts like clusters; palm‑tree climbing metaphor (flowing into 7:9b in some versions)." },
-        { "scene_number": 17, "scene_name": "Invitation to the Countryside", "reference": "7:10-13", "why_start_end_and_devices": "Bride affirms desire ('I am my beloved's…') and invites to the fields, vineyards, and pomegranates—stored delights new and old." },
-        { "scene_number": 18, "scene_name": "Longing for Public Love", "reference": "8:1-3", "why_start_end_and_devices": "Wish for unashamed public affection (as kin), bringing him to her mother's house; reprise of embrace formula." },
-        { "scene_number": 19, "scene_name": "Third Refrain", "reference": "8:4", "why_start_end_and_devices": "Final adjuration to the Daughters—cycle concluded and main body closed." }
+        {
+          "scene_number": 1,
+          "scene_name": "The Royal Procession",
+          "reference": "3:6-11",
+          "why_start_end_and_devices": "Solomon's wedding carriage rising from the wilderness in smoke and spices, escorted by sixty warriors."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "First Wasf: Your Eyes Are Doves",
+          "reference": "4:1-3",
+          "why_start_end_and_devices": "The groom's praise from above: eyes like doves, hair like a flock of goats, teeth, lips, and brow."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "First Wasf: You Are Altogether Beautiful",
+          "reference": "4:4-7",
+          "why_start_end_and_devices": "The neck like the tower of David and breasts like twin fawns, sealed by 'in you there is no flaw.'"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Invitation from Lebanon",
+          "reference": "4:8",
+          "why_start_end_and_devices": "The call for the bride to descend with him from the peaks of Amana, Senir, and Hermon."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "You Have Captured My Heart",
+          "reference": "4:9-11",
+          "why_start_end_and_devices": "The ravished heart of the groom: love better than wine, lips dripping honey, garments fragrant as Lebanon."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "A Garden Locked Up",
+          "reference": "4:12-15",
+          "why_start_end_and_devices": "The bride as an enclosed garden and sealed fountain, an orchard of choice fruits and finest spices."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Consummation in the Garden",
+          "reference": "4:16-5:1",
+          "why_start_end_and_devices": "The bride invites the winds and her beloved into the garden (4:16); he enters and gathers its fruits — the heart of the Song (5:1)."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "I Sleep, but My Heart Is Awake",
+          "reference": "5:2-4",
+          "why_start_end_and_devices": "The night-knocking of the beloved and the bride's hesitation as his hand reaches for the latch."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "He Had Turned and Gone",
+          "reference": "5:5-8",
+          "why_start_end_and_devices": "She rises to open, but he is gone; the watchmen beat her, and she charges the daughters — 'I am sick with love.'"
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Chorus: What Is Your Beloved?",
+          "reference": "5:9",
+          "why_start_end_and_devices": "The daughters' question that prompts the praise: 'How is your beloved better than another?'"
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Second Wasf: Dazzling and Ruddy",
+          "reference": "5:10-13",
+          "why_start_end_and_devices": "The bride's praise of her beloved: outstanding among ten thousand, his head of gold, eyes like doves, cheeks like spice."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Second Wasf: Altogether Lovely",
+          "reference": "5:14-16",
+          "why_start_end_and_devices": "Arms of gold, body of ivory, legs of marble — 'this is my beloved, and this is my friend.'"
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Chorus: Where Has He Gone?",
+          "reference": "6:1",
+          "why_start_end_and_devices": "The daughters offer to seek the beloved with her."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "My Beloved Has Gone to His Garden",
+          "reference": "6:2-3",
+          "why_start_end_and_devices": "Her confident answer and the renewed refrain: 'I belong to my beloved and he belongs to me.'"
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Third Wasf: Beautiful as Tirzah",
+          "reference": "6:4-7",
+          "why_start_end_and_devices": "The groom's renewed praise: lovely as Jerusalem, her overwhelming eyes, hair, teeth, and brow."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "My Dove Is Unique",
+          "reference": "6:8-10",
+          "why_start_end_and_devices": "Above sixty queens, his perfect one alone, who shines like the dawn, fair as the moon, bright as the sun."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Garden Descent and Sudden Transport",
+          "reference": "6:11-12",
+          "why_start_end_and_devices": "The descent to the walnut grove and the bride swept up among the royal chariots."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Return, O Shulammite",
+          "reference": "6:13",
+          "why_start_end_and_devices": "The fourfold call to the Shulammite to return that they may gaze upon her dance."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Chorus Wasf: From Feet to Head",
+          "reference": "7:1-5",
+          "why_start_end_and_devices": "The praise ascending from sandaled feet to the crown of her head — 'the king is captured in your tresses.'"
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Palm Tree Desire",
+          "reference": "7:6-9",
+          "why_start_end_and_devices": "The lover's longing to climb the palm tree of his beloved, her breath like apples and mouth like finest wine."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Invitation to the Countryside",
+          "reference": "7:10-13",
+          "why_start_end_and_devices": "The bride's invitation to the vineyards and mandrakes — 'there I will give you my love.'"
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Longing for Public Love",
+          "reference": "8:1-3",
+          "why_start_end_and_devices": "The wish that he were a brother she could kiss openly, leading him to her mother's house."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Third Refrain",
+          "reference": "8:4",
+          "why_start_end_and_devices": "The final adjuration: 'Do not arouse or awaken love until the time is right.'"
+        }
       ]
     },
     {
@@ -81,14 +276,43 @@
       "why_start_end_and_literary_glue": "Epilogue‑like final section: the refrain cycles end; reflective poems summarize the book's wisdom of love. Start (8:5a): Chorus 'Who is this coming up… leaning on her beloved?'—echo of 3:6. End (8:14): Bride's 'Make haste, my beloved'—final line. Literary Glue: love's seal, family flashback, and closing exchange.",
       "reference": "8:5 - 8:14",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Arrival from the Wilderness", "reference": "8:5", "why_start_end_and_devices": "Chorus observes the pair; likely Groom recalls love's awakening under the apple tree—concluding the journey motif." },
-        { "scene_number": 2, "scene_name": "Love's Seal: Strong as Death", "reference": "8:6-7", "why_start_end_and_devices": "Central wisdom lyric: set me as a seal; love is strong as death, jealousy fierce as Sheol; floods cannot quench; price beyond wealth." },
-        { "scene_number": 3, "scene_name": "The Little Sister", "reference": "8:8-9", "why_start_end_and_devices": "Brothers' flashback plan to protect their little sister; architectural metaphors (wall/door) and adornment." },
-        { "scene_number": 4, "scene_name": "I Am a Wall; My Vineyard Is Mine", "reference": "8:10-12", "why_start_end_and_devices": "Bride asserts maturity and peace; contrasts Solomon's public vineyard with her own personal 'vineyard' to give." },
-        { "scene_number": 5, "scene_name": "'Let Me Hear Your Voice'", "reference": "8:13", "why_start_end_and_devices": "Groom's final brief call to the garden‑dweller to let him hear her voice." },
-        { "scene_number": 6, "scene_name": "Make Haste, My Beloved", "reference": "8:14", "why_start_end_and_devices": "Bride's concluding plea; gazelle/stag imagery reprises earlier motifs and closes the Song." }
+        {
+          "scene_number": 1,
+          "scene_name": "Arrival from the Wilderness",
+          "reference": "8:5",
+          "why_start_end_and_devices": "Chorus observes the pair; likely Groom recalls love's awakening under the apple tree—concluding the journey motif."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Love's Seal: Strong as Death",
+          "reference": "8:6-7",
+          "why_start_end_and_devices": "Central wisdom lyric: set me as a seal; love is strong as death, jealousy fierce as Sheol; floods cannot quench; price beyond wealth."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Little Sister",
+          "reference": "8:8-9",
+          "why_start_end_and_devices": "Brothers' flashback plan to protect their little sister; architectural metaphors (wall/door) and adornment."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "I Am a Wall; My Vineyard Is Mine",
+          "reference": "8:10-12",
+          "why_start_end_and_devices": "Bride asserts maturity and peace; contrasts Solomon's public vineyard with her own personal 'vineyard' to give."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'Let Me Hear Your Voice'",
+          "reference": "8:13",
+          "why_start_end_and_devices": "Groom's final brief call to the garden‑dweller to let him hear her voice."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Make Haste, My Beloved",
+          "reference": "8:14",
+          "why_start_end_and_devices": "Bride's concluding plea; gazelle/stag imagery reprises earlier motifs and closes the Song."
+        }
       ]
     }
   ]
 }
-
