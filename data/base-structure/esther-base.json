@@ -12,84 +12,126 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The King's Lavish Feasts",
-          "reference": "1:1-9",
-          "why_start_end_and_devices": "Starts with the narrative opening, 'Now it came to pass...' (1:1). Ends when the twin feasts are fully described (1:9). Establishes the empire's extravagant opulence and sets up the gender-separate banquets, staging the coming conflict."
+          "scene_name": "Xerxes' 180-Day Display of Wealth",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "The empire 'from India to Cush.' Devices: Opulence setting up the reversal to come."
         },
         {
           "scene_number": 2,
+          "scene_name": "The Seven-Day Feast at Susa",
+          "reference": "1:5-9",
+          "why_start_end_and_devices": "Wine 'without restraint'; Vashti's separate feast. Devices: Excess and the seeds of crisis."
+        },
+        {
+          "scene_number": 3,
           "scene_name": "Queen Vashti's Defiance",
           "reference": "1:10-12",
           "why_start_end_and_devices": "Starts with the king's seventh-day command while merry with wine (1:10-11). Ends with Vashti's refusal and the king's wrath (1:12). Inciting incident: a defiance that creates the vacancy Esther will fill."
         },
         {
-          "scene_number": 3,
-          "scene_name": "The Irreversible Edict",
-          "reference": "1:13-22",
-          "why_start_end_and_devices": "Starts with the king consulting wise men, 'What shall we do...?' (1:13). Ends when the edict is issued throughout the empire (1:22). Introduces the Persian-Median law 'which altereth not'—a device later weaponized by Haman."
+          "scene_number": 4,
+          "scene_name": "Memucan: 'Vashti Has Wronged All the Nobles'",
+          "reference": "1:13-18",
+          "why_start_end_and_devices": "A private slight inflated to a kingdom-wide threat. Devices: Comic overreaction of the court."
         },
         {
-          "scene_number": 4,
+          "scene_number": 5,
+          "scene_name": "The Edict That Every Man Rule His House",
+          "reference": "1:19-22",
+          "why_start_end_and_devices": "Vashti deposed by irreversible law. Devices: The 'unchangeable' Persian law motif introduced."
+        },
+        {
+          "scene_number": 6,
           "scene_name": "The Search for a New Queen",
           "reference": "2:1-4",
           "why_start_end_and_devices": "Starts after the king's wrath abates (2:1). Ends when the plan to gather virgins pleases the king (2:4). Direct link from Vashti's deposal to Esther's imminent arrival via a realm-wide 'search.'"
         },
         {
-          "scene_number": 5,
+          "scene_number": 7,
           "scene_name": "Introduction of Mordecai and Esther",
           "reference": "2:5-7",
           "why_start_end_and_devices": "Starts with 'a certain Jew' Mordecai in Shushan (2:5). Ends describing Esther's beauty and her upbringing by Mordecai (2:7). Key identities: Mordecai the Benjaminite (Saul's line) and Esther (Hadassah), foreshadowing Jew–Agagite conflict."
         },
         {
-          "scene_number": 6,
+          "scene_number": 8,
           "scene_name": "Esther in the Harem",
           "reference": "2:8-11",
           "why_start_end_and_devices": "Starts when the king's command gathers the women and Esther is taken (2:8). Ends with Mordecai waiting daily at the court (2:11). Esther conceals her identity on Mordecai's advice—a crucial ongoing device."
         },
         {
-          "scene_number": 7,
-          "scene_name": "Esther Becomes Queen",
-          "reference": "2:12-18",
-          "why_start_end_and_devices": "Starts with the twelve-month purification protocol (2:12). Ends with Esther crowned and a great feast proclaimed (2:17-18). Resolves the 'queen problem' and reinforces the feast motif marking royal favor."
+          "scene_number": 9,
+          "scene_name": "The Year of Beauty Preparations",
+          "reference": "2:12-14",
+          "why_start_end_and_devices": "Twelve months of cosmetics before one night. Devices: The harem's gilded machinery."
         },
         {
-          "scene_number": 8,
+          "scene_number": 10,
+          "scene_name": "Esther Wins Favor; Crowned Queen",
+          "reference": "2:15-18",
+          "why_start_end_and_devices": "'The king loved Esther more than all.' Devices: Providence raising up the deliverer—unnamed yet."
+        },
+        {
+          "scene_number": 11,
           "scene_name": "Mordecai Saves the King",
           "reference": "2:19-23",
           "why_start_end_and_devices": "Starts when virgins are gathered again and Mordecai sits in the gate (2:19). Ends with the conspirators hanged and the event recorded in the chronicles (2:23). A planted narrative trigger for 6:1: the written, unrewarded loyalty."
         },
         {
-          "scene_number": 9,
+          "scene_number": 12,
           "scene_name": "The Rise of Haman; The Central Conflict",
           "reference": "3:1-6",
           "why_start_end_and_devices": "Starts with Haman's promotion (3:1). Ends when his wrath expands to genocidal intent against all Jews (3:6). Antagonist introduced as Agagite; Mordecai refuses to bow, igniting ancient covenantal enmity."
         },
         {
-          "scene_number": 10,
-          "scene_name": "The Decree of Death",
-          "reference": "3:7-15",
-          "why_start_end_and_devices": "Starts with casting 'Pur' (lot) for timing (3:7). Ends with the decree published—king and Haman sit to drink while Shushan is perplexed (3:15). Irreversible edict mechanism is deployed for genocide; stark ironic contrast closes the scene."
-        },
-        {
-          "scene_number": 11,
-          "scene_name": "Mordecai's Appeal to Esther",
-          "reference": "4:1-9",
-          "why_start_end_and_devices": "Starts with Mordecai's mourning upon learning of the edict (4:1). Ends when Hathach delivers the message and copy to Esther (4:9). The crisis reaches the concealed queen through court intermediaries."
-        },
-        {
-          "scene_number": 12,
-          "scene_name": "For Such a Time as This",
-          "reference": "4:10-17",
-          "why_start_end_and_devices": "Starts with Esther's report of the law of death for unsummoned entrants (4:10-11). Ends with her resolve, 'I will go... if I perish, I perish' (4:16-17). Mordecai's pivotal word reframes her role and triggers active deliverance."
-        },
-        {
           "scene_number": 13,
-          "scene_name": "The First Banquet",
-          "reference": "5:1-8",
-          "why_start_end_and_devices": "Starts on the third day as Esther approaches and is received (5:1-2). Ends with invitation to a second banquet (5:8). High suspense: favor offered 'to half the kingdom' yet strategic delay heightens tension and Haman's pride."
+          "scene_name": "Haman Buys the Right to Destroy the Jews",
+          "reference": "3:7-11",
+          "why_start_end_and_devices": "The lot (pur) cast; ten thousand talents offered. Devices: Genocide as a business transaction."
         },
         {
           "scene_number": 14,
+          "scene_name": "The Decree of Annihilation Sent Out",
+          "reference": "3:12-15",
+          "why_start_end_and_devices": "'Destroy, kill, and annihilate' on a single day. Devices: The threat fixed in law; the city bewildered."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Mordecai Mourns in Sackcloth",
+          "reference": "4:1-3",
+          "why_start_end_and_devices": "Great mourning among the Jews. Devices: Grief spreading through the provinces."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Esther Learns of the Decree",
+          "reference": "4:4-9",
+          "why_start_end_and_devices": "Mordecai sends the written edict to move her. Devices: The crisis reaching the palace."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "'Who Knows but That You Have Come for Such a Time?'",
+          "reference": "4:10-14",
+          "why_start_end_and_devices": "Mordecai's piercing challenge. Devices: Providence and human responsibility (God unnamed but present)."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "'If I Perish, I Perish'",
+          "reference": "4:15-17",
+          "why_start_end_and_devices": "The three-day fast; Esther's resolve. Devices: Faith risking everything."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Esther Approaches the King; the Golden Scepter",
+          "reference": "5:1-4",
+          "why_start_end_and_devices": "Favor granted; 'up to half my kingdom.' Devices: A breathless moment of acceptance."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Invitation to a Second Banquet",
+          "reference": "5:5-8",
+          "why_start_end_and_devices": "Esther delays her request. Devices: Calculated patience building suspense."
+        },
+        {
+          "scene_number": 21,
           "scene_name": "Haman's Pride and the Gallows",
           "reference": "5:9-14",
           "why_start_end_and_devices": "Starts with Haman's joy turned to rage at Mordecai (5:9). Ends with the decision and construction of fifty-cubit gallows (5:14). Pride and counsel of wife/friends climax in the very instrument of poetic justice."
@@ -110,78 +152,102 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "Haman's Humiliating Miscalculation",
-          "reference": "6:4-11",
-          "why_start_end_and_devices": "Starts with 'Who is in the court?'—Haman arriving to request Mordecai's death (6:4). Ends with Haman parading Mordecai through the city (6:11). Dramatic irony peaks: the honor Haman prescribes returns upon the Jew he hates."
+          "scene_name": "'What Should Be Done for the Man the King Delights to Honor?'",
+          "reference": "6:4-9",
+          "why_start_end_and_devices": "Haman assumes it is himself. Devices: Dramatic irony at its peak."
         },
         {
           "scene_number": 3,
+          "scene_name": "Haman Forced to Honor Mordecai",
+          "reference": "6:10-11",
+          "why_start_end_and_devices": "Leading his enemy through the square in royal robes. Devices: The great reversal begins."
+        },
+        {
+          "scene_number": 4,
           "scene_name": "The Prophecy of Haman's Fall",
           "reference": "6:12-14",
           "why_start_end_and_devices": "Starts with Haman mourning, head covered (6:12). Ends as he is hastened to Esther's banquet (6:14). Wife and friends foresee his ruin before a Jewish adversary; momentum quickens toward judgment."
         },
         {
-          "scene_number": 4,
+          "scene_number": 5,
           "scene_name": "The Second Banquet: Haman Unmasked",
           "reference": "7:1-6",
           "why_start_end_and_devices": "Starts with king and Haman at Esther's banquet (7:1). Ends with Esther's reveal, 'The adversary and enemy is this wicked Haman' (7:6). Suspense resolves; Esther identifies with her people and pinpoints the threat."
         },
         {
-          "scene_number": 5,
+          "scene_number": 6,
           "scene_name": "Haman Hanged on His Own Gallows",
           "reference": "7:7-10",
           "why_start_end_and_devices": "Starts as the king rises in wrath (7:7). Ends with Haman hanged on the gallows prepared for Mordecai (7:10). Perfect poetic justice ties back to 5:14 via Harbonah's mention."
         },
         {
-          "scene_number": 6,
+          "scene_number": 7,
           "scene_name": "The First Reversal: Promotion and Property",
           "reference": "8:1-2",
           "why_start_end_and_devices": "Starts with transfer of Haman's house to Esther (8:1). Ends with Mordecai receiving the king's signet ring (8:2). A mirror of Haman's rise (3:1, 10): protagonists inherit property and power."
         },
         {
-          "scene_number": 7,
+          "scene_number": 8,
           "scene_name": "The Problem of the Irreversible Edict",
           "reference": "8:3-8",
           "why_start_end_and_devices": "Starts as Esther pleads to avert the evil (8:3). Ends with permission to write in the king's name and seal it (8:8). The legal puzzle is resolved by counter-legislation, not revocation."
         },
         {
-          "scene_number": 8,
+          "scene_number": 9,
           "scene_name": "The Second Edict (Deliverance)",
           "reference": "8:9-14",
           "why_start_end_and_devices": "Starts when scribes are called (8:9). Ends as couriers hasten the decree (8:14). A deliberate mirror of 3:12-15: same machinery now spreads life-preserving authority to defend."
         },
         {
-          "scene_number": 9,
+          "scene_number": 10,
           "scene_name": "The Joy of the Jews",
           "reference": "8:15-17",
           "why_start_end_and_devices": "Starts with Mordecai exiting in royal apparel (8:15). Ends with widespread joy and fear turning toward Jews (8:17). Direct reversal of 3:15: confusion becomes light, gladness, joy, and honor."
         },
         {
-          "scene_number": 10,
-          "scene_name": "The Day of Battle",
-          "reference": "9:1-10",
-          "why_start_end_and_devices": "Starts as the decreed day arrives (9:1). Ends with the ten sons of Haman slain and the note that Jews took no spoil (9:10). The \"reverse\" occurs: enemies fall; Jews act righteously unlike Saul with Agag."
-        },
-        {
           "scene_number": 11,
-          "scene_name": "The Second Day and Haman's Sons Hanged",
-          "reference": "9:11-19",
-          "why_start_end_and_devices": "Starts with the king's report of those slain in Shushan (9:11). Ends with distinct feast days for villages (14th) and Shushan (15th) (9:19). Esther's request to hang Haman's sons publicly finalizes justice and explains dual observance."
+          "scene_name": "The Tables Turned; the Jews Prevail",
+          "reference": "9:1-5",
+          "why_start_end_and_devices": "'The reverse occurred'—fear of the Jews fell on all. Devices: The book's central reversal."
         },
         {
           "scene_number": 12,
-          "scene_name": "The Institution of Purim",
-          "reference": "9:20-28",
-          "why_start_end_and_devices": "Starts with Mordecai's letters establishing days (9:20). Ends decreeing Purim should not fail among the Jews (9:28). Etiology of Purim: sorrow to joy, mourning to a good day—named for the Pur once cast against them."
+          "scene_name": "Five Hundred Slain in Susa; Haman's Ten Sons",
+          "reference": "9:6-10",
+          "why_start_end_and_devices": "'But they laid no hand on the plunder.' Devices: Restraint distinguishing them from Amalek's greed."
         },
         {
           "scene_number": 13,
+          "scene_name": "A Second Day Granted in Susa",
+          "reference": "9:11-15",
+          "why_start_end_and_devices": "Haman's sons hanged; the defense completed. Devices: Total deliverance secured."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Provincial Jews' Victory and Rest",
+          "reference": "9:16-19",
+          "why_start_end_and_devices": "Resting on the day after—a day of feasting. Devices: The origin of the two-day observance."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Mordecai Institutes Purim",
+          "reference": "9:20-24",
+          "why_start_end_and_devices": "Named for the 'pur' Haman cast. Devices: Memory enshrined in festival."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Days of Feasting Established Forever",
+          "reference": "9:25-28",
+          "why_start_end_and_devices": "'These days should be remembered in every generation.' Devices: A perpetual celebration of deliverance."
+        },
+        {
+          "scene_number": 17,
           "scene_name": "Esther's Confirmatory Decree",
           "reference": "9:29-32",
           "why_start_end_and_devices": "Starts with Esther writing with authority to confirm Purim (9:29). Ends with \"it was written in the book\" (9:32). Royal confirmation alongside Mordecai grants full authority and permanence."
         },
         {
-          "scene_number": 14,
+          "scene_number": 18,
           "scene_name": "Epilogue: The Greatness of Mordecai",
           "reference": "10:1-3",
           "why_start_end_and_devices": "Starts with a note on the king's tribute and acts (10:1-2). Ends summarizing Mordecai's exalted role 'next unto' the king, seeking his people's wealth and peace (10:3). Bookend mirrors 1:1, now with the Jew exalted."
@@ -190,4 +256,3 @@
     }
   ]
 }
-

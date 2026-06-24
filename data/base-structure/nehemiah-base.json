@@ -18,117 +18,273 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "Nehemiah's Prayer of Confession",
-          "reference": "1:5-11",
-          "why_start_end_and_devices": "Starts with direct address, \"I beseech thee, O LORD God of heaven...\" (1:5). Ends with a specific petition for favor before the king and the note, \"For I was the king's cupbearer\" (1:11). A chiastic prayer: praise → confession → plea on promise → mercy on Israel → specific request."
+          "scene_name": "Nehemiah Confesses Israel's Sin",
+          "reference": "1:5-7",
+          "why_start_end_and_devices": "'We have acted corruptly against you.' Devices: A leader identifying with the people's guilt."
         },
         {
           "scene_number": 3,
-          "scene_name": "The King's Commission",
-          "reference": "2:1-8",
-          "why_start_end_and_devices": "Starts with the court setting in Nisan (2:1). Ends with the grant of permission and provisions \"according to the good hand of my God upon me\" (2:8). A court narrative with tension resolved after Nehemiah's silent, ejaculatory prayer (2:4)."
+          "scene_name": "'Remember Your Promise; Grant Me Favor'",
+          "reference": "1:8-11",
+          "why_start_end_and_devices": "Appeal to the word given Moses; 'grant mercy before this man.' Devices: Prayer preceding bold action."
         },
         {
           "scene_number": 4,
+          "scene_name": "The King Notices Nehemiah's Sadness",
+          "reference": "2:1-4",
+          "why_start_end_and_devices": "'Why is your face sad?'—and a silent prayer. Devices: A pivotal, fearful moment."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'Send Me to Rebuild'; the Letters Granted",
+          "reference": "2:5-8",
+          "why_start_end_and_devices": "Timber and safe passage 'because the good hand of God was on me.' Devices: Providence in a king's favor."
+        },
+        {
+          "scene_number": 6,
           "scene_name": "Journey and First Opposition",
           "reference": "2:9-11",
           "why_start_end_and_devices": "Starts with the journey to the governors beyond the River (2:9). Ends with arrival and a three-days pause in Jerusalem (2:11). Introduces Sanballat and Tobiah as aggrieved antagonists (2:10), foreshadowing conflict."
         },
         {
-          "scene_number": 5,
+          "scene_number": 7,
           "scene_name": "The Secret Night Inspection",
           "reference": "2:12-16",
           "why_start_end_and_devices": "Starts with the night rising and secrecy (2:12). Ends with reiterated secrecy (2:16). A suspenseful reconnaissance: Nehemiah personally surveys the ruined wall and gates, establishing authority for the call to rebuild."
         },
         {
-          "scene_number": 6,
+          "scene_number": 8,
           "scene_name": "The Call to Rebuild",
           "reference": "2:17-20",
           "why_start_end_and_devices": "Starts when Nehemiah addresses the leaders (2:17). Ends with his faith-filled rebuke to mockers, \"ye have no portion... in Jerusalem\" (2:20). Three beats: call to action (2:17), people's resolve (2:18), opponents' mockery and Nehemiah's reply (2:19-20)."
         },
         {
-          "scene_number": 7,
-          "scene_name": "The Builders of the Wall (The List)",
-          "reference": "3:1-32",
-          "why_start_end_and_devices": "Starts with Eliashib at the Sheep Gate (3:1). Ends completing the circuit \"unto the sheep gate\" (3:32). A single administrative list organized geographically—an inclusio marking unified effort around the city."
+          "scene_number": 9,
+          "scene_name": "The Sheep Gate to the Tower of Hananel",
+          "reference": "3:1-5",
+          "why_start_end_and_devices": "The high priest leads; the nobles of Tekoa balk. Devices: The wall rebuilt section by section."
         },
         {
-          "scene_number": 8,
+          "scene_number": 10,
+          "scene_name": "The Old Gate Repaired",
+          "reference": "3:6-8",
+          "why_start_end_and_devices": "Goldsmiths and perfumers join the work. Devices: All trades building together."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The District Rulers Repair Their Sections",
+          "reference": "3:9-12",
+          "why_start_end_and_devices": "Even daughters share the labor. Devices: A whole community mobilized."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Valley Gate and the Dung Gate",
+          "reference": "3:13-15",
+          "why_start_end_and_devices": "The least glamorous gates rebuilt. Devices: No task beneath the work."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "From the Fountain Gate Northward",
+          "reference": "3:16-21",
+          "why_start_end_and_devices": "Repairs by the tombs of David and the armory. Devices: Landmarks of the holy city restored."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Priests and the Temple Servants Repair",
+          "reference": "3:22-27",
+          "why_start_end_and_devices": "Each working opposite his own house. Devices: Ownership of the shared task."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "From the Horse Gate to the Sheep Gate",
+          "reference": "3:28-32",
+          "why_start_end_and_devices": "The circuit completed back to the start. Devices: The wall closed full circle."
+        },
+        {
+          "scene_number": 16,
           "scene_name": "Mockery and a Prayer for Justice",
           "reference": "4:1-6",
           "why_start_end_and_devices": "Starts when Sanballat hears and mocks (4:1). Ends with, \"So built we the wall... for the people had a mind to work\" (4:6). Conflict (mockery) meets imprecatory prayer (4:4-5); resolution is renewed labor."
         },
         {
-          "scene_number": 9,
-          "scene_name": "The Conspiracy and the Guard",
-          "reference": "4:7-14",
-          "why_start_end_and_devices": "Starts as enemies conspire to fight (4:7-8). Ends after Nehemiah arms the people and exhorts, \"Remember the Lord...\" (4:14). Problem-solution flow: plot → prayer + watch → fear → armed defense + speech."
+          "scene_number": 17,
+          "scene_name": "The Conspiracy to Attack; a Guard Set",
+          "reference": "4:7-9",
+          "why_start_end_and_devices": "'We prayed and posted a guard day and night.' Devices: Prayer and vigilance together."
         },
         {
-          "scene_number": 10,
-          "scene_name": "The Sword and the Trowel",
-          "reference": "4:15-23",
-          "why_start_end_and_devices": "Starts when the plot is exposed and work resumes (4:15). Ends with total readiness summary (4:23). Descriptive method: half work, half guard; builders carry burdens with one hand and hold a weapon with the other."
+          "scene_number": 18,
+          "scene_name": "'Do Not Be Afraid; Fight for Your Families'",
+          "reference": "4:10-14",
+          "why_start_end_and_devices": "Discouragement met with resolve. Devices: Faith mobilizing courage."
         },
         {
-          "scene_number": 11,
+          "scene_number": 19,
+          "scene_name": "Half Worked, Half Stood Guard",
+          "reference": "4:15-18",
+          "why_start_end_and_devices": "Each builder with a weapon at his side. Devices: Labor under threat."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Trumpet Rallying Point; Sleeping in Clothes",
+          "reference": "4:19-23",
+          "why_start_end_and_devices": "Ready at a moment's notice. Devices: Total dedication to the work."
+        },
+        {
+          "scene_number": 21,
           "scene_name": "The People's Cry of Usury",
           "reference": "5:1-5",
           "why_start_end_and_devices": "Starts with a great cry against Jewish brethren (5:1). Ends when the threefold complaint is fully stated (5:5). An internal justice crisis interrupts building: food, mortgage, and debt slavery grievances."
         },
         {
-          "scene_number": 12,
-          "scene_name": "Nehemiah's Rebuke and the Oath",
-          "reference": "5:6-13",
-          "why_start_end_and_devices": "Starts with Nehemiah's anger (5:6). Ends with the oath sealed and the congregation's \"Amen\" (5:13). A public assembly rebuke leads nobles to repent; symbolic shaking enforces the promise."
+          "scene_number": 22,
+          "scene_name": "Nehemiah Rebukes the Nobles' Usury",
+          "reference": "5:6-9",
+          "why_start_end_and_devices": "'What you are doing is not good.' Devices: Justice within the community."
         },
         {
-          "scene_number": 13,
+          "scene_number": 23,
+          "scene_name": "'Give It Back'; the People Swear",
+          "reference": "5:10-13",
+          "why_start_end_and_devices": "Debts and pledges restored; the assembly says 'Amen.' Devices: Repentance enacted economically."
+        },
+        {
+          "scene_number": 24,
           "scene_name": "Nehemiah's Integrity as Governor",
           "reference": "5:14-19",
           "why_start_end_and_devices": "Starts with his appointment summary (5:14). Ends with the signature prayer, \"Think upon me, my God, for good\" (5:19). Memoir insert contrasting his restraint with former governors—moral authority undergirding reforms."
         },
         {
-          "scene_number": 14,
+          "scene_number": 25,
           "scene_name": "The Plot of Ono",
           "reference": "6:1-4",
           "why_start_end_and_devices": "Starts as enemies seek a meeting at Ono (6:2). Ends noting four repeated invitations and refusals (6:4). Personal-threat opposition; Nehemiah perceives mischief and refuses distraction."
         },
         {
-          "scene_number": 15,
+          "scene_number": 26,
           "scene_name": "The Slanderous Open Letter",
           "reference": "6:5-9",
           "why_start_end_and_devices": "Starts with the fifth approach bearing an open letter (6:5). Ends with, \"Now therefore, O God, strengthen my hands\" (6:9). Public slander (rebellion claim) is directly denied and answered with a prayer for strength."
         },
         {
-          "scene_number": 16,
+          "scene_number": 27,
           "scene_name": "The Treacherous Prophet",
           "reference": "6:10-14",
           "why_start_end_and_devices": "Starts at Shemaiah's house (6:10). Ends with the prayer, \"My God, think thou upon Tobiah and Sanballat...\" (6:14). A false prophetic trap (hiding in the temple) is discerned and refused; prayer serves as colophon."
         },
         {
-          "scene_number": 17,
+          "scene_number": 28,
           "scene_name": "The Wall is Finished",
           "reference": "6:15-19",
           "why_start_end_and_devices": "Starts with the climax: \"So the wall was finished... in fifty and two days\" (6:15). Ends with notes on Tobiah's lingering ties (6:19). Enemy fear confirms God's work (6:16); coda exposes internal compromise."
         },
         {
-          "scene_number": 18,
+          "scene_number": 29,
           "scene_name": "Securing the New City",
           "reference": "7:1-4",
           "why_start_end_and_devices": "Starts when the wall is built and gatekeepers, singers, Levites are appointed (7:1). Ends stating the problem: a large city with few people and unbuilt houses (7:4). Transition from wall to population-security challenge."
         },
         {
-          "scene_number": 19,
+          "scene_number": 30,
           "scene_name": "The Discovery of the Register",
           "reference": "7:5-6",
           "why_start_end_and_devices": "Starts with God putting it in Nehemiah's heart to gather leaders (7:5). Ends with the discovery and introduction of the register (7:5-6). Narrative frame for the census that follows—the divinely prompted solution."
         },
         {
-          "scene_number": 20,
-          "scene_name": "The Register of the First Return",
-          "reference": "7:7-73",
-          "why_start_end_and_devices": "Starts as the list begins (7:7). Ends with the list's totals, gifts, and the transition to the seventh month with people in their cities (7:73). A lengthy administrative census (parallel to Ezra 2) comprising laity, clergy, totals, and offerings."
+          "scene_number": 31,
+          "scene_name": "The Leaders Return; Parosh to Elam",
+          "reference": "7:7-12",
+          "why_start_end_and_devices": "The register of the first return reproduced. Devices: Memory of the founding remnant."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Zattu to Bebai",
+          "reference": "7:13-16",
+          "why_start_end_and_devices": "Family heads and numbers. Devices: The roll of the returned."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Azgad, Adonikam, Bigvai",
+          "reference": "7:17-19",
+          "why_start_end_and_devices": "More families counted. Devices: The community enumerated."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Adin to Hashum",
+          "reference": "7:20-23",
+          "why_start_end_and_devices": "Continuing the laity register. Devices: Each name preserved."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Hariph to Netophah",
+          "reference": "7:24-26",
+          "why_start_end_and_devices": "The townsmen listed. Devices: Re-rooting in the land."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Anathoth to Ramah",
+          "reference": "7:27-30",
+          "why_start_end_and_devices": "More towns and their men. Devices: The map of return."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Michmas to Nebo",
+          "reference": "7:31-33",
+          "why_start_end_and_devices": "Continuing the town lists. Devices: Reclaiming the settlements."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "The Other Elam to Senaah",
+          "reference": "7:34-38",
+          "why_start_end_and_devices": "The last of the laity. Devices: The remnant tallied."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "The Priests",
+          "reference": "7:39-42",
+          "why_start_end_and_devices": "Four priestly families. Devices: Worship-leaders restored."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "The Levites, Singers, Gatekeepers; Temple Servants",
+          "reference": "7:43-47",
+          "why_start_end_and_devices": "The temple staff and servants. Devices: The worship machinery reassembled."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Temple Servants (2a)",
+          "reference": "7:48-52",
+          "why_start_end_and_devices": "More Nethinim listed. Devices: The humble servants honored."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Temple Servants (2b)",
+          "reference": "7:53-56",
+          "why_start_end_and_devices": "The servant-list continues. Devices: Every role preserved."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "The Descendants of Solomon's Servants",
+          "reference": "7:57-60",
+          "why_start_end_and_devices": "392 in all. Devices: Ancient service-classes kept."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Those Without Genealogical Proof",
+          "reference": "7:61-65",
+          "why_start_end_and_devices": "Set aside until a priest with Urim and Thummim. Devices: Care for covenant purity."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "The Grand Total and the Animals",
+          "reference": "7:66-69",
+          "why_start_end_and_devices": "42,360, plus servants and beasts. Devices: The size of the community."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "The Freewill Gifts; Settling in the Towns",
+          "reference": "7:70-73",
+          "why_start_end_and_devices": "Offerings for the work; the people in their towns. Devices: Generosity and resettlement."
         }
       ]
     },
@@ -140,57 +296,141 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Ezra Reads the Law",
-          "reference": "8:1-8",
-          "why_start_end_and_devices": "Starts when all the people gather and ask Ezra to bring the Law (8:1). Ends with the teaching method summarized: reading, giving the sense, and causing understanding (8:8). A complete public reading-teaching event at the water gate."
+          "scene_name": "Ezra Reads the Law Before All",
+          "reference": "8:1-4",
+          "why_start_end_and_devices": "The people gather as one at the Water Gate. Devices: Hunger for the word."
         },
         {
           "scene_number": 2,
+          "scene_name": "The Levites Explain the Reading",
+          "reference": "8:5-8",
+          "why_start_end_and_devices": "'They gave the sense, so the people understood.' Devices: Exposition that opens the Scripture."
+        },
+        {
+          "scene_number": 3,
           "scene_name": "Joy is Your Strength",
           "reference": "8:9-12",
           "why_start_end_and_devices": "Starts with the people's weeping upon hearing the Law (8:9). Ends when they go away to rejoice \"because they had understood\" (8:12). Problem-solution: grief at conviction countered by the command to celebrate the holy day—\"the joy of the LORD is your strength\" (8:10)."
         },
         {
-          "scene_number": 3,
+          "scene_number": 4,
           "scene_name": "The Feast of Booths",
           "reference": "8:13-18",
           "why_start_end_and_devices": "Starts on the second day as heads of fathers' houses gather to study (8:13). Ends with the feast completed per the Law (8:18). They find the command (8:14-15), obey (8:16-17), and conclude with solemn assembly (8:18)."
         },
         {
-          "scene_number": 4,
-          "scene_name": "The Assembly of Confession",
-          "reference": "9:1-5",
-          "why_start_end_and_devices": "Starts on the twenty-fourth day with a gathered, repentant assembly (9:1-2). Ends as the formal service begins: \"Stand up and bless the LORD your God...\" (9:5). Preparation for the great prayer: posture, separation, reading, and confession."
-        },
-        {
           "scene_number": 5,
-          "scene_name": "The Levites' Prayer (Part 1): Creation to Sinai",
-          "reference": "9:5-15",
-          "why_start_end_and_devices": "Starts with \"Blessed be thy glorious name...\" (9:5b). Ends after recounting creation, Abrahamic covenant, exodus, and wilderness provision up to Sinai and Sabbath (9:15). A historical recital of God's faithfulness."
+          "scene_name": "The Assembly of Confession",
+          "reference": "9:1-4",
+          "why_start_end_and_devices": "Fasting, sackcloth, and reading the Law a fourth of the day. Devices: National repentance."
         },
         {
           "scene_number": 6,
-          "scene_name": "The Levites' Prayer (Part 2): Rebellion and Mercy",
-          "reference": "9:16-31",
-          "why_start_end_and_devices": "Starts with the pivot, \"But they and our fathers dealt proudly...\" (9:16). Ends summarizing divine forbearance over many years and consequent judgments (9:31). One sustained theme: the cycle of sin, mercy, and deliverance."
+          "scene_name": "'You Alone Are the LORD'; the Call of Abraham",
+          "reference": "9:5-8",
+          "why_start_end_and_devices": "The Levites' prayer begins with creation and covenant. Devices: Salvation-history as worship."
         },
         {
           "scene_number": 7,
-          "scene_name": "The Levites' Prayer (Part 3): The Plea and the Covenant",
-          "reference": "9:32-38",
-          "why_start_end_and_devices": "Starts with \"Now therefore, our God, the great, the mighty...\" (9:32). Ends with the resolution to make a sure covenant, written and sealed (9:38). Application of history into a plea and a concrete commitment."
+          "scene_name": "The Exodus and the Sea",
+          "reference": "9:9-12",
+          "why_start_end_and_devices": "'You saw the affliction...and divided the sea.' Devices: Redemption remembered."
         },
         {
           "scene_number": 8,
-          "scene_name": "The Sealers of the Covenant (The List)",
-          "reference": "10:1-27",
-          "why_start_end_and_devices": "Starts with, \"Now those that sealed were, Nehemiah...\" (10:1). Ends when the list of leaders, priests, and Levites concludes (10:27). A formal administrative roll of signatories."
+          "scene_name": "Sinai, the Law, Manna, and Water",
+          "reference": "9:13-15",
+          "why_start_end_and_devices": "Provision in the wilderness. Devices: God's faithful care."
         },
         {
           "scene_number": 9,
-          "scene_name": "The Vows of the Covenant",
-          "reference": "10:28-39",
-          "why_start_end_and_devices": "Starts with \"And the rest of the people...\" (10:28). Ends with the summary pledge, \"we will not forsake the house of our God\" (10:39). Lists actionable promises: separation, Sabbath, temple tax, wood offering, firstfruits, and tithes."
+          "scene_name": "'But They Acted Arrogantly'—Yet God Did Not Forsake",
+          "reference": "9:16-19",
+          "why_start_end_and_devices": "The golden calf, yet sustained forty years. Devices: Mercy outlasting rebellion."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Forty Years' Provision; the Land Given",
+          "reference": "9:20-23",
+          "why_start_end_and_devices": "Clothes not worn out; kingdoms subdued. Devices: Covenant faithfulness."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Conquest, Rebellion, and Deliverers",
+          "reference": "9:24-27",
+          "why_start_end_and_devices": "'You gave them saviors.' Devices: The cycle of the judges recalled."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Cycle of Mercy; 'You Did Not Make an End'",
+          "reference": "9:28-31",
+          "why_start_end_and_devices": "Patient warnings through the prophets. Devices: God's restraint celebrated."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "'Now Therefore, Our God'—the Plea",
+          "reference": "9:32-35",
+          "why_start_end_and_devices": "'We are in great distress.' Devices: Confession turning to petition."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "'We Are Slaves Today'; the Sealed Covenant",
+          "reference": "9:36-38",
+          "why_start_end_and_devices": "A binding written agreement made. Devices: Repentance committed to writing."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Seals: Nehemiah and the Priests",
+          "reference": "10:1-4",
+          "why_start_end_and_devices": "The governor and priests sign first. Devices: Leaders leading the covenant."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Priests (2)",
+          "reference": "10:5-8",
+          "why_start_end_and_devices": "More priestly signatories. Devices: The clergy committed."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Levites",
+          "reference": "10:9-13",
+          "why_start_end_and_devices": "The Levite signers named. Devices: Worship-tribe bound."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Leaders of the People (1)",
+          "reference": "10:14-19",
+          "why_start_end_and_devices": "Lay leaders sealing the covenant. Devices: The whole nation engaged."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Leaders (2a)",
+          "reference": "10:20-23",
+          "why_start_end_and_devices": "More signatories. Devices: The roll of the committed."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Leaders (2b)",
+          "reference": "10:24-27",
+          "why_start_end_and_devices": "The final names sealed. Devices: A unanimous pledge."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Oath: No Intermarriage; the Sabbath",
+          "reference": "10:28-31",
+          "why_start_end_and_devices": "'We will not give our daughters...nor buy on the Sabbath.' Devices: Specific covenant terms."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Temple Tax and Wood Offering",
+          "reference": "10:32-34",
+          "why_start_end_and_devices": "A third of a shekel; wood by lot. Devices: Practical support for worship."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Firstfruits, Tithes: 'We Will Not Neglect the House'",
+          "reference": "10:35-39",
+          "why_start_end_and_devices": "Firstborn, firstfruits, and tithes pledged. Devices: The covenant's climactic resolve."
         }
       ]
     },
@@ -208,30 +448,108 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "The New Residents of Jerusalem (The List)",
-          "reference": "11:3-24",
-          "why_start_end_and_devices": "Starts with, \"Now these are the chief of the province that dwelt in Jerusalem...\" (11:3). Ends with administrative oversight noted (11:24). A formal list of Jerusalem residents: Judah, Benjamin, priests, Levites, and overseers."
+          "scene_name": "The Men of Judah in Jerusalem",
+          "reference": "11:3-6",
+          "why_start_end_and_devices": "Valiant men who volunteered to live in the city. Devices: Sacrifice to repopulate the capital."
         },
         {
           "scene_number": 3,
-          "scene_name": "The Residents of the Other Towns (The List)",
-          "reference": "11:25-36",
-          "why_start_end_and_devices": "Starts with, \"And for the villages... some of the children of Judah dwelt...\" (11:25). Ends with Levite divisions in Judah and Benjamin (11:36). Parallel list detailing those outside Jerusalem."
+          "scene_name": "The Men of Benjamin",
+          "reference": "11:7-9",
+          "why_start_end_and_devices": "Benjaminite residents and their overseers. Devices: The tribes sharing the burden."
         },
         {
           "scene_number": 4,
-          "scene_name": "The Priestly and Levitical Lineage (The List)",
-          "reference": "12:1-26",
-          "why_start_end_and_devices": "Starts with those who went up with Zerubbabel (12:1). Ends with the timeframe noted \"in the days of Nehemiah... and of Ezra\" (12:26). A historical-genealogical \"pedigree\" validating current temple leadership."
+          "scene_name": "The Priests",
+          "reference": "11:10-14",
+          "why_start_end_and_devices": "Priestly families and the mighty men among them. Devices: Worship-leaders in the city."
         },
         {
           "scene_number": 5,
-          "scene_name": "The Dedication of the Wall",
-          "reference": "12:27-43",
-          "why_start_end_and_devices": "Starts with gathering Levites for dedication (12:27-29). Ends with sacrifices and great joy heard afar (12:43). One continuous event: purification, two great choirs on the wall, and climactic celebration."
+          "scene_name": "The Levites",
+          "reference": "11:15-18",
+          "why_start_end_and_devices": "Levites over the temple's outside work and song. Devices: The service organized."
         },
         {
           "scene_number": 6,
+          "scene_name": "The Gatekeepers and Officials",
+          "reference": "11:19-24",
+          "why_start_end_and_devices": "Doorkeepers and the king's representative. Devices: The city's order established."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Villages of Judah",
+          "reference": "11:25-30",
+          "why_start_end_and_devices": "Settlements 'from Beersheba to the Valley of Hinnom.' Devices: The land reoccupied."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Villages of Benjamin",
+          "reference": "11:31-36",
+          "why_start_end_and_devices": "Towns and their assigned Levite divisions. Devices: A repopulated homeland."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Priests (1)",
+          "reference": "12:1-3",
+          "why_start_end_and_devices": "Those who returned with Zerubbabel. Devices: Continuity of the priesthood."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Priests (2)",
+          "reference": "12:4-7",
+          "why_start_end_and_devices": "More priestly heads of the first return. Devices: The founding clergy."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Levites; the High-Priestly Line",
+          "reference": "12:8-11",
+          "why_start_end_and_devices": "Jeshua's line to Jaddua. Devices: The chain of leadership."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Heads of the Priestly Families (1)",
+          "reference": "12:12-16",
+          "why_start_end_and_devices": "In the days of Joiakim. Devices: A later generation recorded."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Priestly Families (2)",
+          "reference": "12:17-21",
+          "why_start_end_and_devices": "More heads named. Devices: The roster continues."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Levite Heads Recorded",
+          "reference": "12:22-26",
+          "why_start_end_and_devices": "Registered in the official records. Devices: Careful preservation of order."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Levites Gathered for the Dedication",
+          "reference": "12:27-30",
+          "why_start_end_and_devices": "Singers brought from all around; purification. Devices: Preparation for joyful worship."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The First Thanksgiving Choir",
+          "reference": "12:31-34",
+          "why_start_end_and_devices": "One choir marching atop the wall. Devices: Praise upon the rebuilt defense."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Procession to the Water Gate",
+          "reference": "12:35-37",
+          "why_start_end_and_devices": "Musicians with David's instruments. Devices: Worship in motion."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Second Choir; Great Rejoicing Heard Far Off",
+          "reference": "12:38-43",
+          "why_start_end_and_devices": "'The joy of Jerusalem was heard from afar.' Devices: Overflowing celebration."
+        },
+        {
+          "scene_number": 19,
           "scene_name": "Appointing the Temple Treasuries",
           "reference": "12:44-47",
           "why_start_end_and_devices": "Starts with \"at that time\" appointments to oversee contributions (12:44). Ends with ongoing provision and sanctification (12:47). A brief coda showing sustained temple operations after dedication."
@@ -246,30 +564,47 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Cleansing of the Temple",
-          "reference": "13:1-9",
-          "why_start_end_and_devices": "Starts with reading \"in the book of Moses\" (13:1-3). Ends when the chambers are cleansed and vessels restored (13:9). Reading exposes Tobiah's chamber; Nehemiah returns, throws out his goods, and purifies the rooms."
+          "scene_name": "Tobiah Given a Room in the Temple",
+          "reference": "13:1-5",
+          "why_start_end_and_devices": "In Nehemiah's absence, compromise crept in. Devices: Vigilance lost when the leader is away."
         },
         {
           "scene_number": 2,
+          "scene_name": "Nehemiah Throws Out Tobiah's Goods",
+          "reference": "13:6-9",
+          "why_start_end_and_devices": "'I was greatly displeased.' Devices: Decisive reform on return."
+        },
+        {
+          "scene_number": 3,
           "scene_name": "Restoring the Tithes for the Levites",
           "reference": "13:10-14",
           "why_start_end_and_devices": "Starts when Nehemiah perceives Levite portions neglected (13:10). Ends with his prayer, \"Remember me, O my God, concerning this\" (13:14). He contends with rulers, restores tithes, appoints faithful overseers, and prays."
         },
         {
-          "scene_number": 3,
-          "scene_name": "Hallowing the Sabbath",
-          "reference": "13:15-22",
-          "why_start_end_and_devices": "Starts as Sabbath profanation is observed (13:15). Ends with a prayer for mercy, \"Remember me...\" (13:22). He rebukes nobles, shuts gates, warns merchants, appoints Levites to guard, and sanctifies the day."
+          "scene_number": 4,
+          "scene_name": "Sabbath-Breaking Trade Rebuked",
+          "reference": "13:15-18",
+          "why_start_end_and_devices": "'Did not your fathers bring this disaster?' Devices: History as warning."
         },
         {
-          "scene_number": 4,
-          "scene_name": "The Controversy over Mixed Marriages",
-          "reference": "13:23-31",
-          "why_start_end_and_devices": "Starts with discovery of mixed marriages and language loss (13:23-24). Ends with the book's final sentence, \"Remember me, O my God, for good\" (13:31). Nehemiah contends fiercely, recalls Solomon's fall, purifies the priesthood, orders duties, and closes with his signature prayer."
+          "scene_number": 5,
+          "scene_name": "The Gates Shut on the Sabbath",
+          "reference": "13:19-22",
+          "why_start_end_and_devices": "Merchants warned off; 'remember me, O my God.' Devices: Hard enforcement of holiness."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Confronting Mixed Marriages",
+          "reference": "13:23-27",
+          "why_start_end_and_devices": "'Did not Solomon sin in this?' Devices: A final guard of covenant identity."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "'Remember Me, O My God, for Good'",
+          "reference": "13:28-31",
+          "why_start_end_and_devices": "Purifying the priesthood; the book's closing prayer. Devices: A reformer's humble plea."
         }
       ]
     }
   ]
 }
-
