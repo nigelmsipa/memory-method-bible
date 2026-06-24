@@ -1319,14 +1319,262 @@
       "story_title": "Judgment and the Ransomed Return",
       "reference": "34:1 - 35:10",
       "why_start_end_and_literary_glue": "Chapters 34-35 form a hinge diptych: the LORD's furious judgment on the nations (Edom as type, ch.34) set against the blossoming desert and the Highway of Holiness on which the redeemed return to Zion (ch.35). Start (34:1): 'Come near, you nations, and listen.' End (35:10): 'the ransomed of the LORD will return... with everlasting joy.' Glue: the antithesis of wilderness-curse and wilderness-bloom.",
-      "scenes": []
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The LORD Is Angry with All Nations",
+          "reference": "34:1-4",
+          "why_start_end_and_devices": "The summons to the nations to hear the universal judgment as the skies are rolled up like a scroll."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "A Sacrifice in Bozrah",
+          "reference": "34:5-8",
+          "why_start_end_and_devices": "The LORD's blood-bathed sword descending on Edom — a day of vengeance for the cause of Zion."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "A Line of Chaos Over Edom",
+          "reference": "34:9-11",
+          "why_start_end_and_devices": "Edom's streams turned to pitch, given to owls and ravens, measured for desolation."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "A Haunt for Jackals",
+          "reference": "34:12-15",
+          "why_start_end_and_devices": "The thorn-overgrown fortresses become the lair of desert creatures and the night-bird."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Scroll of the LORD",
+          "reference": "34:16-17",
+          "why_start_end_and_devices": "God's sure word allotting the desolate land to the wild creatures forever."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Desert Will Blossom Like a Rose",
+          "reference": "35:1-2",
+          "why_start_end_and_devices": "The wilderness rejoicing and blooming, beholding the glory of the LORD."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Be Strong, Do Not Fear",
+          "reference": "35:3-4",
+          "why_start_end_and_devices": "The charge to strengthen weak hands — 'your God will come with vengeance… to save you.'"
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Blind Will See, the Lame Will Leap",
+          "reference": "35:5-7",
+          "why_start_end_and_devices": "The healing of the world: opened eyes, leaping lame, and waters gushing in the desert."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Way of Holiness",
+          "reference": "35:8-10",
+          "why_start_end_and_devices": "The highway on which the ransomed of the LORD return to Zion with everlasting joy."
+        }
+      ]
     },
     {
       "story_letter": "F",
       "story_title": "The Hezekiah Narrative",
       "reference": "36:1 - 39:8",
       "why_start_end_and_literary_glue": "Chapters 36-39 are the prose historical bridge (paralleling 2 Kings 18-20): Sennacherib's siege and blasphemy, Hezekiah's prayer and the angel's deliverance, Hezekiah's illness and recovery, and the fateful visit of the Babylonian envoys that foreshadows the exile. Start (36:1): Sennacherib's invasion. End (39:8): the word that all will be carried to Babylon, setting up the Book of Comfort. Glue: trust versus the threat of empire, pivoting from Assyria to Babylon.",
-      "scenes": []
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Sennacherib's Invasion",
+          "reference": "36:1-3",
+          "why_start_end_and_devices": "The Assyrian capture of Judah's cities and the Rabshakeh sent to Jerusalem's wall."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "A Splintered Reed of a Staff",
+          "reference": "36:4-7",
+          "why_start_end_and_devices": "The Rabshakeh's taunt against trusting Egypt or the LORD whose altars Hezekiah removed."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Was It Apart from the LORD?",
+          "reference": "36:8-10",
+          "why_start_end_and_devices": "The mocking wager and the claim that the LORD Himself sent Assyria against the land."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Speak to Us in Aramaic",
+          "reference": "36:11-12",
+          "why_start_end_and_devices": "The officials' plea answered by the Rabshakeh's deliberate Hebrew threat to the people."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Do Not Let Hezekiah Deceive You",
+          "reference": "36:13-15",
+          "why_start_end_and_devices": "The loud call over the wall against trusting Hezekiah's promise of deliverance."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Make Peace with Me",
+          "reference": "36:16-17",
+          "why_start_end_and_devices": "The offer of vine and fig tree before deportation to 'a land like your own.'"
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "How Can the LORD Deliver Jerusalem?",
+          "reference": "36:18-20",
+          "why_start_end_and_devices": "The blasphemous boast that no nation's god has rescued it from Assyria."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The People Remained Silent",
+          "reference": "36:21-22",
+          "why_start_end_and_devices": "Hezekiah's command of silence, and the torn-clothed officials reporting back."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Lift Up a Prayer for the Remnant",
+          "reference": "37:1-4",
+          "why_start_end_and_devices": "Hezekiah in sackcloth sending to Isaiah on this day of distress and disgrace."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Do Not Be Afraid",
+          "reference": "37:5-7",
+          "why_start_end_and_devices": "Isaiah's answer: a spirit put in the Assyrian to send him home to fall by the sword."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Do Not Let Your God Deceive You",
+          "reference": "37:8-10",
+          "why_start_end_and_devices": "Sennacherib's renewed message threatening that no god has spared any land."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Where Are the Kings?",
+          "reference": "37:11-13",
+          "why_start_end_and_devices": "The roll-call of conquered nations and their powerless gods."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Spread Before the LORD",
+          "reference": "37:14-16",
+          "why_start_end_and_devices": "Hezekiah laying the letter before the LORD enthroned above the cherubim, the only God."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "That All May Know You Alone Are God",
+          "reference": "37:17-20",
+          "why_start_end_and_devices": "The prayer owning Assyria's conquests yet pleading for a salvation that proves the LORD alone is God."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Virgin Daughter of Zion Despises You",
+          "reference": "37:21-23",
+          "why_start_end_and_devices": "Isaiah's oracle: Zion mocks the blasphemer who taunted the Holy One of Israel."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "I Have Ascended the Heights",
+          "reference": "37:24-25",
+          "why_start_end_and_devices": "The Assyrian's recounted boast of cutting Lebanon's cedars and drying Egypt's streams."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Long Ago I Ordained It",
+          "reference": "37:26-27",
+          "why_start_end_and_devices": "The LORD's word that He decreed Assyria's conquests, its peoples like rooftop grass."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "My Hook in Your Nose",
+          "reference": "37:28-29",
+          "why_start_end_and_devices": "The God who knows the king's raging and will lead him back the way he came."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "A Remnant Will Go Forth",
+          "reference": "37:30-32",
+          "why_start_end_and_devices": "The sign of self-sown harvests and the surviving remnant rooting from Mount Zion."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "I Will Defend This City",
+          "reference": "37:33-35",
+          "why_start_end_and_devices": "The promise that Assyria will not enter or besiege Jerusalem, saved for David's sake."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Angel Struck the Camp",
+          "reference": "37:36-38",
+          "why_start_end_and_devices": "185,000 slain in a night, Sennacherib's withdrawal and his murder in his god's temple."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Put Your House in Order",
+          "reference": "38:1-3",
+          "why_start_end_and_devices": "Hezekiah's mortal illness and his weeping prayer recalling his faithful walk."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Fifteen Years Added",
+          "reference": "38:4-6",
+          "why_start_end_and_devices": "The LORD's answer through Isaiah: prayer heard, life extended, the city delivered."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Shadow Goes Back Ten Steps",
+          "reference": "38:7-8",
+          "why_start_end_and_devices": "The sign on the stairway of Ahaz, the sunlight reversing its descent."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Through the Gates of Sheol",
+          "reference": "38:9-11",
+          "why_start_end_and_devices": "Hezekiah's writing of his despair at being cut off in the prime of life."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Like a Lion He Breaks My Bones",
+          "reference": "38:12-14",
+          "why_start_end_and_devices": "The imagery of a tent struck and a weaver's web cut — 'O Lord… be my security.'"
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "You Cast My Sins Behind Your Back",
+          "reference": "38:15-17",
+          "why_start_end_and_devices": "The restored king's testimony that God's love delivered him from the pit of oblivion."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Living Can Thank You",
+          "reference": "38:18-20",
+          "why_start_end_and_devices": "Sheol cannot praise God, but the living tell His faithfulness with songs in His house."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Poultice of Figs",
+          "reference": "38:21-22",
+          "why_start_end_and_devices": "Isaiah's remedy for the boil and Hezekiah's question about the sign."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Envoys from Babylon",
+          "reference": "39:1-2",
+          "why_start_end_and_devices": "Hezekiah gladly showing the Babylonian envoys all his treasures and armory."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "They Have Seen Everything",
+          "reference": "39:3-4",
+          "why_start_end_and_devices": "Isaiah's questioning, and Hezekiah's admission that he hid nothing."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Carried Off to Babylon",
+          "reference": "39:5-8",
+          "why_start_end_and_devices": "The prophecy of exile to Babylon, met by Hezekiah's complacent 'the word… is good.'"
+        }
+      ]
     },
     {
       "story_letter": "G",
