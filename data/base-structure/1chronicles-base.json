@@ -18,141 +18,573 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "The Table of Nations: Japheth and Ham",
-          "reference": "1:5-16",
-          "why_start_end_and_devices": "Starts with \"The sons of Japheth...\" (1:5). Ends when the list of Ham's descendants concludes with the Canaanite families (1:16). This scene outlines the non-covenantal lines, setting them aside to prepare the focus on Shem: a single thought answering, \"Who are the other nations?\" The Chronicler quickly dispenses with Japheth (vv. 5-7) and Ham with emphasis on Canaan (vv. 8-16)."
+          "scene_name": "Japheth's Sons: the Maritime Peoples",
+          "reference": "1:5-7",
+          "why_start_end_and_devices": "The sons of Japheth and their descendants. Devices: The table of nations begins—Israel's place among the peoples."
         },
         {
           "scene_number": 3,
-          "scene_name": "The Line of Shem to Abraham",
-          "reference": "1:17-27",
-          "why_start_end_and_devices": "Starts with \"The sons of Shem...\" (1:17). Ends when the line culminates in \"...Abram; the same is Abraham\" (1:27). This first key narrowing shifts from the nations to the covenant line, connecting the universal story of Adam and Noah directly to the father of the Hebrew people."
+          "scene_name": "Ham's Sons: Cush, Egypt, Canaan",
+          "reference": "1:8-12",
+          "why_start_end_and_devices": "Ham's line, including Nimrod. Devices: Genealogy as world-map."
         },
         {
           "scene_number": 4,
+          "scene_name": "The Clans of Canaan",
+          "reference": "1:13-16",
+          "why_start_end_and_devices": "Canaan's descendants. Devices: Naming the nations Israel will displace."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Sons of Shem; Eber's Sons",
+          "reference": "1:17-19",
+          "why_start_end_and_devices": "Shem's line to Eber and Peleg. Devices: Narrowing toward the chosen line."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Sons of Joktan",
+          "reference": "1:20-23",
+          "why_start_end_and_devices": "Joktan's thirteen sons. Devices: The branch that diverges from Peleg."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "From Shem to Abraham",
+          "reference": "1:24-27",
+          "why_start_end_and_devices": "The direct descent Shem-to-Abram. Devices: The genealogical funnel to the patriarch."
+        },
+        {
+          "scene_number": 8,
           "scene_name": "The Sons of Abraham (Ishmael and Keturah)",
           "reference": "1:28-33",
           "why_start_end_and_devices": "Starts with \"The sons of Abraham; Isaac, and Ishmael\" (1:28). Ends with the conclusion, \"...all these are the sons of Keturah\" (1:33). This unit sets aside the non-covenantal lines of Abraham (Ishmael and the sons of Keturah) to clear the path for the line of promise through Isaac."
         },
         {
-          "scene_number": 5,
-          "scene_name": "The Line of Esau (Edom)",
-          "reference": "1:34-54",
-          "why_start_end_and_devices": "Starts with \"And the sons of Isaac; Esau, and Israel\" (1:34). Ends when the list of Edomite kings concludes with \"...Hadad died\" (1:50-54). This final setting aside details Esau's line, including his sons (vv. 34-37) and the subsequent kings and dukes of Edom (vv. 38-54), a long but single genealogical unit preceding the focus on Jacob/Israel."
-        },
-        {
-          "scene_number": 6,
-          "scene_name": "The Sons of Israel (Judah)",
-          "reference": "2:1-17",
-          "why_start_end_and_devices": "Starts with \"These are the sons of Israel...\" (2:1). Ends with the close of David's immediate family list, \"...Zeruiah, and Abigail\" (2:17). The primary focus begins: the scene lists Israel's twelve sons (vv. 1-2) then pivots to the line of Judah (from Perez to Jesse and David, vv. 3-15) and David's family (vv. 16-17), making a single genealogical argument—from Israel to Judah to David."
-        },
-        {
-          "scene_number": 7,
-          "scene_name": "The Descendants of Caleb",
-          "reference": "2:18-24",
-          "why_start_end_and_devices": "Starts with \"And Caleb the son of Hezron begot...\" (2:18). Ends with the marker \"...Ephratah\" (2:24). A sub-unit within Judah, this complete family register focuses on the prominent family of Caleb son of Hezron and concludes with the note of Hezron's death."
-        },
-        {
-          "scene_number": 8,
-          "scene_name": "The Descendants of Jerahmeel",
-          "reference": "2:25-41",
-          "why_start_end_and_devices": "Starts with \"And the sons of Jerahmeel the firstborn of Hezron...\" (2:25). Ends with \"...Zabad begot Ephlal...\" (2:41). This second major sub-unit of Judah traces the line of Jerahmeel, a single, detailed thought notably including Sheshan's line through his daughter due to having no sons (vv. 34-35)."
-        },
-        {
           "scene_number": 9,
-          "scene_name": "The Remaining Lines of Judah and Caleb",
-          "reference": "2:42-55",
-          "why_start_end_and_devices": "Starts with \"Now the sons of Caleb the brother of Jerahmeel...\" (2:42). Ends with \"...the Kenites that came of Hemath, the father of the house of Rechab\" (2:55). This \"cleanup\" gathers remaining lines of Caleb and associated families and concludes with the Kenites, completing the Judah focus."
+          "scene_name": "The Sons of Esau",
+          "reference": "1:34-37",
+          "why_start_end_and_devices": "Esau's sons and grandsons. Devices: The brother-nation Edom traced."
         },
         {
           "scene_number": 10,
-          "scene_name": "The Royal Line of David",
-          "reference": "3:1-9",
-          "why_start_end_and_devices": "Starts with \"Now these were the sons of David, which were born unto him in Hebron...\" (3:1). Ends with the summary, \"...all these were the sons of David, beside the sons of the concubines, and Tamar their sister\" (3:9). A crucial, perfectly structured scene listing sons born in Hebron (vv. 1-4) and in Jerusalem (vv. 5-8), then summarizing (v. 9)."
+          "scene_name": "The Sons of Seir the Horite",
+          "reference": "1:38-42",
+          "why_start_end_and_devices": "The pre-Edomite clans of Seir. Devices: The land's prior inhabitants."
         },
         {
           "scene_number": 11,
-          "scene_name": "The Kings of Judah After David",
-          "reference": "3:10-24",
-          "why_start_end_and_devices": "Starts with \"And Solomon's son was Rehoboam...\" (3:10). Ends with \"...and the sons of Elioenai...\" (3:24). This scene completes the royal line, tracing Judah's kings from Solomon to the generation of the exile (vv. 17-24) and demonstrating continuity of the monarchy—a key Chronicler theme."
+          "scene_name": "The Kings of Edom (1)",
+          "reference": "1:43-46",
+          "why_start_end_and_devices": "Edom's kings before Israel had a king. Devices: A monarchy that preceded Israel's."
         },
         {
           "scene_number": 12,
-          "scene_name": "The Descendants of Judah (Revisited) and Simeon",
-          "reference": "4:1-23",
-          "why_start_end_and_devices": "Starts with \"The sons of Judah; Pharez, Hezron...\" (4:1). Ends with \"...they dwelt with the king for his work\" (4:23). Returning to Judah, the Chronicler provides details on families and allotments, highlighting craftsmen and those who dwelt with the king—emphasizing loyalty; a topical and genealogical list."
+          "scene_name": "The Kings of Edom (2)",
+          "reference": "1:47-50",
+          "why_start_end_and_devices": "More kings of Edom. Devices: The roll of Edomite rulers."
         },
         {
           "scene_number": 13,
-          "scene_name": "The Tribe of Simeon",
-          "reference": "4:24-43",
-          "why_start_end_and_devices": "Starts with \"The sons of Simeon were...\" (4:24). Ends with \"...and they dwelt there unto this day\" (4:43). A complete unit listing families (vv. 24-27), cities (vv. 28-33), and princes (vv. 34-38), concluding with a brief conquest narrative (vv. 39-43) as one cohesive story."
+          "scene_name": "The Chiefs of Edom",
+          "reference": "1:51-54",
+          "why_start_end_and_devices": "Edom's clan chiefs. Devices: Closing the Edomite section."
         },
         {
           "scene_number": 14,
-          "scene_name": "The Transjordan Tribes (Reuben, Gad, Manasseh)",
-          "reference": "5:1-26",
-          "why_start_end_and_devices": "Starts with \"Now the sons of Reuben the firstborn of Israel...\" (5:1). Ends with \"...and carried them away, and brought them unto Halah...\" (5:26). Covering Reuben, Gad, and the half-tribe of Manasseh, the unit explains Reuben's loss of birthright (vv. 1-2), lists descendants (Reuben vv. 3-10; Gad vv. 11-17; Manasseh vv. 23-24), and unifies with narrative conclusion: victories by God's help and exile for sin (vv. 18-22, 25-26)."
+          "scene_name": "The Twelve Sons of Israel; Judah's Line",
+          "reference": "2:1-4",
+          "why_start_end_and_devices": "Israel's sons; then Judah, Perez, and Zerah. Devices: The pivot to Judah—the royal tribe."
         },
         {
           "scene_number": 15,
-          "scene_name": "The Priestly Line of Levi",
-          "reference": "6:1-15",
-          "why_start_end_and_devices": "Starts with \"The sons of Levi; Gershon, Kohath, and Merari\" (6:1). Ends with \"...and Jehozadak went into captivity...\" (6:15). Establishing the high priestly line from Levi through Aaron and Eleazar to Jehozadak, this scene proves the continuity of the priesthood, parallel to the royal continuity in chapter 3."
+          "scene_name": "From Perez to Ram",
+          "reference": "2:5-9",
+          "why_start_end_and_devices": "Perez's descendants to Ram. Devices: The messianic line advancing."
         },
         {
           "scene_number": 16,
-          "scene_name": "The Levitical Musicians",
-          "reference": "6:16-53",
-          "why_start_end_and_devices": "Starts anew with \"The sons of Levi; Gershom, Kohath, and Merari\" (6:16). Ends with \"...all their service for the tabernacle...\" (6:49-53). A long, detailed list of other Levitical families broken down by function: chief musicians Heman, Asaph, Ethan (vv. 31-48) and the duties of the Aaronic priests (vv. 49-53); a single complex thought—families and duties in worship."
+          "scene_name": "From Ram to Jesse",
+          "reference": "2:10-12",
+          "why_start_end_and_devices": "Ram, Amminadab, Nahshon, to Jesse. Devices: The line toward David."
         },
         {
           "scene_number": 17,
-          "scene_name": "The Levitical Cities",
-          "reference": "6:54-81",
-          "why_start_end_and_devices": "Starts with \"Now these are their dwelling places...\" (6:54). Ends with the final allocation \"...out of the tribe of the half of Manasseh\" (6:81). A complete list of cities allotted to Levites organized by family (Kohathites, Gershonites, Merarites), establishing their right to the land alongside other tribes—critical for a post-exilic audience."
+          "scene_name": "The Sons of Jesse; David the Seventh",
+          "reference": "2:13-17",
+          "why_start_end_and_devices": "Jesse's sons, David, and the sisters. Devices: David named—the genealogy's goal in this stretch."
         },
         {
           "scene_number": 18,
-          "scene_name": "The Northern Tribes (Issachar, Benjamin, Naphtali, Manasseh, Ephraim)",
-          "reference": "7:1-29",
-          "why_start_end_and_devices": "Starts with \"Now the sons of Issachar...\" (7:1). Ends with \"...and the towns thereof\" (7:29). A composite of briefer genealogies for northern tribes largely lost after the Assyrian exile; included to reinforce \"all Israel\"—a single scene organized by individual tribes."
+          "scene_name": "Caleb Son of Hezron; Bezalel",
+          "reference": "2:18-20",
+          "why_start_end_and_devices": "Caleb's family, including Bezalel the craftsman. Devices: The temple-builder's ancestor noted."
         },
         {
           "scene_number": 19,
-          "scene_name": "The Tribe of Asher",
-          "reference": "7:30-40",
-          "why_start_end_and_devices": "Starts with \"The sons of Asher...\" (7:30). Ends with \"...twenty and six thousand men\" (7:40). A final, self-contained genealogical unit concluding with a census of mighty men."
+          "scene_name": "Hezron's Later Sons",
+          "reference": "2:21-24",
+          "why_start_end_and_devices": "Hezron's sons by Machir's daughter. Devices: Side-branches of Judah."
         },
         {
           "scene_number": 20,
-          "scene_name": "The Line of Benjamin and Saul",
-          "reference": "8:1-40",
-          "why_start_end_and_devices": "Starts with \"Now Benjamin begat Bela his firstborn...\" (8:1). Ends with the summary of Ulam's sons as mighty men of valor (8:40). A second, more detailed genealogy of Benjamin with strong focus on Saul's family (vv. 29-40), serving as the immediate precursor to Saul's death narrative in chapter 10."
+          "scene_name": "The Sons of Jerahmeel (1)",
+          "reference": "2:25-28",
+          "why_start_end_and_devices": "Jerahmeel's firstborn line. Devices: A major Judahite clan."
         },
         {
           "scene_number": 21,
-          "scene_name": "The Dwellers in Jerusalem (The Remnant)",
-          "reference": "9:1-9",
-          "why_start_end_and_devices": "Starts with \"So all Israel were reckoned by genealogies...\" (9:1). Ends with \"...their possessions in their cities\" (9:9). The climax of the genealogies: v. 1 summarizes the section; v. 2 pivots to the post-exilic reality (\"Now the first inhabitants that dwelt...\"). Identifies the returning remnant (Israel, priests, Levites, Nethinims) and lists the first families of Judah."
+          "scene_name": "Jerahmeel's Line (2)",
+          "reference": "2:29-33",
+          "why_start_end_and_devices": "Further descendants of Jerahmeel. Devices: Continuing the clan record."
         },
         {
           "scene_number": 22,
+          "scene_name": "Sheshan's Daughter and Jarha",
+          "reference": "2:34-37",
+          "why_start_end_and_devices": "Sheshan's line through his Egyptian servant. Devices: Inclusion of an outsider in Judah."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "The Line of Jarha",
+          "reference": "2:38-41",
+          "why_start_end_and_devices": "Jarha's descendants. Devices: The clan extended."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Sons of Caleb (1)",
+          "reference": "2:42-45",
+          "why_start_end_and_devices": "Caleb's descendants and towns. Devices: Judah's settlement footprint."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Caleb's Concubines' Sons",
+          "reference": "2:46-49",
+          "why_start_end_and_devices": "The sons of Ephah and Maacah. Devices: Further Calebite branches."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Clans of Kiriath-jearim and the Scribes",
+          "reference": "2:50-55",
+          "why_start_end_and_devices": "Caleb's later line; the scribal families of Jabez. Devices: The Kenite scribes among Judah."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "David's Sons Born in Hebron",
+          "reference": "3:1-4",
+          "why_start_end_and_devices": "The six sons of his Hebron years. Devices: The royal household begun."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "David's Sons Born in Jerusalem",
+          "reference": "3:5-9",
+          "why_start_end_and_devices": "Solomon and his brothers; the concubines' sons. Devices: The dynasty consolidated in the capital."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Kings from Solomon to Josiah",
+          "reference": "3:10-14",
+          "why_start_end_and_devices": "The Davidic kings in succession. Devices: The royal line through the monarchy."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Sons of Josiah; Jehoiachin",
+          "reference": "3:15-16",
+          "why_start_end_and_devices": "Josiah's sons and the last kings. Devices: The line at the edge of exile."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "The Sons of Jehoiachin and Zerubbabel",
+          "reference": "3:17-20",
+          "why_start_end_and_devices": "The exilic and post-exilic heirs. Devices: The line survives Babylon."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Line of David Continues",
+          "reference": "3:21-24",
+          "why_start_end_and_devices": "David's descendants after the return. Devices: The promise outlasting the exile."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "More Sons of Judah",
+          "reference": "4:1-4",
+          "why_start_end_and_devices": "Further Judahite descendants. Devices: Supplementary clans of Judah."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "The Sons of Ashhur",
+          "reference": "4:5-8",
+          "why_start_end_and_devices": "Ashhur of Tekoa's families. Devices: Local Judahite lineages."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The Prayer of Jabez",
+          "reference": "4:9-10",
+          "why_start_end_and_devices": "'Enlarge my territory'—God grants his request. Devices: A jewel of narrative set in the lists; honored prayer."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Other Clans of Judah",
+          "reference": "4:11-15",
+          "why_start_end_and_devices": "Various Judahite families and Caleb's line. Devices: The mosaic of the tribe."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Further Judahite Families",
+          "reference": "4:16-20",
+          "why_start_end_and_devices": "More clans and craftsmen of Judah. Devices: Guilds and settlements recorded."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "The Sons of Shelah; the Potters",
+          "reference": "4:21-23",
+          "why_start_end_and_devices": "Shelah's line, the linen-workers and potters. Devices: Royal craftsmen noted."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "The Sons of Simeon",
+          "reference": "4:24-27",
+          "why_start_end_and_devices": "Simeon's line; fewer than Judah's. Devices: The diminished brother-tribe."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Simeon's Towns",
+          "reference": "4:28-33",
+          "why_start_end_and_devices": "The settlements of Simeon within Judah. Devices: A tribe absorbed."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "The Clan Leaders of Simeon",
+          "reference": "4:34-38",
+          "why_start_end_and_devices": "The named heads who increased greatly. Devices: Growth despite small numbers."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Simeon Expands; Destroys the Amalekites",
+          "reference": "4:39-43",
+          "why_start_end_and_devices": "Seeking pasture; striking the remnant of Amalek. Devices: A rare narrative of Simeonite conquest."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Reuben's Forfeited Birthright",
+          "reference": "5:1-6",
+          "why_start_end_and_devices": "The firstborn whose right passed to Joseph. Devices: Theology embedded in genealogy."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Reuben's Clans and Territory",
+          "reference": "5:7-10",
+          "why_start_end_and_devices": "Reuben's families and grazing lands. Devices: The Transjordan settlement."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "The Sons of Gad",
+          "reference": "5:11-13",
+          "why_start_end_and_devices": "Gad's descendants in Bashan. Devices: The neighbor-tribe listed."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Gad's Genealogy Recorded",
+          "reference": "5:14-17",
+          "why_start_end_and_devices": "Gad's lineage 'enrolled in the days of Jotham.' Devices: Official record-keeping noted."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "The Transjordan Tribes' Victory",
+          "reference": "5:18-22",
+          "why_start_end_and_devices": "War against the Hagrites won 'because they cried to God.' Devices: Faith rewarded in battle."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Half-Manasseh; Their Exile for Unfaithfulness",
+          "reference": "5:23-26",
+          "why_start_end_and_devices": "The mighty half-tribe; then exile by Assyria. Devices: Prosperity undone by apostasy."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "The Sons of Levi; Aaron's Children",
+          "reference": "6:1-3",
+          "why_start_end_and_devices": "Levi's three sons; Aaron's family. Devices: The priestly tribe introduced."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "From Eleazar to Zerahiah",
+          "reference": "6:4-6",
+          "why_start_end_and_devices": "The high-priestly succession begins. Devices: The chain of the priesthood."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "From Meraioth to Azariah",
+          "reference": "6:7-10",
+          "why_start_end_and_devices": "'Azariah who served as priest in the temple Solomon built.' Devices: The line tied to the temple."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "The Priestly Line to the Exile",
+          "reference": "6:11-15",
+          "why_start_end_and_devices": "The high priests down to the Babylonian captivity. Devices: The priesthood carried into exile."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "The Clans of Levi",
+          "reference": "6:16-19",
+          "why_start_end_and_devices": "Gershom, Kohath, Merari and their sons. Devices: The Levite framework."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "The Line of Gershom",
+          "reference": "6:20-23",
+          "why_start_end_and_devices": "Gershom's descendants. Devices: The first Levite clan traced."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "The Line of Kohath; Samuel",
+          "reference": "6:24-28",
+          "why_start_end_and_devices": "Kohath's line, including Samuel the prophet. Devices: A famous name in the lists."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "The Line of Merari",
+          "reference": "6:29-30",
+          "why_start_end_and_devices": "Merari's descendants. Devices: The third clan."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "David Appoints the Temple Singers",
+          "reference": "6:31-32",
+          "why_start_end_and_devices": "Those David set over the music. Devices: Worship organized by the king."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Heman the Singer's Ancestry",
+          "reference": "6:33-38",
+          "why_start_end_and_devices": "Heman traced back to Levi. Devices: The chief musician's pedigree."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Asaph at Heman's Right Hand",
+          "reference": "6:39-43",
+          "why_start_end_and_devices": "Asaph's ancestry. Devices: The second great singer."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Ethan of the Merarites",
+          "reference": "6:44-47",
+          "why_start_end_and_devices": "Ethan's line on the left hand. Devices: The third musical guild."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "The Levites' and Priests' Duties",
+          "reference": "6:48-49",
+          "why_start_end_and_devices": "The Levites assigned all the service; the priests at the altar. Devices: Division of holy labor."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "The Line of Aaron Restated",
+          "reference": "6:50-53",
+          "why_start_end_and_devices": "Aaron's high-priestly descent repeated. Devices: Emphasis on the legitimate priesthood."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "The Settlements of the Kohathite Priests",
+          "reference": "6:54-56",
+          "why_start_end_and_devices": "Their dwelling-places by lot. Devices: The priests scattered among the tribes."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "The Priestly Cities of Refuge",
+          "reference": "6:57-60",
+          "why_start_end_and_devices": "Hebron and the other Aaronite cities. Devices: Mercy-cities held by priests."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Cities Allotted by Lot",
+          "reference": "6:61-65",
+          "why_start_end_and_devices": "The Levite cities given from the tribes. Devices: Provision for the landless tribe."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "The Kohathite Cities",
+          "reference": "6:66-70",
+          "why_start_end_and_devices": "The towns of the remaining Kohathites. Devices: Settlement record."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "The Gershomite Cities",
+          "reference": "6:71-76",
+          "why_start_end_and_devices": "The towns of Gershom's clans. Devices: Levites woven through Israel."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "The Merarite Cities",
+          "reference": "6:77-81",
+          "why_start_end_and_devices": "The towns of Merari's clans. Devices: Completing the Levitical map."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "The Tribe of Issachar",
+          "reference": "7:1-5",
+          "why_start_end_and_devices": "Issachar's mighty men of valor. Devices: A warrior tribe."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "Benjamin's Sons and Warriors",
+          "reference": "7:6-9",
+          "why_start_end_and_devices": "Benjamin's families and fighting men. Devices: The tribe of Saul and Paul."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "Further Benjaminite Clans",
+          "reference": "7:10-12",
+          "why_start_end_and_devices": "More of Benjamin's descendants. Devices: The clan record continued."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "The Sons of Naphtali",
+          "reference": "7:13",
+          "why_start_end_and_devices": "Naphtali's sons in a single verse. Devices: A brief tribal note."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "The Tribe of Manasseh",
+          "reference": "7:14-19",
+          "why_start_end_and_devices": "Manasseh's families, including the daughters. Devices: The half-tribe's line."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Ephraim's Line; the Sons Slain at Gath",
+          "reference": "7:20-24",
+          "why_start_end_and_devices": "The tragedy of the cattle-raid; Sheerah builds towns. Devices: A poignant story amid the lists."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "Joshua's Ancestry; Ephraim's Towns",
+          "reference": "7:25-29",
+          "why_start_end_and_devices": "The line to Joshua; Ephraim's settlements. Devices: The conqueror's pedigree."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "The Sons of Asher",
+          "reference": "7:30-35",
+          "why_start_end_and_devices": "Asher's families. Devices: The northern tribe recorded."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "Asher's Mighty Warriors",
+          "reference": "7:36-40",
+          "why_start_end_and_devices": "Choice men, heads of houses, fit for war. Devices: Asher's martial strength."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "The Sons of Benjamin",
+          "reference": "8:1-5",
+          "why_start_end_and_devices": "Benjamin's firstborn line. Devices: A second, fuller Benjaminite genealogy."
+        },
+        {
+          "scene_number": 79,
+          "scene_name": "The Clans of Ehud",
+          "reference": "8:6-7",
+          "why_start_end_and_devices": "The families carried to Manahath. Devices: Migrations noted."
+        },
+        {
+          "scene_number": 80,
+          "scene_name": "Shaharaim's Sons in Moab",
+          "reference": "8:8-12",
+          "why_start_end_and_devices": "Children born in the land of Moab. Devices: A scattered branch."
+        },
+        {
+          "scene_number": 81,
+          "scene_name": "The Clans of Aijalon",
+          "reference": "8:13-18",
+          "why_start_end_and_devices": "The heads who drove out the people of Gath. Devices: Local Benjaminite power."
+        },
+        {
+          "scene_number": 82,
+          "scene_name": "The Sons of Shimei",
+          "reference": "8:19-22",
+          "why_start_end_and_devices": "Shimei's descendants. Devices: The clan record continues."
+        },
+        {
+          "scene_number": 83,
+          "scene_name": "The Sons of Shashak and Jeroham",
+          "reference": "8:23-27",
+          "why_start_end_and_devices": "More Benjaminite families. Devices: The lineage broadens."
+        },
+        {
+          "scene_number": 84,
+          "scene_name": "The Heads Living in Jerusalem; Gibeon",
+          "reference": "8:28-32",
+          "why_start_end_and_devices": "Those dwelling in the capital; the family of Gibeon. Devices: Setting up Saul's house."
+        },
+        {
+          "scene_number": 85,
+          "scene_name": "From Kish to Saul to Jonathan",
+          "reference": "8:33-36",
+          "why_start_end_and_devices": "Saul's immediate ancestry and sons. Devices: The royal Benjaminite line."
+        },
+        {
+          "scene_number": 86,
+          "scene_name": "The Line of Jonathan's Descendants",
+          "reference": "8:37-40",
+          "why_start_end_and_devices": "Mephibosheth's line of mighty archers. Devices: Saul's house carried forward."
+        },
+        {
+          "scene_number": 87,
+          "scene_name": "The Returned Exiles in Jerusalem",
+          "reference": "9:1-3",
+          "why_start_end_and_devices": "All Israel enrolled; Judah exiled for unfaithfulness; the resettlers. Devices: The hinge from exile to restoration."
+        },
+        {
+          "scene_number": 88,
+          "scene_name": "The Families Who Resettled",
+          "reference": "9:4-9",
+          "why_start_end_and_devices": "The heads of Judah, Benjamin, and others. Devices: The remnant repopulating the city."
+        },
+        {
+          "scene_number": 89,
           "scene_name": "The Priests in Jerusalem",
           "reference": "9:10-13",
           "why_start_end_and_devices": "Starts with \"And of the priests; Jedaiah, and Jehoiarib...\" (9:10). Ends with \"...for the work of the service of the house of God\" (9:13). A complete list of key priestly families who returned, emphasizing they were able men for the Temple's service."
         },
         {
-          "scene_number": 23,
-          "scene_name": "The Levites and Gatekeepers in Jerusalem",
-          "reference": "9:14-34",
-          "why_start_end_and_devices": "Starts with \"And of the Levites; Shemaiah...\" (9:14). Ends with \"...these dwelt at Jerusalem\" (9:34). A long but unified unit detailing Levites (vv. 14-16), gatekeepers (vv. 17-27), and their specific duties (vv. 28-32), concluded by a summary statement (vv. 33-34)."
+          "scene_number": 90,
+          "scene_name": "The Levites Who Returned",
+          "reference": "9:14-16",
+          "why_start_end_and_devices": "The Levite families in Jerusalem. Devices: Worship-personnel restored."
         },
         {
-          "scene_number": 24,
-          "scene_name": "The Family of Saul (Final Hinge)",
-          "reference": "9:35-44",
-          "why_start_end_and_devices": "Starts with \"And in Gibeon dwelt the father of Gibeon...\" (9:35). Ends with \"...and Ahaz begot Jarah\" (9:44). A deliberate repetition of the genealogy in chapter 8 forming an inclusio that signals the close of the genealogies and links directly to the death of Saul in the next story."
+          "scene_number": 91,
+          "scene_name": "The Gatekeepers and Their Charge",
+          "reference": "9:17-22",
+          "why_start_end_and_devices": "The porters at the gates 'as David appointed.' Devices: Order traced to David."
+        },
+        {
+          "scene_number": 92,
+          "scene_name": "The Gatekeepers' Trusted Duties",
+          "reference": "9:23-27",
+          "why_start_end_and_devices": "Their lodging and morning openings. Devices: Faithful, hereditary service."
+        },
+        {
+          "scene_number": 93,
+          "scene_name": "Those Over the Vessels and the Bread",
+          "reference": "9:28-32",
+          "why_start_end_and_devices": "Levites over the utensils, spices, and showbread. Devices: The sacred logistics."
+        },
+        {
+          "scene_number": 94,
+          "scene_name": "The Singers Free for Their Work",
+          "reference": "9:33-34",
+          "why_start_end_and_devices": "Musicians 'on duty day and night.' Devices: Continuous worship."
+        },
+        {
+          "scene_number": 95,
+          "scene_name": "The Family of Gibeon",
+          "reference": "9:35-38",
+          "why_start_end_and_devices": "Jeiel and his sons at Gibeon. Devices: The bridge to Saul (repeating ch. 8)."
+        },
+        {
+          "scene_number": 96,
+          "scene_name": "The Genealogy of Saul (Repeated)",
+          "reference": "9:39-44",
+          "why_start_end_and_devices": "Saul's line restated to introduce his death. Devices: Genealogy turning into narrative."
         }
       ]
     },
@@ -164,63 +596,321 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Fall of Saul's House",
-          "reference": "10:1-14",
-          "why_start_end_and_devices": "Starts with the battle report, \"Now the Philistines fought...\" (10:1). Ends with the Chronicler's theological summary, \"...and turned the kingdom unto David the son of Jesse\" (10:14). A complete narrative: Saul's final battle and death (vv. 1-12) followed by a two-verse moral explaining why Saul failed (transgression, consulting a medium) and why David was chosen—Chronicler's distinctive stamp."
+          "scene_name": "Saul's Defeat and Suicide on Gilboa",
+          "reference": "10:1-4",
+          "why_start_end_and_devices": "The battle lost; Saul falls on his sword. Devices: The end of the rejected king."
         },
         {
           "scene_number": 2,
-          "scene_name": "David Anointed King Over All Israel",
-          "reference": "11:1-9",
-          "why_start_end_and_devices": "Starts with \"Then all Israel gathered themselves to David...\" (11:1). Ends with \"...for the LORD of hosts was with him\" (11:9). A single thought of consolidation: the people's pledge (vv. 1-3) and the capture of Jerusalem (vv. 4-9). The long civil war of 2 Samuel is omitted to highlight immediate unification."
+          "scene_name": "Saul's Armor-Bearer Dies; Israel Flees",
+          "reference": "10:5-7",
+          "why_start_end_and_devices": "His armor-bearer follows him; the towns abandoned. Devices: National collapse."
         },
         {
           "scene_number": 3,
-          "scene_name": "David's Mighty Men (The Three and the Thirty)",
-          "reference": "11:10-47",
-          "why_start_end_and_devices": "Starts with \"These also are the chief of the mighty men...\" (11:10). Ends with \"...Jaasiel the Mesobaite\" (11:47). A long, unified list scene showing God's power and support to David: introduction (v. 10), Jashobeam (v. 11), Eleazar (vv. 12-14), the three at Adullam (vv. 15-19), Abishai (vv. 20-21), Benaiah (vv. 22-25), and the Thirty (vv. 26-47)."
+          "scene_name": "The Philistines Display Saul's Body; Jabesh Buries Him",
+          "reference": "10:8-12",
+          "why_start_end_and_devices": "His head in Dagon's temple; the brave men of Jabesh. Devices: Shame and a final loyalty."
         },
         {
           "scene_number": 4,
-          "scene_name": "The Armies That Came to David at Ziklag and Hebron",
-          "reference": "12:1-40",
-          "why_start_end_and_devices": "Starts with \"Now these are they that came to David to Ziklag...\" (12:1). Ends with the joyful feast, \"...and drank: for their brethren had prepared for them\" (12:40). A long, list-based yet unified topic: supporters of David—warriors at Ziklag (vv. 1-22) and vast armies at Hebron to make him king (vv. 23-38), concluding with a narrative flourish (vv. 39-40)."
+          "scene_name": "Why Saul Died: Unfaithfulness",
+          "reference": "10:13-14",
+          "why_start_end_and_devices": "'He did not keep the word of the LORD.' Devices: The Chronicler's theological verdict."
         },
         {
           "scene_number": 5,
-          "scene_name": "The First Attempt to Move the Ark (Uzza's Death)",
-          "reference": "13:1-14",
-          "why_start_end_and_devices": "Starts with \"And David consulted with the captains...\" (13:1). Ends with the pause in fear and the ark staying at Obed-edom's house, \"...the house of Obed-edom three months\" (13:14). A complete and tragic narrative: the plan (vv. 1-4), joyful procession (vv. 5-8), Uzza's death (vv. 9-10), and David's fearful response that halts the effort (vv. 11-14)."
+          "scene_name": "All Israel Anoints David at Hebron",
+          "reference": "11:1-3",
+          "why_start_end_and_devices": "'We are your bone and flesh.' Devices: United kingship, skipping the long civil war."
         },
         {
           "scene_number": 6,
-          "scene_name": "God Blesses David in Jerusalem",
-          "reference": "14:1-17",
-          "why_start_end_and_devices": "Starts with \"Now Hiram king of Tyre sent messengers...\" (14:1). Ends with \"...and the LORD brought the fear of him upon all nations\" (14:17). A narrative interlude between Ark attempts showing ongoing divine favor: Hiram's alliance (vv. 1-2), David's growing family (vv. 3-7), and two victories over the Philistines (vv. 8-17)."
+          "scene_name": "David Captures the Stronghold of Zion",
+          "reference": "11:4-9",
+          "why_start_end_and_devices": "Jebus taken; the City of David. Devices: The capital established—'the LORD was with him.'"
         },
         {
           "scene_number": 7,
-          "scene_name": "The Sacred Preparation to Move the Ark",
-          "reference": "15:1-24",
-          "why_start_end_and_devices": "Starts with \"And David made him houses in the city of David...\" (15:1). Ends with the appointment summary of doorkeepers, \"...were doorkeepers for the ark\" (15:24). The correction of the prior failure: David prepares a place and commands Levites to sanctify themselves and carry the ark properly (vv. 2-15); then appoints musicians and doorkeepers (vv. 16-24)."
+          "scene_name": "The Three: Jashobeam and Eleazar",
+          "reference": "11:10-14",
+          "why_start_end_and_devices": "The chief warriors' exploits. Devices: Heroes who held the field."
         },
         {
           "scene_number": 8,
-          "scene_name": "The Ark is Brought to Jerusalem",
-          "reference": "15:25 - 16:6",
-          "why_start_end_and_devices": "Starts with \"So David, and the elders of Israel...\" (15:25). Ends with the establishment of continual worship, \"...before the ark of God\" (16:6). The narrative climax: joyful procession (15:25-28), Michal's scorn (15:29), the ark's installation (16:1-3), and appointment of priests and Levites for regular worship (16:4-6)."
+          "scene_name": "The Water from Bethlehem's Well",
+          "reference": "11:15-19",
+          "why_start_end_and_devices": "David pours out the longed-for water to the LORD. Devices: Reverence for his men's risk."
         },
         {
           "scene_number": 9,
-          "scene_name": "David's Psalm of Thanksgiving",
-          "reference": "16:7-36",
-          "why_start_end_and_devices": "Starts with \"Then on that day David delivered first this psalm...\" (16:7). Ends with \"...And all the people said, Amen, and praised the LORD\" (16:36). A single complete literary unit—a composite psalm (cf. Ps 105, 96, 106)—functioning as the great theological statement of the event; must be treated as one scene."
+          "scene_name": "Abishai and Benaiah",
+          "reference": "11:20-25",
+          "why_start_end_and_devices": "The lion in the pit; the Egyptian's spear. Devices: Legendary feats."
         },
         {
           "scene_number": 10,
-          "scene_name": "The Concluding Worship and Celebration",
-          "reference": "16:37-43",
-          "why_start_end_and_devices": "Starts with \"So he left there before the ark...\" (16:37). Ends with \"...and David returned to bless his house\" (16:43). The denouement: two permanent worship structures established (ark in Jerusalem, vv. 37-38; tabernacle in Gibeon, vv. 39-42), concluding with people and king returning home."
+          "scene_name": "The Mighty Men (1)",
+          "reference": "11:26-30",
+          "why_start_end_and_devices": "The roll of valiant men begins. Devices: David's honored warriors."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Mighty Men (2)",
+          "reference": "11:31-34",
+          "why_start_end_and_devices": "More of the thirty. Devices: The honor roll continues."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Mighty Men (3)",
+          "reference": "11:35-37",
+          "why_start_end_and_devices": "Further warriors named. Devices: The list extends."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Mighty Men (4)",
+          "reference": "11:38-42",
+          "why_start_end_and_devices": "Warriors including Transjordan men. Devices: A wide-drawn band."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Mighty Men (5)",
+          "reference": "11:43-47",
+          "why_start_end_and_devices": "The final names of the mighty men. Devices: Closing the roll."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Warriors Who Joined David at Ziklag",
+          "reference": "12:1-4",
+          "why_start_end_and_devices": "Ambidextrous Benjaminite archers. Devices: Even Saul's tribe defects to David."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "More Benjaminite Warriors",
+          "reference": "12:5-7",
+          "why_start_end_and_devices": "Further names from Saul's kin. Devices: Growing support."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Gadite Commanders",
+          "reference": "12:8-12",
+          "why_start_end_and_devices": "Men 'with faces like lions, swift as gazelles.' Devices: Vivid martial imagery."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Their Crossing of the Jordan",
+          "reference": "12:13-15",
+          "why_start_end_and_devices": "The Gadites in flood-season. Devices: Daring loyalty."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Spirit Comes on Amasai",
+          "reference": "12:16-18",
+          "why_start_end_and_devices": "'We are yours, O David!' Devices: A Spirit-inspired pledge."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Defectors from Manasseh",
+          "reference": "12:19-22",
+          "why_start_end_and_devices": "Men who came to David day by day. Devices: 'A great army, like the army of God.'"
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Judah, Simeon, Levi",
+          "reference": "12:23-27",
+          "why_start_end_and_devices": "The tribal forces gathered at Hebron. Devices: All Israel rallying."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Benjamin, Ephraim, Half-Manasseh",
+          "reference": "12:28-30",
+          "why_start_end_and_devices": "More tribal contingents. Devices: National unity for David."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Issachar to Naphtali",
+          "reference": "12:31-34",
+          "why_start_end_and_devices": "'Men of Issachar who understood the times.' Devices: Wise as well as strong."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Dan, Asher, the Transjordan",
+          "reference": "12:35-37",
+          "why_start_end_and_devices": "The remaining tribes' vast numbers. Devices: The whole nation under one king."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Three Days of Joyful Feasting",
+          "reference": "12:38-40",
+          "why_start_end_and_devices": "Wholehearted to make David king; eating and rejoicing. Devices: Unity celebrated."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "David Resolves to Bring the Ark",
+          "reference": "13:1-4",
+          "why_start_end_and_devices": "Consulting all the assembly. Devices: A king who seeks consensus and the LORD."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Ark Brought on a New Cart",
+          "reference": "13:5-8",
+          "why_start_end_and_devices": "Great celebration from Kiriath-jearim. Devices: Joy—but the wrong method."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Uzza Struck Down; the Ark Detained",
+          "reference": "13:9-14",
+          "why_start_end_and_devices": "Reaching out to the ark; the ark left at Obed-edom's. Devices: Holiness violated; blessing where it rests."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Hiram's Cedars; David's Family",
+          "reference": "14:1-4",
+          "why_start_end_and_devices": "Hiram builds his house; sons in Jerusalem. Devices: The kingdom established."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "David's Sons in Jerusalem",
+          "reference": "14:5-7",
+          "why_start_end_and_devices": "The royal children named. Devices: The dynasty growing."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Victory at Baal-perazim",
+          "reference": "14:8-12",
+          "why_start_end_and_devices": "'God has broken through my enemies.' Devices: Inquiring of God before battle."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "A Second Victory; David's Fame Spreads",
+          "reference": "14:13-17",
+          "why_start_end_and_devices": "Waiting for the sound in the trees; the nations fear him. Devices: Obedient strategy rewarded."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Only the Levites May Carry the Ark",
+          "reference": "15:1-3",
+          "why_start_end_and_devices": "'No one but the Levites'—learning from Uzza. Devices: Correction by the law."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "The Levite Leaders Gathered",
+          "reference": "15:4-7",
+          "why_start_end_and_devices": "The clan chiefs assembled. Devices: Proper personnel for holy work."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "More Levite Chiefs",
+          "reference": "15:8-10",
+          "why_start_end_and_devices": "Further Levite leaders and their kin. Devices: Full mobilization of the Levites."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "'Because We Did Not Seek Him Rightly'",
+          "reference": "15:11-15",
+          "why_start_end_and_devices": "Sanctify yourselves; carry it on poles. Devices: The first failure explained and corrected."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "The Singers Chosen",
+          "reference": "15:16-18",
+          "why_start_end_and_devices": "Levites appointed to sing with joy. Devices: Worship music organized."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "The Cymbals, Harps, and Lyres",
+          "reference": "15:19-21",
+          "why_start_end_and_devices": "The instruments assigned. Devices: Ordered, skillful praise."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "The Gatekeepers and Trumpeters",
+          "reference": "15:22-24",
+          "why_start_end_and_devices": "Chenaniah leads the music; priests blow trumpets. Devices: Every role appointed."
+        },
+        {
+          "scene_name": "The Ark Carried Up with Joy",
+          "reference": "15:25-28",
+          "why_start_end_and_devices": "David and the elders bring it up with sacrifice and music. Devices: Done rightly at last—celebration.",
+          "scene_number": 40
+        },
+        {
+          "scene_name": "Michal Despises David",
+          "reference": "15:29",
+          "why_start_end_and_devices": "She sees him dancing and despises him. Devices: A single-verse note of contempt.",
+          "scene_number": 41
+        },
+        {
+          "scene_name": "The Ark Placed in the Tent; Blessings",
+          "reference": "16:1-3",
+          "why_start_end_and_devices": "Offerings made; bread and dates to all. Devices: The ark housed; the people blessed.",
+          "scene_number": 42
+        },
+        {
+          "scene_name": "Levites Appointed to Minister Before the Ark",
+          "reference": "16:4-6",
+          "why_start_end_and_devices": "Asaph and others to invoke, thank, and praise. Devices: Continual worship instituted.",
+          "scene_number": 43
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "'Give Thanks; Seek the LORD'",
+          "reference": "16:7-11",
+          "why_start_end_and_devices": "The psalm of thanksgiving begins. Devices: 'Seek his face continually.'"
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "'Remember His Wonders'",
+          "reference": "16:12-14",
+          "why_start_end_and_devices": "Recalling God's deeds and judgments. Devices: Memory as worship."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "'The Covenant He Made with Abraham'",
+          "reference": "16:15-18",
+          "why_start_end_and_devices": "The land-promise remembered. Devices: Covenant faithfulness celebrated."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "'Touch Not My Anointed Ones'",
+          "reference": "16:19-22",
+          "why_start_end_and_devices": "God's protection of the wandering patriarchs. Devices: A pilgrim people kept safe."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "'Sing to the LORD, All the Earth'",
+          "reference": "16:23-27",
+          "why_start_end_and_devices": "Declaring his glory among the nations. Devices: A missionary doxology."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "'Ascribe to the LORD Glory'",
+          "reference": "16:28-30",
+          "why_start_end_and_devices": "Worship in the splendor of holiness. Devices: A summons to the peoples."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "'Let the Heavens Be Glad'",
+          "reference": "16:31-33",
+          "why_start_end_and_devices": "All creation rejoicing before the coming Judge. Devices: Cosmic praise."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "'Give Thanks, for He Is Good'",
+          "reference": "16:34-36",
+          "why_start_end_and_devices": "The closing doxology and the people's 'Amen.' Devices: The congregation's response."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Asaph Before the Ark; Zadok at Gibeon",
+          "reference": "16:37-40",
+          "why_start_end_and_devices": "Continual ministry at two sites. Devices: Worship organized at ark and tabernacle."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Thanks and Blessing; the People Depart",
+          "reference": "16:41-43",
+          "why_start_end_and_devices": "Heman and Jeduthun to give thanks; David blesses his house. Devices: The celebration concludes."
         }
       ]
     },
@@ -232,45 +922,141 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Davidic Covenant",
-          "reference": "17:1-15",
-          "why_start_end_and_devices": "Starts with \"Now it came to pass...\" as David proposes building a house (17:1-2). Ends with \"...so did Nathan speak unto David\" (17:15). The pivotal scene: God plays on \"house\"—David will not build God a house; God will build David a \"house\" (dynasty) (vv. 3-15)."
+          "scene_name": "'You Will Not Build Me a House'",
+          "reference": "17:1-4",
+          "why_start_end_and_devices": "David's desire; Nathan's correction. Devices: God reverses the king's plan."
         },
         {
           "scene_number": 2,
-          "scene_name": "David's Prayer of Response",
-          "reference": "17:16-27",
-          "why_start_end_and_devices": "Starts with \"And David the king came and sat before the LORD...\" (17:16). Ends with \"...that it may be before thee for ever\" (17:27). David's complete, single-thought response: humility, gratitude, and acceptance of the promise—forming a perfect pair with the prior scene."
+          "scene_name": "'The LORD Will Build You a House'",
+          "reference": "17:5-10",
+          "why_start_end_and_devices": "From the sheepfold to a great name. Devices: The dynasty-wordplay."
         },
         {
           "scene_number": 3,
-          "scene_name": "David's Victories Summarized",
-          "reference": "18:1-17",
-          "why_start_end_and_devices": "Starts with \"Now after this it came to pass...\" (18:1). Ends with the administrative summary, \"...was scribe\" (18:17). A list scene summarizing covenantal fulfillment as God gives victories over Philistines, Moab, Zobah, and Edom (vv. 1-13) and establishes just rule with chief officers (vv. 14-17)."
+          "scene_name": "'Your Throne Established Forever'",
+          "reference": "17:11-15",
+          "why_start_end_and_devices": "The offspring who will build the house. Devices: The Davidic covenant—messianic."
         },
         {
           "scene_number": 4,
-          "scene_name": "The War with Ammon and Syria",
-          "reference": "19:1-19",
-          "why_start_end_and_devices": "Starts with \"Now it came to pass after this...\" (19:1). Ends with \"...neither would the Syrians help the children of Ammon any more\" (19:19). A full narrative: Hanun's insult (vv. 1-5), Joab's first battle (vv. 6-15), Syrian reinforcement, and David's decisive victory (vv. 16-19)."
+          "scene_name": "'Who Am I, O LORD God?'",
+          "reference": "17:16-19",
+          "why_start_end_and_devices": "David sitting before the LORD in wonder. Devices: Humility before grace."
         },
         {
           "scene_number": 5,
-          "scene_name": "The End of the Ammonite War and Battles with Giants",
-          "reference": "20:1-8",
-          "why_start_end_and_devices": "Starts with \"And it came to pass, that after the year was expired...\" (20:1). Ends with \"...and they fell by the hand of David, and by the hand of his servants\" (20:8). A mop-up unit: the capture of Rabbah (vv. 1-3) appended with three giant-slaying victories over the Philistines (vv. 4-8), notably omitting the Bathsheba narrative from 2 Samuel 11-12."
+          "scene_name": "'There Is None Like You'",
+          "reference": "17:20-22",
+          "why_start_end_and_devices": "God's unique redemption of Israel. Devices: Praise grounded in history."
         },
         {
           "scene_number": 6,
-          "scene_name": "David's Sinful Census and the Plague",
-          "reference": "21:1-17",
-          "why_start_end_and_devices": "Starts with \"And Satan stood up against Israel, and provoked David...\" (21:1). Ends with David's plea, \"...but not on thy people, that they should be plagued\" (21:17). A complete crisis narrative: satanic provocation (vv. 1-2), Joab's protest (vv. 3-6), divine displeasure (v. 7), confession (v. 8), three options via Gad (vv. 9-13), and the chosen plague that begins to destroy the people (vv. 14-17)."
+          "scene_name": "'Do as You Have Promised'",
+          "reference": "17:23-27",
+          "why_start_end_and_devices": "Taking hold of the promise in prayer. Devices: Faith confirming the word."
         },
         {
           "scene_number": 7,
-          "scene_name": "The Altar at Ornan's Threshing Floor",
-          "reference": "21:18 - 22:1",
-          "why_start_end_and_devices": "Starts with \"Then the angel of the LORD commanded Gad to say to David...\" (21:18). Ends with David's climactic declaration, \"Then David said, This is the house of the LORD God...\" (22:1). The resolution: command to build an altar (v. 18), purchase of the threshing floor (vv. 19-27), fire from heaven and the stopping of the plague (vv. 26-27), identifying the exact Temple site and concluding the story's central question."
+          "scene_name": "David's Victories Over the Nations",
+          "reference": "18:1-6",
+          "why_start_end_and_devices": "Philistia, Moab, Zobah subdued. Devices: 'The LORD gave victory wherever he went.'"
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Spoils Dedicated to the LORD",
+          "reference": "18:7-11",
+          "why_start_end_and_devices": "Gold and bronze devoted for the temple. Devices: Conquest serving worship."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Edom Subdued; David's Officials",
+          "reference": "18:12-17",
+          "why_start_end_and_devices": "The Valley of Salt; David's cabinet. Devices: Empire and administration."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Ammonites Humiliate David's Envoys",
+          "reference": "19:1-5",
+          "why_start_end_and_devices": "The shamed beards and cut garments. Devices: An insult provoking war."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Ammon Hires the Arameans",
+          "reference": "19:6-9",
+          "why_start_end_and_devices": "A vast mercenary force assembled. Devices: The coalition against Israel."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Joab and Abishai Divide the Battle",
+          "reference": "19:10-15",
+          "why_start_end_and_devices": "'Be strong; the LORD will do what is good.' Devices: Faith and tactics together."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Arameans Make Peace",
+          "reference": "19:16-19",
+          "why_start_end_and_devices": "Defeated, they will not help Ammon again. Devices: The alliance broken."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Rabbah Captured; David's Crown",
+          "reference": "20:1-3",
+          "why_start_end_and_devices": "The city taken; the heavy crown. Devices: The Ammonite war concluded (the Bathsheba episode passed over)."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Battles with the Philistine Giants",
+          "reference": "20:4-8",
+          "why_start_end_and_devices": "The descendants of the giants struck down. Devices: David's men finishing Goliath's kin."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Satan Incites the Census",
+          "reference": "21:1-6",
+          "why_start_end_and_devices": "David numbers Israel against Joab's counsel. Devices: Pride numbering the army."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "'I Am in Deep Distress'",
+          "reference": "21:7-10",
+          "why_start_end_and_devices": "God's displeasure; three choices offered. Devices: Conviction and consequence."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Choice of Judgments",
+          "reference": "21:11-13",
+          "why_start_end_and_devices": "'Let me fall into the hand of the LORD.' Devices: Trusting God's mercy over man's."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Plague; the Angel Over Jerusalem",
+          "reference": "21:14-17",
+          "why_start_end_and_devices": "Seventy thousand fall; David sees the angel. Devices: 'Let your hand be against me'—the shepherd's plea."
+        },
+        {
+          "scene_name": "Buy the Threshing Floor of Ornan",
+          "reference": "21:18-22",
+          "why_start_end_and_devices": "The angel commands an altar there. Devices: The plague-site to become the temple-site.",
+          "scene_number": 20
+        },
+        {
+          "scene_name": "David Insists on Paying Full Price",
+          "reference": "21:23-26",
+          "why_start_end_and_devices": "'I will not offer what costs me nothing.' Devices: True sacrifice must cost; fire answers.",
+          "scene_number": 21
+        },
+        {
+          "scene_name": "The Angel's Sword Sheathed",
+          "reference": "21:27-30",
+          "why_start_end_and_devices": "The plague stayed; David afraid of the tabernacle at Gibeon. Devices: Mercy and the search for a new center.",
+          "scene_number": 22
+        },
+        {
+          "scene_name": "'Here Shall Be the House of God'",
+          "reference": "22:1",
+          "why_start_end_and_devices": "David designates the temple site. Devices: The pivot to the temple project.",
+          "scene_number": 23
         }
       ]
     },
@@ -282,96 +1068,323 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "David's First Charge to Solomon and the Princes",
-          "reference": "22:2-19",
-          "why_start_end_and_devices": "Starts with \"And David commanded to gather...\" (22:2). Ends with \"...to the name of the LORD\" (22:19). A complete thought: David prepares materials (vv. 2-5), privately charges Solomon (vv. 6-16), and charges Israel's princes to help (vv. 17-19)."
+          "scene_name": "David Gathers Materials for the Temple",
+          "reference": "22:2-5",
+          "why_start_end_and_devices": "Stone, iron, bronze, and cedar prepared. Devices: A father's provision for his son's work."
         },
         {
           "scene_number": 2,
-          "scene_name": "Solomon Made King; Levites Numbered and Grouped",
-          "reference": "23:1-13",
-          "why_start_end_and_devices": "Starts with \"So when David was old and full of days...\" (23:1). Ends with \"...Rehabiah was the chief\" (23:13). The organizational lists begin: transfer of the crown (v. 1), numbering the Levites (vv. 2-6), Gershonites (vv. 7-11), and the first Kohathite family (vv. 12-13)."
+          "scene_name": "'Your Son Solomon Will Build It'",
+          "reference": "22:6-10",
+          "why_start_end_and_devices": "'A man of rest'; the name Solomon explained. Devices: The peaceful builder foretold."
         },
         {
           "scene_number": 3,
-          "scene_name": "The Other Levitical Families",
-          "reference": "23:14-23",
-          "why_start_end_and_devices": "Starts with \"Now concerning Moses the man of God...\" (23:14). Ends with \"...These were the sons of Mushi\" (23:23). Completes the Levitical genealogy: sons of Moses (vv. 14-17), the rest of the Kohathites (vv. 18-20), and sons of Merari (vv. 21-23)."
+          "scene_name": "'Be Strong; Begin the Work'",
+          "reference": "22:11-16",
+          "why_start_end_and_devices": "'The LORD be with you'; abundant materials. Devices: Encouragement for the great task."
         },
         {
           "scene_number": 4,
-          "scene_name": "The Office and Duties of the Levites",
-          "reference": "23:24-32",
-          "why_start_end_and_devices": "Starts with \"These were the sons of Levi...\" (23:24). Ends with \"...in the house of the LORD\" (23:32). The purpose of the lists: describes duties—no longer carrying the ark (v. 26) but assisting the sons of Aaron and overseeing courts, bread, flour, and singing (vv. 28-32); a complete job description."
+          "scene_name": "David Charges the Leaders to Help",
+          "reference": "22:17-19",
+          "why_start_end_and_devices": "'Set your heart to seek the LORD.' Devices: Enlisting the nation for the temple."
         },
         {
           "scene_number": 5,
-          "scene_name": "The Twenty-Four Courses of the Priests",
-          "reference": "24:1-19",
-          "why_start_end_and_devices": "Starts with \"Now these are the divisions of the sons of Aaron\" (24:1). Ends with \"...under Aaron their father, as the LORD God of Israel had commanded him\" (24:19). A complete list detailing the 24 priestly courses established by lot for orderly Temple service."
+          "scene_name": "Solomon Made King; the Levites Numbered",
+          "reference": "23:1-6",
+          "why_start_end_and_devices": "Thirty-eight thousand Levites organized. Devices: Worship structured for the new temple."
         },
         {
           "scene_number": 6,
-          "scene_name": "The Remaining Levitical Leaders",
-          "reference": "24:20-31",
-          "why_start_end_and_devices": "Starts with \"And the rest of the sons of Levi were these...\" (24:20). Ends with \"...even the principal fathers over against their younger brethren\" (24:31). A concluding list organizing the rest of the Levites by chief houses, parallel to the priestly divisions."
+          "scene_name": "The Gershonite Divisions",
+          "reference": "23:7-11",
+          "why_start_end_and_devices": "The clans of Gershon ordered. Devices: The Levite roster."
         },
         {
           "scene_number": 7,
-          "scene_name": "The Keepers of the Song (Musicians)",
-          "reference": "25:1-31",
-          "why_start_end_and_devices": "Starts with \"Moreover David and the captains of the host separated...the sons of Asaph...\" (25:1). Ends with \"...and his sons, and his brethren, were twelve\" (25:31). A long but structured and unified list of musicians organized under Asaph, Jeduthun, and Heman, divided by lot into 24 courses—emphasizing worship's importance."
+          "scene_name": "The Kohathites; Aaron Set Apart",
+          "reference": "23:12-13",
+          "why_start_end_and_devices": "Aaron consecrated 'to offer before the LORD forever.' Devices: The priesthood distinguished."
         },
         {
           "scene_number": 8,
-          "scene_name": "The Gatekeepers (Porters)",
-          "reference": "26:1-19",
-          "why_start_end_and_devices": "Starts with \"Concerning the divisions of the porters...\" (26:1). Ends with \"...the house of Asuppim\" (26:19). A complete thought listing families of gatekeepers (Korahites, Merarites) and their assigned stations determined by lot."
+          "scene_name": "The Sons of Moses",
+          "reference": "23:14-17",
+          "why_start_end_and_devices": "Moses' sons reckoned among the Levites. Devices: The lawgiver's line—no priestly privilege."
         },
         {
           "scene_number": 9,
-          "scene_name": "The Treasurers and Officers",
-          "reference": "26:20-32",
-          "why_start_end_and_devices": "Starts with \"And of the Levites, Ahijah was over the treasures...\" (26:20). Ends with \"...for every matter pertaining to God, and affairs of the king\" (26:32). Details administrators among Levites: those over the Temple treasures (vv. 20-28) and those serving as officers and judges for Israel's outward business (vv. 29-32)."
+          "scene_name": "The Other Kohathite and Merarite Families",
+          "reference": "23:18-23",
+          "why_start_end_and_devices": "The remaining Levite clans. Devices: Completing the Levite divisions."
         },
         {
           "scene_number": 10,
-          "scene_name": "The Military and Civil Captains",
-          "reference": "27:1-34",
-          "why_start_end_and_devices": "Starts with \"Now the children of Israel after their number...\" (27:1). Ends with \"...was the king's friend\" (27:33-34). The final great list: the 12 military courses (vv. 1-15), princes of the 12 tribes (vv. 16-24), and the king's civil officers (vv. 25-34)—the secular organization of the kingdom."
+          "scene_name": "The Levites' New Duties from Age Twenty",
+          "reference": "23:24-27",
+          "why_start_end_and_devices": "'David's last words' lower the service age. Devices: Reform for a settled temple."
         },
         {
           "scene_number": 11,
-          "scene_name": "The Final Assembly: David's Public Charge",
-          "reference": "28:1-10",
-          "why_start_end_and_devices": "Starts with \"And David assembled all the princes of Israel...\" (28:1). Ends with \"...Be strong, and of good courage, and do it\" (28:10). The book's climax begins: David gathers leadership, explains why he did not build the Temple and why Solomon will (vv. 2-7), then gives a solemn public charge to Solomon (vv. 8-10)."
+          "scene_name": "Their Service Assisting the Priests",
+          "reference": "23:28-32",
+          "why_start_end_and_devices": "Care of courts, showbread, and offerings. Devices: The Levites as the priests' helpers."
         },
         {
           "scene_number": 12,
-          "scene_name": "The Pattern of the Temple Delivered",
-          "reference": "28:11-21",
-          "why_start_end_and_devices": "Starts with \"Then David gave to Solomon his son the pattern...\" (28:11). Ends with \"...all the work for the service of the house of the LORD\" (28:21). A single action: formal transfer of the Temple blueprints (vv. 11-19) and a second charge to be strong and do the work (vv. 20-21)."
+          "scene_name": "The Divisions of Aaron's Sons Assigned by Lot",
+          "reference": "24:1-6",
+          "why_start_end_and_devices": "Eleazar's and Ithamar's lines ordered impartially. Devices: Fairness by lot before God."
         },
         {
           "scene_number": 13,
-          "scene_name": "The Freewill Offerings for the Temple",
-          "reference": "29:1-9",
-          "why_start_end_and_devices": "Starts with \"Furthermore David the king said unto all the congregation...\" (29:1). Ends with \"...because with perfect heart they offered willingly to the LORD\" (29:9). The leaders' response: David reveals his own massive donation (vv. 1-5), then calls, \"Who then is willing...?\" (v. 5), and the leaders and people respond with joyful offerings (vv. 6-9)."
+          "scene_name": "The Twenty-Four Courses (1)",
+          "reference": "24:7-11",
+          "why_start_end_and_devices": "The first twelve priestly courses. Devices: The rotation later known in Luke 1."
         },
         {
           "scene_number": 14,
-          "scene_name": "David's Final Prayer and Blessing",
-          "reference": "29:10-20",
-          "why_start_end_and_devices": "Starts with \"Wherefore David blessed the LORD before all the congregation...\" (29:10). Ends with \"...and worshiped the LORD, and the king\" (29:20). David's final public prayer: blessing God as the source of all (vv. 10-16) and praying for the people and Solomon (vv. 17-19), ending with a charge and corporate worship."
+          "scene_name": "The Courses (2a)",
+          "reference": "24:12-15",
+          "why_start_end_and_devices": "More of the priestly divisions. Devices: The roster continues."
         },
         {
           "scene_number": 15,
-          "scene_name": "Solomon Enthroned; David's Reign and Death",
-          "reference": "29:21-30",
-          "why_start_end_and_devices": "Starts with \"And they sacrificed sacrifices unto the LORD...\" (29:21). Ends with \"...and over all the kingdoms of the countries\" (29:30). The final scene: the feast (v. 21), Solomon's second anointing and enthronement (v. 22-25), and the Chronicler's summary of David's reign with source citation (vv. 26-30), closing the book."
+          "scene_name": "The Courses (2b)",
+          "reference": "24:16-19",
+          "why_start_end_and_devices": "The final courses and their charge. Devices: 'As the LORD God of Israel commanded.'"
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Remaining Kohathites",
+          "reference": "24:20-25",
+          "why_start_end_and_devices": "The non-priestly Levite leaders. Devices: The wider Levite organization."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Merarites Cast Lots Like Their Kin",
+          "reference": "24:26-31",
+          "why_start_end_and_devices": "Lots cast 'just as their brothers.' Devices: Equal treatment of all the clans."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Sons of Asaph, Jeduthun, and Heman",
+          "reference": "25:1-3",
+          "why_start_end_and_devices": "Set apart to prophesy with lyres and cymbals. Devices: Music as prophetic ministry."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Heman's Sons; the Trained Singers",
+          "reference": "25:4-7",
+          "why_start_end_and_devices": "288 trained in song for the LORD. Devices: Skilled, dedicated worship."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Lots for Service (1)",
+          "reference": "25:8-13",
+          "why_start_end_and_devices": "Lots cast, small and great alike. Devices: Order by divine appointment."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Lots (2)",
+          "reference": "25:14-19",
+          "why_start_end_and_devices": "The middle courses of singers. Devices: The musical rotation."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Lots (3a)",
+          "reference": "25:20-23",
+          "why_start_end_and_devices": "More singer-courses assigned. Devices: The roster continues."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "The Lots (3b)",
+          "reference": "25:24-26",
+          "why_start_end_and_devices": "Further courses named. Devices: The list extends."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Lots (4)",
+          "reference": "25:27-31",
+          "why_start_end_and_devices": "The final singer-courses. Devices: The musical guild fully ordered."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Divisions of the Gatekeepers",
+          "reference": "26:1-5",
+          "why_start_end_and_devices": "The Korahite porters; Obed-edom 'whom God blessed.' Devices: Honored doorkeepers."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Obed-edom's and Hosah's Sons",
+          "reference": "26:6-11",
+          "why_start_end_and_devices": "Able men, mighty in strength. Devices: Strong men for sacred guard duty."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Gates Assigned by Lot",
+          "reference": "26:12-16",
+          "why_start_end_and_devices": "East, north, south, and west posts. Devices: Order at every entrance."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Guard Posts Detailed",
+          "reference": "26:17-19",
+          "why_start_end_and_devices": "The daily watch arrangements. Devices: Continuous protection of the courts."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Treasurers of the House of God",
+          "reference": "26:20-24",
+          "why_start_end_and_devices": "Levites over the treasuries. Devices: Stewardship of the sacred wealth."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Dedicated Treasures",
+          "reference": "26:25-28",
+          "why_start_end_and_devices": "Spoils dedicated by David and the commanders. Devices: War-gain consecrated."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Officers and Judges Over Israel",
+          "reference": "26:29-32",
+          "why_start_end_and_devices": "Levites for civil affairs east and west of the Jordan. Devices: Worship-tribe in public service."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Monthly Army Divisions (1)",
+          "reference": "27:1-6",
+          "why_start_end_and_devices": "The first courses of 24,000 each. Devices: A rotating national militia."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Divisions (2)",
+          "reference": "27:7-12",
+          "why_start_end_and_devices": "More monthly commanders. Devices: The military calendar."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "The Divisions (3)",
+          "reference": "27:13-15",
+          "why_start_end_and_devices": "The final monthly divisions. Devices: Twelve courses for twelve months."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The Tribal Officers (1)",
+          "reference": "27:16-19",
+          "why_start_end_and_devices": "Leaders over Reuben to Naphtali. Devices: Administration by tribe."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The Tribal Officers (2)",
+          "reference": "27:20-22",
+          "why_start_end_and_devices": "The remaining tribal heads. Devices: The roster completed."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Why the Census Was Incomplete",
+          "reference": "27:23-24",
+          "why_start_end_and_devices": "David did not count the young; wrath fell. Devices: A theological aside on the census."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Over the Storehouses and Fields",
+          "reference": "27:25-28",
+          "why_start_end_and_devices": "Stewards of the king's property. Devices: The royal estates managed."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Over the Herds and Flocks",
+          "reference": "27:29-31",
+          "why_start_end_and_devices": "'All these were officials of King David's property.' Devices: A vast royal economy."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "David's Counselors",
+          "reference": "27:32-34",
+          "why_start_end_and_devices": "Jonathan, Ahithophel, Hushai, and Joab. Devices: The inner circle named."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "David Assembles the Leaders",
+          "reference": "28:1-3",
+          "why_start_end_and_devices": "'I had it in my heart to build a house.' Devices: The public charge begins."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "'The LORD Chose Solomon'",
+          "reference": "28:4-7",
+          "why_start_end_and_devices": "Election of Judah, David, and Solomon. Devices: Divine choice at every level."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "'Know the God of Your Father; Be Strong'",
+          "reference": "28:8-10",
+          "why_start_end_and_devices": "'If you seek him he will be found.' Devices: The great conditional charge."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "The Pattern of the Temple Given",
+          "reference": "28:11-13",
+          "why_start_end_and_devices": "The plans for every part handed to Solomon. Devices: A blueprint like the tabernacle's."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "'All This in Writing from the LORD's Hand'",
+          "reference": "28:14-19",
+          "why_start_end_and_devices": "The weights of gold and the details revealed. Devices: Divine inspiration of the design."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "'Be Strong; the LORD Will Not Forsake You'",
+          "reference": "28:20-21",
+          "why_start_end_and_devices": "Courage and the Levites' help promised. Devices: Reassurance for the builder."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "David's Personal Gift of Gold and Silver",
+          "reference": "29:1-5",
+          "why_start_end_and_devices": "'Who will consecrate himself today?' Devices: Leadership by sacrificial example."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "The Leaders Give Willingly; the People Rejoice",
+          "reference": "29:6-9",
+          "why_start_end_and_devices": "A great freewill offering; wholehearted joy. Devices: Generosity overflowing."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "'Yours, O LORD, Is the Greatness'",
+          "reference": "29:10-13",
+          "why_start_end_and_devices": "David blesses the LORD before all. Devices: A model of praise."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "'Who Am I That We Should Give?'",
+          "reference": "29:14-17",
+          "why_start_end_and_devices": "'All things come from you.' Devices: Humility about giving back to God."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Prayer for Solomon; the People Worship",
+          "reference": "29:18-20",
+          "why_start_end_and_devices": "'Give Solomon a whole heart.' Devices: Intercession and corporate worship."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Solomon Anointed King a Second Time",
+          "reference": "29:21-25",
+          "why_start_end_and_devices": "Sacrifices and a joyful enthronement. Devices: A secure, exalted succession."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "The Death of David After a Good Old Age",
+          "reference": "29:26-30",
+          "why_start_end_and_devices": "'Full of days, riches, and honor.' Devices: The reign summarized; the books cited."
         }
       ]
     }
   ]
 }
-
