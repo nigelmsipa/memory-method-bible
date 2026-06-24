@@ -1023,7 +1023,296 @@
       "story_title": "The Book of Woes",
       "reference": "28:1 - 33:24",
       "why_start_end_and_literary_glue": "Chapters 28-33 are a series of 'Woe' (hoy) oracles against the drunkards of Ephraim, complacent Ariel/Jerusalem, and the leaders who trust in an Egyptian alliance rather than the LORD. Start (28:1): 'Woe to the proud crown of the drunkards of Ephraim.' End (33:24): Zion forgiven, the LORD her king and judge. Glue: the recurring 'hoy' and the contrast of false security with trust in the cornerstone in Zion (28:16).",
-      "scenes": []
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Woe to the Drunkards of Ephraim",
+          "reference": "28:1-4",
+          "why_start_end_and_devices": "The fading-flower crown of Samaria's drunkards to be smashed by the LORD's mighty storm."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Priests and Prophets Reel from Wine",
+          "reference": "28:5-8",
+          "why_start_end_and_devices": "The LORD a crown to the remnant (5-6), set against the vomit-covered tables of befuddled leaders (7-8)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Order on Order, Line on Line",
+          "reference": "28:9-10",
+          "why_start_end_and_devices": "The mocking of God's teaching as fit only for infants, in stammering syllables."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "This Is the Place of Rest",
+          "reference": "28:11-13",
+          "why_start_end_and_devices": "The offered rest refused, so the word becomes a snare that trips them backward."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "A Covenant with Death",
+          "reference": "28:14-15",
+          "why_start_end_and_devices": "The Jerusalem scoffers boasting that lies and falsehood will shelter them from the scourge."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "A Tested Cornerstone in Zion",
+          "reference": "28:16-17",
+          "why_start_end_and_devices": "The precious sure foundation laid in Zion — 'the one who believes will never be shaken.'"
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Your Covenant with Death Dissolved",
+          "reference": "28:18-19",
+          "why_start_end_and_devices": "The annulled pact with Sheol and the relentless scourge that brings sheer terror."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "His Strange Work",
+          "reference": "28:20-22",
+          "why_start_end_and_devices": "The too-short bed, the LORD rising to do His alien task of judgment, the decreed destruction."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Parable of the Plowman",
+          "reference": "28:23-26",
+          "why_start_end_and_devices": "God instructing the farmer in his seasons and varied sowing as a picture of His wise dealings."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Wonderful in Counsel",
+          "reference": "28:27-29",
+          "why_start_end_and_devices": "Different grains threshed by different means — the LORD excellent in wisdom."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Woe to Ariel",
+          "reference": "29:1-4",
+          "why_start_end_and_devices": "The siege of David's city, brought so low its voice whispers from the dust."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Like a Dream in the Night",
+          "reference": "29:5-8",
+          "why_start_end_and_devices": "Ariel's many foes turned to dust, the besieging nations vanishing like a hungry man's dream."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "A Spirit of Deep Sleep",
+          "reference": "29:9-10",
+          "why_start_end_and_devices": "Blindness and stupor poured out, the eyes of the prophets and seers covered."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Sealed Scroll",
+          "reference": "29:11-12",
+          "why_start_end_and_devices": "The whole vision become like sealed words none can read."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Lips Near, Hearts Far",
+          "reference": "29:13-14",
+          "why_start_end_and_devices": "Worship reduced to man-made rules, so the wisdom of the wise will perish (cited by Jesus)."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Potter and the Clay",
+          "reference": "29:15-16",
+          "why_start_end_and_devices": "Woe to those who hide plans from God, turning things upside down as if the clay could deny its maker."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Deaf Will Hear",
+          "reference": "29:17-19",
+          "why_start_end_and_devices": "The coming reversal: Lebanon an orchard, the blind seeing, the humble increasing their joy."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Ruthless Will Vanish",
+          "reference": "29:20-21",
+          "why_start_end_and_devices": "The cutting-down of mockers and those who deprive the innocent of justice at the gate."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Jacob Will No Longer Be Ashamed",
+          "reference": "29:22-24",
+          "why_start_end_and_devices": "The redeemed house of Jacob honoring God's name, the wayward coming to understanding."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Woe to the Rebellious Children",
+          "reference": "30:1-5",
+          "why_start_end_and_devices": "The alliance with Egypt formed against God's will — Pharaoh's protection turned to shame."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Rahab Who Sits Still",
+          "reference": "30:6-7",
+          "why_start_end_and_devices": "The treasure-laden caravan to a useless Egypt, whose help is empty."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Prophesy Illusions to Us",
+          "reference": "30:8-11",
+          "why_start_end_and_devices": "The witness inscribed against a people who tell the seers to silence the Holy One of Israel."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Like a Breach About to Fail",
+          "reference": "30:12-14",
+          "why_start_end_and_devices": "The rejected message bringing sudden collapse, shattered like a potter's jar."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "In Quietness and Trust",
+          "reference": "30:15-17",
+          "why_start_end_and_devices": "'In repentance and rest you would be saved' — refused for swift horses and a faster pursuit."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The LORD Longs to Be Gracious",
+          "reference": "30:18-19",
+          "why_start_end_and_devices": "The just God waiting to show compassion — 'blessed are all who wait for Him.'"
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "This Is the Way; Walk in It",
+          "reference": "30:20-22",
+          "why_start_end_and_devices": "The unhidden Teacher and the guiding voice, leading them to cast away their idols."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "He Heals the Wounds He Inflicted",
+          "reference": "30:23-26",
+          "why_start_end_and_devices": "Rain and rich harvests, sevenfold light on the day the LORD binds up His people's brokenness."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Name of the LORD Comes from Afar",
+          "reference": "30:27-28",
+          "why_start_end_and_devices": "The advancing wrath with fury-filled lips and a breath like a neck-high torrent."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Assyria Shattered at His Voice",
+          "reference": "30:29-31",
+          "why_start_end_and_devices": "The festival song and the LORD's majestic arm striking Assyria with His scepter."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Topheth Prepared for the King",
+          "reference": "30:32-33",
+          "why_start_end_and_devices": "Each punishing stroke set to music, the deep funeral pyre kindled by the breath of the LORD."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Woe to Those Who Go Down to Egypt",
+          "reference": "31:1-3",
+          "why_start_end_and_devices": "Trusting horses and chariots, not the Holy One — 'the Egyptians are men, not God.'"
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Like Birds Hovering Overhead",
+          "reference": "31:4-5",
+          "why_start_end_and_devices": "The LORD as a fearless lion and a sheltering bird who will protect and deliver Jerusalem."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Return to the One You Rebelled Against",
+          "reference": "31:6-7",
+          "why_start_end_and_devices": "The call to repent and reject the silver and gold idols their own hands made."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Assyria Will Fall, Not by Man's Sword",
+          "reference": "31:8-9",
+          "why_start_end_and_devices": "The collapse of Assyria before the LORD whose fire is in Zion."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "A King Will Reign in Righteousness",
+          "reference": "32:1-4",
+          "why_start_end_and_devices": "The coming just reign, each ruler a shelter, opening the eyes and ears of the people."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "No Longer a Fool Called Noble",
+          "reference": "32:5-8",
+          "why_start_end_and_devices": "The clear distinction restored between the scoundrel's destructive plots and the noble man's honorable plans."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Tremble, You Complacent Women",
+          "reference": "32:9-11",
+          "why_start_end_and_devices": "The warning to the secure women of a failed harvest — 'strip yourselves bare and put on sackcloth.'"
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "The Palace Will Be Forsaken",
+          "reference": "32:12-14",
+          "why_start_end_and_devices": "Mourning over thorn-overgrown fields and the abandoned, donkey-roamed city."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Until the Spirit Is Poured Out",
+          "reference": "32:15-17",
+          "why_start_end_and_devices": "The desert turned orchard, justice dwelling in the wilderness, the work of righteousness peace."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Dwelling in Peaceful Rest",
+          "reference": "32:18-20",
+          "why_start_end_and_devices": "God's people secure, blessed are those who sow beside abundant waters."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Woe to the Destroyer",
+          "reference": "33:1-4",
+          "why_start_end_and_devices": "The treacherous one finally betrayed; the prayer 'be our strength every morning.'"
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "The Fear of the LORD Is Zion's Treasure",
+          "reference": "33:5-6",
+          "why_start_end_and_devices": "The exalted LORD filling Zion with justice, a sure foundation of salvation and wisdom."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "The Envoys of Peace Weep",
+          "reference": "33:7-9",
+          "why_start_end_and_devices": "The broken treaty, the deserted highways, the mourning, decaying land."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Now I Will Arise",
+          "reference": "33:10-13",
+          "why_start_end_and_devices": "The LORD rising to be exalted, the chaff-conceived plans consumed like thorns, and the summons to far and near to acknowledge His might."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Who Can Dwell with Consuming Fire?",
+          "reference": "33:14-16",
+          "why_start_end_and_devices": "The terror of the sinners in Zion answered by the one who walks righteously and dwells on the heights."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "The King in His Beauty",
+          "reference": "33:17-19",
+          "why_start_end_and_devices": "Eyes that will see the King and a land afar, the former terror of the tax-counter gone."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "The LORD Is Our King",
+          "reference": "33:20-22",
+          "why_start_end_and_devices": "Zion the unwandering tent, the LORD her Judge, lawgiver, and King who will save."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "No Resident Will Say 'I Am Sick'",
+          "reference": "33:23-24",
+          "why_start_end_and_devices": "The lame carrying off plunder and the forgiven people of Zion."
+        }
+      ]
     },
     {
       "story_letter": "E",
