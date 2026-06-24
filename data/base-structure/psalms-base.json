@@ -1945,7 +1945,692 @@
       "story_title": "Book III – The Crisis of Faith",
       "why_start_end_and_literary_glue": "Psalms 73–89 constitute the darkest section—Asaphite laments (73–83) and national crises (74, 79, 89) wrestling with covenant and theodicy. Start (73:1): 'Truly God is good...' End (89:52): doxology 'Amen and Amen.' Literary Glue: national lament and questioning within curated collections.",
       "reference": "73:1 - 89:52",
-      "scenes": []
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Psalm 73 – I Envied the Arrogant",
+          "reference": "73:1-3",
+          "why_start_end_and_devices": "Asaph's theodicy opens: God is good to the pure in heart, yet his feet nearly slipped from envy of the prosperous wicked."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Psalm 73 – Pride Their Necklace",
+          "reference": "73:4-6",
+          "why_start_end_and_devices": "The ease of the wicked — no struggle in death, well-fed bodies, clothed in violence."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Psalm 73 – Mouths Against the Heavens",
+          "reference": "73:7-9",
+          "why_start_end_and_devices": "Their iniquity overflowing, arrogant threats, tongues that strut across the earth."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Psalm 73 – How Can God Know?",
+          "reference": "73:10-12",
+          "why_start_end_and_devices": "The wicked drinking abundance and scoffing that the Most High has no knowledge — 'always carefree as they increase their wealth.'"
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Psalm 73 – Have I Kept My Heart Pure in Vain?",
+          "reference": "73:13-15",
+          "why_start_end_and_devices": "The crisis of faith: afflicted every morning, tempted to speak the doubt that would betray God's children."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Psalm 73 – Until I Entered God's Sanctuary",
+          "reference": "73:16-17",
+          "why_start_end_and_devices": "The turning point of the whole psalm: in the sanctuary he finally discerns the end of the wicked."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Psalm 73 – Set on Slick Ground",
+          "reference": "73:18-20",
+          "why_start_end_and_devices": "The revelation of their ruin — swept away in a moment of terror, despised like a dream on waking."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Psalm 73 – Yet I Am Always with You",
+          "reference": "73:21-24",
+          "why_start_end_and_devices": "Confession of his beastly bitterness (21-22) answered by the held hand and the guidance that ends in glory (23-24)."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Psalm 73 – My Portion Forever",
+          "reference": "73:25-26",
+          "why_start_end_and_devices": "The summit: 'Whom have I in heaven but You?' — though flesh and heart fail, God is the strength of his heart."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Psalm 73 – It Is Good to Draw Near to God",
+          "reference": "73:27-28",
+          "why_start_end_and_devices": "The resolution: the faithless perish, but his refuge is nearness to the Lord GOD, to proclaim His works."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Psalm 74 – Why Have You Rejected Us Forever?",
+          "reference": "74:1-3",
+          "why_start_end_and_devices": "Communal lament over a ruined sanctuary: 'remember Your congregation… Mount Zion, where You dwell.'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Psalm 74 – They Burned Your Sanctuary",
+          "reference": "74:4-8",
+          "why_start_end_and_devices": "The desecration: foes roaring in the meeting place, smashing carvings, burning every place where God met them."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Psalm 74 – No Prophet, No One Knows How Long",
+          "reference": "74:9-11",
+          "why_start_end_and_devices": "The desolation of silence, the taunting enemy, and the cry, 'why do You withdraw Your right hand?'"
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Psalm 74 – You Crushed the Heads of Leviathan",
+          "reference": "74:12-14",
+          "why_start_end_and_devices": "The turn to creation-faith: God my King of old who split the sea and broke the dragons' heads."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Psalm 74 – Yours Is the Day and the Night",
+          "reference": "74:15-17",
+          "why_start_end_and_devices": "The Creator who set fountain and river, moon and sun, the boundaries of earth, summer and winter."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Psalm 74 – Remember How the Enemy Mocked",
+          "reference": "74:18-20",
+          "why_start_end_and_devices": "Petition that God remember the scoffing foe and the covenant, not give His dove to the beasts."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Psalm 74 – Rise Up, O God, Defend Your Cause",
+          "reference": "74:21-23",
+          "why_start_end_and_devices": "The closing appeal that the oppressed not retreat in shame, against the ever-rising uproar of His enemies."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Psalm 75 – It Is I Who Bear Up Its Pillars",
+          "reference": "75:1-3",
+          "why_start_end_and_devices": "Thanksgiving for God's nearness (1) and His own voice: He sets the time for judgment and upholds the quaking earth; Selah."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Psalm 75 – Do Not Lift Up Your Horn",
+          "reference": "75:4-6",
+          "why_start_end_and_devices": "The warning to the proud, for exaltation comes from no point of the compass."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Psalm 75 – The Cup in the Hand of the LORD",
+          "reference": "75:7-8",
+          "why_start_end_and_devices": "God the Judge who brings down and exalts, pouring the foaming wine of wrath for the wicked to drain to the dregs."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Psalm 75 – The Horns of the Righteous Exalted",
+          "reference": "75:9-10",
+          "why_start_end_and_devices": "The closing vow of praise and the divine word cutting off the horns of the wicked."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Psalm 76 – God Is Known in Judah",
+          "reference": "76:1-3",
+          "why_start_end_and_devices": "Zion-hymn: His dwelling in Salem, where He shattered the flashing arrows and weapons of war; Selah."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Psalm 76 – Horse and Rider Lie Stunned",
+          "reference": "76:4-6",
+          "why_start_end_and_devices": "More majestic than the mountains of prey; at the rebuke of the God of Jacob the valiant sleep their last sleep."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Psalm 76 – Who Can Stand Before You?",
+          "reference": "76:7-9",
+          "why_start_end_and_devices": "The fear of God who from heaven pronounced judgment to save the lowly, and the earth was still; Selah."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Psalm 76 – Even the Wrath of Man Shall Praise You",
+          "reference": "76:10-12",
+          "why_start_end_and_devices": "The God who is to be feared, to whom vows are paid and tribute brought, who breaks the spirits of princes."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Psalm 77 – My Soul Refused to Be Comforted",
+          "reference": "77:1-3",
+          "why_start_end_and_devices": "Lament: crying aloud in the day of trouble, the soul unconsoled, the spirit faint at remembering God; Selah."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Psalm 77 – Too Troubled to Speak",
+          "reference": "77:4-6",
+          "why_start_end_and_devices": "Sleepless eyes; the turn to consider the days of old and to muse with his heart in the night."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Psalm 77 – Has God Forgotten to Be Gracious?",
+          "reference": "77:7-9",
+          "why_start_end_and_devices": "The sharpest questions of faith — 'Is His loving devotion gone forever?' — the crisis at the psalm's center; Selah."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Psalm 77 – I Will Remember the Works of the LORD",
+          "reference": "77:10-12",
+          "why_start_end_and_devices": "The deliberate pivot: appealing to memory of the LORD's wonders and mighty deeds of old."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Psalm 77 – What God Is So Great as Our God?",
+          "reference": "77:13-15",
+          "why_start_end_and_devices": "His holy way; the God who works wonders and redeemed the sons of Jacob with power; Selah."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Psalm 77 – The Waters Saw You and Swirled",
+          "reference": "77:16-18",
+          "why_start_end_and_devices": "The storm-theophany of the Exodus: thunder, lightning arrows, the trembling earth."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Psalm 77 – Your Path Through the Sea",
+          "reference": "77:19-20",
+          "why_start_end_and_devices": "The unseen footprints through the mighty waters as He led His flock by the hand of Moses and Aaron."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Psalm 78 – Tell the Next Generation",
+          "reference": "78:1-4",
+          "why_start_end_and_devices": "The historical Maskil opens: parables of old not hidden from the children but declared to the coming generation."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Psalm 78 – That They Set Their Hope in God",
+          "reference": "78:5-8",
+          "why_start_end_and_devices": "The purpose of the testimony — that children not be like their stubborn, rebellious fathers."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Psalm 78 – The Archers of Ephraim Turned Back",
+          "reference": "78:9-11",
+          "why_start_end_and_devices": "The indictment: they broke God's covenant and forgot the wonders He had shown them."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Psalm 78 – He Split the Sea and the Rock",
+          "reference": "78:12-16",
+          "why_start_end_and_devices": "The Exodus wonders before their fathers: the divided sea like a wall, water gushing from the stone."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Psalm 78 – Can God Prepare a Table?",
+          "reference": "78:17-20",
+          "why_start_end_and_devices": "Yet they sinned, testing God by craving food — 'can He also give bread… meat?'"
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Psalm 78 – The Bread of Angels",
+          "reference": "78:21-25",
+          "why_start_end_and_devices": "Wrath kindled at their unbelief (21-22), yet He opened heaven's doors and rained down manna (23-25)."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Psalm 78 – Meat Like Dust",
+          "reference": "78:26-29",
+          "why_start_end_and_devices": "The east wind driving quail like sand of the sea, so they ate and were well filled."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Psalm 78 – With the Food Still in Their Mouths",
+          "reference": "78:30-33",
+          "why_start_end_and_devices": "Judgment in the midst of craving: the strongest struck down, their days ended in futility."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Psalm 78 – They Flattered Him with Their Mouths",
+          "reference": "78:34-37",
+          "why_start_end_and_devices": "Shallow repentance: they sought their Rock yet lied with their tongues, hearts disloyal to His covenant."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Psalm 78 – Yet He Was Compassionate",
+          "reference": "78:38-39",
+          "why_start_end_and_devices": "The mercy that restrained full wrath, remembering they were but flesh, a passing breeze."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Psalm 78 – How Often They Grieved Him",
+          "reference": "78:40-42",
+          "why_start_end_and_devices": "The wilderness pattern of testing the Holy One, forgetting the day of redemption from the adversary."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Psalm 78 – His Signs in the Fields of Zoan",
+          "reference": "78:43-45",
+          "why_start_end_and_devices": "The plagues recalled: rivers to blood, devouring swarms of flies, devastating frogs."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Psalm 78 – Crops to the Locust",
+          "reference": "78:46-48",
+          "why_start_end_and_devices": "The locust, the killing hail on vines and sycamores, lightning on the livestock."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Psalm 78 – A Band of Destroying Angels",
+          "reference": "78:49-51",
+          "why_start_end_and_devices": "The unleashed fury and the climactic plague — all the firstborn struck in the tents of Ham."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Psalm 78 – Led Like a Flock to the Holy Land",
+          "reference": "78:52-55",
+          "why_start_end_and_devices": "Shepherded safely through the sea that engulfed their foes, settled in the inheritance He apportioned."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Psalm 78 – Twisted Like a Faulty Bow",
+          "reference": "78:56-58",
+          "why_start_end_and_devices": "Yet they tested Him in the land, provoking jealousy with high places and idols."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Psalm 78 – He Abandoned Shiloh",
+          "reference": "78:59-61",
+          "why_start_end_and_devices": "God's fury rejecting Israel, forsaking the tabernacle, delivering His strength to captivity."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Psalm 78 – Priests Fell by the Sword",
+          "reference": "78:62-64",
+          "why_start_end_and_devices": "His people surrendered to the sword; young men, maidens, and priests consumed, with no songs to mourn."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Psalm 78 – Then the Lord Awoke",
+          "reference": "78:65-67",
+          "why_start_end_and_devices": "God rousing like a warrior to beat back His foes, rejecting the tent of Joseph and Ephraim."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Psalm 78 – He Chose Mount Zion",
+          "reference": "78:68-69",
+          "why_start_end_and_devices": "The election of Judah and Zion, His sanctuary built like the heights, established forever."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Psalm 78 – He Chose David His Servant",
+          "reference": "78:70-72",
+          "why_start_end_and_devices": "The climactic choice: David taken from the sheepfolds to shepherd Israel with integrity of heart."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Psalm 79 – They Have Reduced Jerusalem to Rubble",
+          "reference": "79:1-4",
+          "why_start_end_and_devices": "National lament: the temple defiled, corpses unburied, Israel a reproach to its neighbors."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Psalm 79 – How Long, O LORD?",
+          "reference": "79:5-7",
+          "why_start_end_and_devices": "The cry against God's burning jealousy and the plea to pour wrath on the nations that devoured Jacob."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Psalm 79 – Atone for Our Sins, for Your Name's Sake",
+          "reference": "79:8-10",
+          "why_start_end_and_devices": "Appeal to compassion and the glory of His name — 'why should the nations ask, Where is their God?'"
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "Psalm 79 – The Sheep of Your Pasture Will Thank You",
+          "reference": "79:11-13",
+          "why_start_end_and_devices": "Plea for the captives and sevenfold requital, closing in a vow of generations-long praise."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Psalm 80 – Hear Us, O Shepherd of Israel",
+          "reference": "80:1-3",
+          "why_start_end_and_devices": "The opening cry to the cherubim-enthroned Shepherd and the first sounding of the refrain: 'Restore us… that we may be saved.'"
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Psalm 80 – The Bread of Tears",
+          "reference": "80:4-7",
+          "why_start_end_and_devices": "How long the smoldering anger (4); fed with tears and mocked by neighbors (5-6); the refrain repeated (7)."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Psalm 80 – You Brought a Vine Out of Egypt",
+          "reference": "80:8-11",
+          "why_start_end_and_devices": "The allegory of the vine: transplanted, taking root, filling the land to the Sea and the River."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "Psalm 80 – Why Have You Broken Down Its Walls?",
+          "reference": "80:12-15",
+          "why_start_end_and_devices": "The vine now ravaged by the boar; the plea, 'Return, O God of Hosts… attend to this vine.'"
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Psalm 80 – Revive Us, and We Will Call on Your Name",
+          "reference": "80:16-19",
+          "why_start_end_and_devices": "The vine cut and burned (16); the hand upon the man at God's right hand (17-18); the final refrain (19)."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "Psalm 81 – Sound the Ram's Horn at the Feast",
+          "reference": "81:1-4",
+          "why_start_end_and_devices": "Festival summons to sing and play, for it is a statute and ordinance of the God of Jacob."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "Psalm 81 – I Relieved His Shoulder of the Burden",
+          "reference": "81:5-7",
+          "why_start_end_and_devices": "God's voice recalling the Exodus deliverance and the testing at the waters of Meribah; Selah."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Psalm 81 – Open Wide Your Mouth",
+          "reference": "81:8-10",
+          "why_start_end_and_devices": "The covenant plea: no strange god among them — 'I am the LORD your God… I will fill it.'"
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "Psalm 81 – But My People Would Not Listen",
+          "reference": "81:11-13",
+          "why_start_end_and_devices": "The tragedy of refusal: given up to their stubborn hearts, with the LORD's grieving wish that they would listen."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Psalm 81 – Honey from the Rock",
+          "reference": "81:14-16",
+          "why_start_end_and_devices": "The promise spurned: how soon He would subdue their foes and satisfy them with the finest wheat."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "Psalm 82 – God Presides in the Divine Assembly",
+          "reference": "82:1-4",
+          "why_start_end_and_devices": "God's indictment of the unjust 'gods': 'how long will you judge unjustly?' — defend the weak and fatherless; Selah."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "Psalm 82 – Like Mortals You Will Die",
+          "reference": "82:5-8",
+          "why_start_end_and_devices": "Their ignorance shaking the earth's foundations (5); the sentence on the 'sons of the Most High' (6-7); 'Arise, O God, judge the earth' (8)."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "Psalm 83 – O God, Be Not Silent",
+          "reference": "83:1-4",
+          "why_start_end_and_devices": "Plea against a coalition bent on erasing Israel's name — 'let us erase them as a nation.'"
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "Psalm 83 – The Alliance Against You",
+          "reference": "83:5-8",
+          "why_start_end_and_devices": "The roll of conspirators from Edom and Moab to Tyre and Assyria, joined against God; Selah."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "Psalm 83 – Do to Them as to Midian",
+          "reference": "83:9-12",
+          "why_start_end_and_devices": "Appeal to past victories — Sisera, Oreb and Zeeb, Zebah and Zalmunna who coveted God's pastures."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "Psalm 83 – Like Chaff Before the Wind",
+          "reference": "83:13-15",
+          "why_start_end_and_devices": "Imprecation that they be whirled like tumbleweed and pursued with God's tempest and storm."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Psalm 83 – That They May Know Your Name",
+          "reference": "83:16-18",
+          "why_start_end_and_devices": "The redemptive aim of the judgment: that the shamed nations seek and know the LORD as Most High over all the earth."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "Psalm 84 – How Lovely Is Your Dwelling Place",
+          "reference": "84:1-4",
+          "why_start_end_and_devices": "Pilgrim longing for the courts of the LORD, where even the sparrow nests by His altars; Selah."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "Psalm 84 – From Strength to Strength",
+          "reference": "84:5-7",
+          "why_start_end_and_devices": "Blessed are the pilgrims who turn the Valley of Baca into springs, going on until they appear before God in Zion."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "Psalm 84 – Look on the Face of Your Anointed",
+          "reference": "84:8-9",
+          "why_start_end_and_devices": "The pilgrim's prayer for the king-shield, addressed to the LORD God of Hosts; Selah."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "Psalm 84 – Better Is One Day in Your Courts",
+          "reference": "84:10-12",
+          "why_start_end_and_devices": "Better a doorkeeper in God's house than dwelling with the wicked, for 'the LORD God is a sun and shield.'"
+        },
+        {
+          "scene_number": 79,
+          "scene_name": "Psalm 85 – You Restored Jacob from Captivity",
+          "reference": "85:1-3",
+          "why_start_end_and_devices": "Communal thanksgiving for past favor: forgiven iniquity, withdrawn fury; Selah."
+        },
+        {
+          "scene_number": 80,
+          "scene_name": "Psalm 85 – Will You Be Angry Forever?",
+          "reference": "85:4-7",
+          "why_start_end_and_devices": "The turn to petition: 'Restore us… revive us again… show us Your loving devotion.'"
+        },
+        {
+          "scene_number": 81,
+          "scene_name": "Psalm 85 – He Will Speak Peace to His People",
+          "reference": "85:8-9",
+          "why_start_end_and_devices": "Listening for God's word of peace, His salvation near to those who fear Him."
+        },
+        {
+          "scene_number": 82,
+          "scene_name": "Psalm 85 – Righteousness and Peace Have Kissed",
+          "reference": "85:10-13",
+          "why_start_end_and_devices": "The beautiful meeting of love, faithfulness, righteousness, and peace, with the land yielding its increase."
+        },
+        {
+          "scene_number": 83,
+          "scene_name": "Psalm 86 – Incline Your Ear, O LORD",
+          "reference": "86:1-4",
+          "why_start_end_and_devices": "David's prayer of the poor and godly servant who lifts up his soul and trusts in his God."
+        },
+        {
+          "scene_number": 84,
+          "scene_name": "Psalm 86 – Kind and Forgiving",
+          "reference": "86:5-7",
+          "why_start_end_and_devices": "Confidence in the God rich in devotion who answers in the day of distress."
+        },
+        {
+          "scene_number": 85,
+          "scene_name": "Psalm 86 – There Is None Like You",
+          "reference": "86:8-10",
+          "why_start_end_and_devices": "The vision of all nations coming to bow before the one true God who alone does wonders."
+        },
+        {
+          "scene_number": 86,
+          "scene_name": "Psalm 86 – Give Me an Undivided Heart",
+          "reference": "86:11-13",
+          "why_start_end_and_devices": "The great petition to walk in God's truth with a unified heart, praising Him who delivered from Sheol's depths."
+        },
+        {
+          "scene_number": 87,
+          "scene_name": "Psalm 86 – Slow to Anger, Abounding in Love",
+          "reference": "86:14-15",
+          "why_start_end_and_devices": "The ruthless band that seeks his life (14) answered by the Exodus-creed of God's compassion (15)."
+        },
+        {
+          "scene_number": 88,
+          "scene_name": "Psalm 86 – Show Me a Sign of Your Goodness",
+          "reference": "86:16-17",
+          "why_start_end_and_devices": "The closing plea for strength and a token of favor that his enemies may see and be ashamed."
+        },
+        {
+          "scene_number": 89,
+          "scene_name": "Psalm 87 – Glorious Things of You Are Spoken",
+          "reference": "87:1-3",
+          "why_start_end_and_devices": "Zion-hymn: the city founded on the holy mountains, loved by the LORD above all dwellings of Jacob; Selah."
+        },
+        {
+          "scene_number": 90,
+          "scene_name": "Psalm 87 – This One Was Born in Zion",
+          "reference": "87:4-7",
+          "why_start_end_and_devices": "The nations — Rahab, Babylon, Philistia, Tyre, Cush — registered as Zion's citizens; 'all my springs of joy are in You'; Selah."
+        },
+        {
+          "scene_number": 91,
+          "scene_name": "Psalm 88 – Day and Night I Cry Before You",
+          "reference": "88:1-3",
+          "why_start_end_and_devices": "The darkest psalm opens: a soul full of troubles, life drawing near to Sheol."
+        },
+        {
+          "scene_number": 92,
+          "scene_name": "Psalm 88 – Forsaken Among the Dead",
+          "reference": "88:4-7",
+          "why_start_end_and_devices": "Counted with those in the Pit, laid in the lowest depths, Your wrath like submerging waves; Selah."
+        },
+        {
+          "scene_number": 93,
+          "scene_name": "Psalm 88 – You Have Removed My Friends",
+          "reference": "88:8-9",
+          "why_start_end_and_devices": "Made repulsive to companions, confined, eyes dim with grief — yet daily spreading out his hands to God."
+        },
+        {
+          "scene_number": 94,
+          "scene_name": "Psalm 88 – Do You Work Wonders for the Dead?",
+          "reference": "88:10-12",
+          "why_start_end_and_devices": "The threefold question whether God's love and faithfulness can be known in the grave; Selah."
+        },
+        {
+          "scene_number": 95,
+          "scene_name": "Psalm 88 – Why Do You Hide Your Face?",
+          "reference": "88:13-15",
+          "why_start_end_and_devices": "Morning prayer met with rejection, afflicted from youth and bearing God's terrors in despair."
+        },
+        {
+          "scene_number": 96,
+          "scene_name": "Psalm 88 – Darkness Is My Closest Companion",
+          "reference": "88:16-18",
+          "why_start_end_and_devices": "The unrelieved close: wrath sweeping over him, friend and beloved removed, only darkness remaining."
+        },
+        {
+          "scene_number": 97,
+          "scene_name": "Psalm 89 – I Will Sing of the LORD's Devotion Forever",
+          "reference": "89:1-4",
+          "why_start_end_and_devices": "Ethan's covenant-psalm opens with the oath to David: 'I will establish your offspring forever.'; Selah."
+        },
+        {
+          "scene_number": 98,
+          "scene_name": "Psalm 89 – Who in the Skies Compares with the LORD?",
+          "reference": "89:5-8",
+          "why_start_end_and_devices": "The heavens praising His faithfulness; God feared in the council of the holy ones — 'who is like You?'"
+        },
+        {
+          "scene_number": 99,
+          "scene_name": "Psalm 89 – You Crushed Rahab",
+          "reference": "89:9-10",
+          "why_start_end_and_devices": "The Creator-King who stills the raging sea and scatters His enemies with His mighty arm."
+        },
+        {
+          "scene_number": 100,
+          "scene_name": "Psalm 89 – Righteousness Is Your Throne's Foundation",
+          "reference": "89:11-14",
+          "why_start_end_and_devices": "Heaven and earth His, Tabor and Hermon rejoicing, righteousness and devotion going before Him."
+        },
+        {
+          "scene_number": 101,
+          "scene_name": "Psalm 89 – Blessed Are Those Who Know the Joyful Sound",
+          "reference": "89:15-18",
+          "why_start_end_and_devices": "The blessing of those who walk in the light of His presence, their horn and shield belonging to the LORD."
+        },
+        {
+          "scene_number": 102,
+          "scene_name": "Psalm 89 – I Have Found My Servant David",
+          "reference": "89:19-21",
+          "why_start_end_and_devices": "The vision recalled: God's anointing and sustaining of the chosen warrior-king."
+        },
+        {
+          "scene_number": 103,
+          "scene_name": "Psalm 89 – No Enemy Will Oppress Him",
+          "reference": "89:22-24",
+          "why_start_end_and_devices": "The covenant promises of protection and an exalted horn through God's name."
+        },
+        {
+          "scene_number": 104,
+          "scene_name": "Psalm 89 – My Firstborn, the Highest of Kings",
+          "reference": "89:25-27",
+          "why_start_end_and_devices": "David's hand set over sea and rivers, calling God 'my Father,' appointed highest of earth's kings."
+        },
+        {
+          "scene_number": 105,
+          "scene_name": "Psalm 89 – His Throne as Long as the Heavens",
+          "reference": "89:28-29",
+          "why_start_end_and_devices": "The everlasting covenant and the line established forever."
+        },
+        {
+          "scene_number": 106,
+          "scene_name": "Psalm 89 – The Rod for His Sons' Transgression",
+          "reference": "89:30-32",
+          "why_start_end_and_devices": "The conditional warning: if his sons forsake the law, He will visit their sin with the rod."
+        },
+        {
+          "scene_number": 107,
+          "scene_name": "Psalm 89 – I Will Not Violate My Covenant",
+          "reference": "89:33-34",
+          "why_start_end_and_devices": "The unbreakable pledge: devotion never withdrawn, the utterance of His lips never altered."
+        },
+        {
+          "scene_number": 108,
+          "scene_name": "Psalm 89 – Established Forever Like the Moon",
+          "reference": "89:35-37",
+          "why_start_end_and_devices": "The oath by His holiness — David's throne a faithful witness in the sky; Selah."
+        },
+        {
+          "scene_number": 109,
+          "scene_name": "Psalm 89 – But Now You Have Spurned Him",
+          "reference": "89:38-40",
+          "why_start_end_and_devices": "The bitter turn: the covenant seemingly renounced, the crown sullied, his walls broken down."
+        },
+        {
+          "scene_number": 110,
+          "scene_name": "Psalm 89 – All Who Pass By Plunder Him",
+          "reference": "89:41-43",
+          "why_start_end_and_devices": "The anointed a reproach, his foes exalted, his sword's edge turned back in battle."
+        },
+        {
+          "scene_number": 111,
+          "scene_name": "Psalm 89 – His Throne Cast to the Ground",
+          "reference": "89:44-45",
+          "why_start_end_and_devices": "His splendor ended and his youth cut short, covered with shame; Selah."
+        },
+        {
+          "scene_number": 112,
+          "scene_name": "Psalm 89 – How Long Will You Hide Yourself?",
+          "reference": "89:46-48",
+          "why_start_end_and_devices": "The cry against God's hidden wrath and the brevity of life — 'what man can live and never see death?'; Selah."
+        },
+        {
+          "scene_number": 113,
+          "scene_name": "Psalm 89 – Where Is Your Devotion of Old?",
+          "reference": "89:49-51",
+          "why_start_end_and_devices": "The closing appeal to the oath sworn to David and the reproach heaped on the steps of His anointed."
+        },
+        {
+          "scene_number": 114,
+          "scene_name": "Psalm 89 – Blessed Be the LORD Forever",
+          "reference": "89:52",
+          "why_start_end_and_devices": "The doxology that closes Book III: 'Blessed be the LORD forever! Amen and amen.'"
+        }
+      ]
     },
     {
       "story_letter": "D",
