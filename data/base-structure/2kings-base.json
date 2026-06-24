@@ -12,123 +12,327 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Ahaziah's Fatal Inquiry",
-          "reference": "1:1-18",
-          "why_start_end_and_devices": "Starts with narrative beginning with Moab's rebellion and Ahaziah's accident (1:1-2). Ends with the prophecy fulfilled, and the regnal formula for Ahaziah concluding (1:17-18). This scene serves as a bridge from 1 Kings. The king's inquiry of 'Baal-zebub' (1:3) shows his apostasy. Elijah's response, 'Is it not because there is not a God in Israel...?' (1:3, 6, 16), is a refrain that sets the theme for the entire Elisha cycle. The threefold sending of captains (1:9-14) emphasizes the king's rebellion and God's power."
+          "scene_name": "Ahaziah Consults Baal-zebub; Elijah's Word",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Starts the king's fall and pagan inquiry. Ends 'you will surely die.' Devices: Seeking a foreign god—judgment pronounced."
         },
         {
           "scene_number": 2,
-          "scene_name": "Elijah's Ascension",
-          "reference": "2:1-12",
-          "why_start_end_and_devices": "Starts with 'And it came to pass, when the LORD was about to take Elijah...' (2:1). Ends with 'And he saw him no more...' (2:12). A journey narrative with threefold repetition (at Bethel, Jericho, and the Jordan) of Elisha's refusal to leave Elijah ('As the LORD liveth... I will not leave thee,' 2:2, 4, 6). The parting of the Jordan (2:8) mirrors Moses/Joshua, and the request for a 'double portion' (2:9) signifies Elisha's succession. The scene climaxes with the 'chariot of fire' (2:11)."
+          "scene_name": "'A Man in a Garment of Hair'",
+          "reference": "1:5-8",
+          "why_start_end_and_devices": "Starts the messengers' return. Ends 'it is Elijah.' Devices: The prophet identified by his rough mantle."
         },
         {
           "scene_number": 3,
+          "scene_name": "Fire on the First Two Captains",
+          "reference": "1:9-12",
+          "why_start_end_and_devices": "Starts the fifty sent to seize him. Ends fire consuming them. Devices: Heaven defends its prophet."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Third Captain Spared; Elijah Goes",
+          "reference": "1:13-16",
+          "why_start_end_and_devices": "Starts the humble plea. Ends Elijah repeating the doom. Devices: Reverence answered with mercy."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Ahaziah Dies as Foretold",
+          "reference": "1:17-18",
+          "why_start_end_and_devices": "Starts the king's death. Ends the chronicle note. Devices: The word fulfilled."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Elisha Will Not Leave Elijah",
+          "reference": "2:1-6",
+          "why_start_end_and_devices": "Starts the journey to Bethel and Jericho. Ends 'as the LORD lives, I will not leave you.' Devices: Threefold testing of devotion."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "'Let a Double Portion Be on Me'",
+          "reference": "2:7-10",
+          "why_start_end_and_devices": "Starts the parting of the Jordan. Ends 'if you see me taken, it will be yours.' Devices: The hard condition for the firstborn's portion."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Chariot of Fire; Elijah Taken Up",
+          "reference": "2:11-12",
+          "why_start_end_and_devices": "Starts the fiery chariot. Ends 'my father, my father!' Devices: Translation without death—a unique departure."
+        },
+        {
+          "scene_number": 9,
           "scene_name": "Elisha's Authority Established",
           "reference": "2:13-18",
           "why_start_end_and_devices": "Starts with Elisha taking Elijah's mantle (2:13). Ends with the sons of the prophets ceasing their fruitless search for Elijah (2:18). Elisha's authority is confirmed by two signs: he parts the Jordan just as Elijah had (2:14), and the sons of the prophets recognize 'the spirit of Elijah doth rest on Elisha' (2:15). Their insistence on searching (2:16-18) proves to them that Elijah is truly gone and Elisha is his successor."
         },
         {
-          "scene_number": 4,
-          "scene_name": "Elisha's First Miracles: Healing and Cursing",
-          "reference": "2:19-25",
-          "why_start_end_and_devices": "Starts with 'And the men of the city said unto Elisha...' (2:19). Ends with Elisha's itinerary concluding ('...and from thence he returned to Samaria,' 2:25). This is a pair of short, contrasting miracle stories. The healing of the waters of Jericho (2:19-22) shows Elisha's power to bring life and blessing. The cursing of the youths at Bethel (2:23-24) shows his authority and the severe consequence of mocking a prophet of the LORD. Bethel was a center of false worship, which adds context to the encounter."
+          "scene_number": 10,
+          "scene_name": "The Spring at Jericho Healed",
+          "reference": "2:19-22",
+          "why_start_end_and_devices": "Starts the bad water. Ends the spring made wholesome. Devices: Salt and the LORD's word bring life."
         },
         {
-          "scene_number": 5,
-          "scene_name": "The Campaign Against Moab",
-          "reference": "3:1-27",
-          "why_start_end_and_devices": "Starts with regnal formula for Jehoram of Israel (3:1). Ends with the Moabite king's sacrifice; 'there was great indignation against Israel: and they departed' (3:27). A long, complex scene. It establishes Jehoram's character (evil, but not as evil as his father Ahab, 3:2). The alliance of three kings (Israel, Judah, Edom) is tested by a lack of water (3:9). Elisha's angry prophecy (3:13-19) is fulfilled in two parts: the miraculous water (3:20) and the military victory, which ends in a shocking and ambiguous pagan sacrifice that successfully turns back the Israelite army (3:27)."
+          "scene_number": 11,
+          "scene_name": "The Youths and the Bears at Bethel",
+          "reference": "2:23-25",
+          "why_start_end_and_devices": "Starts the mocking crowd. Ends the two bears. Devices: Contempt for the prophet judged."
         },
         {
-          "scene_number": 6,
-          "scene_name": "The Widow's Oil",
-          "reference": "4:1-7",
-          "why_start_end_and_devices": "Starts with 'Now there cried a certain woman...' (4:1). Ends with 'Then she came and told the man of God. And he said, Go, sell the oil...' (4:7). A self-contained miracle story of provision. The problem (debt, 4:1) is solved by a miracle of multiplication (4:4-6) that provides for the widow's future (4:7). The scene ends with the problem's complete resolution."
+          "scene_number": 12,
+          "scene_name": "Jehoram of Israel; Moab Rebels",
+          "reference": "3:1-5",
+          "why_start_end_and_devices": "Starts the new northern king. Ends Moab's rebellion. Devices: A king less evil, still not faithful."
         },
         {
-          "scene_number": 7,
-          "scene_name": "The Shunammite Woman's Son: The Promise",
-          "reference": "4:8-17",
-          "why_start_end_and_devices": "Starts with 'And it fell on a day, that Elisha passed to Shunem...' (4:8). Ends with '...and she conceived, and bare a son at that season... as Elisha had said.' (4:17). This scene establishes the relationship between Elisha and the 'great woman' (4:8). Her piety is shown by her building a 'prophet's chamber' (4:10). The scene's tension is her childlessness, which Elisha resolves with a prophecy (4:16) that is fulfilled (4:17)."
+          "scene_number": 13,
+          "scene_name": "Three Kings March Through Edom",
+          "reference": "3:6-9",
+          "why_start_end_and_devices": "Starts the coalition. Ends no water for the army. Devices: A campaign into crisis."
         },
         {
-          "scene_number": 8,
-          "scene_name": "The Shunammite's Son: The Death",
-          "reference": "4:18-31",
-          "why_start_end_and_devices": "Starts with 'And when the child was grown...' (4:18). Ends with Gehazi's failure: 'The child is not awaked.' (4:31). This scene mirrors the structure of Elijah's miracle with the widow of Zarephath. The narrative builds tension from the boy's death (4:20), the mother's determined journey ('It is well,' 4:23, 26), and her direct, desperate plea to Elisha (4:27-28). The scene ends on a cliffhanger: the prophet's staff, wielded by his servant, fails."
+          "scene_number": 14,
+          "scene_name": "'Is There No Prophet Here?'",
+          "reference": "3:10-12",
+          "why_start_end_and_devices": "Starts the kings' despair. Ends seeking Elisha. Devices: Jehoshaphat's instinct to inquire of the LORD."
         },
         {
-          "scene_number": 9,
+          "scene_number": 15,
+          "scene_name": "Elisha Calls for a Harpist",
+          "reference": "3:13-15",
+          "why_start_end_and_devices": "Starts Elisha's rebuke of Israel's king. Ends 'the hand of the LORD came on him.' Devices: Music preparing the prophet."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Water Without Wind or Rain",
+          "reference": "3:16-20",
+          "why_start_end_and_devices": "Starts the command to dig ditches. Ends the valley full of water. Devices: Provision and a sign of victory."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Moab Sees Blood-Red Water; Routed",
+          "reference": "3:21-25",
+          "why_start_end_and_devices": "Starts Moab mistaking the water for blood. Ends their land laid waste. Devices: A fatal misperception."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The King of Moab's Desperate Sacrifice",
+          "reference": "3:26-27",
+          "why_start_end_and_devices": "Starts the failed breakout. Ends Israel withdrawing. Devices: A horrifying, ambiguous ending."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Widow's Plea; Gather Vessels",
+          "reference": "4:1-4",
+          "why_start_end_and_devices": "Starts the creditor threatening her sons. Ends shutting the door with the jars. Devices: Faith measured by empty vessels."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Oil Multiplied; Debts Paid",
+          "reference": "4:5-7",
+          "why_start_end_and_devices": "Starts the flowing oil. Ends 'live on the rest.' Devices: Provision exactly matching faith."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Shunammite's Hospitality",
+          "reference": "4:8-11",
+          "why_start_end_and_devices": "Starts the prominent woman. Ends the prophet's room. Devices: Kindness that invites blessing."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "'You Will Hold a Son'",
+          "reference": "4:12-17",
+          "why_start_end_and_devices": "Starts Elisha's question of reward. Ends the promised child born. Devices: A barren woman remembered."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "The Child Dies on His Mother's Lap",
+          "reference": "4:18-21",
+          "why_start_end_and_devices": "Starts 'my head, my head!' Ends laid on the prophet's bed. Devices: Sudden grief; quiet faith."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "She Rides to the Man of God",
+          "reference": "4:22-25",
+          "why_start_end_and_devices": "Starts the urgent journey. Ends Elisha seeing her afar. Devices: 'It is well'—faith under pressure."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Gehazi's Staff Fails",
+          "reference": "4:26-31",
+          "why_start_end_and_devices": "Starts 'is it well with the child?' Ends 'the boy has not awakened.' Devices: No shortcut—the prophet himself must come."
+        },
+        {
+          "scene_number": 26,
           "scene_name": "The Shunammite's Son: The Revival",
           "reference": "4:32-37",
           "why_start_end_and_devices": "Starts with 'And when Elisha was come into the house...' (4:32). Ends with 'Then she went in, and fell at his feet... and took up her son, and went out.' (4:37). The resolution. Elisha's method (stretching himself on the child, 4:34) is intensely personal, unlike Gehazi's proxy attempt. The seven sneezes (4:35) are a vivid detail. The scene ends with the quiet, powerful restoration of the child to his mother."
         },
         {
-          "scene_number": 10,
-          "scene_name": "Miracles at Gilgal: Death in the Pot and the Feeding of the Hundred",
-          "reference": "4:38-44",
-          "why_start_end_and_devices": "Starts with 'And Elisha came again to Gilgal: and there was a dearth...' (4:38). Ends with '...they did eat, and left thereof, according to the word of the LORD.' (4:44). A pair of linked food miracles. Both demonstrate Elisha's power over nature (poison, 4:41) and his ability to provide supernaturally (multiplication of loaves, 4:43-44), echoing the earlier oil miracle and foreshadowing Christ's miracles."
+          "scene_number": 27,
+          "scene_name": "Death in the Pot Healed",
+          "reference": "4:38-41",
+          "why_start_end_and_devices": "Starts the poisonous stew. Ends 'there was no harm.' Devices: Flour neutralizes the death."
         },
         {
-          "scene_number": 11,
-          "scene_name": "The Healing of Naaman",
-          "reference": "5:1-19",
-          "why_start_end_and_devices": "Starts with 'Now Naaman, captain of the host...' (5:1). Ends with 'And he said unto him, Go in peace. So he departed from him a little way.' (5:19). A masterful short story. It involves a 'little maid' (5:2), a foolish king (5:7), and a proud warrior (5:11-12). The tension hinges on Naaman's pride. The turning point is his servants' wise counsel (5:13). The resolution is his healing (5:14) and his conversion ('Behold, now I know that there is no God in all the earth, but in Israel,' 5:15). It ends with his request for 'two mules' burden of earth' and Elisha's blessing."
+          "scene_number": 28,
+          "scene_name": "Feeding a Hundred with Twenty Loaves",
+          "reference": "4:42-44",
+          "why_start_end_and_devices": "Starts the firstfruits brought. Ends 'they ate and had some left.' Devices: Multiplication foreshadowing the Gospels."
         },
         {
-          "scene_number": 12,
-          "scene_name": "Gehazi's Greed",
-          "reference": "5:20-27",
-          "why_start_end_and_devices": "Starts with 'But Gehazi, the servant of Elisha... said, Behold...' (5:20). Ends with 'And he went out from his presence a leper as white as snow.' (5:27). This scene is the tragic 'anti-miracle' and epilogue to the Naaman story. Gehazi's greed (5:20) is a direct contrast to Elisha's refusal of payment (5:16). The narrative uses dramatic irony: Elisha knows exactly where Gehazi has been (5:25-26). The scene ends with a terrible poetic justice: the leprosy from Naaman cleaves to Gehazi."
+          "scene_number": 29,
+          "scene_name": "Naaman the Leper; the Captive Girl's Word",
+          "reference": "5:1-5",
+          "why_start_end_and_devices": "Starts the great commander's disease. Ends Naaman setting out. Devices: A little servant girl's faith sets it all in motion."
         },
         {
-          "scene_number": 13,
-          "scene_name": "The Floating Axe Head",
-          "reference": "6:1-7",
-          "why_start_end_and_devices": "Starts with 'And the sons of the prophets said unto Elisha...' (6:1). Ends with 'And he put out his hand, and took it.' (6:7). A simple, self-contained miracle story demonstrating God's care for His people in small, everyday matters ('Alas, master! for it was borrowed,' 6:5), just as He does in large, national crises."
+          "scene_number": 30,
+          "scene_name": "The King's Dismay; Elisha's Summons",
+          "reference": "5:6-8",
+          "why_start_end_and_devices": "Starts the panicked king of Israel. Ends 'let him come to me.' Devices: 'He will know there is a prophet in Israel.'"
         },
         {
-          "scene_number": 14,
-          "scene_name": "Elisha and the Syrian Army",
-          "reference": "6:8-23",
-          "why_start_end_and_devices": "Starts with 'Then the king of Syria warred against Israel...' (6:8). Ends with 'So the bands of Syria came no more into the land of Israel.' (6:23). A story of spiritual warfare. The tension moves from the king's frustration (6:11) to Elisha's servant's fear (6:15). The hinge is Elisha's prayer: 'LORD, I pray thee, open his eyes' (6:17), revealing the 'mountain full of horses and chariots of fire.' The resolution is a brilliant anti-warfare move: Elisha blinds the army, leads them to Samaria, and then commands the king, 'Thou shalt not smite them... set bread and water before them' (6:22). This act of mercy ends the conflict."
+          "scene_number": 31,
+          "scene_name": "'Wash in the Jordan Seven Times'—Naaman's Rage",
+          "reference": "5:9-12",
+          "why_start_end_and_devices": "Starts the simple command. Ends Naaman turning away in fury. Devices: Pride offended by humility's path."
         },
         {
-          "scene_number": 15,
-          "scene_name": "The Siege of Samaria and the King's Vow",
-          "reference": "6:24-33",
-          "why_start_end_and_devices": "Starts with 'And it came to pass after this, that Ben-hadad... besieged Samaria.' (6:24). Ends with '...God do so and more also to me, if the head of Elisha... shall stand on him this day.' (6:31). This is the king's reaction, setting up the next scene. This scene depicts the depths of the curse of Deuteronomy 28. The horror of the siege is captured in the 'ass's head' (6:25) and the cannibalism of the two mothers (6:28-29). The scene ends with the king's utter despair and his murderous vow against Elisha, creating a tense cliffhanger."
+          "scene_number": 32,
+          "scene_name": "Healed; 'No God but in Israel'",
+          "reference": "5:13-15",
+          "why_start_end_and_devices": "Starts the servants' reasoning. Ends his confession of faith. Devices: Childlike obedience brings cleansing."
         },
         {
-          "scene_number": 16,
-          "scene_name": "The Prophecy and the Four Lepers",
-          "reference": "7:1-11",
-          "why_start_end_and_devices": "Starts with 'Then Elisha said, Hear ye the word of the LORD...' (7:1). Ends with 'So they came and called unto the porter of the city...' (7:10). The scene provides the divine solution. Elisha's prophecy (7:1) is met with scorn by the 'lord on whose hand the king leaned' (7:2). The narrative then shifts to the four lepers, the ultimate outsiders. Their logic ('Why sit we here until we die?' 7:3) leads them to discover the miracle (7:8) and to their role as 'messengers of good tidings' (7:9)."
+          "scene_number": 33,
+          "scene_name": "Elisha Refuses Payment; Two Mule-Loads of Earth",
+          "reference": "5:16-19",
+          "why_start_end_and_devices": "Starts the declined gift. Ends 'go in peace.' Devices: Grace cannot be bought."
         },
         {
-          "scene_number": 17,
-          "scene_name": "The Siege Lifted and Prophecy Fulfilled",
-          "reference": "7:12-20",
-          "why_start_end_and_devices": "Starts with 'And the king arose in the night...' (7:12). Ends with '...the people trode upon him in the gate, and he died' (7:20). This scene resolves the siege. The king's lingering suspicion (7:12) is overcome by his servant's counsel (7:13). The scene concludes with the final, grim fulfillment of Elisha's prophecy against the unbelieving lord (7:17-20), a powerful inclusio that brackets the entire deliverance story."
+          "scene_number": 34,
+          "scene_name": "Gehazi's Lie to Naaman",
+          "reference": "5:20-24",
+          "why_start_end_and_devices": "Starts the greedy pursuit. Ends hiding the silver and garments. Devices: Covetousness undoing a servant."
         },
         {
-          "scene_number": 18,
+          "scene_number": 35,
+          "scene_name": "Naaman's Leprosy Clings to Gehazi",
+          "reference": "5:25-27",
+          "why_start_end_and_devices": "Starts 'where have you been?' Ends Gehazi leprous as snow. Devices: The healed disease transferred to the greedy."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The Company Outgrows Its Place",
+          "reference": "6:1-4",
+          "why_start_end_and_devices": "Starts the cramped quarters. Ends felling trees by the Jordan. Devices: A homely setting for a wonder."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "The Axe Head Floats",
+          "reference": "6:5-7",
+          "why_start_end_and_devices": "Starts the lost borrowed iron. Ends it floating to the surface. Devices: God's care in the small things."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Elisha Reveals the Aramean Plans",
+          "reference": "6:8-12",
+          "why_start_end_and_devices": "Starts the king of Aram outwitted. Ends 'Elisha tells the words you speak.' Devices: Prophetic intelligence."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "'Those With Us Are More'; the Fiery Horses",
+          "reference": "6:13-17",
+          "why_start_end_and_devices": "Starts the army surrounding Dothan. Ends the servant's opened eyes. Devices: The unseen heavenly host revealed."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "The Army Struck Blind, Led to Samaria",
+          "reference": "6:18-20",
+          "why_start_end_and_devices": "Starts the prayer for blindness. Ends their eyes opened inside the city. Devices: A bloodless capture."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Fed and Sent Home; the Raids Cease",
+          "reference": "6:21-23",
+          "why_start_end_and_devices": "Starts 'shall I kill them?' Ends the bands stopping their raids. Devices: Mercy disarms the enemy."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "The Siege Famine; the Cannibalism",
+          "reference": "6:24-29",
+          "why_start_end_and_devices": "Starts Ben-hadad's siege. Ends the horror of mothers eating their sons. Devices: The covenant curse realized (Deut 28)."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "The King Vows to Behead Elisha",
+          "reference": "6:30-33",
+          "why_start_end_and_devices": "Starts the sackcloth beneath the robe. Ends 'why wait for the LORD any longer?' Devices: Despair turning against the prophet."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Elisha Foretells Plenty; the Officer's Doubt",
+          "reference": "7:1-2",
+          "why_start_end_and_devices": "Starts the promise of cheap flour. Ends 'you will see it but not eat.' Devices: Faith and scoffing contrasted."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "The Four Lepers Find the Camp Deserted",
+          "reference": "7:3-7",
+          "why_start_end_and_devices": "Starts the lepers at the gate. Ends the Arameans fled in panic. Devices: God's army-sound routs the enemy."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "They Report the Good News",
+          "reference": "7:8-11",
+          "why_start_end_and_devices": "Starts the lepers' feast and conscience. Ends the report to the city. Devices: 'This is a day of good news.'"
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "The King's Caution; Scouts Sent",
+          "reference": "7:12-15",
+          "why_start_end_and_devices": "Starts the suspicion of a trap. Ends the road strewn with discarded goods. Devices: Confirmation of the flight."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Plenty as Foretold; the Officer Trampled",
+          "reference": "7:16-20",
+          "why_start_end_and_devices": "Starts the plunder and cheap flour. Ends the doubting officer crushed at the gate. Devices: Both halves of the prophecy fulfilled."
+        },
+        {
+          "scene_number": 49,
           "scene_name": "The Shunammite's Land Restored",
           "reference": "8:1-6",
           "why_start_end_and_devices": "Starts with 'Then spake Elisha unto the woman, whose son he had restored...' (8:1). Ends with 'Restore all that was hers...' (8:6). This is an epilogue to the Shunammite story from chapter 4. It serves as a narrative 'flashback' (chronologically, it may have happened earlier). The scene hinges on a divine 'coincidence': she arrives to petition the king at the exact moment Gehazi is recounting Elisha's miracles about her (8:5). This confirms her story and ensures the restoration of her land."
         },
         {
-          "scene_number": 19,
-          "scene_name": "Elisha, Hazael, and the King of Syria",
-          "reference": "8:7-15",
-          "why_start_end_and_devices": "Starts with 'And Elisha came to Damascus...' (8:7). Ends with 'Hazael... smote him... and reigned in his stead.' (8:15). Elisha fulfills the first part of the commission given to Elijah in 1 Kings 19:15: anoint Hazael. The scene is full of tension as Elisha weeps, knowing the atrocities Hazael will commit (8:12). Hazael's feigned innocence ('is thy servant a dog?' 8:13) is followed by his immediate, brutal murder of the king."
+          "scene_number": 50,
+          "scene_name": "Hazael's Errand; Ben-hadad's Fate",
+          "reference": "8:7-10",
+          "why_start_end_and_devices": "Starts the sick king's inquiry. Ends 'he will surely die.' Devices: A prophecy with a deadly double meaning."
         },
         {
-          "scene_number": 20,
-          "scene_name": "The Wicked Reigns of Jehoram and Ahaziah of Judah",
-          "reference": "8:16-29",
-          "why_start_end_and_devices": "Starts with regnal formula for Jehoram of Judah (8:16). Ends with Ahaziah of Judah going to Jezreel to see the wounded Joram of Israel (8:29). This is a dense summary scene that transitions the narrative focus. It introduces Judah's apostasy ('he walked in the way of the kings of Israel... for the daughter of Ahab was his wife,' 8:18). The scene's crucial function is its ending (8:28-29), which places both kings at Jezreel, setting the stage perfectly for Jehu's impending coup."
+          "scene_number": 51,
+          "scene_name": "Elisha Weeps; Hazael Murders the King",
+          "reference": "8:11-15",
+          "why_start_end_and_devices": "Starts the prophet's tears over future cruelty. Ends Hazael smothering Ben-hadad. Devices: Foreknowledge of horror; ambition fulfilled."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Jehoram of Judah's Evil Reign",
+          "reference": "8:16-19",
+          "why_start_end_and_devices": "Starts the marriage to Ahab's house. Ends 'for David's sake' a lamp remained. Devices: Northern corruption infecting Judah."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Edom and Libnah Revolt; Jehoram Dies",
+          "reference": "8:20-24",
+          "why_start_end_and_devices": "Starts the revolts. Ends Ahaziah succeeding. Devices: The kingdom fraying."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Ahaziah of Judah; Wounded Joram",
+          "reference": "8:25-29",
+          "why_start_end_and_devices": "Starts Ahaziah's brief reign. Ends visiting wounded Joram. Devices: Setting up Jehu's coup."
         }
       ]
     },
@@ -140,81 +344,255 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Anointing of Jehu",
-          "reference": "9:1-13",
-          "why_start_end_and_devices": "Starts with Elisha giving his command (9:1). Ends with 'Then they hasted... and blew with trumpets, saying, Jehu is king.' (9:13). A scene of sudden, secret, and urgent action. The young prophet's mission (9:6-10) explicitly repeats the prophecy against Ahab's house. The scene pivots on the other captains' question, 'Is all well?... Wherefore came this mad fellow?' (9:11), and explodes into acclamation (9:13)."
+          "scene_name": "Jehu Anointed Secretly",
+          "reference": "9:1-6",
+          "why_start_end_and_devices": "Starts the young prophet sent. Ends 'I anoint you king over Israel.' Devices: A hurried, secret commissioning."
         },
         {
           "scene_number": 2,
-          "scene_name": "The Slaying of King Joram (Israel) and King Ahaziah (Judah)",
-          "reference": "9:14-29",
-          "why_start_end_and_devices": "Starts with 'So Jehu... conspired against Joram.' (9:14). Ends with Ahaziah's death and burial recorded (9:27-29). A fast-paced, violent narrative. The tension builds with the watchman's repeated reports (9:17-20). The climax is the meeting at 'the portion of Naboth' (9:21), a site of great narrative irony. Jehu's fulfillment of prophecy is explicit (9:25-26). The death of both kings establishes Jehu's total control."
+          "scene_name": "Commissioned to Destroy Ahab's House",
+          "reference": "9:7-10",
+          "why_start_end_and_devices": "Starts the charge against Ahab's line. Ends the prophet fleeing. Devices: Jezebel's doom foretold again."
         },
         {
           "scene_number": 3,
-          "scene_name": "The Death of Jezebel",
-          "reference": "9:30-37",
-          "why_start_end_and_devices": "Starts with 'And when Jehu was come to Jezreel, Jezebel heard of it...' (9:30). Ends with '...which spake by his servant Elijah... saying, In the portion of Jezreel shall dogs eat the flesh of Jezebel.' (9:36). The final, grim fulfillment of Elijah's great prophecy. Jezebel's defiance (9:30-31) is met with Jehu's ruthless command (9:33). The discovery of her remains (9:35) is the narrative proof, explicitly stated in 9:36-37, that God's word through His prophet is immutable."
+          "scene_name": "'Jehu Is King!'",
+          "reference": "9:11-13",
+          "why_start_end_and_devices": "Starts the officers' curiosity. Ends the cloaks and trumpet. Devices: Spontaneous acclamation."
         },
         {
           "scene_number": 4,
-          "scene_name": "Jehu Purges Ahab's House in Samaria",
-          "reference": "10:1-11",
-          "why_start_end_and_devices": "Starts with 'And Ahab had seventy sons in Samaria.' (10:1). Ends with '...so that he left him none remaining.' (10:11). Jehu's bloody consolidation of power. He uses a political maneuver (the letters, 10:1) to force the elders of Samaria to execute the royal family themselves (10:7-9). Jehu's speech ('I conspired... but who slew all these?' 10:9) is a piece of grim, manipulative irony, yet he again frames it as fulfilling prophecy (10:10)."
+          "scene_name": "Jehu Drives Furiously to Jezreel",
+          "reference": "9:14-18",
+          "why_start_end_and_devices": "Starts the conspiracy. Ends 'the driving is like Jehu's—furiously.' Devices: Relentless momentum."
         },
         {
           "scene_number": 5,
-          "scene_name": "Jehu Purges the Brethren of Ahaziah and the Worshipers of Baal",
-          "reference": "10:12-28",
-          "why_start_end_and_devices": "Starts with 'And he arose and departed... to Samaria.' (10:12). Ends with 'Thus Jehu destroyed Baal out of Israel.' (10:28). A two-part scene of purging. First, the slaughter of Ahaziah's relatives (10:12-14). Second, the elaborate and deceitful trap for the Baal worshipers (10:18-27), demonstrating Jehu's 'zeal for the LORD' (10:16). The scene climaxes with the total destruction of the temple of Baal."
+          "scene_name": "'What Peace, While Jezebel's Whoredoms Abound?'",
+          "reference": "9:19-23",
+          "why_start_end_and_devices": "Starts the messengers absorbed. Ends Joram fleeing, crying treachery. Devices: No peace without righteousness."
         },
         {
           "scene_number": 6,
-          "scene_name": "The Reign and Legacy of Jehu",
-          "reference": "10:29-36",
-          "why_start_end_and_devices": "Starts with 'Howbeit from the sins of Jeroboam... Jehu departed not...' (10:29). Ends with the standard regnal formula conclusion for Jehu (10:34-36). This is the crucial summary of Jehu's reign. It presents the central paradox: God blesses him for his zeal with a four-generation dynasty (10:30) but also condemns him for his continued idolatry (10:29, 31). This failure leads directly to the nation's 'cutting short' by Hazael (10:32)."
+          "scene_name": "Joram Killed in Naboth's Field",
+          "reference": "9:24-26",
+          "why_start_end_and_devices": "Starts the arrow through Joram's heart. Ends 'on Naboth's plot.' Devices: Poetic justice on Ahab's ground."
         },
         {
           "scene_number": 7,
-          "scene_name": "Athaliah's Usurpation and Joash's Rescue",
-          "reference": "11:1-12",
-          "why_start_end_and_devices": "Starts with 'And when Athaliah the mother of Ahaziah saw that her son was dead...' (11:1). Ends with '...and clapped their hands, and said, God save the king.' (11:12). The narrative shifts to Judah. This scene is a tense story of destruction and preservation. Athaliah (daughter of Ahab) attempts to wipe out David's line (11:1). The entire hope of the covenant rests on one 'stolen' baby, Joash (11:2). The scene builds for six years (11:3) and climaxes with Jehoiada's carefully orchestrated counter-coup (11:4-12)."
+          "scene_name": "Ahaziah of Judah Wounded, Dies",
+          "reference": "9:27-29",
+          "why_start_end_and_devices": "Starts the pursuit. Ends his burial in Jerusalem. Devices: The southern king caught in the purge."
         },
         {
           "scene_number": 8,
-          "scene_name": "The Death of Athaliah and Jehoiada's Covenant",
-          "reference": "11:13-21",
-          "why_start_end_and_devices": "Starts with 'And when Athaliah heard the noise...' (11:13). Ends with regnal formula for Joash (11:21-12:1). The resolution of the coup. Athaliah is executed (11:15-16). Jehoiada then performs two covenants: one between the LORD, the king, and the people (11:17) and one between the king and the people. This is followed by a religious purge (11:18) and the secure establishment of Joash on the throne."
+          "scene_name": "Jezebel Thrown from the Window",
+          "reference": "9:30-33",
+          "why_start_end_and_devices": "Starts her painted defiance. Ends her blood on the wall. Devices: A queen's contemptuous, violent end."
         },
         {
           "scene_number": 9,
-          "scene_name": "Joash Repairs the Temple",
-          "reference": "12:1-16",
-          "why_start_end_and_devices": "Starts with the regnal formula for Joash (12:1-3). Ends with '...the priests had it.' (12:16). A narrative unit focused on the temple. It details Joash's piety while Jehoiada lived (12:2). The core of the scene is the administrative problem (the priests' failure to use the money, 12:6-8) and its solution (the chest, 12:9). This is a story about faithful stewardship."
+          "scene_name": "'Dogs Will Eat Jezebel'",
+          "reference": "9:34-37",
+          "why_start_end_and_devices": "Starts the order to bury her. Ends only her skull and hands found. Devices: Elijah's prophecy fulfilled precisely."
         },
         {
           "scene_number": 10,
-          "scene_name": "The Apostasy and Death of Joash",
-          "reference": "12:17-21",
-          "why_start_end_and_devices": "Starts with 'Then Hazael king of Syria went up...' (12:17). Ends with regnal formula conclusion for Joash (12:19-21). The tragic end of Joash's reign. (2 Chronicles 24 fills in the detail of Jehoiada's death and the king's apostasy). Here, the narrative simply states his political failure (buying off Hazael, 12:18) and his assassination (12:20-21)."
+          "scene_name": "Jehu's Letter to Samaria's Leaders",
+          "reference": "10:1-5",
+          "why_start_end_and_devices": "Starts the challenge to the guardians. Ends their fearful submission. Devices: Intimidation securing the coup."
         },
         {
           "scene_number": 11,
-          "scene_name": "Reign of Jehoahaz (Israel) and the Death of Elisha",
-          "reference": "13:1-25",
-          "why_start_end_and_devices": "Starts with regnal formula for Jehoahaz (13:1). Ends with the summary of Jehoash's victories over Syria (13:25). This scene intertwines the failing dynasty of Jehu with the death of its prophetic founder, Elisha. Jehoahaz's evil reign (13:2) is met with Syrian oppression (13:3) and a brief prayer (13:4). The narrative then shifts to Elisha's deathbed (13:14). The 'arrow of the LORD's deliverance' (13:17) is a final prophecy, tinged with the king's failure (13:19). The scene ends with a final miracle (the bones, 13:21) and the fulfillment of the prophecy (13:25)."
+          "scene_name": "The Seventy Heads in Baskets",
+          "reference": "10:6-8",
+          "why_start_end_and_devices": "Starts the grisly demand. Ends the heads piled at the gate. Devices: A brutal demonstration of power."
         },
         {
           "scene_number": 12,
-          "scene_name": "Reign of Amaziah (Judah) and War with Israel",
-          "reference": "14:1-22",
-          "why_start_end_and_devices": "Starts with regnal formula for Amaziah (14:1). Ends with regnal formula conclusion for Amaziah (14:18-22). A scene defined by Amaziah's hubris. After a victory over Edom (14:7), he foolishly challenges Jehoash of Israel (14:8). Jehoash's parable of the thistle and the cedar (14:9) is a brilliant piece of embedded literature. The scene resolves with Amaziah's humiliating defeat (14:12-14) and eventual assassination (14:19)."
+          "scene_name": "Jehu Wipes Out Ahab's House",
+          "reference": "10:9-11",
+          "why_start_end_and_devices": "Starts Jehu's public justification. Ends none of Ahab's house left. Devices: Thorough, ruthless fulfillment."
         },
         {
           "scene_number": 13,
-          "scene_name": "Reign of Jeroboam II (Israel) and Conclusion of the Era",
-          "reference": "14:23-29",
-          "why_start_end_and_devices": "Starts with regnal formula for Jeroboam II (14:23). Ends with 'And Jeroboam slept with his fathers... and Zechariah his son reigned in his stead.' (14:29). This scene marks the political apex and final ruler of Jehu's dynasty. Despite 'doing evil' (14:24), he is a 'saviour' (14:27) who restores Israel's borders. This is the last moment of stability before the total collapse of the Northern Kingdom, making it a perfect end to the story arc."
+          "scene_name": "Ahaziah's Relatives Slain",
+          "reference": "10:12-14",
+          "why_start_end_and_devices": "Starts the chance meeting. Ends forty-two killed. Devices: The purge spreading to Judah's royals."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Jehonadab Joins Jehu",
+          "reference": "10:15-17",
+          "why_start_end_and_devices": "Starts the offered hand. Ends 'come see my zeal.' Devices: An ally for the slaughter."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Jehu Feigns Zeal for Baal",
+          "reference": "10:18-21",
+          "why_start_end_and_devices": "Starts the great assembly proclaimed. Ends the temple of Baal full. Devices: Deception to gather the victims."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Worshipers Gathered",
+          "reference": "10:22-24",
+          "why_start_end_and_devices": "Starts the vestments distributed. Ends the eighty men posted. Devices: The trap sealed."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Baal Worshipers Slaughtered; the Temple Razed",
+          "reference": "10:25-28",
+          "why_start_end_and_devices": "Starts the signal. Ends Baal purged from Israel. Devices: Zeal that obeys—up to a point."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Jehu Keeps Jeroboam's Calves",
+          "reference": "10:29-31",
+          "why_start_end_and_devices": "Starts the unremoved calves. Ends 'not careful to walk in the law.' Devices: Partial obedience—zeal without holiness."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Israel's Territory Shrinks; Jehu Dies",
+          "reference": "10:32-36",
+          "why_start_end_and_devices": "Starts Hazael's encroachment. Ends Jehu's twenty-eight years. Devices: Decline begins under the dynasty."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Athaliah Kills the Royal Heirs; Joash Hidden",
+          "reference": "11:1-3",
+          "why_start_end_and_devices": "Starts the queen mother's massacre. Ends Joash hidden six years. Devices: The Davidic line nearly extinguished—one infant survives."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Jehoiada's Plot with the Guards",
+          "reference": "11:4-8",
+          "why_start_end_and_devices": "Starts the priest's covenant with the captains. Ends guarding the boy-king. Devices: A careful coup for the rightful heir."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Joash Crowned in the Temple",
+          "reference": "11:9-12",
+          "why_start_end_and_devices": "Starts the guards in position. Ends 'long live the king!' Devices: The crown and the Testimony given."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Athaliah Executed",
+          "reference": "11:13-16",
+          "why_start_end_and_devices": "Starts her cry of 'treason!' Ends her death outside the temple. Devices: The usurper removed without defiling the sanctuary."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Covenant; Baal's Temple Torn Down",
+          "reference": "11:17-21",
+          "why_start_end_and_devices": "Starts the covenant renewed. Ends Joash on the throne at seven. Devices: Reform and restoration."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Joash Orders the Temple Repaired",
+          "reference": "12:1-5",
+          "why_start_end_and_devices": "Starts his good reign under Jehoiada. Ends the order to collect funds. Devices: A king's heart for God's house."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Priests' Delay; a Chest for Offerings",
+          "reference": "12:6-9",
+          "why_start_end_and_devices": "Starts the neglected repairs. Ends the offering chest by the altar. Devices: A practical fix for accountability."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Money Counted and Paid Out",
+          "reference": "12:10-12",
+          "why_start_end_and_devices": "Starts counting the silver. Ends paying the workmen. Devices: Transparent stewardship."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Trusted Workmen; Guilt Money to the Priests",
+          "reference": "12:13-16",
+          "why_start_end_and_devices": "Starts no vessels made, only repairs. Ends 'they acted faithfully.' Devices: Integrity in the work."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Apostasy and Death of Joash",
+          "reference": "12:17-21",
+          "why_start_end_and_devices": "Starts Hazael's threat bought off with temple gold. Ends Joash murdered by his servants. Devices: A reign that ends in compromise and blood. (kept whole — 5v)"
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Jehoahaz Oppressed by Aram",
+          "reference": "13:1-6",
+          "why_start_end_and_devices": "Starts his evil reign. Ends Israel still in sin. Devices: Oppression as discipline; a brief deliverer noted."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Israel Reduced to a Remnant",
+          "reference": "13:7-9",
+          "why_start_end_and_devices": "Starts the shrunken army. Ends Jehoash succeeding. Devices: 'Like dust at threshing'—near destruction."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Jehoash of Israel",
+          "reference": "13:10-13",
+          "why_start_end_and_devices": "Starts his sixteen years. Ends Jeroboam succeeding. Devices: The regnal frame."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Elisha's Last Prophecy: the Arrows",
+          "reference": "13:14-19",
+          "why_start_end_and_devices": "Starts the dying prophet. Ends 'you struck only three times.' Devices: A sign-act of half-hearted faith."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "A Corpse Revives at Elisha's Bones",
+          "reference": "13:20-21",
+          "why_start_end_and_devices": "Starts the burial. Ends the dead man revived. Devices: Power even from the prophet's grave."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Three Victories Over Aram",
+          "reference": "13:22-25",
+          "why_start_end_and_devices": "Starts the LORD's compassion. Ends recovered cities. Devices: Mercy for the covenant's sake."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Amaziah of Judah; the Murderers Punished",
+          "reference": "14:1-6",
+          "why_start_end_and_devices": "Starts his largely good reign. Ends sparing the murderers' children (per the law). Devices: Justice tempered by Deuteronomy."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Victory Over Edom; the Challenge to Israel",
+          "reference": "14:7-10",
+          "why_start_end_and_devices": "Starts the Valley of Salt. Ends 'why provoke trouble?' Devices: Pride after victory."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Judah Defeated; Jerusalem Plundered",
+          "reference": "14:11-14",
+          "why_start_end_and_devices": "Starts the battle at Beth-shemesh. Ends the temple treasures taken. Devices: Folly humbled."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Jehoash of Israel Dies",
+          "reference": "14:15-16",
+          "why_start_end_and_devices": "Starts the regnal note. Ends Jeroboam II succeeding. Devices: Bridging entry."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Amaziah's Death; Azariah Builds Elath",
+          "reference": "14:17-22",
+          "why_start_end_and_devices": "Starts the conspiracy against him. Ends Azariah's accession. Devices: Closing the reign."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Jeroboam II Restores Israel's Borders",
+          "reference": "14:23-25",
+          "why_start_end_and_devices": "Starts his long, evil reign. Ends restoring the borders per Jonah's word. Devices: Prosperity despite apostasy."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "The LORD's Compassion; Jeroboam Dies",
+          "reference": "14:26-29",
+          "why_start_end_and_devices": "Starts the bitter affliction seen. Ends Zechariah succeeding. Devices: Undeserved mercy to a sinful nation."
         }
       ]
     },
@@ -226,63 +604,135 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Azariah (Judah) and Zechariah (Israel): The End of Jehu's Line",
-          "reference": "15:1-12",
-          "why_start_end_and_devices": "Starts with regnal formula for Azariah (15:1). Ends with 'This was the word of the LORD... Thy sons shall sit on the throne of Israel unto the fourth generation. And so it came to pass.' (15:12). This scene provides the parallel reign in Judah (the long, leprous reign of Azariah/Uzziah) and, critically, the end of Jehu's dynasty. The assassination of Zechariah (15:10) explicitly fulfills the prophecy from 10:30, closing that arc and opening the door to chaos."
+          "scene_name": "Azariah's Long Reign",
+          "reference": "15:1-4",
+          "why_start_end_and_devices": "Starts his fifty-two years. Ends the high places remaining. Devices: Good, but incomplete reform."
         },
         {
           "scene_number": 2,
-          "scene_name": "Chaos in Israel: Shallum, Menahem, and the Rise of Assyria",
-          "reference": "15:13-22",
-          "why_start_end_and_devices": "Starts with regnal formula for Shallum (15:13). Ends with regnal formula conclusion for Menahem (15:21-22). A scene of violent instability. Shallum's month-long reign (15:13) is ended by Menahem (15:14). Menahem's brutal reign (15:16) is marked by the first appearance of 'Pul the king of Assyria' (Tiglath-Pileser), who comes not as a conqueror but as an extortionist, paid off by Menahem (15:19-20)."
+          "scene_name": "Leprous Until Death; Jotham Co-Regent",
+          "reference": "15:5-7",
+          "why_start_end_and_devices": "Starts the LORD striking him. Ends Jotham governing. Devices: Judgment on the king (cf. 2 Chr 26)."
         },
         {
           "scene_number": 3,
-          "scene_name": "The Final Kings of Israel: Pekahiah and Pekah",
-          "reference": "15:23-31",
-          "why_start_end_and_devices": "Starts with regnal formula for Pekahiah (15:23). Ends with regnal formula conclusion for Pekah (15:30-31). The chaos continues. Pekahiah is assassinated by Pekah (15:25). Pekah's reign (15:27) is marked by the second Assyrian invasion, but this time Tiglath-Pileser conquers territory ('Galilee, all the land of Naphtali') and deports the people (15:29). This is the beginning of the end. Pekah is then assassinated by Hoshea (15:30)."
+          "scene_name": "Zechariah Murdered; Jehu's Line Ends",
+          "reference": "15:8-12",
+          "why_start_end_and_devices": "Starts the six-month reign. Ends 'the word to Jehu fulfilled.' Devices: The fourth generation, as promised."
         },
         {
           "scene_number": 4,
-          "scene_name": "Jotham and Ahaz of Judah",
-          "reference": "15:32 - 16:9",
-          "why_start_end_and_devices": "Starts with regnal formula for Jotham (15:32). Ends with 'So the king of Assyria hearkened unto him... and took [Damascus].' (16:9). The narrative shifts to Judah to show its part in this story. Jotham's good reign is brief (15:32-38). Ahaz's evil reign (16:2) is the focus. Facing the Syro-Ephraimite war (16:5), Ahaz makes the fatal, covenant-breaking decision to appeal to Tiglath-Pileser as a vassal ('I am thy servant and thy son,' 16:7), dragging Judah into Assyria's orbit and paying for it with temple gold."
+          "scene_name": "Shallum Killed by Menahem",
+          "reference": "15:13-16",
+          "why_start_end_and_devices": "Starts the one-month reign. Ends Menahem's brutality. Devices: Anarchy in the north."
         },
         {
           "scene_number": 5,
-          "scene_name": "Ahaz's Apostasy and Death",
-          "reference": "16:10-20",
-          "why_start_end_and_devices": "Starts with 'And king Ahaz went to Damascus...' (16:10). Ends with regnal formula conclusion for Ahaz (16:19-20). This scene details the religious consequence of Ahaz's political folly. He imports a pagan altar design from Damascus (16:10), forces the priest Urijah to build it, and desecrates the temple (16:14-18). This act of profound apostasy sets the stage for Judah's own eventual fall."
+          "scene_name": "Menahem Buys Off Assyria",
+          "reference": "15:17-22",
+          "why_start_end_and_devices": "Starts his evil reign. Ends paying Pul a thousand talents. Devices: Tribute to delay the inevitable."
         },
         {
           "scene_number": 6,
-          "scene_name": "The Fall of Samaria",
-          "reference": "17:1-6",
-          "why_start_end_and_devices": "Starts with regnal formula for Hoshea, the last king of Israel (17:1). Ends with '...the king of Assyria took Samaria, and carried Israel away into Assyria.' (17:6). A short, stark, purely historical account of the final event. Hoshea's 'evil' reign (17:2) is marked by his rebellion against Shalmaneser of Assyria (17:4), which triggers the final, three-year siege (17:5) and the end of the kingdom (17:6)."
+          "scene_name": "Pekahiah Murdered by Pekah",
+          "reference": "15:23-26",
+          "why_start_end_and_devices": "Starts the two-year reign. Ends Pekah's coup. Devices: The cycle of assassination."
         },
         {
           "scene_number": 7,
-          "scene_name": "The Theological Cause of Israel's Exile",
-          "reference": "17:7-17",
-          "why_start_end_and_devices": "Starts with 'For so it was, that the children of Israel had sinned...' (17:7). Ends with '...and sold themselves to do evil... to provoke him to anger.' (17:17). This is not narrative but a theological sermon, the literary hinge of the entire Book of Kings. The author pauses the story to explain why 17:6 happened. It is a detailed list of sins: secret idolatry (17:9), high places (17:11), child sacrifice (17:17), and rejecting the prophets (17:13-14)."
+          "scene_name": "Assyria Deports Galilee; Pekah Killed",
+          "reference": "15:27-31",
+          "why_start_end_and_devices": "Starts Tiglath-pileser's invasion. Ends Hoshea's conspiracy. Devices: The first great deportation of Israel."
         },
         {
           "scene_number": 8,
+          "scene_name": "Jotham's Reign in Judah",
+          "reference": "15:32-35",
+          "why_start_end_and_devices": "Starts his right-doing reign. Ends the upper gate built. Devices: A good king, high places remaining."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Jotham Dies; Aram and Israel Threaten",
+          "reference": "15:36-38",
+          "why_start_end_and_devices": "Starts the chronicle note. Ends Ahaz succeeding amid threats. Devices: The Syro-Ephraimite crisis looming."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Ahaz's Idolatry",
+          "reference": "16:1-4",
+          "why_start_end_and_devices": "Starts his evil reign. Ends burning his son in the fire. Devices: Judah's king sinking to pagan depths."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Ahaz Buys Assyria's Help Against Aram",
+          "reference": "16:5-9",
+          "why_start_end_and_devices": "Starts the siege of Jerusalem. Ends Damascus captured. Devices: Trusting Assyria over the LORD (cf. Isa 7)."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Ahaz Copies a Pagan Altar",
+          "reference": "16:10-13",
+          "why_start_end_and_devices": "Starts the altar seen in Damascus. Ends sacrificing on the new altar. Devices: Importing idolatry into the temple."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "He Displaces the Bronze Altar",
+          "reference": "16:14-16",
+          "why_start_end_and_devices": "Starts moving the LORD's altar aside. Ends Urijah's compliance. Devices: The true worship marginalized."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Strips the Temple for Assyria; Ahaz Dies",
+          "reference": "16:17-20",
+          "why_start_end_and_devices": "Starts dismantling the temple furnishings. Ends Hezekiah succeeding. Devices: Sacrilege to appease a king."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Fall of Samaria",
+          "reference": "17:1-6",
+          "why_start_end_and_devices": "Starts Hoshea's reign and rebellion. Ends Israel exiled to Assyria. Devices: The end of the northern kingdom. (kept — 6v)"
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Israel's Secret Sins Against the LORD",
+          "reference": "17:7-12",
+          "why_start_end_and_devices": "Starts the theological explanation. Ends serving idols despite warnings. Devices: The narrator's sermon on the exile's cause."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "They Spurned the Prophets; Served Idols",
+          "reference": "17:13-17",
+          "why_start_end_and_devices": "Starts 'the LORD warned by every prophet.' Ends child sacrifice and divination. Devices: A catalogue of covenant betrayal."
+        },
+        {
+          "scene_number": 18,
           "scene_name": "The Rejection of Israel and the Fate of Judah",
           "reference": "17:18-23",
           "why_start_end_and_devices": "Starts with 'Therefore the LORD was very angry with Israel...' (17:18). Ends with '...until he had removed Israel out of his sight, as he had said...' (17:23). The sermon's conclusion. It states the verdict (17:18) and, significantly, implicates Judah, stating 'Judah also kept not the commandments' (17:19). This sentence foreshadows the entire rest of the book (Stories D and E)."
         },
         {
-          "scene_number": 9,
-          "scene_name": "The Origin of the Samaritans",
-          "reference": "17:24-33",
-          "why_start_end_and_devices": "Starts with 'And the king of Assyria brought men from Babylon...' (17:24). Ends with '...nor do after the law... which the LORD commanded...' (17:33). The narrative resumes, explaining the result of the exile. The new, imported peoples are attacked by lions because 'they fear not the LORD' (17:25). The solution is a syncretistic religion, taught by a captured Israelite priest (17:27-28), resulting in a people who 'feared the LORD, and served their own gods' (17:33)."
+          "scene_number": 19,
+          "scene_name": "Foreign Settlers; the Lions; a Priest Sent Back",
+          "reference": "17:24-28",
+          "why_start_end_and_devices": "Starts resettling Samaria. Ends a priest teaching 'the god of the land.' Devices: Syncretism's origin."
         },
         {
-          "scene_number": 10,
-          "scene_name": "The Final Summary of the Samaritan Heresy",
-          "reference": "17:34-41",
-          "why_start_end_and_devices": "Starts with 'Unto this day they do after the former manners...' (17:34). Ends with 'So these nations feared the LORD, and served their graven images, both their children, and their children's children: as did their fathers, so do they unto this day.' (17:41). This is the final, concluding summary. It is an inclusio with the start of the sermon, re-stating the covenant that was broken (17:35-39) and ending with the definitive, tragic summary of the Samaritans (17:41), which closes this entire 'story' arc."
+          "scene_number": 20,
+          "scene_name": "They Mix the LORD with Their Own Gods",
+          "reference": "17:29-33",
+          "why_start_end_and_devices": "Starts each nation's idols. Ends fearing the LORD yet serving idols. Devices: The roots of the Samaritan religion."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "They Do Not Fear the LORD as Commanded",
+          "reference": "17:34-37",
+          "why_start_end_and_devices": "Starts 'to this day they persist.' Ends the covenant they ignore. Devices: Half-hearted worship condemned."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Serving Idols 'to This Day'",
+          "reference": "17:38-41",
+          "why_start_end_and_devices": "Starts 'do not forget the covenant.' Ends fearing the LORD and serving images. Devices: The unresolved compromise."
         }
       ]
     },
@@ -294,81 +744,273 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Hezekiah's Righteous Reign",
-          "reference": "18:1-8",
-          "why_start_end_and_devices": "Starts with regnal formula for Hezekiah (18:1). Ends with 'And the LORD was with him; he prospered...' (18:7-8). This is the positive evaluation of Hezekiah. He 'did that which was right... according to all that David his father did' (18:3). His specific reforms (removing high places, breaking the brazen serpent, 18:4) are listed, and the result is his success against the Philistines and Assyria (18:7-8)."
+          "scene_name": "Hezekiah's Reforms; the Bronze Serpent Destroyed",
+          "reference": "18:1-4",
+          "why_start_end_and_devices": "Starts his good reign. Ends breaking Nehushtan. Devices: Even Moses' relic destroyed when idolized."
         },
         {
           "scene_number": 2,
+          "scene_name": "'No King Like Him'; He Rebels Against Assyria",
+          "reference": "18:5-8",
+          "why_start_end_and_devices": "Starts his unequaled trust. Ends defeating the Philistines. Devices: Faith expressed in bold reform."
+        },
+        {
+          "scene_number": 3,
           "scene_name": "Parenthesis: The Fall of Samaria",
           "reference": "18:9-12",
           "why_start_end_and_devices": "Starts with 'And it came to pass in the fourth year...' (18:9). Ends with '...and would not hear.' (18:12). The author inserts a second summary of Samaria's fall (the first was 17:1-6). This is a literary device to place the event contemporaneously with Hezekiah's reign, raising the stakes and reminding the reader of the consequences of disobedience just as Assyria turns its attention to Judah."
         },
         {
-          "scene_number": 3,
-          "scene_name": "Sennacherib's Invasion and the Rabshakeh's Taunt",
-          "reference": "18:13-37",
-          "why_start_end_and_devices": "Starts with 'Now in the fourteenth year... Sennacherib... came up...' (18:13). Ends with '...but answered him not a word...' (18:36). A long but unified scene of confrontation. It begins with Hezekiah's failed attempt to buy off Sennacherib (18:14-16). The bulk of the scene is the Rabshakeh's brilliant, blasphemous speech (18:19-25, 28-35), which is designed to break the people's faith in both Hezekiah and Jehovah. The scene ends with the people's silent, obedient refusal to answer, a mark of their trust in Hezekiah."
-        },
-        {
           "scene_number": 4,
-          "scene_name": "Hezekiah and Isaiah's Counsel",
-          "reference": "19:1-7",
-          "why_start_end_and_devices": "Starts with 'And it came to pass, when king Hezekiah heard it...' (19:1). Ends with '...and I will cause him to fall by the sword in his own land.' (19:7). The king's faithful response. He mourns (19:1) and sends to the prophet Isaiah (19:2), a direct contrast to Ahaz. Isaiah's reply is a direct prophecy of deliverance and Sennacherib's death."
+          "scene_name": "Hezekiah Strips the Temple to Pay Assyria",
+          "reference": "18:13-16",
+          "why_start_end_and_devices": "Starts Sennacherib taking the fortified cities. Ends the temple gold given. Devices: A faltering first response."
         },
         {
           "scene_number": 5,
-          "scene_name": "Sennacherib's Letter and Hezekiah's Prayer",
-          "reference": "19:8-19",
-          "why_start_end_and_devices": "Starts with 'So Rabshakeh returned...' (19:8). Ends with '...that Thou art the LORD God, even Thou only.' (19:19). The crisis deepens. Sennacherib sends a taunting letter (19:10-13). Hezekiah, in a profound act of faith, goes to the temple and 'spread it before the LORD' (19:14). His prayer (19:15-19) is a model of theological argument, pleading for God to act not for Judah's sake, but for His own honor."
+          "scene_name": "The Rabshakeh's Taunt: 'On What Do You Trust?'",
+          "reference": "18:17-21",
+          "why_start_end_and_devices": "Starts the Assyrian envoy. Ends 'Egypt is a splintered reed.' Devices: Psychological warfare at the wall."
         },
         {
           "scene_number": 6,
-          "scene_name": "Isaiah's Prophecy Against Assyria",
-          "reference": "19:20-34",
-          "why_start_end_and_devices": "Starts with 'Then Isaiah... sent to Hezekiah, saying...' (19:20). Ends with 'For I will defend this city, to save it, for mine own sake, and for my servant David's sake.' (19:34). The divine answer. This is a long, poetic oracle, spoken directly by Isaiah. It taunts Sennacherib ('The virgin the daughter of Zion hath despised thee,' 19:21), details his hubris (19:23-24), and pronounces his doom (19:28). It ends with a sign (19:29) and a promise (19:34)."
+          "scene_name": "'The LORD Sent Me Against This Land'",
+          "reference": "18:22-25",
+          "why_start_end_and_devices": "Starts mocking trust in the LORD. Ends claiming divine commission. Devices: Blasphemous propaganda."
         },
         {
           "scene_number": 7,
+          "scene_name": "Speaking in Hebrew to Frighten the People",
+          "reference": "18:26-28",
+          "why_start_end_and_devices": "Starts the request to use Aramaic. Ends the loud Hebrew speech. Devices: Deliberate intimidation of the watchmen."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "'Do Not Let Hezekiah Deceive You'",
+          "reference": "18:29-32",
+          "why_start_end_and_devices": "Starts the appeal to surrender. Ends the promise of a 'good land.' Devices: Seductive lies of exile-as-blessing."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "'Has Any God Delivered His Land?'",
+          "reference": "18:33-37",
+          "why_start_end_and_devices": "Starts the roll of conquered gods. Ends the officials with torn clothes. Devices: The fatal blasphemy against the LORD."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Hezekiah Sends to Isaiah",
+          "reference": "19:1-4",
+          "why_start_end_and_devices": "Starts the king in sackcloth. Ends 'pray for the remnant.' Devices: Humbling before the prophet."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "'Do Not Be Afraid'; a Spirit and a Rumor",
+          "reference": "19:5-7",
+          "why_start_end_and_devices": "Starts Isaiah's reassurance. Ends Sennacherib to fall by the sword. Devices: God's word against the empire."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Sennacherib's Threatening Letter",
+          "reference": "19:8-13",
+          "why_start_end_and_devices": "Starts the renewed threat. Ends the roll of destroyed nations. Devices: Pressure renewed in writing."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Hezekiah Spreads It Before the LORD",
+          "reference": "19:14-19",
+          "why_start_end_and_devices": "Starts the letter in the temple. Ends 'that all may know you alone are God.' Devices: A model prayer of faith."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Isaiah's Oracle: Assyria's Boasting Answered",
+          "reference": "19:20-24",
+          "why_start_end_and_devices": "Starts the LORD's reply. Ends the boasts quoted back. Devices: The Holy One of Israel insulted."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'I Will Put My Hook in Your Nose'",
+          "reference": "19:25-28",
+          "why_start_end_and_devices": "Starts 'have you not heard?' Ends Assyria led back by force. Devices: The empire a tool in God's hand."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Sign; a Remnant Will Take Root",
+          "reference": "19:29-31",
+          "why_start_end_and_devices": "Starts the agricultural sign. Ends 'the zeal of the LORD will do this.' Devices: Survival and renewal promised."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "'He Will Not Enter This City'",
+          "reference": "19:32-34",
+          "why_start_end_and_devices": "Starts the verdict on Sennacherib. Ends 'for my sake and David's.' Devices: Jerusalem defended by covenant."
+        },
+        {
+          "scene_number": 18,
           "scene_name": "The Deliverance from Assyria",
           "reference": "19:35-37",
           "why_start_end_and_devices": "Starts with 'And it came to pass that night...' (19:35). Ends with '...and Esarhaddon his son reigned in his stead.' (19:37). The swift, miraculous fulfillment of Isaiah's prophecies from both 19:7 and 19:32-34. The angel of the LORD destroys the army (19:35), and Sennacherib returns home only to be assassinated by his sons (19:37)."
         },
         {
-          "scene_number": 8,
-          "scene_name": "Hezekiah's Sickness, Recovery, and Folly",
-          "reference": "20:1-19",
-          "why_start_end_and_devices": "Starts with 'In those days was Hezekiah sick unto death...' (20:1). Ends with '...and he said, Is it not good, if peace and truth be in my days?' (20:19). A two-part scene. First, the miracle of his recovery (20:1-11), confirmed by the sign of the sun's shadow (20:11). Second, the immediate aftermath: his foolish pride in showing the Babylonian envoys his treasures (20:12-13). This act of folly leads directly to Isaiah's prophecy of the Babylonian exile (20:17-18), a devastating piece of foreshadowing that pivots the book's narrative from the Assyrian threat to the Babylonian one."
+          "scene_number": 19,
+          "scene_name": "Hezekiah's Illness; 'Set Your House in Order'",
+          "reference": "20:1-3",
+          "why_start_end_and_devices": "Starts the terminal diagnosis. Ends his tearful prayer. Devices: A righteous plea for life."
         },
         {
-          "scene_number": 9,
-          "scene_name": "The Wicked Reigns of Manasseh and Amon",
-          "reference": "20:20 - 21:26",
-          "why_start_end_and_devices": "Starts with regnal formula conclusion for Hezekiah (20:20). Ends with regnal formula conclusion for Amon (21:26). This scene covers the dark period that seals Judah's doom. Manasseh's 55-year reign (21:1) is detailed as the height of apostasy, worse than the nations the LORD destroyed (21:9). This leads to the 'unforgivable' prophecy of doom (21:12-15). His son Amon's brief, wicked reign (21:19-26) continues the pattern, ending in assassination."
+          "scene_number": 20,
+          "scene_name": "Fifteen Years Added; the Poultice",
+          "reference": "20:4-7",
+          "why_start_end_and_devices": "Starts Isaiah recalled. Ends the fig poultice. Devices: Prayer answered with healing."
         },
         {
-          "scene_number": 10,
-          "scene_name": "Josiah's Reign and the Discovery of the Law",
-          "reference": "22:1-10",
-          "why_start_end_and_devices": "Starts with regnal formula for Josiah (22:1). Ends with '...and when the king had heard the words of the book of the law... he rent his clothes.' (22:11). The beginning of the second great reform. The scene is a simple narrative: Josiah begins repairs (22:3-7), Hilkiah finds the book (22:8), Shaphan reads it (22:10), and the king repents (22:11). This discovery is the catalyst for the rest of the story."
+          "scene_number": 21,
+          "scene_name": "The Sign: the Shadow Goes Back",
+          "reference": "20:8-11",
+          "why_start_end_and_devices": "Starts the request for a sign. Ends the shadow retreating ten steps. Devices: A cosmic confirmation."
         },
         {
-          "scene_number": 11,
-          "scene_name": "Huldah's Prophecy: Doom for Judah, Peace for Josiah",
-          "reference": "22:12-20",
-          "why_start_end_and_devices": "Starts with 'And the king commanded Hilkiah the priest...' (22:12). Ends with 'And they brought the king word again.' (22:20). The king's delegation seeks a prophet. They go to Huldah (not Jeremiah, who was also active). Her prophecy is twofold: 1) The nation is doomed because of Manasseh's sins (22:16-17). 2) The king (Josiah) will be blessed for his repentance ('I also have heard thee... thou shalt be gathered into thy grave in peace,' 22:19-20)."
+          "scene_number": 22,
+          "scene_name": "The Babylonian Envoys Shown Everything",
+          "reference": "20:12-15",
+          "why_start_end_and_devices": "Starts Merodach-baladan's gift. Ends showing all his treasures. Devices: Pride and naivety sowing exile."
         },
         {
-          "scene_number": 12,
-          "scene_name": "Josiah's Covenant and Reforms",
-          "reference": "23:1-20",
-          "why_start_end_and_devices": "Starts with 'And the king sent, and they gathered...' (23:1). Ends with 'Then he returned to Jerusalem.' (23:20). This scene is a detailed list of Josiah's reforms, the most thorough in Israel's history. It includes the covenant renewal (23:3), the purging of the temple (23:4-7), the defiling of the high places (23:8), the destruction of Topheth (23:10), and, climactically, the destruction of Jeroboam's altar at Bethel (23:15), fulfilling the prophecy from 1 Kings 13."
+          "scene_number": 23,
+          "scene_name": "Isaiah Foretells the Babylonian Exile",
+          "reference": "20:16-19",
+          "why_start_end_and_devices": "Starts 'all will be carried to Babylon.' Ends 'will there not be peace in my days?' Devices: A shortsighted relief."
         },
         {
-          "scene_number": 13,
-          "scene_name": "The Great Passover and the Death of Josiah",
-          "reference": "23:21-30",
-          "why_start_end_and_devices": "Starts with 'And the king commanded all the people...' (23:21). Ends with '...and he died, and was buried in his own sepulchre.' (23:30). The scene begins with the climax of the reform: the greatest Passover ever held (23:21-23). But this is immediately followed by a devastating summary: 'Notwithstanding the LORD turned not...' (23:26). The reform was too late. The story arc ends with the tragic, abrupt death of Josiah at Megiddo (23:29-30), which prophetically ends all hope for the nation."
+          "scene_number": 24,
+          "scene_name": "Hezekiah's Death",
+          "reference": "20:20-21",
+          "why_start_end_and_devices": "Starts his works and tunnel. Ends Manasseh succeeding. Devices: The end of a good reign."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Manasseh Rebuilds the High Places",
+          "reference": "21:1-5",
+          "why_start_end_and_devices": "Starts his long, evil reign. Ends altars to the host of heaven in the temple. Devices: Undoing every reform."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Child Sacrifice; an Idol in the Temple",
+          "reference": "21:6-9",
+          "why_start_end_and_devices": "Starts passing his son through fire. Ends leading Judah astray. Devices: The worst king—'more evil than the nations.'"
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Doom Pronounced on Jerusalem",
+          "reference": "21:10-15",
+          "why_start_end_and_devices": "Starts the prophets' warning. Ends 'wipe it as one wipes a dish.' Devices: The point of no return for Judah."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Manasseh's Bloodshed; His Death",
+          "reference": "21:16-18",
+          "why_start_end_and_devices": "Starts innocent blood filling Jerusalem. Ends his burial. Devices: A reign drenched in violence."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Amon's Evil Reign",
+          "reference": "21:19-22",
+          "why_start_end_and_devices": "Starts his two years. Ends forsaking the LORD. Devices: Like father, like son."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Amon Assassinated; Josiah Made King",
+          "reference": "21:23-26",
+          "why_start_end_and_devices": "Starts the conspiracy. Ends Josiah enthroned. Devices: Setting up the last reform."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Josiah's Reign; Repairing the Temple",
+          "reference": "22:1-4",
+          "why_start_end_and_devices": "Starts his eight-year accession. Ends the order to count the money. Devices: A boy-king who does right."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Workmen Trusted",
+          "reference": "22:5-7",
+          "why_start_end_and_devices": "Starts paying the laborers. Ends 'they acted faithfully.' Devices: Integrity in the restoration."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Book of the Law Found; the King Tears His Robes",
+          "reference": "22:8-11",
+          "why_start_end_and_devices": "Starts Hilkiah's discovery. Ends Josiah tearing his clothes. Devices: The lost word recovered—and its conviction."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Inquire of the LORD; Huldah the Prophetess",
+          "reference": "22:12-14",
+          "why_start_end_and_devices": "Starts the delegation sent. Ends to Huldah. Devices: Seeking God's word through a prophetess."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "'I Will Bring Disaster'",
+          "reference": "22:15-17",
+          "why_start_end_and_devices": "Starts the oracle of doom. Ends 'my wrath will not be quenched.' Devices: Judgment confirmed."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "'You Will Be Gathered in Peace'",
+          "reference": "22:18-20",
+          "why_start_end_and_devices": "Starts the word for Josiah. Ends 'your eyes will not see the disaster.' Devices: Mercy for a tender heart."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Josiah Reads the Covenant to All",
+          "reference": "23:1-3",
+          "why_start_end_and_devices": "Starts the assembly. Ends the people joining the covenant. Devices: National recommitment."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Purging the Temple of Baal and Asherah",
+          "reference": "23:4-7",
+          "why_start_end_and_devices": "Starts removing the idols. Ends tearing down the shrine quarters. Devices: Thorough cleansing of worship."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "The High Places Defiled",
+          "reference": "23:8-9",
+          "why_start_end_and_devices": "Starts gathering the priests. Ends their limited rights. Devices: Centralizing worship in Jerusalem."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Topheth and the Altars Destroyed",
+          "reference": "23:10-14",
+          "why_start_end_and_devices": "Starts defiling Topheth. Ends smashing the high places of Solomon. Devices: Even ancient idolatry rooted out."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Bethel's Altar Torn Down; the Bones Burned",
+          "reference": "23:15-18",
+          "why_start_end_and_devices": "Starts Jeroboam's altar. Ends sparing the prophet's bones. Devices: The 1 Kings 13 prophecy fulfilled."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "The Shrines of Samaria Removed",
+          "reference": "23:19-20",
+          "why_start_end_and_devices": "Starts the northern high places. Ends the priests slain on the altars. Devices: Reform reaching beyond Judah."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "The Great Passover Kept",
+          "reference": "23:21-23",
+          "why_start_end_and_devices": "Starts the command to keep Passover. Ends none like it since the judges. Devices: Worship restored in full."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Josiah's Unequaled Reform; Yet Judah's Doom Stands",
+          "reference": "23:24-27",
+          "why_start_end_and_devices": "Starts removing mediums and idols. Ends 'I will remove Judah also.' Devices: Even the best king cannot avert the sentence."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Josiah Killed at Megiddo",
+          "reference": "23:28-30",
+          "why_start_end_and_devices": "Starts Pharaoh Neco's march. Ends Jehoahaz anointed. Devices: A tragic, abrupt end to the reformer."
         }
       ]
     },
@@ -380,36 +1022,84 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Reign of Jehoahaz and Jehoiakim",
-          "reference": "23:31-37",
-          "why_start_end_and_devices": "Starts with regnal formula for Jehoahaz (23:31). Ends with regnal formula summary for Jehoiakim (23:36-37). This scene establishes the new political reality: Judah is a pawn. Jehoahaz is deposed not by God, but by Pharaoh-nechoh (23:33). Jehoiakim is installed as an Egyptian puppet king, and the land is taxed for Egypt (23:35)."
+          "scene_name": "Jehoahaz Deposed by Egypt",
+          "reference": "23:31-33",
+          "why_start_end_and_devices": "Starts his three-month reign. Ends imprisoned in Egypt. Devices: Judah now a vassal."
         },
         {
           "scene_number": 2,
-          "scene_name": "Jehoiakim's Rebellion and the First Deportation (Jehoiachin)",
-          "reference": "24:1-17",
-          "why_start_end_and_devices": "Starts with 'In his days Nebuchadnezzar... came up...' (24:1). Ends with '...and carried him to Babylon.' (24:15-17). This scene shows the shift in power from Egypt to Babylon. Jehoiakim rebels against Nebuchadnezzar (24:1) and dies. His son Jehoiachin 'reigned three months' (24:8) and presides over the first fall of Jerusalem. The 'mighty men of valor,' the craftsmen, and the king himself are all deported (24:14-16), fulfilling Isaiah's prophecy to Hezekiah."
+          "scene_name": "Jehoiakim's Tribute and Evil Reign",
+          "reference": "23:34-37",
+          "why_start_end_and_devices": "Starts Egypt's appointee. Ends 'he did evil.' Devices: Taxing the land for tribute."
         },
         {
           "scene_number": 3,
-          "scene_name": "Zedekiah's Reign and the Final Siege",
-          "reference": "24:18 - 25:7",
-          "why_start_end_and_devices": "Starts with regnal formula for Zedekiah (24:18). Ends with '...and they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him... and carried him to Babylon.' (25:7). The final, tragic reign. Zedekiah, a Babylonian puppet, 'did... evil' (24:19) and 'rebelled against the king of Babylon' (24:20). This brings Nebuchadnezzar back for the final siege (25:1). The scene ends with the horrific, personal judgment on Zedekiah, fulfilling prophecies from both Jeremiah and Ezekiel."
+          "scene_name": "Jehoiakim Rebels; the LORD Sends Raiders",
+          "reference": "24:1-4",
+          "why_start_end_and_devices": "Starts Nebuchadnezzar's coming. Ends 'because of Manasseh's sins.' Devices: The cumulative guilt invoked."
         },
         {
           "scene_number": 4,
-          "scene_name": "The Burning of the Temple and Final Exile",
-          "reference": "25:8-21",
-          "why_start_end_and_devices": "Starts with 'And in the fifth month... came Nebuzar-adan...' (25:8). Ends with 'So Judah was carried away out of their land.' (25:21). A somber, detailed account of the destruction. The burning of the LORD's house (25:9), the removal of the sacred vessels (25:14-15), and the execution of the priests and leaders (25:18-21) are methodically listed. The scene ends with the definitive, heartbreaking summary: 'So Judah was carried away.'"
+          "scene_name": "Jehoiakim Dies; Egypt Subdued",
+          "reference": "24:5-7",
+          "why_start_end_and_devices": "Starts the chronicle note. Ends Egypt confined to its land. Devices: Babylon ascendant."
         },
         {
           "scene_number": 5,
+          "scene_name": "Jehoiachin Surrenders to Babylon",
+          "reference": "24:8-12",
+          "why_start_end_and_devices": "Starts the three-month reign. Ends the king taken captive. Devices: Submission to spare the city—for now."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Temple Stripped; the First Great Deportation",
+          "reference": "24:13-17",
+          "why_start_end_and_devices": "Starts the treasures carried off. Ends Zedekiah installed. Devices: Ten thousand exiled; only the poorest left."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Zedekiah's Evil Reign; He Rebels",
+          "reference": "24:18-20",
+          "why_start_end_and_devices": "Starts his accession. Ends rebelling against Babylon. Devices: The final, fatal defiance."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Siege of Jerusalem; the Famine",
+          "reference": "25:1-3",
+          "why_start_end_and_devices": "Starts the siege works. Ends 'no food for the people.' Devices: The long, starving siege."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The City Breached; Zedekiah Blinded",
+          "reference": "25:4-7",
+          "why_start_end_and_devices": "Starts the army fleeing. Ends his sons killed, his eyes put out. Devices: The Davidic king's horrific end."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Temple and City Burned",
+          "reference": "25:8-12",
+          "why_start_end_and_devices": "Starts Nebuzaradan's arrival. Ends the poorest left as vinedressers. Devices: The house of God in ashes."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Bronze Carried Off to Babylon",
+          "reference": "25:13-17",
+          "why_start_end_and_devices": "Starts breaking up the pillars and sea. Ends the bronze beyond weighing. Devices: Solomon's glory dismantled."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Leaders Executed; Judah Exiled",
+          "reference": "25:18-21",
+          "why_start_end_and_devices": "Starts the chief priests seized. Ends 'so Judah went into exile.' Devices: The kingdom's formal end."
+        },
+        {
+          "scene_number": 13,
           "scene_name": "Gedaliah's Governorship and the Remnant's Flight",
           "reference": "25:22-26",
           "why_start_end_and_devices": "Starts with 'And as for the people that remained...' (25:22). Ends with '...for they were afraid of the Chaldees.' (25:26). A brief, tragic story of the 'remnant' left in the land. The glimmer of hope under the governor Gedaliah (25:24) is extinguished by his assassination (25:25). This final act of internal violence causes the last remnant to flee to Egypt (25:26), leaving the land empty and fulfilling the curse."
         },
         {
-          "scene_number": 6,
+          "scene_number": 14,
           "scene_name": "Epilogue: Jehoiachin in Babylon",
           "reference": "25:27-30",
           "why_start_end_and_devices": "Starts with 'And it came to pass in the seven and thirtieth year...' (25:27). Ends with '...all the days of his life.' (25:30). The book does not end on total despair. It concludes 'in exile' with this short scene. The king of Babylon shows kindness to Jehoiachin, lifting him 'out of prison' (25:27) and giving him a place 'above the kings that were with him' (25:28). This final, small act of grace leaves a tiny, ambiguous glimmer of hope that the line of David has not been completely extinguished."

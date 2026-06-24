@@ -11,58 +11,148 @@
       "reference": "1:1 - 2:46",
       "scenes": [
         {
-          "scene_number": 1,
-          "scene_name": "David's Failing Health and the Rise of Adonijah",
-          "reference": "1:1-10",
-          "why_start_end_and_devices": "Starts with narrative opening, 'Now King David was old...' (1:1). Ends with Adonijah's sacrificial feast concluding, having gathered his faction. This scene introduces two problems: David's impotence (v. 1-4) and Adonijah's usurpation (v. 5-10). The narrator explicitly notes Adonijah's faction (Joab, Abiathar) and those he excluded (Nathan, Benaiah, Solomon), setting the stage for the conflict."
+          "scene_name": "David's Failing Health; Abishag",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Starts the aged, cold king. Ends Abishag attending him. Devices: A failing throne—the power vacuum opens.",
+          "scene_number": 1
         },
         {
-          "scene_number": 2,
-          "scene_name": "Nathan and Bathsheba's Counter-Plot",
-          "reference": "1:11-31",
-          "why_start_end_and_devices": "Starts with Nathan initiating action, 'Then Nathan spoke to Bathsheba...' (1:11). Ends with David making his definitive oath to Bathsheba: 'Solomon your son shall reign after me...' A scene of high political intrigue. It unfolds in two acts: Nathan's instruction (v. 11-14) and Bathsheba's execution of the plan (v. 15-27), reinforced by Nathan's 'surprise' entrance (v. 22). The tension climaxes in David's decision."
+          "scene_name": "Adonijah Exalts Himself",
+          "reference": "1:5-10",
+          "why_start_end_and_devices": "Starts 'I will be king.' Ends the feast that excludes Solomon. Devices: Self-promotion; the unguided son.",
+          "scene_number": 2
         },
         {
-          "scene_number": 3,
-          "scene_name": "David's Charge and Solomon's Anointing",
-          "reference": "1:32-40",
-          "why_start_end_and_devices": "Starts with David giving a new, public command: 'Call to me Zadok...' (1:32). Ends with the anointing at Gihon complete, and the people shouting, 'Long live King Solomon!' This is the direct answer to Scene A-2. David's private oath becomes a public command. The narrative contrasts Adonijah's feast at En-rogel (v. 9) with Solomon's anointing at Gihon (v. 38), a key geographical and symbolic opposition."
+          "scene_name": "Nathan's Plan for Bathsheba",
+          "reference": "1:11-14",
+          "why_start_end_and_devices": "Starts Nathan alerting Bathsheba. Ends the coordinated appeal. Devices: Court intrigue to secure the promise.",
+          "scene_number": 3
         },
         {
-          "scene_number": 4,
-          "scene_name": "The Conspiracy Collapses",
-          "reference": "1:41-53",
-          "why_start_end_and_devices": "Starts with the setting shifting back to Adonijah's feast: 'Adonijah and all the guests... heard it.' (1:41). Ends with Adonijah given a conditional pardon and 'went to his house.' A brilliant narrative device. The 'sound of the trumpet' (v. 41) from Solomon's anointing literally interrupts and shatters Adonijah's feast. Jonathan, son of Abiathar, functions as the messenger of doom. Adonijah's flight to the altar (v. 50) is a desperate plea for sanctuary, which Solomon shrewdly grants, consolidating his power through mercy rather than immediate bloodshed."
+          "scene_name": "Bathsheba Before the King",
+          "reference": "1:15-19",
+          "why_start_end_and_devices": "Starts her entrance. Ends 'Adonijah has become king.' Devices: Reminding David of his oath.",
+          "scene_number": 4
         },
         {
-          "scene_number": 5,
-          "scene_name": "David's Final Charge to Solomon",
-          "reference": "2:1-9",
-          "why_start_end_and_devices": "Starts with a new time-marker and setting: 'When David's time to die drew near...' (2:1). Ends with David's speech to Solomon concluding with the charge concerning Shimei. This is David's last will and testament, structured in four parts: 1) A general charge to keep the covenant (v. 2-4). 2) A specific charge to settle accounts with Joab (v. 5-6). 3) A charge to reward Barzillai (v. 7). 4) A final, complex charge to deal with Shimei (v. 8-9). This sets the agenda for the rest of the chapter."
+          "scene_name": "'On You the Eyes of All Israel'",
+          "reference": "1:20-21",
+          "why_start_end_and_devices": "Starts the plea for a decision. Ends the fear of being counted offenders. Devices: The stakes for Bathsheba and Solomon.",
+          "scene_number": 5
         },
         {
-          "scene_number": 6,
-          "scene_name": "The Kingdom Established and Adonijah's Final Plot",
-          "reference": "2:10-25",
-          "why_start_end_and_devices": "Starts with David's regnal formula (death/burial): 'Then David slept with his fathers...' (2:10). Ends with Adonijah executed by Benaiah. The scene begins with the formal transition of power (v. 10-12). The narrative tension is immediately reintroduced by Adonijah's request for Abishag (v. 13-18). Solomon rightly interprets this (v. 22) as a final, subtle bid for the throne (as taking the previous king's concubine was a claim to succession). Solomon's violent response shows the kingdom is not yet fully 'established.'"
+          "scene_name": "Nathan Confirms the Report",
+          "reference": "1:22-27",
+          "why_start_end_and_devices": "Starts Nathan entering. Ends 'have you not told your servants?' Devices: Two witnesses confirming the crisis.",
+          "scene_number": 6
         },
         {
-          "scene_number": 7,
-          "scene_name": "The Consolidation of the Kingdom",
-          "reference": "2:26-46",
-          "why_start_end_and_devices": "Starts with Solomon turning to the next conspirator: 'And to Abiathar the priest...' (2:26). Ends with the final enemy dead, and the inclusio from 1:1 completed: 'So the kingdom was established in the hand of Solomon.' This is a 'cleanup' scene. Solomon fulfills his father's charges from Scene A-5. 1) Abiathar is banished (v. 26-27), fulfilling the prophecy against Eli's house (1 Sam 2:30-36). 2) Joab is executed (v. 28-35), despite clinging to the altar. 3) Shimei is tested, fails, and is executed (v. 36-46a). The final verse (v. 46b) serves as the definitive conclusion to the entire succession narrative."
+          "scene_name": "David's Oath: Solomon Shall Reign",
+          "reference": "1:28-31",
+          "why_start_end_and_devices": "Starts David's renewed vow. Ends Bathsheba's blessing. Devices: The king acts decisively at last.",
+          "scene_number": 7
         },
         {
-          "scene_number": 8,
-          "scene_name": "Solomon's Alliance with Egypt and Worship",
-          "reference": "3:1-4",
-          "why_start_end_and_devices": "Starts with 'Solomon made a marriage alliance with Pharaoh...' (3:1). Ends with his worship activities and the people sacrificing at high places. This transitional scene moves from the succession narrative to the wisdom narrative, showing Solomon establishing himself both politically (Egypt) and religiously, though with some compromise (high places)."
+          "scene_name": "Solomon to Ride the King's Mule",
+          "reference": "1:32-37",
+          "why_start_end_and_devices": "Starts summoning the priests. Ends 'may his throne be greater than David's.' Devices: Public legitimation by the king's own mount.",
+          "scene_number": 8
         },
         {
-          "scene_number": 9,
+          "scene_name": "Solomon Anointed at Gihon",
+          "reference": "1:38-40",
+          "why_start_end_and_devices": "Starts the procession. Ends the earth shaking with rejoicing. Devices: Trumpet and acclamation—'Long live King Solomon!'",
+          "scene_number": 9
+        },
+        {
+          "scene_name": "The Sound of the City Rejoicing",
+          "reference": "1:41-45",
+          "why_start_end_and_devices": "Starts Adonijah's feast hearing the noise. Ends 'Solomon sits on the throne.' Devices: Dramatic irony—the rival learns too late.",
+          "scene_number": 10
+        },
+        {
+          "scene_name": "David Blesses Solomon's Accession",
+          "reference": "1:46-48",
+          "why_start_end_and_devices": "Starts the report continued. Ends David worshiping on his bed. Devices: The dying king's joy.",
+          "scene_number": 11
+        },
+        {
+          "scene_name": "Adonijah Grasps the Altar's Horns",
+          "reference": "1:49-53",
+          "why_start_end_and_devices": "Starts the guests scattering in fear. Ends Solomon's conditional mercy. Devices: Sanctuary sought; probation granted.",
+          "scene_number": 12
+        },
+        {
+          "scene_name": "'Be Strong; Keep the LORD's Charge'",
+          "reference": "2:1-4",
+          "why_start_end_and_devices": "Starts David's charge to Solomon. Ends the conditional dynasty promise. Devices: A father's deathbed testament.",
+          "scene_number": 13
+        },
+        {
+          "scene_name": "Settle Accounts: Joab, Barzillai, Shimei",
+          "reference": "2:5-9",
+          "why_start_end_and_devices": "Starts the matter of Joab's blood. Ends 'bring his gray head down to Sheol.' Devices: Justice and loyalty entrusted to the heir.",
+          "scene_number": 14
+        },
+        {
           "scene_name": "David's Death and Burial",
           "reference": "2:10-12",
-          "why_start_end_and_devices": "Starts with 'Then David slept with his fathers...' (2:10). Ends with 'Solomon sat on the throne of the LORD as king... and his kingdom was firmly established.' This regnal formula closes David's reign and formally opens Solomon's reign as fully authorized and established."
+          "why_start_end_and_devices": "Starts with 'Then David slept with his fathers...' (2:10). Ends with 'Solomon sat on the throne of the LORD as king... and his kingdom was firmly established.' This regnal formula closes David's reign and formally opens Solomon's reign as fully authorized and established.",
+          "scene_number": 15
+        },
+        {
+          "scene_name": "Adonijah Requests Abishag",
+          "reference": "2:13-18",
+          "why_start_end_and_devices": "Starts Adonijah approaching Bathsheba. Ends her agreement to ask. Devices: A request that veils a claim to the throne.",
+          "scene_number": 16
+        },
+        {
+          "scene_name": "Bathsheba Brings the Request",
+          "reference": "2:19-21",
+          "why_start_end_and_devices": "Starts the honored queen mother. Ends the petition for Abishag. Devices: The seemingly small ask.",
+          "scene_number": 17
+        },
+        {
+          "scene_name": "Solomon Sees the Threat; Adonijah Executed",
+          "reference": "2:22-25",
+          "why_start_end_and_devices": "Starts Solomon's sharp discernment. Ends Adonijah struck down. Devices: A bid for the king's concubine read as treason.",
+          "scene_number": 18
+        },
+        {
+          "scene_name": "Abiathar Banished; Eli's House Ends",
+          "reference": "2:26-27",
+          "why_start_end_and_devices": "Starts the priest spared but exiled. Ends 'fulfilling the word against Eli.' Devices: Old prophecy fulfilled.",
+          "scene_number": 19
+        },
+        {
+          "scene_name": "Joab Flees to the Altar",
+          "reference": "2:28-31",
+          "why_start_end_and_devices": "Starts Joab grasping the horns. Ends Solomon's order to strike him there. Devices: No sanctuary for the murderer.",
+          "scene_number": 20
+        },
+        {
+          "scene_name": "Joab Executed; Benaiah Promoted",
+          "reference": "2:32-35",
+          "why_start_end_and_devices": "Starts the bloodguilt returned on Joab. Ends Benaiah over the army, Zadok as priest. Devices: The old guard replaced.",
+          "scene_number": 21
+        },
+        {
+          "scene_name": "Shimei Confined to Jerusalem",
+          "reference": "2:36-38",
+          "why_start_end_and_devices": "Starts the house-arrest terms. Ends Shimei's agreement. Devices: A test of obedience set.",
+          "scene_number": 22
+        },
+        {
+          "scene_name": "Shimei Breaks the Terms",
+          "reference": "2:39-43",
+          "why_start_end_and_devices": "Starts the runaway servants. Ends Solomon's accusation. Devices: The self-condemned oath-breaker.",
+          "scene_number": 23
+        },
+        {
+          "scene_name": "Shimei Executed; the Kingdom Secure",
+          "reference": "2:44-46",
+          "why_start_end_and_devices": "Starts the verdict. Ends 'the kingdom was established in Solomon's hand.' Devices: The succession narrative closed.",
+          "scene_number": 24
         }
       ]
     },
@@ -73,34 +163,82 @@
       "reference": "3:1 - 4:34",
       "scenes": [
         {
-          "scene_number": 1,
-          "scene_name": "The Gibeon Vision",
-          "reference": "3:1-15",
-          "why_start_end_and_devices": "Starts with Solomon making an alliance with Egypt and sacrificing at high places (a problematic start) (3:1-4). Ends with Solomon awaking, 'and behold, it was a dream.' He returns to Jerusalem and feasts. This scene is the fountainhead of Solomon's reign. The narrator notes his compromised worship (v. 1-3), which is immediately contrasted with the LORD's gracious appearance (v. 5). The core is a divine-human dialogue: God's open offer ('Ask what I shall give you'), Solomon's humble request for a 'hearing heart' (v. 9), and God's 'more than you asked' reply (wisdom, riches, and honor)."
+          "scene_name": "Solomon at Gibeon; God Appears in a Dream",
+          "reference": "3:1-5",
+          "why_start_end_and_devices": "Starts the alliance with Egypt and worship at the high places. Ends 'ask what I shall give you.' Devices: A mixed start; the divine offer.",
+          "scene_number": 1
         },
         {
-          "scene_number": 2,
-          "scene_name": "The Case of the Two Prostitutes",
-          "reference": "3:16-28",
-          "why_start_end_and_devices": "Starts with 'Then two prostitutes came to the king...' (A new narrative). Ends with 'And all Israel heard... and they stood in awe of the king, because they saw that the wisdom of God was in him...' This is the proof of the gift in Scene B-1. It is a legal test case designed to show, not tell, Solomon's divine wisdom. The narrative tension is extreme (the 'dead child' vs. 'living child' chiasm). Solomon's shocking command (v. 24) is a wisdom-test that reveals the true mother's compassion (v. 26). The scene's conclusion (v. 28) explicitly links this event to the 'wisdom of God' from the Gibeon dream."
+          "scene_name": "'Give Your Servant an Understanding Heart'",
+          "reference": "3:6-9",
+          "why_start_end_and_devices": "Starts Solomon's humble prayer. Ends 'who can govern this great people?' Devices: Wisdom requested over riches.",
+          "scene_number": 2
         },
         {
-          "scene_number": 3,
-          "scene_name": "Solomon's Administration and Court",
-          "reference": "4:1-19",
-          "why_start_end_and_devices": "Starts with a new, formal list: 'King Solomon was king over all Israel. And these were his high officials...' (4:1). Ends with the list of twelve district governors completed (4:19). This is an administrative archive, not a narrative. It is inserted by the historian to show the scope of Solomon's power. It details the cabinet (v. 1-6) and the 12 administrative districts (v. 7-19) that provisioned the royal house. This scene's purpose is to show the organization of the kingdom."
+          "scene_name": "God Grants Wisdom, Riches, and Honor",
+          "reference": "3:10-15",
+          "why_start_end_and_devices": "Starts the LORD's pleasure. Ends Solomon's feast in Jerusalem. Devices: The reward for an unselfish request.",
+          "scene_number": 3
         },
         {
-          "scene_number": 4,
-          "scene_name": "The Glory of the Kingdom",
-          "reference": "4:20-28",
-          "why_start_end_and_devices": "Starts with a summary statement: 'Judah and Israel were as many as the sand...' (4:20). Ends with the summary of his provisions and dominion concluding (4:28). This scene is a thematic summary of the shalom (peace, prosperity) of Solomon's reign. It details his provision ('Solomon's provision for one day...') and his dominion ('He had dominion over all the region...'). The mention of 'peace on every side' (v. 24) is the fulfillment of the ideal covenant blessing."
+          "scene_name": "The Dispute Brought to the King",
+          "reference": "3:16-18",
+          "why_start_end_and_devices": "Starts two women, one living child. Ends the conflicting claims. Devices: An impossible case of testimony.",
+          "scene_number": 4
         },
         {
-          "scene_number": 5,
+          "scene_name": "'The Living One Is Mine'",
+          "reference": "3:19-22",
+          "why_start_end_and_devices": "Starts the dead child swapped at night. Ends 'no, the living one is mine.' Devices: Deadlock—word against word.",
+          "scene_number": 5
+        },
+        {
+          "scene_name": "'Divide the Child'—Wisdom Revealed",
+          "reference": "3:23-28",
+          "why_start_end_and_devices": "Starts the sword called for. Ends all Israel in awe. Devices: The test that exposes the true mother's heart.",
+          "scene_number": 6
+        },
+        {
+          "scene_name": "Solomon's Chief Officials",
+          "reference": "4:1-6",
+          "why_start_end_and_devices": "Starts the list of officers. Ends the man over forced labor. Devices: The machinery of a great kingdom.",
+          "scene_number": 7
+        },
+        {
+          "scene_name": "The Twelve District Governors (1)",
+          "reference": "4:7-11",
+          "why_start_end_and_devices": "Starts the provisioning system. Ends Ben-abinadab. Devices: Monthly provision for the court.",
+          "scene_number": 8
+        },
+        {
+          "scene_name": "The District Governors (2)",
+          "reference": "4:12-15",
+          "why_start_end_and_devices": "Continues the list. Ends Ahimaaz in Naphtali. Devices: Administrative reach across the tribes.",
+          "scene_number": 9
+        },
+        {
+          "scene_name": "The District Governors (3)",
+          "reference": "4:16-19",
+          "why_start_end_and_devices": "Continues to the last governor. Ends 'the one governor in the land.' Devices: A unified, organized realm.",
+          "scene_number": 10
+        },
+        {
+          "scene_name": "Judah and Israel as the Sand; Solomon's Dominion",
+          "reference": "4:20-24",
+          "why_start_end_and_devices": "Starts the people numerous and content. Ends peace on all sides. Devices: The Abrahamic promise visibly fulfilled.",
+          "scene_number": 11
+        },
+        {
+          "scene_name": "Peace and Provision; Stalls for Horses",
+          "reference": "4:25-28",
+          "why_start_end_and_devices": "Starts 'each under his vine and fig tree.' Ends barley for the horses. Devices: An idyllic picture of the golden age.",
+          "scene_number": 12
+        },
+        {
           "scene_name": "The Wisdom of Solomon",
           "reference": "4:29-34",
-          "why_start_end_and_devices": "Starts with a summary statement: 'And God gave Solomon wisdom...' (4:29). Ends with the story unit's concluding inclusio: 'And people of all nations came to hear the wisdom of Solomon...' This scene balances Scene B-4. B-4 described his material glory; this describes his intellectual glory. It compares his wisdom (v. 30-31), details its content (proverbs, songs, natural history, v. 32-33), and states its international effect (v. 34). This provides the perfect conclusion to the 'Wisdom' story."
+          "why_start_end_and_devices": "Starts with a summary statement: 'And God gave Solomon wisdom...' (4:29). Ends with the story unit's concluding inclusio: 'And people of all nations came to hear the wisdom of Solomon...' This scene balances Scene B-4. B-4 described his material glory; this describes his intellectual glory. It compares his wisdom (v. 30-31), details its content (proverbs, songs, natural history, v. 32-33), and states its international effect (v. 34). This provides the perfect conclusion to the 'Wisdom' story.",
+          "scene_number": 13
         }
       ]
     },
@@ -111,88 +249,244 @@
       "reference": "5:1 - 8:66",
       "scenes": [
         {
-          "scene_number": 1,
-          "scene_name": "The Treaty with Hiram",
-          "reference": "5:1-12",
-          "why_start_end_and_devices": "Starts with Hiram's initiative (5:1). Ends with the treaty made, and 'there was peace between Hiram and Solomon.' This scene is a formal diplomatic exchange, presented as a series of messages. Solomon's message (v. 2-6) and Hiram's reply (v. 7-9) are quoted. The scene establishes the international cooperation and shalom (peace) that makes the temple project possible."
+          "scene_name": "Solomon's Request to Hiram for Cedar",
+          "reference": "5:1-6",
+          "why_start_end_and_devices": "Starts Hiram's friendship. Ends the plan to build the temple. Devices: International cooperation for the LORD's house.",
+          "scene_number": 1
         },
         {
-          "scene_number": 2,
+          "scene_name": "Hiram's Reply; the Treaty",
+          "reference": "5:7-12",
+          "why_start_end_and_devices": "Starts Hiram's joy. Ends the covenant between them. Devices: Cedar for wheat and oil—wisdom in diplomacy.",
+          "scene_number": 2
+        },
+        {
           "scene_name": "Solomon's Labor Force",
           "reference": "5:13-18",
-          "why_start_end_and_devices": "Starts with 'King Solomon raised a forced levy...' (5:13; new topic). Ends with the summary of the workforce (Israelites, Gebalites) and the preparation of materials. This brief but crucial scene shows the cost of the project. The 'forced levy' (v. 13) is a dark foreshadowing of the discontent that will later split the kingdom (cf. 12:4). It stands in tension with the 'peace' of the previous scene."
+          "why_start_end_and_devices": "Starts with 'King Solomon raised a forced levy...' (5:13; new topic). Ends with the summary of the workforce (Israelites, Gebalites) and the preparation of materials. This brief but crucial scene shows the cost of the project. The 'forced levy' (v. 13) is a dark foreshadowing of the discontent that will later split the kingdom (cf. 12:4). It stands in tension with the 'peace' of the previous scene.",
+          "scene_number": 3
         },
         {
-          "scene_number": 3,
-          "scene_name": "Building the Temple Structure",
-          "reference": "6:1-10",
-          "why_start_end_and_devices": "Starts with a major chronological formula: 'In the four hundred and eightieth year after...' (6:1). Ends with the structural framework (walls, beams) complete (6:10). This is an architectural report. The narrator provides the external and internal dimensions (v. 2-3), the window design (v. 4), the side-chamber structure (v. 5-6, 8-10), and the famous detail of its 'silent' construction (v. 7)."
+          "scene_name": "The Temple Begun; Its Dimensions",
+          "reference": "6:1-6",
+          "why_start_end_and_devices": "Starts the 480th year. Ends the side chambers. Devices: A precise, sacred chronology.",
+          "scene_number": 4
         },
         {
-          "scene_number": 4,
+          "scene_name": "Built Without Iron Tools; the Side Rooms",
+          "reference": "6:7-10",
+          "why_start_end_and_devices": "Starts the dressed stone. Ends the cedar beams. Devices: Reverent silence—'no hammer was heard.'",
+          "scene_number": 5
+        },
+        {
           "scene_name": "The Prophetic Interruption",
           "reference": "6:11-13",
-          "why_start_end_and_devices": "Starts with an oracle formula: 'Now the word of the LORD came to Solomon...' (6:11). Ends with the oracle concluding: 'I... will not forsake my people Israel.' (6:13). This is a classic Deuteronomistic interruption. The narrator pauses the building report to insert a prophetic warning. The physical house (v. 1) is useless without covenant obedience (v. 12). This short, 3-verse scene is the theological hinge for the entire temple story."
+          "why_start_end_and_devices": "Starts with an oracle formula: 'Now the word of the LORD came to Solomon...' (6:11). Ends with the oracle concluding: 'I... will not forsake my people Israel.' (6:13). This is a classic Deuteronomistic interruption. The narrator pauses the building report to insert a prophetic warning. The physical house (v. 1) is useless without covenant obedience (v. 12). This short, 3-verse scene is the theological hinge for the entire temple story.",
+          "scene_number": 6
         },
         {
-          "scene_number": 5,
-          "scene_name": "Decorating the Temple Interior",
-          "reference": "6:14-38",
-          "why_start_end_and_devices": "Starts with 'So Solomon built the house and finished it.' (Resumes narrative, 6:14). Ends with a final chronological summary: 'In the eleventh year... the house was finished...' (6:38). This scene is a detailed inventory of the temple's interior glory: the gold overlay (v. 20-22), the cherubim (v. 23-28), the carved walls (v. 29-30), and the ornate doors (v. 31-35). The scene concludes with a 7-year summary (v. 38), formally ending the temple construction narrative. This is a long scene (25 verses) but a single, indivisible literary unit—an architectural list."
+          "scene_name": "Lined with Cedar; Gourds and Flowers",
+          "reference": "6:14-18",
+          "why_start_end_and_devices": "Starts the interior paneling. Ends 'no stone was seen.' Devices: Beauty hidden within.",
+          "scene_number": 7
         },
         {
-          "scene_number": 6,
-          "scene_name": "Solomon's Palace and Other Projects",
-          "reference": "7:1-12",
-          "why_start_end_and_devices": "Starts with 'Solomon was building his own house thirteen years...' (7:1; new topic). Ends with the description of his palace complex (House of the Forest of Lebanon, Hall of Pillars, Hall of Judgment, his own house, Pharaoh's daughter's house) complete (7:12). The narrator juxtaposes the 7-year temple project (6:38) with the 13-year palace project (7:1). This literary placement is a subtle critique, suggesting a shift in priority from God's house to his own."
+          "scene_name": "The Inner Sanctuary Overlaid with Gold",
+          "reference": "6:19-22",
+          "why_start_end_and_devices": "Starts the Most Holy Place. Ends the whole temple gold. Devices: Extravagant glory for the ark's dwelling.",
+          "scene_number": 8
         },
         {
-          "scene_number": 7,
-          "scene_name": "The Work of Hiram the Bronzesmith",
-          "reference": "7:13-47",
-          "why_start_end_and_devices": "Starts with 'And King Solomon sent and brought Hiram from Tyre.' (7:13; new character, new project). Ends with the summary: 'So Hiram finished all the work...' and the materials cataloged (7:47). Another long, list-based scene (35 verses). This is a 'catalog of vessels' detailing the bronze work. The focus is on the two great pillars, Jachin and Boaz (v. 15-22), the 'Sea' (v. 23-26), the 10 stands (v. 27-37), and the smaller items (v. 38-47)."
+          "scene_name": "The Two Cherubim of Olive Wood",
+          "reference": "6:23-28",
+          "why_start_end_and_devices": "Starts the carved cherubim. Ends their overspreading wings. Devices: Guardians over the holy place.",
+          "scene_number": 9
         },
         {
-          "scene_number": 8,
+          "scene_name": "Carved Cherubim, Palms, and Flowers",
+          "reference": "6:29-32",
+          "why_start_end_and_devices": "Starts the carved walls. Ends the olive-wood doors. Devices: An Eden-like sanctuary.",
+          "scene_number": 10
+        },
+        {
+          "scene_name": "The Doors, the Court; Seven Years to Build",
+          "reference": "6:33-38",
+          "why_start_end_and_devices": "Starts the doorposts. Ends 'he built it in seven years.' Devices: The project completed.",
+          "scene_number": 11
+        },
+        {
+          "scene_name": "Solomon's Palace Complex (13 Years)",
+          "reference": "7:1-5",
+          "why_start_end_and_devices": "Starts his own house. Ends the windows in three rows. Devices: A note of contrast—thirteen years vs. the temple's seven.",
+          "scene_number": 12
+        },
+        {
+          "scene_name": "The Porches and the Throne Hall",
+          "reference": "7:6-8",
+          "why_start_end_and_devices": "Starts the Hall of Pillars. Ends the house for Pharaoh's daughter. Devices: Royal grandeur.",
+          "scene_number": 13
+        },
+        {
+          "scene_name": "Costly Stones; the Great Court",
+          "reference": "7:9-12",
+          "why_start_end_and_devices": "Starts the dressed, costly stones. Ends the great courtyard. Devices: Magnificence in every detail.",
+          "scene_number": 14
+        },
+        {
+          "scene_name": "Huram the Bronzeworker; the Pillars",
+          "reference": "7:13-16",
+          "why_start_end_and_devices": "Starts the skilled craftsman from Tyre. Ends the two bronze capitals. Devices: A Spirit-filled artisan (cf. Bezalel).",
+          "scene_number": 15
+        },
+        {
+          "scene_name": "The Capitals with Lily-work and Pomegranates",
+          "reference": "7:17-22",
+          "why_start_end_and_devices": "Starts the network and chains. Ends Jachin and Boaz named. Devices: 'He establishes' and 'in him is strength.'",
+          "scene_number": 16
+        },
+        {
+          "scene_name": "The Bronze Sea",
+          "reference": "7:23-26",
+          "why_start_end_and_devices": "Starts the great cast basin. Ends its huge capacity. Devices: The 'sea' for priestly washing.",
+          "scene_number": 17
+        },
+        {
+          "scene_name": "The Ten Bronze Stands (1)",
+          "reference": "7:27-31",
+          "why_start_end_and_devices": "Starts the movable stands. Ends their wheels and panels. Devices: Intricate functional artistry.",
+          "scene_number": 18
+        },
+        {
+          "scene_name": "The Stands (2): Wheels and Panels",
+          "reference": "7:32-37",
+          "why_start_end_and_devices": "Starts the bronze wheels. Ends 'all cast alike.' Devices: Uniform precision.",
+          "scene_number": 19
+        },
+        {
+          "scene_name": "The Ten Basins and Their Placement",
+          "reference": "7:38-43",
+          "why_start_end_and_devices": "Starts the ten basins. Ends their arrangement. Devices: Furnishings for sacrifice.",
+          "scene_number": 20
+        },
+        {
+          "scene_name": "All the Bronze Unweighed",
+          "reference": "7:44-47",
+          "why_start_end_and_devices": "Starts the sea and the bulls. Ends 'the weight was not determined.' Devices: Abundance beyond measure.",
+          "scene_number": 21
+        },
+        {
           "scene_name": "The Gold Furnishings and Final Summary",
           "reference": "7:48-51",
-          "why_start_end_and_devices": "Starts with 'So Solomon made all the vessels...' (7:48; new topic: gold). Ends with 'So was ended all the work... And Solomon brought in the things... dedicated by... David.' (7:51). A brief summary scene that concludes the construction/furnishing narrative. It separates the 'gold' items (altar, table, lampstands) from Hiram's 'bronze' work and formally links the project back to David's original consecrated gifts."
+          "why_start_end_and_devices": "Starts with 'So Solomon made all the vessels...' (7:48; new topic: gold). Ends with 'So was ended all the work... And Solomon brought in the things... dedicated by... David.' (7:51). A brief summary scene that concludes the construction/furnishing narrative. It separates the 'gold' items (altar, table, lampstands) from Hiram's 'bronze' work and formally links the project back to David's original consecrated gifts.",
+          "scene_number": 22
         },
         {
-          "scene_number": 9,
-          "scene_name": "Bringing the Ark into the Temple",
-          "reference": "8:1-13",
-          "why_start_end_and_devices": "Starts with 'Then Solomon assembled the elders...' (8:1; the start of the dedication). Ends with the glory of the LORD filling the house, and Solomon speaking his first dedicatory words (v. 12-13). This is the climactic moment the temple was built for. The narrative shows the priests bringing the Ark into the Most Holy Place, and the Shekinah glory (the cloud) filling the temple, signifying God's acceptance and presence."
+          "scene_name": "The Ark Brought Up to the Temple",
+          "reference": "8:1-5",
+          "why_start_end_and_devices": "Starts the assembly at the feast. Ends countless sacrifices. Devices: The climactic procession.",
+          "scene_number": 23
         },
         {
-          "scene_number": 10,
-          "scene_name": "Solomon's First Address to the People",
-          "reference": "8:14-21",
-          "why_start_end_and_devices": "Starts with 'Then the king turned his face about and blessed...' (8:14; new action). Ends with his concluding his historical summary of the project (8:21). A formal speech. Solomon blesses the people and recounts the 'Davidic Covenant' (v. 15-21), explaining why he, and not David, built this house. He defines the temple as the place for the 'covenant of the LORD.'"
+          "scene_name": "The Ark Placed Beneath the Cherubim",
+          "reference": "8:6-9",
+          "why_start_end_and_devices": "Starts the ark in the Most Holy Place. Ends the two tablets within. Devices: The covenant at the center.",
+          "scene_number": 24
         },
         {
-          "scene_number": 11,
-          "scene_name": "Solomon's Dedicatory Prayer (Part 1: The Foundation)",
-          "reference": "8:22-30",
-          "why_start_end_and_devices": "Starts with 'Then Solomon stood before the altar...' (8:22; the beginning of the great prayer). Ends with the foundational petition: 'hear in heaven Your dwelling place, and when You hear, forgive.' (8:30). This is the first part of the prayer. It establishes God's covenant faithfulness (v. 23-24) and his transcendence (v. 27, 'heaven... cannot contain You'). It sets the theme for the entire prayer: that this temple is a place of prayer (v. 29) directed toward heaven, asking God to 'hear' and 'forgive.'"
+          "scene_name": "The Cloud Fills the House; God's Glory",
+          "reference": "8:10-13",
+          "why_start_end_and_devices": "Starts the cloud. Ends 'a place for you to dwell forever.' Devices: The Shekinah—God takes residence.",
+          "scene_number": 25
         },
         {
-          "scene_number": 12,
-          "scene_name": "Solomon's Dedicatory Prayer (Part 2: Specific Cases)",
-          "reference": "8:31-53",
-          "why_start_end_and_devices": "Starts with the first specific case: 'If a man sins against his neighbor...' (8:31). Ends with the prayer concluding with a final summary and plea (8:53). This is the body of the prayer, structured as a repeating set of seven petitions for specific crises (oaths, defeat, drought, famine, foreigners, war, and exile), each ending with the refrain 'then hear in heaven.' It is a massive (23-verse) but single, coherent literary unit. The prayer for the foreigner (v. 41-43) is particularly important, showing the temple's intended missionary purpose."
+          "scene_name": "Solomon Blesses the Assembly",
+          "reference": "8:14-16",
+          "why_start_end_and_devices": "Starts the king turning to the people. Ends the choice of David. Devices: Covenant history recited.",
+          "scene_number": 26
         },
         {
-          "scene_number": 13,
-          "scene_name": "Solomon's Second Address and Blessing",
-          "reference": "8:54-61",
-          "why_start_end_and_devices": "Starts with 'As soon as Solomon finished...' (8:54; new action/speech). Ends with his charge to the people: 'let your heart therefore be wholly true to the LORD...' (8:61). After the prayer (C-11, C-12), Solomon blesses the people, reviewing God's faithfulness ('not one word has failed,' v. 56) and issuing a final charge that echoes the covenant warning of 6:11-13."
+          "scene_name": "'The LORD Has Kept His Promise'",
+          "reference": "8:17-21",
+          "why_start_end_and_devices": "Starts David's desire to build. Ends the ark of the covenant housed. Devices: Promise fulfilled through the son.",
+          "scene_number": 27
         },
         {
-          "scene_number": 14,
+          "scene_name": "'There Is No God Like You'",
+          "reference": "8:22-26",
+          "why_start_end_and_devices": "Starts Solomon's spread hands. Ends 'let your word be confirmed.' Devices: Covenant-keeping God praised.",
+          "scene_number": 28
+        },
+        {
+          "scene_name": "'Will God Dwell on Earth?'",
+          "reference": "8:27-30",
+          "why_start_end_and_devices": "Starts the wonder that heaven cannot contain him. Ends 'hear and forgive.' Devices: Transcendence and nearness held together.",
+          "scene_number": 29
+        },
+        {
+          "scene_name": "When a Man Sins Against His Neighbor",
+          "reference": "8:31-32",
+          "why_start_end_and_devices": "Starts the oath at the altar. Ends judging the wicked and righteous. Devices: The first petition of the prayer.",
+          "scene_number": 30
+        },
+        {
+          "scene_name": "When Israel Is Defeated for Sin",
+          "reference": "8:33-34",
+          "why_start_end_and_devices": "Starts defeat before enemies. Ends 'bring them back.' Devices: Repentance and restoration.",
+          "scene_number": 31
+        },
+        {
+          "scene_name": "When the Heavens Are Shut",
+          "reference": "8:35-36",
+          "why_start_end_and_devices": "Starts drought for sin. Ends teaching 'the good way.' Devices: Confession turning back the curse.",
+          "scene_number": 32
+        },
+        {
+          "scene_name": "Famine, Plague, and Personal Prayer",
+          "reference": "8:37-40",
+          "why_start_end_and_devices": "Starts every plague and sickness. Ends 'that they may fear you.' Devices: 'Each knowing the affliction of his own heart.'",
+          "scene_number": 33
+        },
+        {
+          "scene_name": "The Foreigner's Prayer",
+          "reference": "8:41-43",
+          "why_start_end_and_devices": "Starts the foreigner who comes for the Name. Ends 'that all peoples may know you.' Devices: A missionary vision in the temple prayer.",
+          "scene_number": 34
+        },
+        {
+          "scene_name": "When They Go to Battle",
+          "reference": "8:44-45",
+          "why_start_end_and_devices": "Starts prayer toward the city. Ends 'uphold their cause.' Devices: The temple as the direction of prayer.",
+          "scene_number": 35
+        },
+        {
+          "scene_name": "When They Sin and Are Carried into Exile",
+          "reference": "8:46-50",
+          "why_start_end_and_devices": "Starts 'there is no one who does not sin.' Ends pleading for compassion from captors. Devices: Exile foreseen; mercy sought.",
+          "scene_number": 36
+        },
+        {
+          "scene_name": "'They Are Your Inheritance'",
+          "reference": "8:51-53",
+          "why_start_end_and_devices": "Starts 'they are your people.' Ends the exodus remembered. Devices: Appeal grounded in redemption.",
+          "scene_number": 37
+        },
+        {
+          "scene_name": "Solomon Blesses Israel Standing",
+          "reference": "8:54-57",
+          "why_start_end_and_devices": "Starts rising from his knees. Ends 'may the LORD be with us.' Devices: Benediction over the assembly.",
+          "scene_number": 38
+        },
+        {
+          "scene_name": "'Let Your Hearts Be Wholly Devoted'",
+          "reference": "8:58-61",
+          "why_start_end_and_devices": "Starts the prayer for inclined hearts. Ends 'fully committed to the LORD.' Devices: The charge to whole-hearted obedience.",
+          "scene_number": 39
+        },
+        {
           "scene_name": "The Feast of Dedication",
           "reference": "8:62-66",
-          "why_start_end_and_devices": "Starts with 'Then the king and all Israel... offered sacrifice...' (8:62). Ends with the entire story arc concluding: 'they went to their homes joyful and glad of heart...' (8:66). The narrative resolution. The sacrifices are offered, the feast is kept for 14 days (v. 65), and the people are dismissed. This is the definitive end of the temple-building story."
+          "why_start_end_and_devices": "Starts with 'Then the king and all Israel... offered sacrifice...' (8:62). Ends with the entire story arc concluding: 'they went to their homes joyful and glad of heart...' (8:66). The narrative resolution. The sacrifices are offered, the feast is kept for 14 days (v. 65), and the people are dismissed. This is the definitive end of the temple-building story.",
+          "scene_number": 40
         }
       ]
     },
@@ -203,52 +497,142 @@
       "reference": "9:1 - 11:43",
       "scenes": [
         {
-          "scene_number": 1,
-          "scene_name": "The LORD's Second Appearance to Solomon",
-          "reference": "9:1-9",
-          "why_start_end_and_devices": "Starts with narrative opening: 'As soon as Solomon had finished...' (9:1). Ends with the 'if... then' oracle concluding with the threat of exile (9:9). This scene is the key to the entire story. It is a direct divine response to the dedication prayer (Ch 8). God confirms He has 'consecrated' the temple (v. 3) but immediately gives a severe warning: obedience will 'establish the throne' (v. 5), but disobedience will lead to the temple's destruction and Israel's exile (v. 6-9)."
+          "scene_name": "The LORD Appears Again; the Conditional Promise",
+          "reference": "9:1-5",
+          "why_start_end_and_devices": "Starts the second appearance. Ends 'a man on the throne of Israel forever.' Devices: The dynasty conditioned on obedience.",
+          "scene_number": 1
         },
         {
-          "scene_number": 2,
-          "scene_name": "Solomon's Public Works and Administration",
-          "reference": "9:10-28",
-          "why_start_end_and_devices": "Starts with time marker: 'At the end of twenty years...' (9:10). Ends with the summary of his trade/building projects (Hiram, forced labor, Gezer, Ezion-geber) concluding (9:28). This scene is a 'catalog of glory,' showing the blessings of obedience. It details his dealings with Hiram (v. 10-14), his use of forced labor (v. 15-23), and his naval expeditions (v. 26-28). It stands as evidence of the 'riches and honor' promised in 3:13."
+          "scene_name": "'This Temple Will Become Rubble'",
+          "reference": "9:6-9",
+          "why_start_end_and_devices": "Starts 'if you turn away.' Ends the nations' horror at the ruin. Devices: Exile and the destroyed temple foretold.",
+          "scene_number": 2
         },
         {
-          "scene_number": 3,
-          "scene_name": "The Queen of Sheba",
-          "reference": "10:1-13",
-          "why_start_end_and_devices": "Starts with 'Now when the queen of Sheba heard of the fame of Solomon...' (10:1). Ends with 'So she turned and went to her own country...' (10:13). This is the apex of Solomon's wisdom and glory. The queen 'tests' him (v. 1), is overwhelmed ('there was no more spirit in her,' v. 5), and offers her famous benediction (v. 6-9), explicitly praising the wisdom from 4:29-34. This scene is the ultimate fulfillment of the 'blessing' half of the 9:1-9 oracle."
+          "scene_name": "The Twenty Cities Given to Hiram",
+          "reference": "9:10-14",
+          "why_start_end_and_devices": "Starts the payment to Hiram. Ends the gold of Ophir. Devices: The cost of the great projects.",
+          "scene_number": 3
         },
         {
-          "scene_number": 4,
-          "scene_name": "Solomon's Riches and Honor",
-          "reference": "10:14-29",
-          "why_start_end_and_devices": "Starts with a list: 'Now the weight of gold that came to Solomon...' (10:14). Ends with the list of his wealth (gold, shields, ivory, chariots, horses) concluding (10:29). A second 'catalog of glory,' this time focusing on wealth. This 16-verse scene is a single, list-based unit. It details his immense riches, but a dark undercurrent is present: he is multiplying gold (v. 14) and multiplying horses from Egypt (v. 28-29), two things expressly forbidden by the law of the king in Deuteronomy 17:16-17. This scene cleverly serves as both the peak of his glory and the pivot to his fall."
+          "scene_name": "Solomon's Forced Labor and Building",
+          "reference": "9:15-19",
+          "why_start_end_and_devices": "Starts the labor levy. Ends the store cities. Devices: The empire's infrastructure—and its burden.",
+          "scene_number": 4
         },
         {
-          "scene_number": 5,
-          "scene_name": "Solomon's Apostasy",
-          "reference": "11:1-13",
-          "why_start_end_and_devices": "Starts with 'Now King Solomon loved many foreign women...' (11:1; the pivot to the curse). Ends with the LORD's judgment oracle concluding: '...I will surely tear the kingdom from you... I will give one tribe to your son...' (11:13). This scene is the tragic reversal. It begins with the cause of his fall: multiplying wives (v. 1-4), the third prohibition from Deut. 17:17. It details the effect: his heart was 'turned away' (v. 4), and he 'built a high place' for heathen gods (v. 7-8). The result is the divine judgment (v. 9-13), which directly references the 'if... then' warning from 9:6-9."
+          "scene_name": "The Conscripted Canaanites",
+          "reference": "9:20-23",
+          "why_start_end_and_devices": "Starts the non-Israelite slaves. Ends the chief officers. Devices: Forced labor distinguished by people.",
+          "scene_number": 5
         },
         {
-          "scene_number": 6,
-          "scene_name": "The LORD Stirs Up Adversaries",
-          "reference": "11:14-25",
-          "why_start_end_and_devices": "Starts with 'And the LORD stirred up an adversary...' (11:14; Hadad). Ends with 'And this was the harm that Hadad did...' (NIV/ESV) or 'besides the mischief that Hadad did' (KJV) (11:25). This scene is the execution of the judgment from the previous scene. The narrative introduces two external 'thorns in his side': Hadad the Edomite (v. 14-22) and Rezon of Damascus (v. 23-25). The kingdom's shalom (peace) from 4:24 is now broken."
+          "scene_name": "Pharaoh's Daughter; the Fleet of Ophir",
+          "reference": "9:24-28",
+          "why_start_end_and_devices": "Starts the move of Pharaoh's daughter. Ends the gold from Ophir. Devices: Wealth and foreign entanglement together.",
+          "scene_number": 6
         },
         {
-          "scene_number": 7,
-          "scene_name": "The Prophecy Against Jeroboam",
-          "reference": "11:26-40",
-          "why_start_end_and_devices": "Starts with 'Jeroboam the son of Nebat... also lifted up his hand...' (11:26; new character). Ends with 'Solomon sought therefore to kill Jeroboam. But Jeroboam... fled to Egypt.' (11:40). This is the internal execution of the judgment. The prophet Ahijah delivers the famous 'torn garment' oracle (v. 29-39), explicitly promising 10 tribes to Jeroboam and fulfilling the LORD's warning from 11:11-13. This scene sets up the entire plot for the rest of 1 & 2 Kings."
+          "scene_name": "The Queen of Sheba's Visit",
+          "reference": "10:1-5",
+          "why_start_end_and_devices": "Starts her hard questions. Ends 'there was no more spirit in her.' Devices: Solomon's fame draws the nations.",
+          "scene_number": 7
         },
         {
-          "scene_number": 8,
+          "scene_name": "'The Half Was Not Told Me'",
+          "reference": "10:6-9",
+          "why_start_end_and_devices": "Starts her astonishment. Ends praising the LORD who set him on the throne. Devices: A Gentile blessing Israel's God.",
+          "scene_number": 8
+        },
+        {
+          "scene_name": "Gifts Exchanged",
+          "reference": "10:10-13",
+          "why_start_end_and_devices": "Starts her lavish gifts. Ends her return home. Devices: The wealth of nations flowing in.",
+          "scene_number": 9
+        },
+        {
+          "scene_name": "Solomon's Annual Gold; the Gold Shields",
+          "reference": "10:14-17",
+          "why_start_end_and_devices": "Starts 666 talents of gold. Ends the shields in the Palace of the Forest. Devices: Staggering opulence.",
+          "scene_number": 10
+        },
+        {
+          "scene_name": "The Great Ivory Throne; the Ships of Tarshish",
+          "reference": "10:18-22",
+          "why_start_end_and_devices": "Starts the throne overlaid with gold. Ends the triennial fleet. Devices: Unrivaled royal splendor.",
+          "scene_number": 11
+        },
+        {
+          "scene_name": "Solomon Surpassed All Kings",
+          "reference": "10:23-25",
+          "why_start_end_and_devices": "Starts 'greater than all the kings.' Ends yearly tribute. Devices: The summit of the golden age.",
+          "scene_number": 12
+        },
+        {
+          "scene_name": "Chariots, Horses, and Trade",
+          "reference": "10:26-29",
+          "why_start_end_and_devices": "Starts the chariots and horses. Ends the horse trade with Egypt. Devices: A quiet violation of the king's law (Deut 17).",
+          "scene_number": 13
+        },
+        {
+          "scene_name": "Solomon's Foreign Wives Turn His Heart",
+          "reference": "11:1-4",
+          "why_start_end_and_devices": "Starts the many foreign wives. Ends 'his heart was not fully devoted.' Devices: The forbidden alliances bear bitter fruit.",
+          "scene_number": 14
+        },
+        {
+          "scene_name": "He Builds High Places for Their Gods",
+          "reference": "11:5-8",
+          "why_start_end_and_devices": "Starts Ashtoreth and Molech. Ends altars for all his foreign wives. Devices: Apostasy institutionalized by the wise king.",
+          "scene_number": 15
+        },
+        {
+          "scene_name": "The LORD's Anger; the Kingdom to Be Torn",
+          "reference": "11:9-13",
+          "why_start_end_and_devices": "Starts the LORD twice-appeared but ignored. Ends one tribe kept for David's sake. Devices: Judgment tempered by covenant mercy.",
+          "scene_number": 16
+        },
+        {
+          "scene_name": "Hadad the Edomite Adversary",
+          "reference": "11:14-19",
+          "why_start_end_and_devices": "Starts the LORD raising Hadad. Ends favor in Pharaoh's house. Devices: God stirring up enemies as discipline.",
+          "scene_number": 17
+        },
+        {
+          "scene_name": "Hadad and Rezon Rise Against Solomon",
+          "reference": "11:20-25",
+          "why_start_end_and_devices": "Starts Hadad's return to Edom. Ends Rezon's hostility in Aram. Devices: The empire's edges fraying.",
+          "scene_number": 18
+        },
+        {
+          "scene_name": "Jeroboam the Capable Official",
+          "reference": "11:26-28",
+          "why_start_end_and_devices": "Starts the rising young leader. Ends Solomon putting him over the labor. Devices: The future rival introduced.",
+          "scene_number": 19
+        },
+        {
+          "scene_name": "Ahijah Tears the Cloak into Twelve Pieces",
+          "reference": "11:29-33",
+          "why_start_end_and_devices": "Starts the prophet on the road. Ends the indictment of idolatry. Devices: A dramatic prophetic sign-act.",
+          "scene_number": 20
+        },
+        {
+          "scene_name": "'I Will Give You Ten Tribes'",
+          "reference": "11:34-37",
+          "why_start_end_and_devices": "Starts the promise to Jeroboam. Ends 'a lamp for David.' Devices: Division decreed, dynasty preserved.",
+          "scene_number": 21
+        },
+        {
+          "scene_name": "A Sure House if Obedient; Jeroboam Flees",
+          "reference": "11:38-40",
+          "why_start_end_and_devices": "Starts the conditional dynasty offer. Ends Jeroboam fleeing to Egypt. Devices: A second 'sure house' offer—soon squandered.",
+          "scene_number": 22
+        },
+        {
           "scene_name": "The Death of Solomon",
           "reference": "11:41-43",
-          "why_start_end_and_devices": "Starts with the regnal formula: 'Now the rest of the acts of Solomon...' (11:41). Ends with the concluding regnal formula: 'And Solomon slept with his fathers... and Rehoboam his son reigned in his stead.' (11:43). This is the standard, non-negotiable regnal formula, closing the story of Solomon and the entire United Kingdom."
+          "why_start_end_and_devices": "Starts with the regnal formula: 'Now the rest of the acts of Solomon...' (11:41). Ends with the concluding regnal formula: 'And Solomon slept with his fathers... and Rehoboam his son reigned in his stead.' (11:43). This is the standard, non-negotiable regnal formula, closing the story of Solomon and the entire United Kingdom.",
+          "scene_number": 23
         }
       ]
     },
@@ -259,22 +643,46 @@
       "reference": "12:1-33",
       "scenes": [
         {
-          "scene_number": 1,
-          "scene_name": "The Assembly at Shechem",
-          "reference": "12:1-15",
-          "why_start_end_and_devices": "Starts with 'Rehoboam went to Shechem...' (12:1). Ends with '...for the turn of events was from the LORD, that He might fulfill His word... to Jeroboam.' (12:15). This is a political drama. The people's reasonable request (v. 4) is met by Rehoboam's foolishness. The scene is structured around the contrast between the old men's wise counsel (v. 7) and the young men's harsh counsel (v. 10-11). The narrator's theological comment in v. 15 provides the divine reason for Rehoboam's folly."
+          "scene_name": "Israel's Plea at Shechem; 'Lighten the Yoke'",
+          "reference": "12:1-5",
+          "why_start_end_and_devices": "Starts Rehoboam at Shechem. Ends 'come back in three days.' Devices: A nation's grievance at the coronation.",
+          "scene_number": 1
         },
         {
-          "scene_number": 2,
-          "scene_name": "The Rebellion of the Ten Tribes",
-          "reference": "12:16-24",
-          "why_start_end_and_devices": "Starts with the people's famous rebellious cry: 'What portion have we in David?' (12:16). Ends with Rehoboam obeying the prophet Shemaiah's oracle and 'returned to their own homes.' (12:24). This scene is the result of Rehoboam's folly. It includes the rebellion (v. 16-17), the stoning of Adoniram (v. 18), and the establishment of the northern kingdom (v. 20). The scene ends with a prophetic intervention by Shemaiah, which prevents a civil war and solidifies the split."
+          "scene_name": "Rehoboam Rejects the Elders' Counsel",
+          "reference": "12:6-11",
+          "why_start_end_and_devices": "Starts the elders' wise advice. Ends the young men's harsh counsel. Devices: Folly choosing flattery over wisdom.",
+          "scene_number": 2
         },
         {
-          "scene_number": 3,
-          "scene_name": "The Sin of Jeroboam",
-          "reference": "12:25-33",
-          "why_start_end_and_devices": "Starts with 'Then Jeroboam built Shechem...' (12:25; his political consolidation). Ends with a summary of his new cult: '...ordained a feast... which he had devised of his own heart.' (12:33). This is one of the most important scenes in Kings. It details the religious schism that defines Israel's apostasy. Jeroboam's 'fear' (v. 26-27) leads him to create a new cult: new gods (calves, v. 28), new centers (Bethel/Dan, v. 29), new priesthood (v. 31), and a new festival (v. 32). This becomes the 'sin of Jeroboam' refrain that damns every future king of Israel."
+          "scene_name": "'My Father Scourged You with Whips...'",
+          "reference": "12:12-15",
+          "why_start_end_and_devices": "Starts the harsh answer. Ends 'this turn of events was from the LORD.' Devices: Human folly serving the divine word.",
+          "scene_number": 3
+        },
+        {
+          "scene_name": "Israel Rejects Rehoboam; the Split",
+          "reference": "12:16-20",
+          "why_start_end_and_devices": "Starts 'what share do we have in David?' Ends Israel making Jeroboam king. Devices: The kingdom torn in two.",
+          "scene_number": 4
+        },
+        {
+          "scene_name": "'Do Not Fight Your Brothers'",
+          "reference": "12:21-24",
+          "why_start_end_and_devices": "Starts Rehoboam mustering for war. Ends the army obeying the prophet. Devices: Civil war averted by a prophetic word.",
+          "scene_number": 5
+        },
+        {
+          "scene_name": "The Golden Calves at Bethel and Dan",
+          "reference": "12:25-30",
+          "why_start_end_and_devices": "Starts 'lest the kingdom return to David.' Ends 'this became a sin.' Devices: Political religion—the calves of Jeroboam.",
+          "scene_number": 6
+        },
+        {
+          "scene_name": "False Priests and an Invented Feast",
+          "reference": "12:31-33",
+          "why_start_end_and_devices": "Starts non-Levitical priests. Ends a feast 'of his own devising.' Devices: Counterfeit worship to rival Jerusalem.",
+          "scene_number": 7
         }
       ]
     },
@@ -285,58 +693,214 @@
       "reference": "13:1 - 16:34",
       "scenes": [
         {
-          "scene_number": 1,
-          "scene_name": "The Man of God from Judah",
-          "reference": "13:1-10",
-          "why_start_end_and_devices": "Starts with 'And behold, a man of God came out of Judah...' (13:1; new character). Ends with 'So he went another way, and did not return by the way he came to Bethel.' (13:10). A powerful prophetic sign-act. The prophet predicts Josiah by name (v. 2), withers Jeroboam's hand, and splits the altar (v. 3-6). He then refuses the king's hospitality, stating his divine command (v. 7-10). The scene shows God's immediate rejection of Jeroboam's cult."
+          "scene_name": "The Man of God Cries Against the Altar",
+          "reference": "13:1-5",
+          "why_start_end_and_devices": "Starts the prophecy of Josiah. Ends the altar split, the ashes poured. Devices: A sign three centuries early.",
+          "scene_number": 1
         },
         {
-          "scene_number": 2,
-          "scene_name": "The Old Prophet and the Lion",
-          "reference": "13:11-32",
-          "why_start_end_and_devices": "Starts with 'Now an old prophet was living in Bethel...' (13:11; new character). Ends with the old prophet burying him and repeating the prophecy, confirming its truth (13:32). A strange and tragic story. The old prophet lies (v. 18), causing the man of God to disobey. The lion (v. 24) acts as God's executioner, paradoxically guarding the body (v. 28). The scene is a stark lesson on the absolute, unswerving nature of God's command, even against a counter-claim from a 'prophet.'"
+          "scene_name": "The King's Withered Hand Restored",
+          "reference": "13:6-10",
+          "why_start_end_and_devices": "Starts Jeroboam's hand shriveled. Ends the man of God refusing the king's hospitality. Devices: Mercy and the strict command not to eat there.",
+          "scene_number": 2
         },
         {
-          "scene_number": 3,
+          "scene_name": "The Old Prophet Pursues Him",
+          "reference": "13:11-14",
+          "why_start_end_and_devices": "Starts the old prophet hearing the news. Ends 'are you the man of God?' Devices: A test approaching.",
+          "scene_number": 3
+        },
+        {
+          "scene_name": "'I Cannot Return with You'",
+          "reference": "13:15-17",
+          "why_start_end_and_devices": "Starts the invitation. Ends the strict command repeated. Devices: Obedience under pressure.",
+          "scene_number": 4
+        },
+        {
+          "scene_name": "The Lie; the Word of Doom",
+          "reference": "13:18-22",
+          "why_start_end_and_devices": "Starts the old prophet's deception. Ends the sentence of death. Devices: A lie 'in the name of the LORD'—and its consequence.",
+          "scene_number": 5
+        },
+        {
+          "scene_name": "The Lion Kills the Man of God",
+          "reference": "13:23-25",
+          "why_start_end_and_devices": "Starts the journey home. Ends the lion standing by the body. Devices: Judgment for disobedience, strangely restrained.",
+          "scene_number": 6
+        },
+        {
+          "scene_name": "'It Is the Man of God'",
+          "reference": "13:26-28",
+          "why_start_end_and_devices": "Starts the old prophet's recognition. Ends the untouched donkey and lion. Devices: A supernatural sign confirming the word.",
+          "scene_number": 7
+        },
+        {
+          "scene_name": "Buried; 'Lay My Bones Beside His'",
+          "reference": "13:29-32",
+          "why_start_end_and_devices": "Starts the burial. Ends 'his word will surely come to pass.' Devices: The prophecy authenticated for Josiah's day.",
+          "scene_number": 8
+        },
+        {
           "scene_name": "Jeroboam's Unrepentance",
           "reference": "13:33-34",
-          "why_start_end_and_devices": "Starts with 'After this thing Jeroboam did not return...' (13:33; summary). Ends with the concluding judgment on his house (13:34). A short, 'bridge' scene that serves as the narrator's formal condemnation of Jeroboam, showing that the signs in the previous two scenes had no positive effect on him."
+          "why_start_end_and_devices": "Starts with 'After this thing Jeroboam did not return...' (13:33; summary). Ends with the concluding judgment on his house (13:34). A short, 'bridge' scene that serves as the narrator's formal condemnation of Jeroboam, showing that the signs in the previous two scenes had no positive effect on him.",
+          "scene_number": 9
         },
         {
-          "scene_number": 4,
-          "scene_name": "Ahijah's Prophecy Against Jeroboam's House",
-          "reference": "14:1-18",
-          "why_start_end_and_devices": "Starts with 'At that time Abijah the son of Jeroboam fell sick.' (14:1; new crisis). Ends with the prophecy fulfilled: 'when she came... the child died... and all Israel mourned for him.' (14:17). Another prophetic judgment. Jeroboam's wife goes in disguise (v. 2), but the blind prophet Ahijah 'hears' her (v. 6). He delivers a brutal oracle of judgment, dooming Jeroboam's entire dynasty (v. 7-16). The scene's power lies in its immediate, tragic fulfillment (v. 17)."
+          "scene_name": "Jeroboam's Wife Sent in Disguise",
+          "reference": "14:1-5",
+          "why_start_end_and_devices": "Starts the sick child. Ends the LORD forewarning blind Ahijah. Devices: Disguise useless before God.",
+          "scene_number": 10
         },
         {
-          "scene_number": 5,
-          "scene_name": "The Regnal Summaries of Jeroboam and Rehoboam",
-          "reference": "14:19-31",
-          "why_start_end_and_devices": "Starts with 'Now the rest of the acts of Jeroboam...' (14:19; regnal formula). Ends with '...and Rehoboam slept with his fathers... and Abijam his son reigned...' (14:31). This is the narrator 'catching up' on the history. It is a formal use of the Regnal Formula for both the king of Israel (Jeroboam, v. 19-20) and the king of Judah (Rehoboam, v. 21-31). This parallel summary establishes the 'braided' narrative style for the rest of the book."
+          "scene_name": "Ahijah's Sentence on Jeroboam's House",
+          "reference": "14:6-11",
+          "why_start_end_and_devices": "Starts 'why pretend?' Ends the dogs and birds devouring his line. Devices: Total judgment on the dynasty.",
+          "scene_number": 11
         },
         {
-          "scene_number": 6,
-          "scene_name": "The Reigns of Abijam (Judah) and Asa (Judah)",
-          "reference": "15:1-24",
-          "why_start_end_and_devices": "Starts with 'Now in the eighteenth year of... Jeroboam... Abijam began to reign...' (15:1). Ends with '...Asa slept with his fathers... and Jehoshaphat his son reigned...' (15:24). Another 'regnal formula' block. It covers two kings of Judah. Abijam (v. 1-8) is evil. Asa (v. 9-24) is 'right in the eyes of the LORD, as David...'. This establishes the 'Davidic' standard of judgment for Judah. The narrative of his war with Baasha (v. 16-22) is included."
+          "scene_name": "'The Child Will Die'; Israel Scattered",
+          "reference": "14:12-16",
+          "why_start_end_and_devices": "Starts the child's death foretold. Ends Israel uprooted for Jeroboam's sins. Devices: Exile beyond the Euphrates foreseen.",
+          "scene_number": 12
         },
         {
-          "scene_number": 7,
-          "scene_name": "The Reigns of Nadab (Israel) and Baasha (Israel)",
-          "reference": "15:25-16:7",
-          "why_start_end_and_devices": "Starts with 'Nadab the son of Jeroboam began to reign...' (15:25). Ends with the regnal summary for Baasha concluding with the prophecy of Jehu (16:7). This block covers two kings of Israel. Nadab (v. 25-32) 'did evil... in the sin of Jeroboam.' He is assassinated by Baasha. Baasha (15:33-16:7) also walks in the 'sin of Jeroboam,' and his dynasty is condemned by a new prophet, Jehu son of Hanani (16:1-4). This shows the fulfillment of Ahijah's prophecy against Jeroboam's house and the start of a new cycle of judgment."
+          "scene_name": "The Child Dies as Foretold",
+          "reference": "14:17-18",
+          "why_start_end_and_devices": "Starts the wife's return. Ends the burial and mourning. Devices: The word fulfilled to the letter.",
+          "scene_number": 13
         },
         {
-          "scene_number": 8,
-          "scene_name": "Israel's Internal Collapse: Elah, Zimri, Omri",
-          "reference": "16:8-28",
-          "why_start_end_and_devices": "Starts with 'In the twenty-sixth year of Asa... Elah... began to reign.' (16:8). Ends with 'So Omri slept with his fathers... and Ahab his son reigned...' (16:28). This scene shows Israel in total chaos. Elah is assassinated by Zimri (v. 9-10). Zimri reigns 7 days and is besieged by Omri, so he commits suicide (v. 15-20). The people then divide between Omri and Tibni (v. 21-22). Omri wins, founds Samaria (v. 24), and is judged as worse than all before him (v. 25-26). This narrative spiral of apostasy and violence sets the stage for the worst king yet: Ahab."
+          "scene_name": "Jeroboam Dies; Rehoboam's Wicked Reign",
+          "reference": "14:19-24",
+          "why_start_end_and_devices": "Starts the regnal note. Ends the detestable practices in Judah. Devices: Both kingdoms sliding into sin.",
+          "scene_number": 14
         },
         {
-          "scene_number": 9,
+          "scene_name": "Egypt Takes the Gold Shields",
+          "reference": "14:25-28",
+          "why_start_end_and_devices": "Starts Shishak's invasion. Ends the bronze replacements. Devices: Glory tarnished—bronze for gold.",
+          "scene_number": 15
+        },
+        {
+          "scene_name": "Rehoboam's Death",
+          "reference": "14:29-31",
+          "why_start_end_and_devices": "Starts the chronicle reference. Ends Abijam succeeding. Devices: The regnal formula.",
+          "scene_number": 16
+        },
+        {
+          "scene_name": "Abijam's Brief Reign in Judah",
+          "reference": "15:1-5",
+          "why_start_end_and_devices": "Starts his accession. Ends 'for David's sake' a lamp remained. Devices: Covenant mercy despite the king's sins.",
+          "scene_number": 17
+        },
+        {
+          "scene_name": "War with Jeroboam; Abijam Dies",
+          "reference": "15:6-8",
+          "why_start_end_and_devices": "Starts the ongoing war. Ends Asa succeeding. Devices: Bridging to the good king.",
+          "scene_number": 18
+        },
+        {
+          "scene_name": "Asa Does Right; Removes the Idols",
+          "reference": "15:9-12",
+          "why_start_end_and_devices": "Starts Asa's long reign. Ends expelling the cult prostitutes. Devices: A reformer in Judah.",
+          "scene_number": 19
+        },
+        {
+          "scene_name": "Even Deposes the Queen Mother",
+          "reference": "15:13-15",
+          "why_start_end_and_devices": "Starts removing Maacah for her idol. Ends the dedicated gifts. Devices: Reform reaching the palace.",
+          "scene_number": 20
+        },
+        {
+          "scene_name": "Asa Buys Aram's Help",
+          "reference": "15:16-19",
+          "why_start_end_and_devices": "Starts war with Baasha. Ends the treaty with Ben-hadad. Devices: Pragmatism over trust (rebuked in Chronicles).",
+          "scene_number": 21
+        },
+        {
+          "scene_name": "Baasha's Building Halted",
+          "reference": "15:20-22",
+          "why_start_end_and_devices": "Starts Aram's attack on Israel. Ends fortifying Geba and Mizpah. Devices: The alliance's short-term success.",
+          "scene_number": 22
+        },
+        {
+          "scene_name": "Asa's Old Age and Death",
+          "reference": "15:23-24",
+          "why_start_end_and_devices": "Starts his diseased feet. Ends Jehoshaphat succeeding. Devices: The regnal close.",
+          "scene_number": 23
+        },
+        {
+          "scene_name": "Nadab Killed by Baasha",
+          "reference": "15:25-28",
+          "why_start_end_and_devices": "Starts Nadab's evil reign. Ends Baasha's coup. Devices: Bloody instability in the north.",
+          "scene_number": 24
+        },
+        {
+          "scene_name": "Baasha Destroys Jeroboam's House",
+          "reference": "15:29-32",
+          "why_start_end_and_devices": "Starts the massacre. Ends 'as the LORD said through Ahijah.' Devices: Prophecy fulfilled by violence.",
+          "scene_number": 25
+        },
+        {
+          "scene_name": "Baasha's Reign Summarized",
+          "reference": "15:33-34",
+          "why_start_end_and_devices": "Starts his twenty-four years. Ends 'he did evil.' Devices: The northern pattern repeating.",
+          "scene_number": 26
+        },
+        {
+          "scene_name": "Jehu Prophesies Against Baasha",
+          "reference": "16:1-4",
+          "why_start_end_and_devices": "Starts the word to Jehu. Ends the dogs and birds. Devices: Judgment like Jeroboam's.",
+          "scene_number": 27
+        },
+        {
+          "scene_name": "Baasha Dies; the Word Against Him",
+          "reference": "16:5-7",
+          "why_start_end_and_devices": "Starts the chronicle note. Ends the reason for the doom. Devices: Sin and its sentence linked.",
+          "scene_number": 28
+        },
+        {
+          "scene_name": "Zimri Murders Elah",
+          "reference": "16:8-10",
+          "why_start_end_and_devices": "Starts Elah drunk. Ends Zimri reigning. Devices: Assassination at a feast.",
+          "scene_number": 29
+        },
+        {
+          "scene_name": "Zimri Wipes Out Baasha's House",
+          "reference": "16:11-14",
+          "why_start_end_and_devices": "Starts the purge. Ends 'the sins of Baasha.' Devices: Another dynasty erased.",
+          "scene_number": 30
+        },
+        {
+          "scene_name": "Zimri's Seven-Day Reign; Omri Besieges",
+          "reference": "16:15-17",
+          "why_start_end_and_devices": "Starts the army proclaiming Omri. Ends the siege of Tirzah. Devices: The shortest reign.",
+          "scene_number": 31
+        },
+        {
+          "scene_name": "Zimri Burns the Palace Over Himself",
+          "reference": "16:18-20",
+          "why_start_end_and_devices": "Starts the citadel set ablaze. Ends his death for his sins. Devices: Suicide amid the flames.",
+          "scene_number": 32
+        },
+        {
+          "scene_name": "Omri Prevails; Builds Samaria",
+          "reference": "16:21-24",
+          "why_start_end_and_devices": "Starts the divided north. Ends the new capital. Devices: A strong, wicked dynasty founded.",
+          "scene_number": 33
+        },
+        {
+          "scene_name": "Omri's Evil; His Death",
+          "reference": "16:25-28",
+          "why_start_end_and_devices": "Starts 'worse than all before him.' Ends Ahab succeeding. Devices: Setting the stage for Ahab.",
+          "scene_number": 34
+        },
+        {
           "scene_name": "The Reign of Ahab and the Curse of Jericho",
           "reference": "16:29-34",
-          "why_start_end_and_devices": "Starts with 'In the thirty-eighth year of Asa... Ahab... began to reign.' (16:29). Ends with the curse on Hiel of Bethel fulfilled (16:34). The regnal summary for Ahab. The narrator states he 'did evil in the sight of the LORD, more than all who were before him' (v. 30). The 'sin of Jeroboam' was now a 'light thing' (v. 31); he adds Baal worship via Jezebel. The scene ends with the ominous note of Hiel rebuilding Jericho (v. 34), a sign that God's covenant curses are in full effect. This is the 'darkest before the dawn' and leads directly to the appearance of Elijah."
+          "why_start_end_and_devices": "Starts with 'In the thirty-eighth year of Asa... Ahab... began to reign.' (16:29). Ends with the curse on Hiel of Bethel fulfilled (16:34). The regnal summary for Ahab. The narrator states he 'did evil in the sight of the LORD, more than all who were before him' (v. 30). The 'sin of Jeroboam' was now a 'light thing' (v. 31); he adds Baal worship via Jezebel. The scene ends with the ominous note of Hiel rebuilding Jericho (v. 34), a sign that God's covenant curses are in full effect. This is the 'darkest before the dawn' and leads directly to the appearance of Elijah.",
+          "scene_number": 35
         }
       ]
     },
@@ -347,58 +911,124 @@
       "reference": "17:1 - 19:21",
       "scenes": [
         {
-          "scene_number": 1,
-          "scene_name": "The Drought and the Ravens",
-          "reference": "17:1-7",
-          "why_start_end_and_devices": "Starts with Elijah's oracle of drought (17:1). Ends with 'And the ravens brought him bread... and the brook dried up.' (17:7). This scene establishes Elijah's power (his word stops the rain) and his total dependence on God's miraculous provision (the ravens at Cherith). The 'brook dried up' provides the narrative hook for the next scene."
+          "scene_name": "Elijah Declares the Drought; Sent to the Brook",
+          "reference": "17:1-4",
+          "why_start_end_and_devices": "Starts 'as the LORD lives.' Ends the command to hide. Devices: The prophet appears abruptly—judgment by word.",
+          "scene_number": 1
         },
         {
-          "scene_number": 2,
-          "scene_name": "The Widow of Zarephath: The Flour and Oil",
-          "reference": "17:8-16",
-          "why_start_end_and_devices": "Starts with Oracle: 'Arise, go to Zarephath...' (17:8). Ends with the miracle sustained: 'the jar of flour was not spent... according to the word of the LORD...' (17:16). A miracle of provision in gentile territory. The scene is a test of the widow's faith (v. 13, 'make me a little cake first'). Her obedience results in her salvation."
+          "scene_name": "Fed by Ravens; the Brook Dries Up",
+          "reference": "17:5-7",
+          "why_start_end_and_devices": "Starts the ravens' provision. Ends the brook drying. Devices: Miraculous care; then a new test.",
+          "scene_number": 2
         },
         {
-          "scene_number": 3,
-          "scene_name": "The Widow of Zarephath: The Son Raised",
-          "reference": "17:17-24",
-          "why_start_end_and_devices": "Starts with 'After this the son of the woman... fell sick.' (17:17; new crisis). Ends with the woman's full confession of faith: 'Now I know that you are a man of God...' (17:24). A miracle of life. The mother's cry (v. 18) links the death to her sin. Elijah's prayer (v. 20-21) and the 'stretching' act (v. 21) are the center. The scene resolves with the woman's faith moving from simple belief (Scene G-2) to full conviction."
+          "scene_name": "The Widow of Zarephath's Last Meal",
+          "reference": "17:8-12",
+          "why_start_end_and_devices": "Starts the command to Zarephath. Ends 'that we may eat it and die.' Devices: Provision sought from the destitute.",
+          "scene_number": 3
         },
         {
-          "scene_number": 4,
-          "scene_name": "Elijah and Obadiah",
-          "reference": "18:1-16",
-          "why_start_end_and_devices": "Starts with time marker ('After many days, in the third year...') and a new oracle: 'Go, show yourself to Ahab.' (18:1). Ends with 'So Obadiah went to meet Ahab... and Ahab went to meet Elijah.' (18:16). This scene builds tension for the coming climax. It highlights the severity of the famine (v. 2-6) and introduces Obadiah as a foil—a 'God-fearer' (v. 3) serving in Ahab's court. The dialogue between Elijah and Obadiah (v. 7-14) builds suspense for the encounter with Ahab."
+          "scene_name": "The Flour and Oil Do Not Run Out",
+          "reference": "17:13-16",
+          "why_start_end_and_devices": "Starts 'do not fear.' Ends the unfailing supply. Devices: Faith rewarded with daily bread.",
+          "scene_number": 4
         },
         {
-          "scene_number": 5,
-          "scene_name": "The Contest on Mount Carmel",
-          "reference": "18:17-40",
-          "why_start_end_and_devices": "Starts with the confrontation: 'Ahab said... \"Are you the troubler of Israel?\"' (18:17). Ends with 'And Elijah brought them [the prophets of Baal] down to the brook Kishon and slaughtered them there.' (18:40). The climax of the story. This is a long (24-verse) but single, indivisible narrative event. The structure is a formal contest: 1) The charge (v. 17-19). 2) The challenge (v. 20-24). 3) Baal's failure (v. 25-29). 4) Elijah's preparation (v. 30-35). 5) Elijah's prayer (v. 36-37). 6) The LORD's fire (v. 38). 7) The people's confession and the execution (v. 39-40)."
+          "scene_name": "The Widow's Son Dies",
+          "reference": "17:17-20",
+          "why_start_end_and_devices": "Starts the boy's illness. Ends Elijah's cry to God. Devices: Grief testing the new faith.",
+          "scene_number": 5
         },
         {
-          "scene_number": 6,
+          "scene_name": "Elijah Raises Him; 'Now I Know'",
+          "reference": "17:21-24",
+          "why_start_end_and_devices": "Starts stretching over the child. Ends 'the word in your mouth is truth.' Devices: Resurrection authenticating the prophet.",
+          "scene_number": 6
+        },
+        {
+          "scene_name": "Obadiah Hid the Prophets; the Famine",
+          "reference": "18:1-6",
+          "why_start_end_and_devices": "Starts 'I will send rain.' Ends the search for grass. Devices: A God-fearer in Ahab's court.",
+          "scene_number": 7
+        },
+        {
+          "scene_name": "Obadiah Fears to Announce Elijah",
+          "reference": "18:7-12",
+          "why_start_end_and_devices": "Starts the meeting. Ends 'he will kill me.' Devices: The danger of being Elijah's messenger.",
+          "scene_number": 8
+        },
+        {
+          "scene_name": "Elijah Promises to Show Himself",
+          "reference": "18:13-16",
+          "why_start_end_and_devices": "Starts Obadiah's plea. Ends Ahab going to meet Elijah. Devices: The confrontation set up.",
+          "scene_number": 9
+        },
+        {
+          "scene_name": "'You Troubler of Israel'; the Challenge",
+          "reference": "18:17-20",
+          "why_start_end_and_devices": "Starts the mutual accusation. Ends summoning to Carmel. Devices: The gauntlet thrown down.",
+          "scene_number": 10
+        },
+        {
+          "scene_name": "'How Long Will You Waver?'",
+          "reference": "18:21-24",
+          "why_start_end_and_devices": "Starts the people's silence. Ends 'the God who answers by fire.' Devices: The decisive test proposed.",
+          "scene_number": 11
+        },
+        {
+          "scene_name": "Baal's Prophets Cry in Vain",
+          "reference": "18:25-29",
+          "why_start_end_and_devices": "Starts their frantic ritual. Ends 'no one answered.' Devices: Elijah's biting sarcasm; Baal's impotence.",
+          "scene_number": 12
+        },
+        {
+          "scene_name": "Elijah Repairs the Altar; Drenches It",
+          "reference": "18:30-35",
+          "why_start_end_and_devices": "Starts the twelve stones. Ends water filling the trench. Devices: Removing all doubt before the miracle.",
+          "scene_number": 13
+        },
+        {
+          "scene_name": "Fire Falls; the Prophets of Baal Slain",
+          "reference": "18:36-40",
+          "why_start_end_and_devices": "Starts Elijah's prayer. Ends 'the LORD, he is God!' Devices: Decisive vindication and judgment.",
+          "scene_number": 14
+        },
+        {
           "scene_name": "The Prayer for Rain",
           "reference": "18:41-46",
-          "why_start_end_and_devices": "Starts with 'And Elijah said to Ahab, \"Go up, eat and drink...\"' (18:41; new action after the contest). Ends with 'And the hand of the LORD was on Elijah... and he ran before Ahab...' (18:46). This is the resolution to the drought oracle from 17:1. The structure is built on the repetition of Elijah's servant going to look seven times (v. 43-44). This contrasts the frantic, hours-long prayers of the Baal prophets with Elijah's persistent, focused faith. The story ends with the supernatural image of Elijah outrunning the king's chariot."
+          "why_start_end_and_devices": "Starts with 'And Elijah said to Ahab, \"Go up, eat and drink...\"' (18:41; new action after the contest). Ends with 'And the hand of the LORD was on Elijah... and he ran before Ahab...' (18:46). This is the resolution to the drought oracle from 17:1. The structure is built on the repetition of Elijah's servant going to look seven times (v. 43-44). This contrasts the frantic, hours-long prayers of the Baal prophets with Elijah's persistent, focused faith. The story ends with the supernatural image of Elijah outrunning the king's chariot.",
+          "scene_number": 15
         },
         {
-          "scene_number": 7,
-          "scene_name": "Elijah's Flight and Despair",
-          "reference": "19:1-8",
-          "why_start_end_and_devices": "Starts with Ahab reporting to Jezebel, and she sending a threat (19:1-2). Ends with Elijah traveling 'forty days and forty nights to Horeb, the mount of God.' (19:8). This scene is the great anticlimax and reversal. After the triumph of Carmel, Elijah is terrified by one woman's threat. He flees for his life, enters the wilderness, and falls into deep despair (v. 4). The scene shows his utter humanity. He is miraculously sustained, just as the widow was, by divine provision (v. 5-8)."
+          "scene_name": "Elijah Flees Jezebel; 'Take My Life'",
+          "reference": "19:1-4",
+          "why_start_end_and_devices": "Starts Jezebel's threat. Ends 'I am no better than my fathers.' Devices: Post-victory collapse—the prophet's despair.",
+          "scene_number": 16
         },
         {
-          "scene_number": 8,
-          "scene_name": "The Theophany at Horeb",
-          "reference": "19:9-18",
-          "why_start_end_and_devices": "Starts with 'He came to a cave and lodged in it...' (19:9). Ends with the LORD giving his final commission (Hazael, Jehu, Elisha) and promise (7,000) (19:18). This is the theological climax of the Elijah cycle. It is a chiasm: 1) God's question (v. 9). 2) Elijah's complaint (v. 10). 3) The anti-theophany: wind, earthquake, fire (God is not in them, v. 11-12). 4) The 'still small voice' (v. 12). 5) God's question repeated (v. 13). 6) Elijah's complaint repeated (v. 14). 7) God's answer: a commission and a comfort (v. 15-18)."
+          "scene_name": "The Angel Feeds Him; Forty Days to Horeb",
+          "reference": "19:5-8",
+          "why_start_end_and_devices": "Starts the angel's touch. Ends the journey to the mountain of God. Devices: Gentle provision for a broken servant.",
+          "scene_number": 17
         },
         {
-          "scene_number": 9,
+          "scene_name": "The Still Small Voice",
+          "reference": "19:9-12",
+          "why_start_end_and_devices": "Starts 'what are you doing here?' Ends the gentle whisper. Devices: God not in the wind, quake, or fire.",
+          "scene_number": 18
+        },
+        {
+          "scene_name": "'I Have Reserved Seven Thousand'",
+          "reference": "19:13-18",
+          "why_start_end_and_devices": "Starts the repeated question. Ends the remnant and the new commissions. Devices: Elijah re-sent; he is not alone.",
+          "scene_number": 19
+        },
+        {
           "scene_name": "The Call of Elisha",
           "reference": "19:19-21",
-          "why_start_end_and_devices": "Starts with 'So he departed from there and found Elisha...' (19:19; executing the commission). Ends with '...Then [Elisha] arose and went after Elijah and ministered to him.' (19:21). The narrative resolution of the Elijah story. Elijah finds his successor. The casting of the mantle (v. 19) is a symbolic act of commissioning. Elisha's response—slaughtering the oxen—is a definitive break from his past. The story arc ends perfectly with the apprentice joining the master."
+          "why_start_end_and_devices": "Starts with 'So he departed from there and found Elisha...' (19:19; executing the commission). Ends with '...Then [Elisha] arose and went after Elijah and ministered to him.' (19:21). The narrative resolution of the Elijah story. Elijah finds his successor. The casting of the mantle (v. 19) is a symbolic act of commissioning. Elisha's response—slaughtering the oxen—is a definitive break from his past. The story arc ends perfectly with the apprentice joining the master.",
+          "scene_number": 20
         }
       ]
     },
@@ -409,22 +1039,58 @@
       "reference": "20:1-43",
       "scenes": [
         {
-          "scene_number": 1,
-          "scene_name": "Ben-hadad's First Siege and Ahab's First Victory",
-          "reference": "20:1-21",
-          "why_start_end_and_devices": "Starts with 'Now Ben-hadad... besieged Samaria.' (20:1). Ends with Ahab and his small force routing the Arameans, who flee (20:21). The scene moves from Ben-hadad's arrogant demand (v. 2-6) to Ahab's desperation. A prophet's oracle ('I will give it into your hand...') gives him courage (v. 13-14). The victory is decisive, and Ben-hadad barely escapes (v. 20-21)."
+          "scene_name": "Ben-hadad's Demands",
+          "reference": "20:1-6",
+          "why_start_end_and_devices": "Starts the siege of Samaria. Ends the escalating demands. Devices: A bully's overreach.",
+          "scene_number": 1
         },
         {
-          "scene_number": 2,
-          "scene_name": "The Battle at Aphek and Ahab's Second Victory",
-          "reference": "20:22-34",
-          "why_start_end_and_devices": "Starts with the prophet's warning: 'at the return of the year the king of Syria will come up...' (20:22). Ends with Ahab making a covenant with the defeated Ben-hadad and 'let him go.' (20:34). This scene parallels the first, but on a larger scale. The Arameans' flawed theology ('God of the hills,' v. 23) leads to their second prophetic defeat (v. 28, 'I am the LORD of the valleys also'). The narrative pivot is Ahab's foolish mercy (v. 31-34). Instead of killing the devoted enemy (as God intended), he makes a treaty. This is the 'sin' that the next scene will address."
+          "scene_name": "Ahab Refuses; the Taunt",
+          "reference": "20:7-12",
+          "why_start_end_and_devices": "Starts the elders' counsel. Ends 'let not him who girds boast.' Devices: Defiance answered with drunken threats.",
+          "scene_number": 2
         },
         {
-          "scene_number": 3,
-          "scene_name": "The Prophet's Condemnation of Ahab",
-          "reference": "20:35-43",
-          "why_start_end_and_devices": "Starts with a 'man of the sons of the prophets' devising a plan (20:35). Ends with the king going to his house 'sullen and displeased.' (20:43). A complex prophetic sign-act, similar to 1 Kings 13. The prophet has himself wounded (v. 35-38) to get the king's attention. He presents a parable (v. 39-40), and Ahab, like David, condemns himself with his own judgment (v. 40). The prophet then reveals the oracle: 'Because you have let go... the man I devoted to destruction, therefore your life shall be for his life...' (v. 42). This is the scene's (and story's) powerful conclusion."
+          "scene_name": "A Prophet Promises Victory",
+          "reference": "20:13-15",
+          "why_start_end_and_devices": "Starts the LORD's word to Ahab. Ends the young men mustered. Devices: Grace to a wicked king for the Name's sake.",
+          "scene_number": 3
+        },
+        {
+          "scene_name": "The Drunken Kings Routed",
+          "reference": "20:16-21",
+          "why_start_end_and_devices": "Starts the noon attack. Ends Aram fleeing. Devices: Victory while the enemy carouses.",
+          "scene_number": 4
+        },
+        {
+          "scene_name": "The Arameans Plan to Fight on the Plain",
+          "reference": "20:22-25",
+          "why_start_end_and_devices": "Starts the warning to refit. Ends the new strategy. Devices: 'Their gods are gods of the hills.'",
+          "scene_number": 5
+        },
+        {
+          "scene_name": "Israel Defeats Aram at Aphek",
+          "reference": "20:26-30",
+          "why_start_end_and_devices": "Starts the two flocks of goats. Ends the wall falling on the survivors. Devices: God vindicating his power on the plain too.",
+          "scene_number": 6
+        },
+        {
+          "scene_name": "Ben-hadad Spared; a Treaty Made",
+          "reference": "20:31-34",
+          "why_start_end_and_devices": "Starts the sackcloth surrender. Ends 'I will let you go.' Devices: Misplaced mercy—Ahab's fatal leniency.",
+          "scene_number": 7
+        },
+        {
+          "scene_name": "The Prophet's Parable of the Escaped Prisoner",
+          "reference": "20:35-40",
+          "why_start_end_and_devices": "Starts the wounded prophet. Ends 'your life for his life.' Devices: A sign-act that traps Ahab in his own verdict.",
+          "scene_number": 8
+        },
+        {
+          "scene_name": "'You Let the Man Go'—Doom Pronounced",
+          "reference": "20:41-43",
+          "why_start_end_and_devices": "Starts the unmasking. Ends Ahab sullen and angry. Devices: Judgment for sparing the devoted enemy.",
+          "scene_number": 9
         }
       ]
     },
@@ -435,22 +1101,40 @@
       "reference": "21:1-29",
       "scenes": [
         {
-          "scene_number": 1,
           "scene_name": "Ahab's Covetousness",
           "reference": "21:1-4",
-          "why_start_end_and_devices": "Starts with 'Now Naboth... had a vineyard.' (21:1). Ends with 'And Ahab went into his house sullen and displeased... and he lay down... and would not eat.' (21:4). This scene establishes the conflict. Ahab's 'reasonable' offer (v. 2) clashes with Naboth's covenantal faithfulness (v. 3, 'the LORD forbid... the inheritance of my fathers'). Ahab's childish, 'sullen' response (v. 4) shows his impotence, setting the stage for Jezebel."
+          "why_start_end_and_devices": "Starts with 'Now Naboth... had a vineyard.' (21:1). Ends with 'And Ahab went into his house sullen and displeased... and he lay down... and would not eat.' (21:4). This scene establishes the conflict. Ahab's 'reasonable' offer (v. 2) clashes with Naboth's covenantal faithfulness (v. 3, 'the LORD forbid... the inheritance of my fathers'). Ahab's childish, 'sullen' response (v. 4) shows his impotence, setting the stage for Jezebel.",
+          "scene_number": 1
         },
         {
-          "scene_number": 2,
-          "scene_name": "Jezebel's Plot",
-          "reference": "21:5-16",
-          "why_start_end_and_devices": "Starts with 'But Jezebel his wife came to him...' (21:5; new action). Ends with 'As soon as Jezebel heard that Naboth was... dead, she said to Ahab, \"Arise, take possession...\"' (21:15). Jezebel takes control. She scorns Ahab's weakness (v. 7) and immediately pens a plot (v. 8-10) using the king's seal and the forms of the law (a fast, two witnesses) to commit judicial murder. The narrative shows the terrifying speed and efficiency of her wickedness."
+          "scene_name": "Jezebel's Scheme: False Witnesses",
+          "reference": "21:5-10",
+          "why_start_end_and_devices": "Starts Ahab's sulking. Ends the plot with scoundrels. Devices: Royal power perverting justice.",
+          "scene_number": 2
         },
         {
-          "scene_number": 3,
-          "scene_name": "Elijah's Confrontation and Judgment",
-          "reference": "21:17-29",
-          "why_start_end_and_devices": "Starts with an oracle formula: 'Then the word of the LORD came to Elijah...' (21:17). Ends with the LORD's final word, deferring judgment because of Ahab's (superficial) repentance (21:29). As Ahab goes to take possession, Elijah intercepts him (a direct parallel to 18:17). Ahab: 'Have you found me, O my enemy?' (v. 20). Elijah delivers the most terrible oracle in the book, the 'dogs' and 'birds' curse on Ahab and Jezebel (v. 20-24). Ahab's uncharacteristic repentance (v. 27) leads to a temporary stay of the sentence (v. 29)."
+          "scene_name": "Naboth Stoned; Ahab Takes the Vineyard",
+          "reference": "21:11-16",
+          "why_start_end_and_devices": "Starts the rigged trial. Ends Ahab going down to seize it. Devices: Judicial murder for a vineyard.",
+          "scene_number": 3
+        },
+        {
+          "scene_name": "'Have You Murdered and Seized?'",
+          "reference": "21:17-19",
+          "why_start_end_and_devices": "Starts Elijah sent. Ends 'dogs will lick your blood.' Devices: The prophet confronting the king again.",
+          "scene_number": 4
+        },
+        {
+          "scene_name": "Doom on Ahab's House",
+          "reference": "21:20-24",
+          "why_start_end_and_devices": "Starts 'I have found you, my enemy.' Ends dogs and birds devouring his line. Devices: The full Jezreel curse.",
+          "scene_number": 5
+        },
+        {
+          "scene_name": "Ahab Humbles Himself; Judgment Deferred",
+          "reference": "21:25-29",
+          "why_start_end_and_devices": "Starts 'no one sold himself to evil like Ahab.' Ends the disaster postponed to his son. Devices: Even Ahab's repentance shows God's mercy.",
+          "scene_number": 6
         }
       ]
     },
@@ -461,28 +1145,76 @@
       "reference": "22:1-53",
       "scenes": [
         {
-          "scene_number": 1,
-          "scene_name": "The Royal Alliance",
-          "reference": "22:1-12",
-          "why_start_end_and_devices": "Starts with 'For three years...' Ahab proposes a new war to Jehoshaphat (22:1-4). Ends with the 400 false prophets, led by Zedekiah, unanimously promising victory (22:12). A political scene that becomes a religious one. Jehoshaphat's pious request ('Inquire first for the word of the LORD,' v. 5) is met by Ahab's state-sponsored 'prophet-mill' (v. 6). The false prophet Zedekiah's sign-act with the 'horns of iron' (v. 11) is a mockery of true prophecy."
+          "scene_name": "Jehoshaphat Allies with Ahab",
+          "reference": "22:1-5",
+          "why_start_end_and_devices": "Starts three years of peace. Ends 'inquire first for the word of the LORD.' Devices: The good king's caution.",
+          "scene_number": 1
         },
         {
-          "scene_number": 2,
-          "scene_name": "Micaiah's True Prophecy",
-          "reference": "22:13-28",
-          "why_start_end_and_devices": "Starts with the messenger's plea to Micaiah: 'speak only good.' (22:13). Ends with 'Then the king of Israel said, \"Seize Micaiah...\"' and Micaiah is imprisoned (22:26-27). The core of the story. Micaiah first mocks Ahab with a 'go up and prosper' oracle (v. 15). When pressed, he reveals the real vision: Israel 'scattered on the hills' (v. 17) and a 'lying spirit' in the mouths of the 400 prophets, sent by the LORD Himself to entice Ahab to his doom (v. 19-23). The scene ends with Micaiah being struck and imprisoned, a martyr for the true word."
+          "scene_name": "Four Hundred Prophets; 'Is There Not One More?'",
+          "reference": "22:6-9",
+          "why_start_end_and_devices": "Starts the yes-men prophets. Ends summoning Micaiah. Devices: Discernment amid flattery.",
+          "scene_number": 2
         },
         {
-          "scene_number": 3,
-          "scene_name": "The Death of Ahab",
-          "reference": "22:29-40",
-          "why_start_end_and_devices": "Starts with 'So the king of Israel and Jehoshaphat... went up to Ramoth-gilead.' (22:29). Ends with the regnal formula: 'So Ahab slept with his fathers...' (22:40). The fulfillment of Micaiah's prophecy. Ahab's disguise (v. 30) fails to save him. A 'random' arrow (v. 34) finds him, a perfect illustration of God's 'random' (to human eyes) but precise judgment. He bleeds out in his chariot. The narrative explicitly links his death back to Elijah's oracle from Story I: 'And the dogs licked up his blood... according to the word of the LORD...' (v. 38)."
+          "scene_name": "Zedekiah's Iron Horns",
+          "reference": "22:10-12",
+          "why_start_end_and_devices": "Starts the dramatic prophecy. Ends 'go up and triumph.' Devices: A confident false sign.",
+          "scene_number": 3
         },
         {
-          "scene_number": 4,
-          "scene_name": "Concluding Regnal Summaries",
-          "reference": "22:41-53",
-          "why_start_end_and_devices": "Starts with 'Jehoshaphat the son of Asa began to reign...' (22:41). Ends with the final verse of the book, concluding Ahaziah's summary (22:53). This is the narrator's formal conclusion. It provides the full regnal summary for Jehoshaphat of Judah (v. 41-50) and the accession/evaluation for Ahaziah of Israel (v. 51-53). The final verse on Ahaziah (v. 53) serves as the book's dark conclusion, confirming that the 'sin of Jeroboam' and the 'way of Ahab' continue, setting the stage for 2 Kings."
+          "scene_name": "Micaiah's Sarcastic Approval; Then the Truth",
+          "reference": "22:13-18",
+          "why_start_end_and_devices": "Starts the pressure to agree. Ends 'I saw Israel scattered.' Devices: Truth after mocking the lie.",
+          "scene_number": 4
+        },
+        {
+          "scene_name": "The Lying Spirit in the Council of Heaven",
+          "reference": "22:19-23",
+          "why_start_end_and_devices": "Starts the vision of the LORD's throne. Ends the deceiving spirit sent. Devices: A glimpse behind the false prophets.",
+          "scene_number": 5
+        },
+        {
+          "scene_name": "Micaiah Struck and Imprisoned",
+          "reference": "22:24-28",
+          "why_start_end_and_devices": "Starts Zedekiah's blow. Ends 'if you return safely, the LORD has not spoken.' Devices: The true prophet jailed.",
+          "scene_number": 6
+        },
+        {
+          "scene_name": "Ahab Disguises Himself",
+          "reference": "22:29-33",
+          "why_start_end_and_devices": "Starts the disguise. Ends the Arameans breaking off pursuit of Jehoshaphat. Devices: Trying to dodge prophecy.",
+          "scene_number": 7
+        },
+        {
+          "scene_name": "A Random Arrow Strikes Ahab",
+          "reference": "22:34-37",
+          "why_start_end_and_devices": "Starts the chance shot. Ends Ahab dead at evening. Devices: 'Drawn at random'—but divinely aimed.",
+          "scene_number": 8
+        },
+        {
+          "scene_name": "The Dogs Lick His Blood",
+          "reference": "22:38-40",
+          "why_start_end_and_devices": "Starts the chariot washed at Samaria. Ends Ahaziah succeeding. Devices: Elijah's word fulfilled exactly.",
+          "scene_number": 9
+        },
+        {
+          "scene_name": "Jehoshaphat's Good Reign in Judah",
+          "reference": "22:41-46",
+          "why_start_end_and_devices": "Starts his accession. Ends removing the male shrine prostitutes. Devices: A largely faithful king.",
+          "scene_number": 10
+        },
+        {
+          "scene_name": "Edom; the Wrecked Ships of Tarshish",
+          "reference": "22:47-50",
+          "why_start_end_and_devices": "Starts the deputy in Edom. Ends the failed fleet. Devices: A flawed alliance with Israel.",
+          "scene_number": 11
+        },
+        {
+          "scene_name": "Ahaziah's Evil Reign in Israel",
+          "reference": "22:51-53",
+          "why_start_end_and_devices": "Starts his accession. Ends serving Baal like his parents. Devices: The northern apostasy continues.",
+          "scene_number": 12
         }
       ]
     }
