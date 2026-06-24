@@ -10,24 +10,390 @@
       "why_start_end_and_literary_glue": "Chs. 1–9 form an extended prologue of longer poems/discourses, contrasting Lady Wisdom and Folly. Start (1:1) titles the anthology; the section begins with 1:8 ('My son...') and ends at 9:18 with Folly's fatal feast, parallel to Wisdom's invitation (9:1–6). Literary Glue: repeated 'My son' addresses and the personifications of Wisdom and Folly.",
       "reference": "1:1 - 9:18",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Title, Purpose, and Theme", "reference": "1:1-7", "why_start_end_and_devices": "Title (1:1) + purpose (1:2-6) conclude with the thematic key (1:7): 'The fear of the LORD...'—a complete thesis for the book." },
-        { "scene_number": 2, "scene_name": "A Father's Warning: The Call of Sinners", "reference": "1:8-19", "why_start_end_and_devices": "Begins 'My son' (1:8); ends with summary (1:19). A single narrative warning against violent greed, juxtaposing enticement and self‑destruction." },
-        { "scene_number": 3, "scene_name": "Wisdom's Public Plea", "reference": "1:20-33", "why_start_end_and_devices": "New speaker/location (1:20). Prophetic‑style monologue: confrontation, warning, threat of abandonment, and a closing promise of security (v. 33)." },
-        { "scene_number": 4, "scene_name": "The Quest for Wisdom and its Protection", "reference": "2:1-22", "why_start_end_and_devices": "One long 'if... then...' poem: seeking (1–4) → understanding from the LORD (5–8) → moral formation (9–11) → deliverance from evil man/woman (12–22)." },
-        { "scene_number": 5, "scene_name": "Trust and Honor the LORD", "reference": "3:1-12", "why_start_end_and_devices": "'My son' imperatives (do not forget, trust, honor, accept discipline) each paired with a promise, concluding with the rationale for discipline (v. 12)." },
-        { "scene_number": 6, "scene_name": "The Surpassing Value of Wisdom", "reference": "3:13-20", "why_start_end_and_devices": "Beatitude on finding wisdom (13–15), her life‑giving benefits (16–18), and her cosmic role with God in creation (19–20)." },
-        { "scene_number": 7, "scene_name": "The Security of the Wise", "reference": "3:21-35", "why_start_end_and_devices": "Practical results: personal safety (21–26) and social righteousness (27–32), closing with destinies of wise vs. wicked (33–35)." },
-        { "scene_number": 8, "scene_name": "Get Wisdom: The Father's Story", "reference": "4:1-9", "why_start_end_and_devices": "Nested voice: father cites his father's instruction—'Get wisdom' (vv. 5,7)—closing with rewards (v. 9)." },
-        { "scene_number": 9, "scene_name": "Two Paths: Light and Darkness", "reference": "4:10-19", "why_start_end_and_devices": "Path metaphor contrasts righteous dawn (11–13,18) vs. wicked darkness (14–17,19), forming balanced inclusio." },
-        { "scene_number": 10, "scene_name": "Guard Your Heart: The Fount of Life", "reference": "4:20-27", "why_start_end_and_devices": "Body‑part integrity poem—ear, eyes, heart, mouth/lips, feet—with v. 23 as hinge: 'Keep your heart with all vigilance.'" },
-        { "scene_number": 11, "scene_name": "Warning Against the Adulteress", "reference": "5:1-14", "why_start_end_and_devices": "'My son' warning contrasts honeyed lips of the stranger with bitter end; concludes with ruin cry (v. 14)." },
-        { "scene_number": 12, "scene_name": "Fountain and Cistern: Marital Fidelity", "reference": "5:15-23", "why_start_end_and_devices": "Positive counter‑poem: drink from your own cistern; public/private springs; the LORD's omniscience (v. 21) and the sinner's cords (v. 22)." },
-        { "scene_number": 13, "scene_name": "Four Practical Warnings", "reference": "6:1-19", "why_start_end_and_devices": "Composite scene of four complete units: surety (1–5), sluggard (6–11), worthless man (12–15), and the 'seven abominations' list (16–19)." },
-        { "scene_number": 14, "scene_name": "The High Cost of Adultery", "reference": "6:20-35", "why_start_end_and_devices": "Parents' commands guard (20–23); vivid fire/wounds imagery warns of inescapable consequences and jealous vengeance (27–35)." },
-        { "scene_number": 15, "scene_name": "The Seduction of the Simple Youth", "reference": "7:1-27", "why_start_end_and_devices": "Unified narrative: setup (1–9), woman's appearance/speech (10–21), youth's fall (22–23), global warning (24–27)." },
-        { "scene_number": 16, "scene_name": "Wisdom's Call and Reward", "reference": "8:1-21", "why_start_end_and_devices": "Counter‑speech to ch. 7: public summons to all (1–11); wisdom's character and riches/righteousness rewards (12–21)." },
-        { "scene_number": 17, "scene_name": "Wisdom from Everlasting and in Creation", "reference": "8:22-36", "why_start_end_and_devices": "Wisdom before (22–26) and during creation (27–31) leading to appeal and life/death choice (32–36)." },
-        { "scene_number": 18, "scene_name": "The Feasts of Wisdom and Folly", "reference": "9:1-18", "why_start_end_and_devices": "Balanced finale: Wisdom's feast (1–6), hinge proverbs on scoffer/wise (7–12), Folly's counterfeit feast leading to Sheol (13–18)." }
+        {
+          "scene_number": 1,
+          "scene_name": "Prologue: The Purpose of the Proverbs",
+          "reference": "1:1-3",
+          "why_start_end_and_devices": "The book's title and aim — Solomon's proverbs for gaining wisdom, discipline, and instruction in righteousness, justice, and equity."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Motto: The Fear of the LORD",
+          "reference": "1:4-7",
+          "why_start_end_and_devices": "Prudence for the simple and knowledge for the young (4-6), sealed by the thematic key: 'the fear of the LORD is the beginning of knowledge' (7)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "A Father's Instruction: A Garland of Grace",
+          "reference": "1:8-9",
+          "why_start_end_and_devices": "The first appeal: heed your father's instruction and your mother's teaching, a graceful garland and pendant."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Enticement of Sinners",
+          "reference": "1:10-14",
+          "why_start_end_and_devices": "The seduction quoted: 'come, let us lie in wait for blood… throw in your lot with us.'"
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Do Not Walk Their Road",
+          "reference": "1:15-19",
+          "why_start_end_and_devices": "The warning: their feet run to evil, but they ambush their own lives — such is the fate of the greedy."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Wisdom Cries Out in the Street",
+          "reference": "1:20-23",
+          "why_start_end_and_devices": "Lady Wisdom's public plea: 'How long, O simple ones, will you love your simple ways?'"
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Because You Refused My Call",
+          "reference": "1:24-27",
+          "why_start_end_and_devices": "The turn to judgment: Wisdom's mockery of calamity when dread comes like a storm."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "They Will Call, but I Will Not Answer",
+          "reference": "1:28-33",
+          "why_start_end_and_devices": "The harvest of refusal — eating the fruit of their own way — against the safety of whoever listens to Wisdom."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "If You Seek Wisdom Like Silver",
+          "reference": "2:1-4",
+          "why_start_end_and_devices": "The opening 'if': accepting, inclining, calling out, and searching for wisdom like hidden treasure."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Then You Will Find the Knowledge of God",
+          "reference": "2:5-8",
+          "why_start_end_and_devices": "The first 'then': the LORD who gives wisdom and shields those who walk with integrity."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Wisdom Will Enter Your Heart",
+          "reference": "2:9-11",
+          "why_start_end_and_devices": "The second 'then': discernment of every good path, with discretion watching over you."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Delivered from the Man of Perversity",
+          "reference": "2:12-15",
+          "why_start_end_and_devices": "Wisdom's first rescue: from those who leave the straight paths to walk in darkness."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Rescued from the Forbidden Woman",
+          "reference": "2:16-19",
+          "why_start_end_and_devices": "Wisdom's second rescue: from the seductress whose house sinks down to death."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Upright Will Inhabit the Land",
+          "reference": "2:20-22",
+          "why_start_end_and_devices": "The conclusion: walking in the ways of the good, for the wicked will be cut off from the land."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Bind Loyalty and Faithfulness Around Your Neck",
+          "reference": "3:1-4",
+          "why_start_end_and_devices": "Do not forget the teaching; love and faithfulness written on the heart bring favor with God and man."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Trust in the LORD with All Your Heart",
+          "reference": "3:5-8",
+          "why_start_end_and_devices": "The book's most-loved couplet: lean not on your own understanding, and He will make your paths straight."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Honor the LORD with Your Wealth",
+          "reference": "3:9-12",
+          "why_start_end_and_devices": "Firstfruits that fill the barns (9-10) and the discipline of the LORD who corrects the son He loves (11-12)."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Blessed Is the Man Who Finds Wisdom",
+          "reference": "3:13-15",
+          "why_start_end_and_devices": "Wisdom more profitable than silver, more precious than rubies — nothing compares with her."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "A Tree of Life",
+          "reference": "3:16-18",
+          "why_start_end_and_devices": "Long life, riches, and honor in her hands; her ways pleasant, her paths peace."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The LORD Founded the Earth by Wisdom",
+          "reference": "3:19-20",
+          "why_start_end_and_devices": "The cosmic note: by wisdom and understanding the heavens and depths were established."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Preserve Sound Judgment",
+          "reference": "3:21-24",
+          "why_start_end_and_devices": "Sound judgment as life and adornment, giving safe steps and sweet, unafraid sleep."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Do Not Withhold Good",
+          "reference": "3:25-28",
+          "why_start_end_and_devices": "No fear of sudden ruin (25-26); the command to do good to the deserving when it is in your power (27-28)."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Do Not Envy the Violent Man",
+          "reference": "3:29-32",
+          "why_start_end_and_devices": "A cluster of neighbor-ethics, for the LORD detests the perverse but befriends the upright."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Curse on the Wicked, Grace to the Humble",
+          "reference": "3:33-35",
+          "why_start_end_and_devices": "The closing contrast: the LORD's curse and blessing, mocking mockers but giving grace to the humble."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "A Father's Story: My Father Taught Me",
+          "reference": "4:1-4",
+          "why_start_end_and_devices": "The grandfather's voice passed down — 'let your heart lay hold of my words; keep my commands and you will live.'"
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Get Wisdom: She Will Exalt You",
+          "reference": "4:5-9",
+          "why_start_end_and_devices": "The refrain to acquire wisdom above all, who sets a garland of grace and a crown of beauty on your head."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Way of Wisdom",
+          "reference": "4:10-13",
+          "why_start_end_and_devices": "Guided on straight paths with unimpeded steps — 'hold on to instruction… for it is your life.'"
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Two Paths: Dawn and Darkness",
+          "reference": "4:14-19",
+          "why_start_end_and_devices": "The path of the wicked (14-17) against the path of the righteous, shining brighter until midday (18-19)."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Guard Your Heart, the Spring of Life",
+          "reference": "4:20-23",
+          "why_start_end_and_devices": "The center of the chapter: keep the words within, for from the heart flow the springs of life."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Fix Your Gaze Straight Ahead",
+          "reference": "4:24-27",
+          "why_start_end_and_devices": "The whole-body charge: put away deceitful speech, look forward, and turn your feet from evil."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "The Honey of the Forbidden Woman",
+          "reference": "5:1-6",
+          "why_start_end_and_devices": "Her lips drip honey but end bitter as wormwood; her feet go down to death."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Keep Your Path Far from Her",
+          "reference": "5:7-10",
+          "why_start_end_and_devices": "The warning not to approach her door, lest strangers feast on your vigor and wealth."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Groan at the End",
+          "reference": "5:11-14",
+          "why_start_end_and_devices": "The deathbed regret: 'how I hated discipline… I am on the brink of utter ruin.'"
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Drink from Your Own Cistern",
+          "reference": "5:15-19",
+          "why_start_end_and_devices": "The positive call to marital joy: rejoice in the wife of your youth, a loving doe."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The LORD Examines All His Paths",
+          "reference": "5:20-23",
+          "why_start_end_and_devices": "Why be captivated by an adulteress, when a man's ways are before the eyes of the LORD?"
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Free Yourself from Surety",
+          "reference": "6:1-5",
+          "why_start_end_and_devices": "The first practical warning: if trapped by a pledge, free yourself like a gazelle from the hunter."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Go to the Ant, O Slacker",
+          "reference": "6:6-8",
+          "why_start_end_and_devices": "The second warning, against sloth: the ant gathers food in summer without any overseer."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "A Little Sleep, a Little Slumber",
+          "reference": "6:9-11",
+          "why_start_end_and_devices": "The sluggard's poverty coming on like a robber."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "The Worthless Troublemaker",
+          "reference": "6:12-15",
+          "why_start_end_and_devices": "The third warning: the perverse man who sows discord will be suddenly shattered."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Seven Things the LORD Hates",
+          "reference": "6:16-19",
+          "why_start_end_and_devices": "The numbered list (six… seven): haughty eyes, a lying tongue, hands that shed blood, and one who stirs up discord."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "A Lamp and a Light",
+          "reference": "6:20-23",
+          "why_start_end_and_devices": "Keep your father's commandment bound on the heart, for it guides, watches, and speaks — the way to life."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "The Smooth Tongue of the Adulteress",
+          "reference": "6:24-26",
+          "why_start_end_and_devices": "The purpose of the lamp: to keep you from the evil woman who preys on your very life."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Can a Man Embrace Fire?",
+          "reference": "6:27-29",
+          "why_start_end_and_devices": "The rhetorical warning: as fire burns and coals scorch, so none who touches his neighbor's wife goes unpunished."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "The Thief and the Adulterer",
+          "reference": "6:30-32",
+          "why_start_end_and_devices": "The contrast: even a thief pays restitution, but the adulterer destroys himself."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Jealousy Enrages a Husband",
+          "reference": "6:33-35",
+          "why_start_end_and_devices": "The unappeasable wrath and indelible reproach that follow adultery."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Keep My Words as the Apple of Your Eye",
+          "reference": "7:1-5",
+          "why_start_end_and_devices": "The frame: treasure the commandments, calling wisdom 'sister,' to be kept from the seductress."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "The Young Man Lacking Judgment",
+          "reference": "7:6-9",
+          "why_start_end_and_devices": "The scene observed through the lattice: a simple youth crossing toward her corner at twilight."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "The Woman Comes to Meet Him",
+          "reference": "7:10-13",
+          "why_start_end_and_devices": "The harlot's bold approach, loud and defiant, seizing and kissing him."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "I Have Decked My Bed",
+          "reference": "7:14-17",
+          "why_start_end_and_devices": "Her seduction: peace offerings paid, the bed perfumed with myrrh, aloes, and cinnamon."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Come, Let Us Take Our Fill",
+          "reference": "7:18-20",
+          "why_start_end_and_devices": "The lure of the absent husband gone on a long journey with a bag of money."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Like an Ox to the Slaughter",
+          "reference": "7:21-23",
+          "why_start_end_and_devices": "His sudden surrender, not knowing it will cost him his life."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Her House Is the Road to Sheol",
+          "reference": "7:24-27",
+          "why_start_end_and_devices": "The closing appeal: do not stray into her paths, for her house descends to the chambers of death."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Wisdom Calls at the Crossroads",
+          "reference": "8:1-5",
+          "why_start_end_and_devices": "Lady Wisdom's public summons from the heights and the city gates to all the sons of men."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "I Speak Noble Things",
+          "reference": "8:6-9",
+          "why_start_end_and_devices": "Her trustworthy words: righteous, plain to the discerning, with nothing crooked or perverse."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "More Precious Than Rubies",
+          "reference": "8:10-11",
+          "why_start_end_and_devices": "Wisdom to be received instead of silver and gold, beyond all you desire."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "By Me Kings Reign",
+          "reference": "8:12-16",
+          "why_start_end_and_devices": "Wisdom dwelling with prudence (12-13); counsel and strength hers, by which rulers govern justly (14-16)."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "Riches and Honor Are with Me",
+          "reference": "8:17-21",
+          "why_start_end_and_devices": "'I love those who love me'; her enduring wealth and righteousness bestowed on those who seek her."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "The LORD Possessed Me at the Beginning",
+          "reference": "8:22-26",
+          "why_start_end_and_devices": "Wisdom's pre-creation origin: brought forth before the depths, the mountains, and the dust of the earth."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "I Was There When He Established the Heavens",
+          "reference": "8:27-31",
+          "why_start_end_and_devices": "Wisdom present at creation — the skilled craftsman at His side, His daily delight, rejoicing in the world."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Blessed Is the One Who Finds Me",
+          "reference": "8:32-36",
+          "why_start_end_and_devices": "The closing appeal: watching daily at her doors brings life and the LORD's favor; to hate her is to love death."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "The Feast of Wisdom",
+          "reference": "9:1-6",
+          "why_start_end_and_devices": "Wisdom's house of seven pillars, her table set, calling the simple: 'Come, eat my bread… and you will live.'"
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Rebuke a Wise Man and He Will Love You",
+          "reference": "9:7-9",
+          "why_start_end_and_devices": "The interlude on teachability: the mocker hates correction, but the wise grow wiser still."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "The Fear of the LORD Is the Beginning of Wisdom",
+          "reference": "9:10-12",
+          "why_start_end_and_devices": "The book's motto restated, with wisdom multiplying days and the scoffer bearing his own consequences."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "The Feast of Folly",
+          "reference": "9:13-18",
+          "why_start_end_and_devices": "The dark mirror: Lady Folly's identical call, whose stolen-water feast leads to the depths of Sheol."
+        }
       ]
     },
     {
@@ -36,13 +402,414 @@
       "why_start_end_and_literary_glue": "Primary Solomonic couplets collection marked by 10:1 ('The proverbs of Solomon') and ending at 22:16 before a new heading (22:17). Literary Glue: pervasive antithetical parallelism and thematic contrasts (wise/foolish, righteous/wicked, diligent/slothful, wealth/poverty).",
       "reference": "10:1 - 22:16",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Righteous vs. Wicked (Prologue Cluster)", "reference": "10:1-7", "why_start_end_and_devices": "Introduces son motif and outcomes of righteousness/wickedness, concluding with 'memory of the righteous' vs. 'name of the wicked' (v. 7)." },
-        { "scene_number": 2, "scene_name": "Speech and Integrity", "reference": "10:8-14", "why_start_end_and_devices": "Wise of heart vs. babbling fool; walking secure vs. perverse ways; lips of the wise store knowledge vs. mouth of the foolish is ruin." },
-        { "scene_number": 3, "scene_name": "Wealth, Labor, and the LORD's Blessing", "reference": "10:15-22", "why_start_end_and_devices": "Contrasts wealth/poverty alongside righteousness/path of life; resolves with 'The blessing of the LORD makes rich' (v. 22)." },
-        { "scene_number": 4, "scene_name": "The Fool, the Wise, and the Fear of the LORD", "reference": "10:23-32", "why_start_end_and_devices": "Fool's sport vs. wisdom, whirlwind vs. foundation, with hinge 'The fear of the LORD prolongs life' (v. 27), closing with speech summary (v. 32)." },
-        { "scene_number": 5, "scene_name": "Honesty, Humility, and Their Fruits", "reference": "11:1-8", "why_start_end_and_devices": "False balances vs. just weights; pride vs. humility; integrity vs. crookedness, culminating in righteous deliverance (v. 8)." },
-        { "scene_number": 6, "scene_name": "The Righteous City vs. The Wicked City", "reference": "11:9-15", "why_start_end_and_devices": "City rejoices at righteous welfare and falls under wicked rule (vv. 10–11); warnings on talebearing and surety bind the social theme." },
-        { "scene_number": 7, "scene_name": "Character and Consequence", "reference": "11:16-23", "why_start_end_and_devices": "Gracious vs. ruthless, merciful vs. cruel, deceitful vs. sure reward; caps with desires of righteous vs. wicked (v. 23)." }
+        {
+          "scene_number": 1,
+          "scene_name": "A Wise Son and the Way of the Righteous",
+          "reference": "10:1-6",
+          "why_start_end_and_devices": "The Solomonic collection opens with antithetical couplets: the wise son, ill-gotten gain, diligent hands, and blessings on the head of the righteous."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Love Covers All Transgressions",
+          "reference": "10:7-12",
+          "why_start_end_and_devices": "Speech and integrity: the rotting name of the wicked, the secure walk of integrity, and love that covers offenses."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "When Words Are Many, Sin Is Unavoidable",
+          "reference": "10:13-18",
+          "why_start_end_and_devices": "Wisdom on the lips, wealth and labor, and the restraint of speech against concealed hatred."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Blessing of the LORD Enriches",
+          "reference": "10:19-24",
+          "why_start_end_and_devices": "The tongue of the righteous as choice silver, the LORD's enriching blessing, and the dread of the wicked."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Righteous Stand Forever",
+          "reference": "10:25-28",
+          "why_start_end_and_devices": "The whirlwind that sweeps the wicked away, the fear of the LORD that prolongs life, and the joy of the righteous."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Way of the LORD Is a Refuge",
+          "reference": "10:29-32",
+          "why_start_end_and_devices": "Refuge for the upright, the unshakeable righteous, and the mouth that brings forth wisdom."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Dishonest Scales and the Guiding of Integrity",
+          "reference": "11:1-6",
+          "why_start_end_and_devices": "The LORD's delight in honest weights, disgrace following pride, and righteousness delivering from death."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "When the Righteous Thrive, the City Rejoices",
+          "reference": "11:7-12",
+          "why_start_end_and_devices": "The perishing hope of the wicked, the mouth that destroys a neighbor, and the prudent man who stays silent."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "A Gossip Reveals a Secret",
+          "reference": "11:13-18",
+          "why_start_end_and_devices": "Trustworthy confidence, the safety of many counselors, the gracious woman, and the kind man who benefits himself."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "He Who Sows Righteousness Reaps Reward",
+          "reference": "11:19-24",
+          "why_start_end_and_devices": "The blameless as God's delight, the gold ring in a pig's snout, and the paradox of the giver who gains more."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "A Generous Soul Will Prosper",
+          "reference": "11:25-28",
+          "why_start_end_and_devices": "Refreshing others to be refreshed, the cursed hoarder, and the wicked who trust in riches and fall."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Fruit of the Righteous Is a Tree of Life",
+          "reference": "11:29-31",
+          "why_start_end_and_devices": "Inheriting the wind, winning souls, and the certainty that all receive their due on earth."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Whoever Loves Discipline Loves Knowledge",
+          "reference": "12:1-6",
+          "why_start_end_and_devices": "The love of correction, the noble wife as her husband's crown, and the just plans of the righteous."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The House of the Righteous Will Stand",
+          "reference": "12:7-12",
+          "why_start_end_and_devices": "The overthrown wicked, the man praised for wisdom, and the righteous who regards even his animal's life."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Tongue of the Wise Brings Healing",
+          "reference": "12:13-18",
+          "why_start_end_and_devices": "The fool right in his own eyes against the wise who listens, and rash speech that pierces like a sword."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Truthful Lips Endure Forever",
+          "reference": "12:19-24",
+          "why_start_end_and_devices": "The momentary lying tongue, the joy of peacemakers, and the diligent hand that comes to rule."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "A Good Word Cheers the Heart",
+          "reference": "12:25-28",
+          "why_start_end_and_devices": "Anxiety lifted by a kind word, caution in friendship, and life found in the path of righteousness."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "He Who Guards His Mouth Protects His Life",
+          "reference": "13:1-6",
+          "why_start_end_and_devices": "The wise son who heeds discipline, the diligent soul satisfied, and righteousness that guards the man of integrity."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Hope Deferred Makes the Heart Sick",
+          "reference": "13:7-12",
+          "why_start_end_and_devices": "Pretended wealth and poverty, the shining light of the righteous, and desire fulfilled as a tree of life."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Teaching of the Wise Is a Fountain of Life",
+          "reference": "13:13-18",
+          "why_start_end_and_devices": "Reward for respecting the command, the prudent acting with knowledge, and honor for those who heed correction."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Walk with the Wise and Become Wise",
+          "reference": "13:19-22",
+          "why_start_end_and_devices": "The companion of fools destroyed, disaster pursuing sinners, and the good man's lasting inheritance."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "He Who Loves His Son Disciplines Him",
+          "reference": "13:23-25",
+          "why_start_end_and_devices": "Food in the fallow ground of the poor, the rod of love, and the satisfied appetite of the righteous."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "The Wise Woman Builds Her House",
+          "reference": "14:1-6",
+          "why_start_end_and_devices": "The wise woman against the foolish, the fear of the LORD in upright walking, and the honest witness."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "A Way That Seems Right to a Man",
+          "reference": "14:7-12",
+          "why_start_end_and_devices": "Avoiding the fool, the heart that knows its own bitterness, and the path that ends in death."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Even in Laughter the Heart May Ache",
+          "reference": "14:13-18",
+          "why_start_end_and_devices": "The mixed heart, the simple who believe everything, and the prudent crowned with knowledge."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Blessed Is He Who Is Kind to the Poor",
+          "reference": "14:19-24",
+          "why_start_end_and_devices": "The poor hated by neighbors, the profit of labor over mere talk, and kindness rewarded with devotion."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Fear of the LORD Is a Fountain of Life",
+          "reference": "14:25-30",
+          "why_start_end_and_devices": "The truthful witness who saves lives, the secure refuge of the God-fearer, and the patient, tranquil heart."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Righteousness Exalts a Nation",
+          "reference": "14:31-35",
+          "why_start_end_and_devices": "Honoring the Maker by kindness to the needy, the refuge of the righteous in death, and the king's delight in a wise servant."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "A Gentle Answer Turns Away Wrath",
+          "reference": "15:1-6",
+          "why_start_end_and_devices": "The soothing tongue as a tree of life, the all-seeing eyes of the LORD, and the treasure in the house of the righteous."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Prayer of the Upright Is His Delight",
+          "reference": "15:7-12",
+          "why_start_end_and_devices": "The detestable sacrifice of the wicked, the LORD's love for those who pursue righteousness, and Sheol laid open before Him."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "A Cheerful Heart Has a Continual Feast",
+          "reference": "15:13-18",
+          "why_start_end_and_devices": "Better a little with the fear of the LORD, a dish of vegetables with love, and the slow-to-anger who calms dispute."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Path of the Upright Is a Highway",
+          "reference": "15:19-24",
+          "why_start_end_and_devices": "Plans failing for lack of counsel, the joy of a timely word, and the path of life leading upward for the wise."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The LORD Hears the Prayer of the Righteous",
+          "reference": "15:25-30",
+          "why_start_end_and_devices": "The proud man's house torn down, the widow's boundary protected, and good news that nourishes the bones."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Humility Comes Before Honor",
+          "reference": "15:31-33",
+          "why_start_end_and_devices": "Heeding life-giving reproof, the fear of the LORD as wisdom's instruction, and humility before honor."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Commit Your Works to the LORD",
+          "reference": "16:1-6",
+          "why_start_end_and_devices": "Man plans but the LORD gives the reply; motives weighed; everything made for His purpose; iniquity atoned by devotion."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The LORD Determines His Steps",
+          "reference": "16:7-12",
+          "why_start_end_and_devices": "Enemies made peaceable, better a little with righteousness, and the throne established through righteousness."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Pride Goes Before Destruction",
+          "reference": "16:13-18",
+          "why_start_end_and_devices": "The king's favor like spring rain, wisdom better than gold, the highway of the upright, and the famous warning of pride before a fall."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Pleasant Words Are a Honeycomb",
+          "reference": "16:19-24",
+          "why_start_end_and_devices": "Lowliness with the humble, the blessing of trusting the LORD, and sweet, healing speech from a wise heart."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "A Worthless Man Digs Up Evil",
+          "reference": "16:25-30",
+          "why_start_end_and_devices": "The way that seems right, the worker's driving hunger, and the perverse who spreads dissension and divides friends."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Better Than One Who Captures a City",
+          "reference": "16:31-33",
+          "why_start_end_and_devices": "Gray hair a crown of glory, the slow-to-anger greater than a warrior, and the lot whose decision is from the LORD."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Better a Dry Morsel in Peace",
+          "reference": "17:1-6",
+          "why_start_end_and_devices": "Quietness over feasting with strife, the LORD as tester of hearts, and grandchildren the crown of the aged."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Whoever Conceals an Offense Promotes Love",
+          "reference": "17:7-12",
+          "why_start_end_and_devices": "The bribe-charm, the rebuke that cuts the discerning deep, and the danger of meeting a fool in his folly."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "A Friend Loves at All Times",
+          "reference": "17:13-18",
+          "why_start_end_and_devices": "Evil never leaving the house that returns evil for good, the released flood of a quarrel, and the brother born for adversity."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "A Joyful Heart Is Good Medicine",
+          "reference": "17:19-24",
+          "why_start_end_and_devices": "The lover of strife, the grief of fathering a fool, and wisdom as the focus of the discerning."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Even a Fool Is Thought Wise If Silent",
+          "reference": "17:25-28",
+          "why_start_end_and_devices": "The grief of a foolish son, the man of knowledge who restrains his words, and the value of holding the tongue."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "A Fool Delights Only in His Opinions",
+          "reference": "18:1-6",
+          "why_start_end_and_devices": "The self-isolating man, the deep waters of the mouth, and the partiality that deprives the innocent of justice."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "The Name of the LORD Is a Strong Tower",
+          "reference": "18:7-12",
+          "why_start_end_and_devices": "The fool's mouth as his ruin, the gossip's choice morsels, and the strong tower to which the righteous run."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Answer a Matter After You Hear It",
+          "reference": "18:13-18",
+          "why_start_end_and_devices": "The folly of answering before hearing, the discerning heart that acquires knowledge, and the lot that ends quarrels."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "A Friend Closer Than a Brother",
+          "reference": "18:19-24",
+          "why_start_end_and_devices": "The offended brother harder to win than a fortress, life and death in the tongue, and the loyal friend."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Better a Poor Man of Integrity",
+          "reference": "19:1-6",
+          "why_start_end_and_devices": "Zeal without knowledge, folly that subverts a man's way, and wealth that attracts fair-weather friends."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "A Man's Insight Gives Him Patience",
+          "reference": "19:7-12",
+          "why_start_end_and_devices": "The deserted poor man, wisdom as self-love, and the virtue of overlooking an offense."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "A Prudent Wife Is from the LORD",
+          "reference": "19:13-18",
+          "why_start_end_and_devices": "The quarrelsome wife like constant dripping, kindness to the poor as a loan to the LORD, and the hope in disciplining a son."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "The Fear of the LORD Leads to Life",
+          "reference": "19:19-24",
+          "why_start_end_and_devices": "The hot-tempered who must pay, the many plans against the LORD's prevailing purpose, and the contentment of the God-fearer."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Strike a Mocker, and the Simple Beware",
+          "reference": "19:25-29",
+          "why_start_end_and_devices": "The discerning who gains from rebuke, the shameful son who assaults his parents, and judgments prepared for mockers."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Wine Is a Mocker",
+          "reference": "20:1-6",
+          "why_start_end_and_devices": "Strong drink the brawler, the lion-terror of a king, and the deep waters of the heart that understanding draws out."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "The Righteous Walk in Integrity",
+          "reference": "20:7-12",
+          "why_start_end_and_devices": "The king who sifts evil with his eyes, the question 'who can say I am pure?', and the ears and eyes the LORD has made."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "Lips of Knowledge Are a Rare Treasure",
+          "reference": "20:13-18",
+          "why_start_end_and_devices": "The poverty of loving sleep, the buyer who gloats, and food gained by fraud that turns to gravel."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Wait on the LORD, and He Will Save You",
+          "reference": "20:19-24",
+          "why_start_end_and_devices": "The babbling gossip, the extinguished lamp of one who curses parents, and steps that are from the LORD."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "The Spirit of Man Is the Lamp of the LORD",
+          "reference": "20:25-30",
+          "why_start_end_and_devices": "The trap of rash vows, the king who threshes out the wicked, and devotion and faithfulness that preserve a throne."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "The King's Heart Is in the Hand of the LORD",
+          "reference": "21:1-6",
+          "why_start_end_and_devices": "The waterway-heart God directs, righteousness desired over sacrifice, and the diligent plans that bring plenty."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "Better a Corner of the Roof",
+          "reference": "21:7-12",
+          "why_start_end_and_devices": "The crooked way of the guilty, the corner of the roof over a quarrelsome wife, and the Righteous One who considers the wicked."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Justice Is a Joy to the Righteous",
+          "reference": "21:13-18",
+          "why_start_end_and_devices": "Shutting the ears to the poor, the joy of justice executed, and the lover of pleasure who grows poor."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "He Who Guards His Mouth Keeps His Soul",
+          "reference": "21:19-24",
+          "why_start_end_and_devices": "The desert over a contentious wife, the wise man who scales a city, and the guarded mouth that avoids distress."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "The Righteous Give Without Restraint",
+          "reference": "21:25-28",
+          "why_start_end_and_devices": "The slacker's deadly craving, the detestable sacrifice of the wicked, and the perishing lying witness."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Victory Is of the LORD",
+          "reference": "21:29-31",
+          "why_start_end_and_devices": "The hardened face of the wicked, no wisdom prevailing against the LORD, and the horse prepared but victory the LORD's."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "A Good Name Is to Be Chosen",
+          "reference": "22:1-5",
+          "why_start_end_and_devices": "A good name above riches, the LORD as Maker of rich and poor, and the rewards of humility and the fear of the LORD."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Train Up a Child in the Way He Should Go",
+          "reference": "22:6-11",
+          "why_start_end_and_devices": "The borrower as the lender's slave, the blessed generous man, and the friend the king makes of the pure in heart."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "The Rod of Discipline Drives Out Folly",
+          "reference": "22:12-16",
+          "why_start_end_and_devices": "The slacker's imagined lion, the adulteress's deep pit, and the discipline that drives folly from a child — closing Solomon's collection."
+        }
       ]
     },
     {
@@ -51,19 +818,84 @@
       "why_start_end_and_literary_glue": "New headings at 22:17 ('Incline your ear to the words of the wise') and 24:23 ('These also are sayings of the wise') mark a distinct curated collection. Style shifts from couplets to multi‑line sayings akin to ANE instruction (cf. Amenemope).",
       "reference": "22:17 - 24:34",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Preamble to the Sayings", "reference": "22:17-21", "why_start_end_and_devices": "Introduction stating purpose: to make you know 'words of truth' for right answers (v. 21)." },
-        { "scene_number": 2, "scene_name": "Saying 1: Do Not Rob the Poor", "reference": "22:22-23", "why_start_end_and_devices": "Two‑verse admonition with divine advocacy: the LORD will plead the poor's cause." },
-        { "scene_number": 3, "scene_name": "Saying 2: The Angry Man", "reference": "22:24-25", "why_start_end_and_devices": "Avoid the hot‑tempered lest you learn his ways and ensnare your soul." },
-        { "scene_number": 4, "scene_name": "Saying 3: Do Not Be Surety", "reference": "22:26-27", "why_start_end_and_devices": "Warning against pledges: why should your bed be taken from under you?" },
-        { "scene_number": 5, "scene_name": "Saying 4: Do Not Move the Landmark", "reference": "22:28", "why_start_end_and_devices": "Single‑verse protection of ancestral boundaries—social stability and justice." },
-        { "scene_number": 6, "scene_name": "Saying 5: The Diligent in the Presence of Kings", "reference": "22:29", "why_start_end_and_devices": "A single‑verse observation—skill brings one before rulers." },
-        { "scene_number": 7, "scene_name": "Saying 6: Dining with a Ruler", "reference": "23:1-3", "why_start_end_and_devices": "Etiquette and caution—discern appetite and deceitful delicacies." },
-        { "scene_number": 8, "scene_name": "Saying 7: Do Not Wear Yourself to Get Rich", "reference": "23:4-5", "why_start_end_and_devices": "Wealth's fleeting wings; set not your eyes on it." },
-        { "scene_number": 9, "scene_name": "Saying 8: The Stingy Host", "reference": "23:6-8", "why_start_end_and_devices": "Do not eat the bread of a miser; his heart is not with you—your pleasant words return to you." },
-        { "scene_number": 10, "scene_name": "Saying 9: Do Not Speak in the Hearing of a Fool", "reference": "23:9", "why_start_end_and_devices": "Single verse—he will despise the wisdom of your words." },
-        { "scene_number": 11, "scene_name": "Saying 10: Landmark and Orphans", "reference": "23:10-11", "why_start_end_and_devices": "Move not the ancient landmark; Redeemer is strong and will plead their cause." },
-        { "scene_number": 12, "scene_name": "Further Sayings: Impartial Judgment", "reference": "24:23-26", "why_start_end_and_devices": "Supplemental heading (24:23). Approve the right, rebuke the wicked—'right answer' wins a kiss (v. 26)." },
-        { "scene_number": 13, "scene_name": "Further Sayings: The Sluggard's Field", "reference": "24:30-34", "why_start_end_and_devices": "Observation (30–31) → reflection (32) → conclusion (33–34): poverty comes like a robber." }
+        {
+          "scene_number": 1,
+          "scene_name": "Preamble to the Sayings",
+          "reference": "22:17-21",
+          "why_start_end_and_devices": "Introduction stating purpose: to make you know 'words of truth' for right answers (v. 21)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Saying 1: Do Not Rob the Poor",
+          "reference": "22:22-23",
+          "why_start_end_and_devices": "Two‑verse admonition with divine advocacy: the LORD will plead the poor's cause."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Saying 2: The Angry Man",
+          "reference": "22:24-25",
+          "why_start_end_and_devices": "Avoid the hot‑tempered lest you learn his ways and ensnare your soul."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Saying 3: Do Not Be Surety",
+          "reference": "22:26-27",
+          "why_start_end_and_devices": "Warning against pledges: why should your bed be taken from under you?"
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Saying 4: Do Not Move the Landmark",
+          "reference": "22:28",
+          "why_start_end_and_devices": "Single‑verse protection of ancestral boundaries—social stability and justice."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Saying 5: The Diligent in the Presence of Kings",
+          "reference": "22:29",
+          "why_start_end_and_devices": "A single‑verse observation—skill brings one before rulers."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Saying 6: Dining with a Ruler",
+          "reference": "23:1-3",
+          "why_start_end_and_devices": "Etiquette and caution—discern appetite and deceitful delicacies."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Saying 7: Do Not Wear Yourself to Get Rich",
+          "reference": "23:4-5",
+          "why_start_end_and_devices": "Wealth's fleeting wings; set not your eyes on it."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Saying 8: The Stingy Host",
+          "reference": "23:6-8",
+          "why_start_end_and_devices": "Do not eat the bread of a miser; his heart is not with you—your pleasant words return to you."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Saying 9: Do Not Speak in the Hearing of a Fool",
+          "reference": "23:9",
+          "why_start_end_and_devices": "Single verse—he will despise the wisdom of your words."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Saying 10: Landmark and Orphans",
+          "reference": "23:10-11",
+          "why_start_end_and_devices": "Move not the ancient landmark; Redeemer is strong and will plead their cause."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Further Sayings: Impartial Judgment",
+          "reference": "24:23-26",
+          "why_start_end_and_devices": "Supplemental heading (24:23). Approve the right, rebuke the wicked—'right answer' wins a kiss (v. 26)."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Further Sayings: The Sluggard's Field",
+          "reference": "24:30-34",
+          "why_start_end_and_devices": "Observation (30–31) → reflection (32) → conclusion (33–34): poverty comes like a robber."
+        }
       ]
     },
     {
@@ -72,10 +904,30 @@
       "why_start_end_and_literary_glue": "Explicit editorial title at 25:1; style returns to clustered couplets with many similes/comparisons and court‑wisdom. Concludes the fourth major collection at 29:27.",
       "reference": "25:1 - 29:27",
       "scenes": [
-        { "scene_number": 1, "scene_name": "On Kings and Courts", "reference": "25:1-7", "why_start_end_and_devices": "God's glory to conceal, kings' to search; remove dross/wicked; counsel on presence before rulers." },
-        { "scene_number": 2, "scene_name": "Neighbors, Strife, and Timely Words", "reference": "25:8-15", "why_start_end_and_devices": "Do not hasten to court; a word fitly spoken as apples of gold; persuasion by patience." },
-        { "scene_number": 3, "scene_name": "Portraits of Fools and Sluggards", "reference": "26:1-16", "why_start_end_and_devices": "Twelve similes on the fool (1–12) followed by four on the sluggard (13–16)—two vivid character studies." },
-        { "scene_number": 4, "scene_name": "On Strife and Slander", "reference": "26:17-28", "why_start_end_and_devices": "Contentious meddler, talebearer fuel, burning lips and wicked heart—coherent warning against quarrel and deceit." }
+        {
+          "scene_number": 1,
+          "scene_name": "On Kings and Courts",
+          "reference": "25:1-7",
+          "why_start_end_and_devices": "God's glory to conceal, kings' to search; remove dross/wicked; counsel on presence before rulers."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Neighbors, Strife, and Timely Words",
+          "reference": "25:8-15",
+          "why_start_end_and_devices": "Do not hasten to court; a word fitly spoken as apples of gold; persuasion by patience."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Portraits of Fools and Sluggards",
+          "reference": "26:1-16",
+          "why_start_end_and_devices": "Twelve similes on the fool (1–12) followed by four on the sluggard (13–16)—two vivid character studies."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "On Strife and Slander",
+          "reference": "26:17-28",
+          "why_start_end_and_devices": "Contentious meddler, talebearer fuel, burning lips and wicked heart—coherent warning against quarrel and deceit."
+        }
       ]
     },
     {
@@ -84,11 +936,36 @@
       "why_start_end_and_literary_glue": "Ch. 30 stands as a self‑contained appendix by Agur son of Jakeh, featuring confessional humility, prayer for moderation, and a series of numerical proverbs.",
       "reference": "30:1 - 30:33",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Agur's Confession and Prayer", "reference": "30:1-9", "why_start_end_and_devices": "Title (30:1); confession of limited wisdom (2–4) and twofold prayer—keep falsehood far, give neither poverty nor riches (7–9)." },
-        { "scene_number": 2, "scene_name": "Four Cursed Generations", "reference": "30:10-14", "why_start_end_and_devices": "Brief warning (v. 10) followed by 'There is a generation...' catalogue of four wicked types." },
-        { "scene_number": 3, "scene_name": "Four Insatiable Things", "reference": "30:15-17", "why_start_end_and_devices": "Horseleech preface; 'three... four...' list of the insatiable; eye that mocks parents meets judgment." },
-        { "scene_number": 4, "scene_name": "Four Wonderful and Four Unbearable Things", "reference": "30:18-23", "why_start_end_and_devices": "Two numerical units: wondrous ways (18–19) and intolerable inversions (21–23), with v. 20 framing the adulterous woman." },
-        { "scene_number": 5, "scene_name": "Four Small but Wise, and Four Stately Things", "reference": "30:24-33", "why_start_end_and_devices": "Four wise small creatures (24–28), four stately ones (29–31), concluding counsel against stirring anger (32–33)." }
+        {
+          "scene_number": 1,
+          "scene_name": "Agur's Confession and Prayer",
+          "reference": "30:1-9",
+          "why_start_end_and_devices": "Title (30:1); confession of limited wisdom (2–4) and twofold prayer—keep falsehood far, give neither poverty nor riches (7–9)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Four Cursed Generations",
+          "reference": "30:10-14",
+          "why_start_end_and_devices": "Brief warning (v. 10) followed by 'There is a generation...' catalogue of four wicked types."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Four Insatiable Things",
+          "reference": "30:15-17",
+          "why_start_end_and_devices": "Horseleech preface; 'three... four...' list of the insatiable; eye that mocks parents meets judgment."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Four Wonderful and Four Unbearable Things",
+          "reference": "30:18-23",
+          "why_start_end_and_devices": "Two numerical units: wondrous ways (18–19) and intolerable inversions (21–23), with v. 20 framing the adulterous woman."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Four Small but Wise, and Four Stately Things",
+          "reference": "30:24-33",
+          "why_start_end_and_devices": "Four wise small creatures (24–28), four stately ones (29–31), concluding counsel against stirring anger (32–33)."
+        }
       ]
     },
     {
@@ -97,12 +974,31 @@
       "why_start_end_and_literary_glue": "Ch. 31 is the closing appendix attributed to King Lemuel: his mother's oracle on kingship (31:1–9) followed by the acrostic 'excellent wife' (31:10–31). Literary Glue: alphabetic acrostic binding the final poem and thematic fear‑of‑the‑LORD center.",
       "reference": "31:1 - 31:31",
       "scenes": [
-        { "scene_number": 1, "scene_name": "The Oracle for King Lemuel", "reference": "31:1-9", "why_start_end_and_devices": "Maternal counsel: avoid women and strong drink (3–7); open your mouth for the mute and needy (8–9)." },
-        { "scene_number": 2, "scene_name": "The Excellent Wife: Value and Work (Aleph–Kaph)", "reference": "31:10-15", "why_start_end_and_devices": "Acrostic begins—her worth above jewels (10–12) and diligent domestic industry (13–15)." },
-        { "scene_number": 3, "scene_name": "The Excellent Wife: Enterprise and Strength (Lamedh–Pe)", "reference": "31:16-22", "why_start_end_and_devices": "Field purchase, profitable lamp, girded strength; clothing and household provisioning (16–22)." },
-        { "scene_number": 4, "scene_name": "The Excellent Wife: Character and Praise (Tsadhe–Taw)", "reference": "31:23-31", "why_start_end_and_devices": "Husband's honor, wise speech, kindness; children and husband praise; beauty fades but fear of the LORD endures; works praised in the gates." }
+        {
+          "scene_number": 1,
+          "scene_name": "The Oracle for King Lemuel",
+          "reference": "31:1-9",
+          "why_start_end_and_devices": "Maternal counsel: avoid women and strong drink (3–7); open your mouth for the mute and needy (8–9)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Excellent Wife: Value and Work (Aleph–Kaph)",
+          "reference": "31:10-15",
+          "why_start_end_and_devices": "Acrostic begins—her worth above jewels (10–12) and diligent domestic industry (13–15)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Excellent Wife: Enterprise and Strength (Lamedh–Pe)",
+          "reference": "31:16-22",
+          "why_start_end_and_devices": "Field purchase, profitable lamp, girded strength; clothing and household provisioning (16–22)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Excellent Wife: Character and Praise (Tsadhe–Taw)",
+          "reference": "31:23-31",
+          "why_start_end_and_devices": "Husband's honor, wise speech, kindness; children and husband praise; beauty fades but fear of the LORD endures; works praised in the gates."
+        }
       ]
     }
   ]
 }
-
