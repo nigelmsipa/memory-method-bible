@@ -82,45 +82,123 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Into the Darkness",
-          "reference": "3:1-9",
-          "why_start_end_and_devices": "Starts with 'I am the man...' (3:1). Ends with 'he hath made my paths crooked.' (3:9). Represents Aleph, Bet, and Gimel stanzas. The imagery is of physical constraint and sensory deprivation. God leads into darkness, ages flesh, and walls in. Verse 9 ('hewn stone') concludes the metaphor of being physically trapped/imprisoned."
+          "scene_name": "I Am the Man Who Has Seen Affliction",
+          "reference": "3:1-3",
+          "why_start_end_and_devices": "The central acrostic opens: the sufferer driven into darkness under the rod of God's wrath."
         },
         {
           "scene_number": 2,
-          "scene_name": "The Savage Attack",
-          "reference": "3:10-18",
-          "why_start_end_and_devices": "Starts with 'He was unto me as a bear lying in wait...' (3:10). Ends with 'my hope is perished from the LORD.' (3:18). Represents Dalet, He, and Vav stanzas. The metaphor shifts from imprisonment to active hunting. God is a bear/lion and an archer. The scene details psychological humiliation, ending at the nadir of the book with complete loss of hope."
+          "scene_name": "He Has Worn Away My Flesh",
+          "reference": "3:4-6",
+          "why_start_end_and_devices": "Shattered bones, besieging bitterness, dwelling in darkness like the long-dead."
         },
         {
           "scene_number": 3,
-          "scene_name": "The Pivot of Hope",
-          "reference": "3:19-24",
-          "why_start_end_and_devices": "Starts with 'Remembering mine affliction and my misery...' (3:19). Ends with 'therefore will I hope in him.' (3:24). Represents Zayin and Chet stanzas. This is the theological hinge of the entire book. Verse 21 is the turning point ('This I recall to my mind, therefore have I hope'), introducing the famous declaration of God's new mercies and faithfulness."
+          "scene_name": "He Has Walled Me In",
+          "reference": "3:7-9",
+          "why_start_end_and_devices": "Chained and barred, his ways made crooked, his prayer shut out."
         },
         {
           "scene_number": 4,
-          "scene_name": "The Theology of Waiting",
-          "reference": "3:25-33",
-          "why_start_end_and_devices": "Starts with 'The LORD is good unto them that wait for him...' (3:25). Ends with 'nor grieve the children of men.' (3:33). Represents Tet, Yod, and Kaph stanzas. A didactic/wisdom section using repeated phrases ('It is good...') to counsel patience and silence. It affirms that God does not cast off forever, reconciling His sovereignty with His lack of desire to cause pain."
+          "scene_name": "A Bear Lying in Wait",
+          "reference": "3:10-12",
+          "why_start_end_and_devices": "God imaged as a stalking bear and lion who sets him as the target for His arrow."
         },
         {
           "scene_number": 5,
-          "scene_name": "Justice and Sovereignty",
-          "reference": "3:34-39",
-          "why_start_end_and_devices": "Starts with 'To crush under his feet all the prisoners...' (3:34). Ends with 'a man for the punishment of his sins?' (3:39). Represents Lamed and Mem stanzas. This section deals with theodicy, asking rhetorical questions about justice and who commands events. It concludes with the challenge: why complain about the punishment of sins?"
+          "scene_name": "Intoxicated with Wormwood",
+          "reference": "3:13-15",
+          "why_start_end_and_devices": "Pierced, a laughingstock mocked in song, filled with bitterness."
         },
         {
           "scene_number": 6,
-          "scene_name": "The Call to Return",
-          "reference": "3:40-51",
-          "why_start_end_and_devices": "Starts with 'Let us search and try our ways...' (3:40). Ends with 'mine eye affecteth mine heart because of all the daughters of my city.' (3:51). Represents Nun, Samekh, Pe, and Ayin stanzas. The speaker switches to plural ('Let us'), inviting the community into processed grief. Verses 42-45 acknowledge that God has not yet pardoned. The scene describes the reality of the siege again, linking theology back to current suffering."
+          "scene_name": "My Hope Has Perished",
+          "reference": "3:16-18",
+          "why_start_end_and_devices": "The depth of despair: teeth ground with gravel, peace forgotten, hope in the LORD seemingly gone."
         },
         {
           "scene_number": 7,
-          "scene_name": "The Plea from the Pit",
-          "reference": "3:52-66",
-          "why_start_end_and_devices": "Starts with 'Mine enemies chased me sore...' (3:52). Ends with 'destroy them in anger from under the heavens of the LORD.' (3:66). Represents Tsade, Qoph, Resh, Shin, and Tav stanzas. The speaker returns to the 'I' perspective, recounting a time of near-death where God did hear him. This past deliverance fuels the final imprecation asking God to curse the enemies."
+          "scene_name": "Great Is Your Faithfulness",
+          "reference": "3:19-24",
+          "why_start_end_and_devices": "The hinge of the book: recalling the LORD's mercies new every morning — 'the LORD is my portion… I will hope in Him.'"
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The LORD Is Good to Those Who Wait",
+          "reference": "3:25-27",
+          "why_start_end_and_devices": "The theology of waiting: good to wait quietly for salvation and to bear the yoke in youth."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Let Him Sit Alone in Silence",
+          "reference": "3:28-30",
+          "why_start_end_and_devices": "Submission to the laid-on yoke: burying the face in dust, offering the cheek to the striker."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "He Does Not Willingly Afflict",
+          "reference": "3:31-33",
+          "why_start_end_and_devices": "The ground of hope: the Lord will not cast off forever, for He does not afflict from His heart."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Why Should a Living Man Complain?",
+          "reference": "3:34-39",
+          "why_start_end_and_devices": "The sovereignty of God over justice and calamity — both adversity and good come from His mouth."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Let Us Examine Our Ways",
+          "reference": "3:40-42",
+          "why_start_end_and_devices": "The communal call to repentance: lifting heart and hands — 'we have sinned and rebelled.'"
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "A Cloud No Prayer Can Pass Through",
+          "reference": "3:43-45",
+          "why_start_end_and_devices": "God's anger covering Himself, making His people scum and refuse among the nations."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Streams of Tears",
+          "reference": "3:46-48",
+          "why_start_end_and_devices": "Enemies' open mouths, panic and ruin, and tears over the destruction of the daughter of his people."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Until the LORD Looks Down",
+          "reference": "3:49-51",
+          "why_start_end_and_devices": "Eyes overflowing without relief until the LORD looks down from heaven and sees."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Hunted Like a Bird",
+          "reference": "3:52-54",
+          "why_start_end_and_devices": "The personal lament: hunted without cause, dropped into a pit, the waters closing over his head."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "You Said, Do Not Be Afraid",
+          "reference": "3:55-57",
+          "why_start_end_and_devices": "The cry from the depths heard — 'You drew near… You said, Do not be afraid.'"
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "You Defend My Cause",
+          "reference": "3:58-60",
+          "why_start_end_and_devices": "The Redeemer who takes up his case and has seen all the malice against him."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "You Have Heard Their Insults",
+          "reference": "3:61-63",
+          "why_start_end_and_devices": "The LORD who has heard the slander and mockery of his assailants."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Pay Them Back, O LORD",
+          "reference": "3:64-66",
+          "why_start_end_and_devices": "The closing imprecation: recompense according to their deeds, pursued in anger from under heaven."
         }
       ]
     },
@@ -170,21 +248,33 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Loss of Inheritance",
-          "reference": "5:1-10",
-          "why_start_end_and_devices": "Starts with 'Remember, O LORD, what is come upon us...' (5:1). Ends with 'because of the terrible famine.' (5:10). A catalogue of what has been lost: land, fathers (orphans), water rights, and independence. It highlights the economic inversion—they must buy their own water and wood. It ends with the physical pain of the famine (skin black like an oven)."
+          "scene_name": "Remember, O LORD, Our Disgrace",
+          "reference": "5:1-5",
+          "why_start_end_and_devices": "The communal appeal opens: the inheritance given to strangers, orphans and widows, weary and restless."
         },
         {
           "scene_number": 2,
-          "scene_name": "The Social Inversion",
-          "reference": "5:11-18",
-          "why_start_end_and_devices": "Starts with 'They ravished the women in Zion...' (5:11). Ends with 'the foxes walk upon it.' (5:18). Focuses on dignity and joy. Women are violated, princes are hanged, elders cease from the gate (governance), music has stopped. The 'crown is fallen.' It concludes with the image of Mount Zion being so desolate that foxes/jackals prowl on it."
+          "scene_name": "We Bear Our Fathers' Punishment",
+          "reference": "5:6-10",
+          "why_start_end_and_devices": "Submitting to Egypt and Assyria for bread, slaves ruling, bread won at the risk of life."
         },
         {
           "scene_number": 3,
-          "scene_name": "The Throne and the Plea",
+          "scene_name": "Princes Hung by Their Hands",
+          "reference": "5:11-14",
+          "why_start_end_and_devices": "The social devastation: ravished women, dishonored elders, toiling young men, and silenced music."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Crown Has Fallen from Our Head",
+          "reference": "5:15-18",
+          "why_start_end_and_devices": "Joy turned to mourning, the confession 'we have sinned,' and Mount Zion desolate, patrolled by foxes."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Restore Us to Yourself, O LORD",
           "reference": "5:19-22",
-          "why_start_end_and_devices": "Starts with 'Thou, O LORD, remainest for ever...' (5:19). Ends with 'thou art very wroth against us.' (5:22). The final appeal contrasts the desolation of Zion with the eternal throne of God. The famous plea 'Turn thou us unto thee... renew our days as of old' (5:21) is the emotional climax. However, the book ends on verse 22 (the 'Or' clause)—a refusal to close with false comfort, leaving the possibility of rejection hanging in the air."
+          "why_start_end_and_devices": "The closing plea to the eternal King: 'renew our days as of old' — the book's unresolved final cry."
         }
       ]
     }
