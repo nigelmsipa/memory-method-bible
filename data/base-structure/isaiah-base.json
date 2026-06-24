@@ -10,19 +10,462 @@
       "why_start_end_and_literary_glue": "Isaiah 1–12 introduces the whole with superscription (1:1), a sweeping covenant lawsuit (1), and thematically arranged oracles moving from judgment to remnant hope, culminating in a salvation hymn (12). Start (1:1): 'The vision of Isaiah…' End (12:6): 'Great in your midst is the Holy One of Israel.' Literary Glue: 'Holy One of Israel,' remnant, movement from Assyrian judgment to Davidic/messianic hope (ch. 11) and joy (ch. 12).",
       "reference": "1:1 - 12:6",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Superscription", "reference": "1:1", "why_start_end_and_devices": "Formal title: author, genre ('vision'), scope (Judah/Jerusalem), reigns—sets historical frame." },
-        { "scene_number": 2, "scene_name": "Covenant Lawsuit: Heavens and Earth Witness", "reference": "1:2-3", "why_start_end_and_devices": "Rîb opening 'Hear, O heavens'; metaphor of ox/donkey knowing their master vs Israel's ignorance—charged irony." },
-        { "scene_number": 3, "scene_name": "Denunciation: A Sinful Nation", "reference": "1:4", "why_start_end_and_devices": "Dense parallelism ('sinful nation… people laden with iniquity'); introduces title 'Holy One of Israel.'" },
-        { "scene_number": 4, "scene_name": "Diagnosis: The Wounded Body", "reference": "1:5-6", "why_start_end_and_devices": "Head‑to‑toe medical metaphor of the body politic—total corruption and untreated wounds." },
-        { "scene_number": 5, "scene_name": "Devastation: A Land Desolate", "reference": "1:7-9", "why_start_end_and_devices": "Country desolate, cities burned; isolated hut similes; remnant motif averts Sodom‑like annihilation." },
-        { "scene_number": 6, "scene_name": "Rejection of Worship: 'Rulers of Sodom'", "reference": "1:10-12", "why_start_end_and_devices": "Shock vocatives; rhetorical questions reject mere appearance before God—empty ritual exposed." },
-        { "scene_number": 7, "scene_name": "Abomination of Ritual", "reference": "1:13-15", "why_start_end_and_devices": "List of hated festivals/offerings; God 'weary' of prayers—hands full of blood links worship to injustice." },
-        { "scene_number": 8, "scene_name": "Eight Imperatives of Repentance", "reference": "1:16-17", "why_start_end_and_devices": "Cascade of commands defining repentance: cease evil → learn good → seek justice (orphans/widow)." },
-        { "scene_number": 9, "scene_name": "Invitation to Reason: Scarlet and Snow", "reference": "1:18-20", "why_start_end_and_devices": "Legal invitation; total cleansing similes (scarlet/snow); two‑ways conditional of blessing/curse." },
-        { "scene_number": 10, "scene_name": "Lament: The Unfaithful City", "reference": "1:21-23", "why_start_end_and_devices": "Qinah 'How' dirge contrasts former fidelity with present corruption; dross/watered wine metaphors; social injustice named." },
-        { "scene_number": 11, "scene_name": "Divine Resolve: Purging Fire", "reference": "1:24-26", "why_start_end_and_devices": "Solemn titles introduce refining imagery ('purge dross'); restoration to 'City of Righteousness' with new name." },
-        { "scene_number": 12, "scene_name": "Verdict: Justice or Destruction", "reference": "1:27-28", "why_start_end_and_devices": "Antithetical parallelism: Zion redeemed by justice vs rebels destroyed—binary outcome." },
-        { "scene_number": 13, "scene_name": "Shame of Idolatry and Unquenchable Fire", "reference": "1:29-31", "why_start_end_and_devices": "Oaks/gardens idolatry; withered oak and waterless garden similes; strong man as tinder—unquenchable end." }
+        {
+          "scene_number": 1,
+          "scene_name": "Superscription",
+          "reference": "1:1",
+          "why_start_end_and_devices": "Formal title: author, genre ('vision'), scope (Judah/Jerusalem), reigns—sets historical frame."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Covenant Lawsuit: Heavens and Earth Witness",
+          "reference": "1:2-3",
+          "why_start_end_and_devices": "Rîb opening 'Hear, O heavens'; metaphor of ox/donkey knowing their master vs Israel's ignorance—charged irony."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Denunciation: A Sinful Nation",
+          "reference": "1:4",
+          "why_start_end_and_devices": "Dense parallelism ('sinful nation… people laden with iniquity'); introduces title 'Holy One of Israel.'"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Diagnosis: The Wounded Body",
+          "reference": "1:5-6",
+          "why_start_end_and_devices": "Head‑to‑toe medical metaphor of the body politic—total corruption and untreated wounds."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Devastation: A Land Desolate",
+          "reference": "1:7-9",
+          "why_start_end_and_devices": "Country desolate, cities burned; isolated hut similes; remnant motif averts Sodom‑like annihilation."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Rejection of Worship: 'Rulers of Sodom'",
+          "reference": "1:10-12",
+          "why_start_end_and_devices": "Shock vocatives; rhetorical questions reject mere appearance before God—empty ritual exposed."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Abomination of Ritual",
+          "reference": "1:13-15",
+          "why_start_end_and_devices": "List of hated festivals/offerings; God 'weary' of prayers—hands full of blood links worship to injustice."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Eight Imperatives of Repentance",
+          "reference": "1:16-17",
+          "why_start_end_and_devices": "Cascade of commands defining repentance: cease evil → learn good → seek justice (orphans/widow)."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Invitation to Reason: Scarlet and Snow",
+          "reference": "1:18-20",
+          "why_start_end_and_devices": "Legal invitation; total cleansing similes (scarlet/snow); two‑ways conditional of blessing/curse."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Lament: The Unfaithful City",
+          "reference": "1:21-23",
+          "why_start_end_and_devices": "Qinah 'How' dirge contrasts former fidelity with present corruption; dross/watered wine metaphors; social injustice named."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Divine Resolve: Purging Fire",
+          "reference": "1:24-26",
+          "why_start_end_and_devices": "Solemn titles introduce refining imagery ('purge dross'); restoration to 'City of Righteousness' with new name."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Verdict: Justice or Destruction",
+          "reference": "1:27-28",
+          "why_start_end_and_devices": "Antithetical parallelism: Zion redeemed by justice vs rebels destroyed—binary outcome."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Shame of Idolatry and Unquenchable Fire",
+          "reference": "1:29-31",
+          "why_start_end_and_devices": "Oaks/gardens idolatry; withered oak and waterless garden similes; strong man as tinder—unquenchable end."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Mountain of the LORD's House",
+          "reference": "2:1-4",
+          "why_start_end_and_devices": "The vision of the last days: all nations streaming to Zion, beating swords into plowshares."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "A Land Full of Idols",
+          "reference": "2:5-9",
+          "why_start_end_and_devices": "The indictment of a people enriched yet bowing to the work of their own hands."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Day of the LORD Against the Proud",
+          "reference": "2:10-13",
+          "why_start_end_and_devices": "The summons to hide in the dust, for the LORD alone will be exalted against all that is lofty."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Loftiness of Men Brought Low",
+          "reference": "2:14-17",
+          "why_start_end_and_devices": "Judgment on cedars, mountains, towers, and ships — the pride of man humbled."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Put No More Trust in Man",
+          "reference": "2:18-22",
+          "why_start_end_and_devices": "Idols cast to moles and bats as men flee to caves — 'of what account' is mortal man?"
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Supply and Support Removed",
+          "reference": "3:1-3",
+          "why_start_end_and_devices": "God stripping Jerusalem of food, leaders, warriors, and counselors."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Children Will Rule Over Them",
+          "reference": "3:4-7",
+          "why_start_end_and_devices": "The collapse of order: youths as leaders and no one willing to govern the rubble."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Like Sodom They Flaunt Their Sin",
+          "reference": "3:8-11",
+          "why_start_end_and_devices": "Jerusalem fallen for defying the LORD; woe to the wicked, but well to the righteous."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Grinding the Faces of the Poor",
+          "reference": "3:12-15",
+          "why_start_end_and_devices": "The LORD rising to contend with the elders who have devoured His vineyard."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "The Haughty Daughters of Zion",
+          "reference": "3:16-17",
+          "why_start_end_and_devices": "Judgment announced on the proud, prancing women of Zion."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Finery Taken Away",
+          "reference": "3:18-23",
+          "why_start_end_and_devices": "The long inventory of stripped ornaments — anklets, veils, rings, and shawls."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Shame Instead of Beauty",
+          "reference": "3:24-26",
+          "why_start_end_and_devices": "Stench for fragrance, sackcloth for fine clothing, and the gates of Zion in mourning."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Branch of the LORD",
+          "reference": "4:1-2",
+          "why_start_end_and_devices": "Seven women grasping one man (1), then the glorious Branch and the fruit of the land (2)."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "A Canopy Over Mount Zion",
+          "reference": "4:3-6",
+          "why_start_end_and_devices": "The cleansed remnant called holy, sheltered by a cloud and fire of glory."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Song of the Vineyard",
+          "reference": "5:1-2",
+          "why_start_end_and_devices": "The beloved's well-tended vineyard that yielded only sour grapes."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "What More Could I Have Done?",
+          "reference": "5:3-7",
+          "why_start_end_and_devices": "The verdict to lay the vineyard waste — for the vineyard is Israel, yielding bloodshed instead of justice."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Woe to Those Who Add House to House",
+          "reference": "5:8-10",
+          "why_start_end_and_devices": "The first woe, against greed that leaves no room — desolate mansions and failed harvests."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Woe to the Drunkards",
+          "reference": "5:11-13",
+          "why_start_end_and_devices": "The woe against those who chase strong drink and disregard the work of the LORD — exile follows."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Sheol Enlarges Its Throat",
+          "reference": "5:14-17",
+          "why_start_end_and_devices": "The grave opening wide for Zion's revelers, while the LORD is exalted by His justice."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Woe to Those Who Call Evil Good",
+          "reference": "5:18-20",
+          "why_start_end_and_devices": "The woes against scoffers who drag sin along and invert good and evil, light and dark."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Woe to the Wise in Their Own Eyes",
+          "reference": "5:21-23",
+          "why_start_end_and_devices": "The woes against the self-wise and the bribe-takers who acquit the guilty."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "His Anger Is Not Turned Away",
+          "reference": "5:24-25",
+          "why_start_end_and_devices": "Their decaying roots and the burning anger of the LORD whose hand is still upraised."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "A Banner for the Distant Nations",
+          "reference": "5:26-30",
+          "why_start_end_and_devices": "The tireless invading army summoned from afar, roaring like a lion over a darkened land."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Holy, Holy, Holy",
+          "reference": "6:1-4",
+          "why_start_end_and_devices": "The throne-vision in the year Uzziah died: the seraphim's cry shaking the temple."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "A Coal from the Altar",
+          "reference": "6:5-7",
+          "why_start_end_and_devices": "'Woe is me, I am ruined' — the unclean lips touched and atoned by the burning coal."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Here Am I, Send Me",
+          "reference": "6:8-10",
+          "why_start_end_and_devices": "The commission to a people who hear but never understand, their hearts made calloused."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "The Holy Seed Is the Stump",
+          "reference": "6:11-13",
+          "why_start_end_and_devices": "'How long?' — until the land is desolate, yet a holy seed remains in the felled stump."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Go Out to Meet Ahaz",
+          "reference": "7:1-3",
+          "why_start_end_and_devices": "The Syro-Ephraimite threat and Isaiah sent with his son to the trembling king."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Two Smoldering Stubs of Firewood",
+          "reference": "7:4-6",
+          "why_start_end_and_devices": "The reassurance against the plot of Rezin and Pekah to install a puppet king."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "If You Do Not Stand Firm in Faith",
+          "reference": "7:7-9",
+          "why_start_end_and_devices": "The oracle that the plot will fail — and the warning, 'you will not stand at all.'"
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Ask for a Sign",
+          "reference": "7:10-12",
+          "why_start_end_and_devices": "The LORD's offer of a sign and Ahaz's false-piety refusal."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Behold, the Virgin Will Conceive",
+          "reference": "7:13-16",
+          "why_start_end_and_devices": "The sign of Immanuel given to the house of David, with the two dreaded kings soon laid waste."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "A Razor Hired from the Euphrates",
+          "reference": "7:17-20",
+          "why_start_end_and_devices": "The coming of Assyria pictured as flies, bees, and a razor that shaves the land bare."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Briers and Thorns",
+          "reference": "7:21-25",
+          "why_start_end_and_devices": "The desolation reducing the land to curds, honey, and thornbushes."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Maher-shalal-hash-baz",
+          "reference": "8:1-4",
+          "why_start_end_and_devices": "The prophet's son named 'swift to plunder' as a sign of Assyria's coming spoil."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "The Floodwaters of the Euphrates",
+          "reference": "8:5-8",
+          "why_start_end_and_devices": "Rejecting the gentle waters of Shiloah brings the Assyrian flood up to the neck — 'O Immanuel!'"
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "God Is with Us",
+          "reference": "8:9-10",
+          "why_start_end_and_devices": "The defiant taunt to the nations: every plan thwarted, for Immanuel — God is with us."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "A Stone of Stumbling",
+          "reference": "8:11-15",
+          "why_start_end_and_devices": "The charge to fear the LORD alone, who becomes both a sanctuary and a rock of offense."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "I Will Wait for the LORD",
+          "reference": "8:16-18",
+          "why_start_end_and_devices": "Sealing the testimony among the disciples, trusting the God who hides His face."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "To the Law and to the Testimony",
+          "reference": "8:19-22",
+          "why_start_end_and_devices": "The rejection of mediums for God's word, and the doom of those with no light of dawn."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "The People Walking in Darkness",
+          "reference": "9:1-3",
+          "why_start_end_and_devices": "The dawn over Galilee: a great light and multiplied joy for those in the shadow of death."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Unto Us a Child Is Born",
+          "reference": "9:4-7",
+          "why_start_end_and_devices": "The shattered yoke and the royal child — Wonderful Counselor, Mighty God, Prince of Peace — on David's throne."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "The Bricks Have Fallen",
+          "reference": "9:8-10",
+          "why_start_end_and_devices": "Israel's prideful boast to rebuild grander after the message of judgment falls on Jacob."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "His Hand Is Still Upraised",
+          "reference": "9:11-12",
+          "why_start_end_and_devices": "Foes raised from east and west, with the recurring refrain of unrelenting anger."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Head and Tail Cut Off",
+          "reference": "9:13-17",
+          "why_start_end_and_devices": "The unrepentant people whose leaders mislead them, cut off in a single day."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Manasseh Devours Ephraim",
+          "reference": "9:18-21",
+          "why_start_end_and_devices": "Wickedness burning like fire and the land consuming itself in self-destruction."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Woe to Lawmakers of Injustice",
+          "reference": "10:1-4",
+          "why_start_end_and_devices": "The woe against oppressive decrees that prey on widows and orphans — what will they do on the day of reckoning?"
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "Assyria, the Rod of My Anger",
+          "reference": "10:5-7",
+          "why_start_end_and_devices": "Assyria as the unwitting instrument of God's wrath, intent only on destruction."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Will I Not Do to Jerusalem?",
+          "reference": "10:8-11",
+          "why_start_end_and_devices": "The Assyrian's boast of conquered cities and his threat against Jerusalem and her idols."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "By the Strength of My Hand",
+          "reference": "10:12-14",
+          "why_start_end_and_devices": "The arrogant self-praise of the conqueror who gathered the nations like abandoned eggs."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "Does the Axe Boast?",
+          "reference": "10:15-16",
+          "why_start_end_and_devices": "The rebuke of the tool that exalts itself over its wielder, and the wasting disease sent on Assyria."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "The Light of Israel a Fire",
+          "reference": "10:17-19",
+          "why_start_end_and_devices": "The Holy One becoming a flame to devour Assyria's forest in a single day."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "A Remnant Will Return",
+          "reference": "10:20-23",
+          "why_start_end_and_devices": "The surviving remnant truly leaning on the LORD, though destruction is decreed and overflowing."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Do Not Fear Assyria",
+          "reference": "10:24-27",
+          "why_start_end_and_devices": "Comfort to Zion: God's fury will soon turn, and the yoke will be broken from the neck."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "Shaking a Fist at Zion",
+          "reference": "10:28-32",
+          "why_start_end_and_devices": "The vivid march of the Assyrian army through the towns toward Jerusalem's hill."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "Lebanon Will Fall",
+          "reference": "10:33-34",
+          "why_start_end_and_devices": "The Lord lopping off the lofty branches with terrifying power."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "A Shoot from the Stump of Jesse",
+          "reference": "11:1-3",
+          "why_start_end_and_devices": "The Branch on whom the sevenfold Spirit of the LORD rests, delighting in the fear of the LORD."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "The Rod of His Mouth",
+          "reference": "11:4-5",
+          "why_start_end_and_devices": "The righteous Judge of the poor who slays the wicked with the breath of His lips."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "The Wolf with the Lamb",
+          "reference": "11:6-9",
+          "why_start_end_and_devices": "The peaceable kingdom where a child leads predators and the earth is full of the knowledge of the LORD."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "A Banner for the Peoples",
+          "reference": "11:10-12",
+          "why_start_end_and_devices": "The Root of Jesse drawing the nations, God's hand extended a second time to gather the exiles."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "A Highway from Assyria",
+          "reference": "11:13-16",
+          "why_start_end_and_devices": "Ephraim and Judah reconciled and a new exodus-highway for the returning remnant."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "Springs of Salvation",
+          "reference": "12:1-3",
+          "why_start_end_and_devices": "The song of the redeemed: 'God is my salvation' — drawing water with joy from salvation's springs."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "Sing, O Citizen of Zion",
+          "reference": "12:4-6",
+          "why_start_end_and_devices": "The closing doxology of Book I: proclaim His name, for great in Zion is the Holy One of Israel."
+        }
       ]
     },
     {
@@ -31,9 +474,24 @@
       "why_start_end_and_literary_glue": "Isaiah 13–23 forms a distinct collection of 'oracle/burden' (maśśā’) pronouncements concerning foreign nations (Babylon, Philistia, Moab, Damascus, Egypt, Dumah, Arabia, Jerusalem, Tyre). Start (13:1): 'The oracle concerning Babylon…' End (23:18): Tyre's wealth consecrated to the LORD. Literary Glue: repeated oracle formula (maśśā’) opening each unit.",
       "reference": "13:1 - 23:18",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Superscription: Oracle Concerning Babylon", "reference": "13:1", "why_start_end_and_devices": "Formal heading inaugurates the nation‑oracles sequence." },
-        { "scene_number": 2, "scene_name": "Summons to Holy War", "reference": "13:2-5", "why_start_end_and_devices": "Imperatives muster Yahweh's consecrated warriors from a distant land—instrument of judgment." },
-        { "scene_number": 3, "scene_name": "Day of the LORD: Cosmic Dread", "reference": "13:6-10", "why_start_end_and_devices": "'Wail, for the day of the LORD is near'—psychological terror escalating to cosmic de‑creation (sun/moon/stars)." }
+        {
+          "scene_number": 1,
+          "scene_name": "Superscription: Oracle Concerning Babylon",
+          "reference": "13:1",
+          "why_start_end_and_devices": "Formal heading inaugurates the nation‑oracles sequence."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Summons to Holy War",
+          "reference": "13:2-5",
+          "why_start_end_and_devices": "Imperatives muster Yahweh's consecrated warriors from a distant land—instrument of judgment."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Day of the LORD: Cosmic Dread",
+          "reference": "13:6-10",
+          "why_start_end_and_devices": "'Wail, for the day of the LORD is near'—psychological terror escalating to cosmic de‑creation (sun/moon/stars)."
+        }
       ]
     },
     {
@@ -42,13 +500,48 @@
       "why_start_end_and_literary_glue": "Isaiah 40–55 shifts to the exilic setting with lyrical consolation, new‑exodus imagery, Creator‑Redeemer theology, idol polemics, and the four Servant Songs. Start (40:1): 'Comfort, comfort my people.' End (55:13): cypress/myrtle instead of thorn—everlasting sign. Literary Glue: 'comfort' refrain, Servant cycle (42:1‑9; 49:1‑7; 50:4‑11; 52:13‑53:12), and new creation/exodus motifs.",
       "reference": "40:1 - 55:13",
       "scenes": [
-        { "scene_number": 1, "scene_name": "Prologue of Comfort and Highway", "reference": "40:1-5", "why_start_end_and_devices": "Double imperative 'Comfort'; voice of one preparing the way; glory revelation—new‑exodus highway through wilderness." },
-        { "scene_number": 2, "scene_name": "Servant Song I: Justice to the Nations", "reference": "42:1-9", "why_start_end_and_devices": "Behold my Servant—gentle yet steadfast, covenant to the people, light to the nations; new things declared." },
-        { "scene_number": 3, "scene_name": "Servant Song II: Called from the Womb", "reference": "49:1-7", "why_start_end_and_devices": "Servant as sharpened arrow; too small to restore Jacob only—light to the ends of the earth." },
-        { "scene_number": 4, "scene_name": "Servant Song III: The Taught Tongue", "reference": "50:4-11", "why_start_end_and_devices": "Obedient, suffering Servant; set face like flint; trust in the name of the LORD vs walking by own fire." },
-        { "scene_number": 5, "scene_name": "Servant Song IV: Exaltation Through Suffering", "reference": "52:13 - 53:12", "why_start_end_and_devices": "'Behold, my Servant'—pierced for our transgressions; vicarious suffering, burial with the rich; will see his offspring." },
-        { "scene_number": 6, "scene_name": "Invitation to the Waters", "reference": "55:1-3", "why_start_end_and_devices": "'Come, buy without money'—everlasting covenant (sure mercies of David)—core new‑exodus invitation." },
-        { "scene_number": 7, "scene_name": "Joyful Exit and Everlasting Sign", "reference": "55:12-13", "why_start_end_and_devices": "Go out with joy; mountains/symbolic creation applaud; thorn → cypress, brier → myrtle—permanent memorial." }
+        {
+          "scene_number": 1,
+          "scene_name": "Prologue of Comfort and Highway",
+          "reference": "40:1-5",
+          "why_start_end_and_devices": "Double imperative 'Comfort'; voice of one preparing the way; glory revelation—new‑exodus highway through wilderness."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Servant Song I: Justice to the Nations",
+          "reference": "42:1-9",
+          "why_start_end_and_devices": "Behold my Servant—gentle yet steadfast, covenant to the people, light to the nations; new things declared."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Servant Song II: Called from the Womb",
+          "reference": "49:1-7",
+          "why_start_end_and_devices": "Servant as sharpened arrow; too small to restore Jacob only—light to the ends of the earth."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Servant Song III: The Taught Tongue",
+          "reference": "50:4-11",
+          "why_start_end_and_devices": "Obedient, suffering Servant; set face like flint; trust in the name of the LORD vs walking by own fire."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Servant Song IV: Exaltation Through Suffering",
+          "reference": "52:13 - 53:12",
+          "why_start_end_and_devices": "'Behold, my Servant'—pierced for our transgressions; vicarious suffering, burial with the rich; will see his offspring."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Invitation to the Waters",
+          "reference": "55:1-3",
+          "why_start_end_and_devices": "'Come, buy without money'—everlasting covenant (sure mercies of David)—core new‑exodus invitation."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Joyful Exit and Everlasting Sign",
+          "reference": "55:12-13",
+          "why_start_end_and_devices": "Go out with joy; mountains/symbolic creation applaud; thorn → cypress, brier → myrtle—permanent memorial."
+        }
       ]
     },
     {
@@ -57,14 +550,43 @@
       "why_start_end_and_literary_glue": "Isaiah 56–66 addresses the restored, post‑exilic community: inclusion of foreigners, denunciation of corrupt leaders, true worship/justice, Zion's glory, and the promise of 'new heavens and new earth.' Start (56:1): 'Keep justice, and do righteousness…' End (66:24): final vision of judgment outside the renewed creation. Literary Glue: concentric focus around Zion's glory (60–62) and resolution of inclusion/judgment themes.",
       "reference": "56:1 - 66:24",
       "scenes": [
-        { "scene_number": 1, "scene_name": "House of Prayer for All Peoples", "reference": "56:1-8", "why_start_end_and_devices": "Sabbath‑keeping foreigners and eunuchs joined to the LORD; inclusio with 'my house… for all peoples.'" },
-        { "scene_number": 2, "scene_name": "True Fasting and Repairers of the Breach", "reference": "58:1-12", "why_start_end_and_devices": "Expose faux religion; loose bonds of wickedness; then light breaks forth; ancient ruins rebuilt." },
-        { "scene_number": 3, "scene_name": "Arise, Shine; Zion's Light", "reference": "60:1-3", "why_start_end_and_devices": "Imperatives to Zion; nations and kings drawn to dawn—beginning of Zion glory triad (60–62)." },
-        { "scene_number": 4, "scene_name": "The Anointed to Proclaim Good News", "reference": "61:1-3", "why_start_end_and_devices": "Spirit‑anointed herald announces liberty, comfort, and planting of the LORD's oaks of righteousness." },
-        { "scene_number": 5, "scene_name": "New Heavens and New Earth", "reference": "65:17-25", "why_start_end_and_devices": "Former things not remembered; joy in Jerusalem; wolf/lamb peace; death and curse undone in the city." },
-        { "scene_number": 6, "scene_name": "Final Vision and Undying Worm", "reference": "66:22-24", "why_start_end_and_devices": "End frame: enduring seed and name; perpetual abhorrence of rebels outside the renewed creation—solemn close." }
+        {
+          "scene_number": 1,
+          "scene_name": "House of Prayer for All Peoples",
+          "reference": "56:1-8",
+          "why_start_end_and_devices": "Sabbath‑keeping foreigners and eunuchs joined to the LORD; inclusio with 'my house… for all peoples.'"
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "True Fasting and Repairers of the Breach",
+          "reference": "58:1-12",
+          "why_start_end_and_devices": "Expose faux religion; loose bonds of wickedness; then light breaks forth; ancient ruins rebuilt."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Arise, Shine; Zion's Light",
+          "reference": "60:1-3",
+          "why_start_end_and_devices": "Imperatives to Zion; nations and kings drawn to dawn—beginning of Zion glory triad (60–62)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Anointed to Proclaim Good News",
+          "reference": "61:1-3",
+          "why_start_end_and_devices": "Spirit‑anointed herald announces liberty, comfort, and planting of the LORD's oaks of righteousness."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "New Heavens and New Earth",
+          "reference": "65:17-25",
+          "why_start_end_and_devices": "Former things not remembered; joy in Jerusalem; wolf/lamb peace; death and curse undone in the city."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Final Vision and Undying Worm",
+          "reference": "66:22-24",
+          "why_start_end_and_devices": "End frame: enduring seed and name; perpetual abhorrence of rebels outside the renewed creation—solemn close."
+        }
       ]
     }
   ]
 }
-
