@@ -10,36 +10,408 @@
       "why_start_end_and_literary_glue": "Starts with 'After the death of Moses' (1:1), a clear narrative starting point marking a new era and divine oracle. Ends with the complete list of defeated kings (12:24), a perfect colophon to the military campaign. Held together by yaraš (to possess/dispossess), the repeated fulfillment of herem (devotion to destruction), and Joshua as the new Moses.",
       "reference": "1:1-12:24",
       "scenes": [
-        {"scene_number": 1, "scene_name": "God's Commission to Joshua", "reference": "1:1-9", "why_start_end_and_devices": "Starts with 'The LORD spoke to Joshua.' Ends with the divine promise 'the LORD your God is with you.' Unified by inclusio: 'Be strong and courageous' (vv. 6, 7, 9). Central importance of the 'Book of the Law.'"},
-        {"scene_number": 2, "scene_name": "Joshua Assumes Command", "reference": "1:10-18", "why_start_end_and_devices": "Starts with Joshua commanding the officers. Ends with the tribes' pledge of allegiance, echoing God's words ('be strong and courageous'). Shows Joshua's established authority."},
-        {"scene_number": 3, "scene_name": "The Spies Sent to Jericho", "reference": "2:1-7", "why_start_end_and_devices": "Starts with 'Joshua sent spies.' Ends with 'the gate was shut,' a narrative cliffhanger. Introduces key characters and central tension through dialogue and deception."},
-        {"scene_number": 4, "scene_name": "The Covenant with Rahab", "reference": "2:8-21", "why_start_end_and_devices": "Starts with 'Before they lay down' (rooftop scene). Ends with 'she sent them away,' the covenant finalized. Structured around Rahab's confession, plea, and oath-sealing with the scarlet cord."},
-        {"scene_number": 5, "scene_name": "The Spies' Faithful Report", "reference": "2:22-24", "why_start_end_and_devices": "Starts with 'And they went.' Ends with 'Truly the LORD has given all the land.' Contrasts with the faithless spies of Numbers 13; sets stage for conquest."},
-        {"scene_number": 6, "scene_name": "Consecration at the Jordan", "reference": "3:1-6", "why_start_end_and_devices": "Starts with 'Joshua rose early.' Ends with 'Take up the ark.' Unified as final preparation for crossing. Central focus on the Ark and consecration command."},
-        {"scene_number": 7, "scene_name": "The Miraculous Crossing", "reference": "3:7-17", "why_start_end_and_devices": "Starts with 'The LORD said to Joshua.' Ends with 'all Israelites had passed over on dry ground.' Structured as promise and fulfillment. Central image: parting of waters (parallel to Red Sea)."},
-        {"scene_number": 8, "scene_name": "The Twelve Memorial Stones", "reference": "4:1-14", "why_start_end_and_devices": "Starts with 'When all people had finished.' Ends with summary statement 'to exalt Joshua.' Unified by the single topic of the twelve stones with divine command and explanation."},
-        {"scene_number": 9, "scene_name": "The Crossing Completed", "reference": "4:15-24", "why_start_end_and_devices": "Starts with 'The LORD said to Joshua.' Ends with 'fear the LORD your God forever.' Priests come up, river returns, Joshua provides theological explanation."},
-        {"scene_number": 10, "scene_name": "The Fear of the Kings", "reference": "5:1", "why_start_end_and_devices": "Single-verse hinge scene. Functions as result of Jordan miracle, summarizing its effect on Canaanites. Transitions from entry to consecration narrative."},
-        {"scene_number": 11, "scene_name": "Covenant Renewal at Gilgal", "reference": "5:2-9", "why_start_end_and_devices": "Starts with 'At that time the LORD said.' Ends with etiological formula explaining 'Gilgal' (wordplay: galal/rolled). Unified as covenant renewal through circumcision."},
-        {"scene_number": 12, "scene_name": "Passover and the Manna Ceases", "reference": "5:10-12", "why_start_end_and_devices": "Starts with 'While Israelites were encamped.' Ends with 'produce of the land.' Three-verse unit marking end of wilderness era and beginning of blessing in the land."},
-        {"scene_number": 13, "scene_name": "The Captain of the LORD's Host", "reference": "5:13-15", "why_start_end_and_devices": "Starts with 'When Joshua was by Jericho.' Ends with 'Joshua did so.' Theophany parallel to Moses at burning bush. Reframes conflict: God's battle, not Israel's."},
-        {"scene_number": 14, "scene_name": "The Divine Battle Plan for Jericho", "reference": "6:1-5", "why_start_end_and_devices": "Starts with parenthesis setting stage (6:1). Ends with 'the wall will fall down flat.' Single divine speech laying out the seemingly absurd, ritualistic plan."},
-        {"scene_number": 15, "scene_name": "Joshua Relays the Plan", "reference": "6:6-16", "why_start_end_and_devices": "Starts with 'Joshua called the priests.' Ends with 'Joshua said, Shout!' Details six-day ritual and seven circuits, building narrative tension through repetition."},
-        {"scene_number": 16, "scene_name": "The Fall of Jericho", "reference": "6:17-27", "why_start_end_and_devices": "Starts with 'The city... shall be... devoted.' Ends with 'So the LORD was with Joshua.' Climax and resolution including shout, fall, herem execution, and sparing of Rahab."},
-        {"scene_number": 17, "scene_name": "Achan's Sin and the Defeat at Ai", "reference": "7:1-12", "why_start_end_and_devices": "Starts with 'But the Israelites... Achan.' Ends with 'I will be with you no more.' Moves from hidden sin to public defeat to God's revelation of the problem."},
-        {"scene_number": 18, "scene_name": "The Judgment of Achan", "reference": "7:13-26", "why_start_end_and_devices": "Starts with 'Go, consecrate the people.' Ends with 'Valley of Achor,' the place named after the judgment. Solemn ritualistic judgment building tension through lot-casting to the final man."},
-        {"scene_number": 19, "scene_name": "The Strategy for Ai", "reference": "8:1-13", "why_start_end_and_devices": "Starts with 'The LORD said to Joshua.' Ends with 'lodged that night.' Post-repentance divine oracle contrasting with human plan in chapter 7. Key element: ambush strategy."},
-        {"scene_number": 20, "scene_name": "The Capture and Destruction of Ai", "reference": "8:14-29", "why_start_end_and_devices": "Starts with 'When king of Ai saw.' Ends with 'a great heap of stones to this day.' Full-scale battle narrative perfectly following the plan: feigned retreat, signal, ambush, herem, king's execution."},
-        {"scene_number": 21, "scene_name": "The Covenant Renewal on Mount Ebal", "reference": "8:30-35", "why_start_end_and_devices": "Starts with 'Joshua built an altar.' Ends with 'conversant among them.' Narrative pause to fulfill Moses' command (Deut. 27). Solemn liturgical event around altar, law writing, and reading of blessings/curses."},
-        {"scene_number": 22, "scene_name": "The Gibeonite Deception", "reference": "9:1-15", "why_start_end_and_devices": "Starts with 'As soon as all kings.' Ends with 'the princes swore.' Story of deception. Pivotal verse 14: 'did not ask counsel from the LORD,' contrasting with Joshua's faithfulness."},
-        {"scene_number": 23, "scene_name": "The Discovery and Servitude", "reference": "9:16-27", "why_start_end_and_devices": "Starts with 'At the end of three days.' Ends with 'to this day,' Gibeonites' fate sealed. Consequences of previous deception: people's murmuring, princes' defense, curse pronounced."},
-        {"scene_number": 24, "scene_name": "The Southern Coalition Attacks", "reference": "10:1-11", "why_start_end_and_devices": "Starts with 'Now Adoni-zedek.' Ends with 'they died' (hailstones). Covers Gibeonite plea, divine oracle, all-night march, and initial victory credited to God's hailstones."},
-        {"scene_number": 25, "scene_name": "The Sun Stands Still", "reference": "10:12-15", "why_start_end_and_devices": "Starts with 'At that time Joshua spoke.' Ends with 'returned to camp at Gilgal.' Theological and poetic heart of battle. Quotes poetic 'Book of Jashar.' Declares 'the LORD fought for Israel.'"},
-        {"scene_number": 26, "scene_name": "Execution of the Five Kings", "reference": "10:16-28", "why_start_end_and_devices": "Starts with 'These five kings fled.' Ends with 'utterly destroyed all.' Single event: capture and symbolic execution. Joshua's command to chiefs is symbolic act of complete domination."},
-        {"scene_number": 27, "scene_name": "Summary of the Southern Conquest", "reference": "10:29-43", "why_start_end_and_devices": "Starts with 'Then Joshua... passed from Makkedah.' Ends with 'returned unto camp.' Not detailed narrative but 'conquest montage' using repetitive formula covering five cities (Libnah, Lachish, Eglon, Hebron, Debir)."},
-        {"scene_number": 28, "scene_name": "The Northern Campaign", "reference": "11:1-15", "why_start_end_and_devices": "Starts with 'When Jabin... heard.' Ends with 'as the LORD commanded Moses.' Parallel to southern campaign but condensed: enemy coalition, divine promise, battle, herem execution."},
-        {"scene_number": 29, "scene_name": "Final Summary of the Conquest", "reference": "11:16-23", "why_start_end_and_devices": "Starts with 'So Joshua took all that land.' Ends with 'the land had rest from war.' Perfect narrative conclusion to entire conquest. Explicitly links Joshua's actions to Moses' command. Sets stage for division story."},
-        {"scene_number": 30, "scene_name": "The List of Defeated Kings", "reference": "12:1-24", "why_start_end_and_devices": "Starts with 'Now these are the kings.' Ends with 'all the kings thirty-one.' Formal appendix/colophon in two parts: kings east of Jordan (Moses' conquests), kings west of Jordan (Joshua's conquests). Provides 'receipts' for fulfillment."}
+        {
+          "scene_number": 1,
+          "scene_name": "After Moses' Death: 'Cross the Jordan'",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Starts 'after the death of Moses.' Ends with the land's boundaries. Devices: Succession formula; the land-promise renewed to Joshua."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'Be Strong and Courageous'",
+          "reference": "1:5-9",
+          "why_start_end_and_devices": "Starts 'no one will be able to stand against you.' Ends 'the LORD is with you wherever you go.' Devices: The threefold courage refrain; meditate on the Book of the Law."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Prepare to Cross; the Eastern Tribes Charged",
+          "reference": "1:10-15",
+          "why_start_end_and_devices": "Starts the order to the officers. Ends 'take possession of your own land.' Devices: The Transjordan tribes' pledge invoked."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "'Whatever You Command, We Will Do'",
+          "reference": "1:16-18",
+          "why_start_end_and_devices": "Starts the people's reply. Ends 'only be strong and courageous.' Devices: Loyalty echoes the courage refrain back to Joshua."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Two Spies Lodge with Rahab",
+          "reference": "2:1-3",
+          "why_start_end_and_devices": "Starts the secret mission to Jericho. Ends the king's demand for the men. Devices: Espionage at a harlot's house—an unlikely ally."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Rahab Hides Them and Misdirects the King",
+          "reference": "2:4-7",
+          "why_start_end_and_devices": "Starts 'she had hidden them.' Ends shutting the gate. Devices: The flax on the roof; clever misdirection saves the spies."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Rahab's Confession of the LORD",
+          "reference": "2:8-11",
+          "why_start_end_and_devices": "Starts 'before they lay down.' Ends 'the LORD your God is God in heaven and on earth.' Devices: A Gentile's creed—dread of Israel's God."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Oath of Kindness",
+          "reference": "2:12-14",
+          "why_start_end_and_devices": "Starts 'swear to me by the LORD.' Ends 'we will treat you kindly.' Devices: Covenant loyalty exchanged for rescue."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Let Down by a Cord; the Scarlet Sign",
+          "reference": "2:15-18",
+          "why_start_end_and_devices": "Starts the rope from the window. Ends the scarlet cord. Devices: The window on the wall; the red cord as a Passover-like sign."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Terms of the Oath Sealed",
+          "reference": "2:19-21",
+          "why_start_end_and_devices": "Starts the conditions of the oath. Ends Rahab tying the cord. Devices: Blood-guilt boundaries; obedience seals the promise."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Spies' Faithful Report",
+          "reference": "2:22-24",
+          "why_start_end_and_devices": "Starts with 'And they went.' Ends with 'Truly the LORD has given all the land.' Contrasts with the faithless spies of Numbers 13; sets stage for conquest."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Consecration at the Jordan",
+          "reference": "3:1-6",
+          "why_start_end_and_devices": "Starts with 'Joshua rose early.' Ends with 'Take up the ark.' Unified as final preparation for crossing. Central focus on the Ark and consecration command."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "'Today I Will Exalt You'",
+          "reference": "3:7-9",
+          "why_start_end_and_devices": "Starts the LORD's word to Joshua. Ends 'hear the words of the LORD.' Devices: The crossing will validate Joshua as it did Moses."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Living God Goes Before You",
+          "reference": "3:10-13",
+          "why_start_end_and_devices": "Starts 'this is how you will know.' Ends the waters will 'stand in a heap.' Devices: The ark leads; a miracle to confirm the conquest."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Jordan Cut Off; Israel Crosses on Dry Ground",
+          "reference": "3:14-17",
+          "why_start_end_and_devices": "Starts the priests stepping into the flooded Jordan. Ends all Israel crossing. Devices: The waters pile up at Adam—exodus imagery repeated."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Twelve Stones from the Riverbed",
+          "reference": "4:1-5",
+          "why_start_end_and_devices": "Starts the command to take stones. Ends one man per tribe. Devices: A memorial drawn from the very place of the miracle."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Stones as a Sign for the Children",
+          "reference": "4:6-9",
+          "why_start_end_and_devices": "Starts 'these stones will be a sign.' Ends the stones at Gilgal and in the river. Devices: Catechesis—'when your children ask.'"
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The People Cross; Joshua Exalted",
+          "reference": "4:10-14",
+          "why_start_end_and_devices": "Starts the priests standing firm. Ends 'they revered him as they had Moses.' Devices: The crossing completed; Joshua's authority sealed."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Priests Come Up; the Waters Return",
+          "reference": "4:15-19",
+          "why_start_end_and_devices": "Starts the command to bring up the ark. Ends camping at Gilgal. Devices: The river resumes its flood—the miracle bracketed."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Stones at Gilgal: 'That All May Know'",
+          "reference": "4:20-24",
+          "why_start_end_and_devices": "Starts setting up the twelve stones. Ends 'so that you might always fear the LORD.' Devices: Memorial theology—the nations and the children both taught."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Fear of the Kings",
+          "reference": "5:1",
+          "why_start_end_and_devices": "Single-verse hinge scene. Functions as result of Jordan miracle, summarizing its effect on Canaanites. Transitions from entry to consecration narrative."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Circumcision Renewed at Gibeath-haaraloth",
+          "reference": "5:2-5",
+          "why_start_end_and_devices": "Starts 'make flint knives.' Ends the wilderness generation uncircumcised. Devices: Covenant sign restored before conquest."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "'The Reproach of Egypt Rolled Away'",
+          "reference": "5:6-9",
+          "why_start_end_and_devices": "Starts the forty years recalled. Ends the naming of Gilgal. Devices: A new beginning—the shame of slavery removed."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Passover and the Manna Ceases",
+          "reference": "5:10-12",
+          "why_start_end_and_devices": "Starts with 'While Israelites were encamped.' Ends with 'produce of the land.' Three-verse unit marking end of wilderness era and beginning of blessing in the land."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Captain of the LORD's Host",
+          "reference": "5:13-15",
+          "why_start_end_and_devices": "Starts with 'When Joshua was by Jericho.' Ends with 'Joshua did so.' Theophany parallel to Moses at burning bush. Reframes conflict: God's battle, not Israel's."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Divine Battle Plan for Jericho",
+          "reference": "6:1-5",
+          "why_start_end_and_devices": "Starts with parenthesis setting stage (6:1). Ends with 'the wall will fall down flat.' Single divine speech laying out the seemingly absurd, ritualistic plan."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Procession Around Jericho Begins",
+          "reference": "6:6-11",
+          "why_start_end_and_devices": "Starts Joshua summoning the priests. Ends the first silent circuit. Devices: The ark and seven trumpets; ritual warfare."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Six Days; the Seventh-Day Sevenfold March",
+          "reference": "6:12-16",
+          "why_start_end_and_devices": "Starts the daily circuits. Ends 'Shout! The LORD has given you the city.' Devices: Sevenfold completeness; the climactic shout commanded."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Devoted to Destruction; Rahab Spared",
+          "reference": "6:17-21",
+          "why_start_end_and_devices": "Starts the herem command. Ends the city put to the sword. Devices: 'Devoted things'; Rahab's exception for her faith."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Rahab Rescued; Jericho Cursed",
+          "reference": "6:22-27",
+          "why_start_end_and_devices": "Starts the spies bringing Rahab out. Ends 'Joshua's fame spread.' Devices: The curse on rebuilding Jericho; Rahab grafted into Israel."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Achan's Hidden Sin; Defeat at Ai",
+          "reference": "7:1-5",
+          "why_start_end_and_devices": "Starts 'the Israelites acted unfaithfully.' Ends hearts melting after the rout. Devices: One man's sin imperils the nation."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Joshua's Anguished Prayer",
+          "reference": "7:6-9",
+          "why_start_end_and_devices": "Starts Joshua tearing his clothes. Ends 'what will you do for your great name?' Devices: Lament; appeal to God's reputation."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "'Israel Has Sinned': Why They Fell",
+          "reference": "7:10-12",
+          "why_start_end_and_devices": "Starts 'stand up!' Ends 'I will not be with you anymore.' Devices: The hidden devoted thing exposed as the cause."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Consecrate; the Guilty Will Be Taken",
+          "reference": "7:13-15",
+          "why_start_end_and_devices": "Starts the command to sanctify. Ends the one taken 'will be burned.' Devices: The lot-narrowing procedure announced."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Achan Identified and Confesses",
+          "reference": "7:16-21",
+          "why_start_end_and_devices": "Starts the lots cast. Ends Achan's confession of the loot. Devices: Tribe to clan to man; 'I saw, I coveted, I took.'"
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Achan Stoned in the Valley of Achor",
+          "reference": "7:22-26",
+          "why_start_end_and_devices": "Starts the stolen goods recovered. Ends the heap of stones. Devices: Corporate judgment; 'the Valley of Achor (Trouble).'"
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "'Do Not Fear'; the Ambush Commanded",
+          "reference": "8:1-2",
+          "why_start_end_and_devices": "Starts the LORD's reassurance after Ai. Ends 'set an ambush behind the city.' Devices: Recovery after failure; new strategy given."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Thirty Thousand Sent by Night",
+          "reference": "8:3-6",
+          "why_start_end_and_devices": "Starts the ambush force dispatched. Ends luring the men of Ai out. Devices: The decoy plan set in motion."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "The Plan Explained",
+          "reference": "8:7-9",
+          "why_start_end_and_devices": "Starts 'you shall rise from ambush.' Ends the men in position. Devices: Coordinated tactics; the trap laid."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Joshua Positions the Forces",
+          "reference": "8:10-13",
+          "why_start_end_and_devices": "Starts Joshua mustering the army. Ends spending the night in the valley. Devices: The two-pronged deployment around Ai."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Ai Lured Out in Pursuit",
+          "reference": "8:14-17",
+          "why_start_end_and_devices": "Starts the king of Ai taking the bait. Ends the city left open. Devices: The feigned retreat draws out every soldier."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "The Ambush Springs; the City Burns",
+          "reference": "8:18-23",
+          "why_start_end_and_devices": "Starts 'hold out your javelin.' Ends the king captured. Devices: Joshua's outstretched weapon (cf. Moses); the smoke signal."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Ai Destroyed; Its King Hanged",
+          "reference": "8:24-29",
+          "why_start_end_and_devices": "Starts the slaughter completed. Ends the king's body under a heap of stones. Devices: Total herem; a monument of judgment."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "The Covenant Renewal on Mount Ebal",
+          "reference": "8:30-35",
+          "why_start_end_and_devices": "Starts with 'Joshua built an altar.' Ends with 'conversant among them.' Narrative pause to fulfill Moses' command (Deut. 27). Solemn liturgical event around altar, law writing, and reading of blessings/curses."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "The Kings Unite; Gibeon's Ruse",
+          "reference": "9:1-5",
+          "why_start_end_and_devices": "Starts the coalition of kings. Ends the Gibeonites' disguise. Devices: Worn sacks and moldy bread—an elaborate deception."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "'We Have Come from a Distant Land'",
+          "reference": "9:6-10",
+          "why_start_end_and_devices": "Starts the Gibeonites' approach. Ends invoking the LORD's fame. Devices: Flattery and false distance; truth half-told."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "A Treaty Made Without Asking the LORD",
+          "reference": "9:11-15",
+          "why_start_end_and_devices": "Starts the moldy provisions as 'proof.' Ends the oath of peace. Devices: 'They did not inquire of the LORD'—the fatal omission."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "The Deception Discovered; the Oath Honored",
+          "reference": "9:16-21",
+          "why_start_end_and_devices": "Starts the truth revealed in three days. Ends 'we have sworn by the LORD.' Devices: The binding oath honored despite the fraud."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Woodcutters and Water-Carriers",
+          "reference": "9:22-27",
+          "why_start_end_and_devices": "Starts Joshua's summons of the Gibeonites. Ends their perpetual service at the altar. Devices: Mercy with consequence—servitude to the sanctuary."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Five Kings League Against Gibeon",
+          "reference": "10:1-5",
+          "why_start_end_and_devices": "Starts Adoni-zedek's alarm. Ends the five kings encamping against Gibeon. Devices: Gibeon's peace provokes the southern coalition."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Israel Marches; the LORD Hurls Hailstones",
+          "reference": "10:6-11",
+          "why_start_end_and_devices": "Starts Gibeon's plea for help. Ends 'more died from the hail than by the sword.' Devices: A night march; divine hailstones fight for Israel."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "The Sun Stands Still",
+          "reference": "10:12-15",
+          "why_start_end_and_devices": "Starts with 'At that time Joshua spoke.' Ends with 'returned to camp at Gilgal.' Theological and poetic heart of battle. Quotes poetic 'Book of Jashar.' Declares 'the LORD fought for Israel.'"
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "The Five Kings Trapped in the Cave",
+          "reference": "10:16-21",
+          "why_start_end_and_devices": "Starts the kings hiding at Makkedah. Ends the army returning safely. Devices: The cave sealed with stones—judgment deferred, not escaped."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Feet on Their Necks; the Kings Executed",
+          "reference": "10:22-27",
+          "why_start_end_and_devices": "Starts the kings brought out. Ends their bodies in the cave. Devices: 'Do not be afraid'; the symbolic foot on the neck of enemies."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Makkedah Taken",
+          "reference": "10:28",
+          "why_start_end_and_devices": "A single-verse note: the city struck and its king destroyed. Devices: Begins the rapid-fire conquest list."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Libnah, Lachish, and Gezer",
+          "reference": "10:29-33",
+          "why_start_end_and_devices": "Starts the march to Libnah. Ends Gezer's defeat. Devices: The conquest roll—city after city devoted."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "Eglon, Hebron, and Debir",
+          "reference": "10:34-39",
+          "why_start_end_and_devices": "Starts Eglon. Ends Debir 'as he had done to Hebron.' Devices: Relentless southern sweep; the herem refrain."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "The Whole South Subdued",
+          "reference": "10:40-43",
+          "why_start_end_and_devices": "Starts the summary of conquered regions. Ends the return to Gilgal. Devices: 'Because the LORD fought for Israel'—the theological key."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "The Northern Kings Mass at Merom",
+          "reference": "11:1-5",
+          "why_start_end_and_devices": "Starts Jabin of Hazor rallying the north. Ends the vast host by the waters of Merom. Devices: 'As numerous as the sand'—the greatest coalition yet."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "'Do Not Fear'; Hamstring Their Horses",
+          "reference": "11:6-9",
+          "why_start_end_and_devices": "Starts the LORD's reassurance. Ends Joshua's obedience with horses and chariots. Devices: Trust over military might—crippling the enemy's strength."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "Hazor Burned; the Kings Destroyed",
+          "reference": "11:10-15",
+          "why_start_end_and_devices": "Starts the capture of Hazor. Ends 'he left nothing undone.' Devices: Hazor, 'head of all those kingdoms,' burned; total obedience to Moses' command."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "All the Land Taken; Their Hearts Hardened",
+          "reference": "11:16-20",
+          "why_start_end_and_devices": "Starts the summary of the whole conquest. Ends the LORD hardening their hearts. Devices: A long war by design—mercy withheld so judgment is complete."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "The Anakim Cut Off; the Land Rests",
+          "reference": "11:21-23",
+          "why_start_end_and_devices": "Starts the destruction of the Anakim. Ends 'the land had rest from war.' Devices: The giants who terrified the spies finally removed."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "Kings East of the Jordan (Moses' Conquests)",
+          "reference": "12:1-6",
+          "why_start_end_and_devices": "Starts the kings Moses defeated. Ends the eastern grant. Devices: The record bridges Moses' and Joshua's victories."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Kings West of the Jordan (1)",
+          "reference": "12:7-12",
+          "why_start_end_and_devices": "Starts Joshua's conquests west of the Jordan. Ends Lachish and Eglon. Devices: The tally of fallen kings begins."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "Kings West of the Jordan (2)",
+          "reference": "12:13-18",
+          "why_start_end_and_devices": "Continues the list. Ends Aphek. Devices: The roll of defeated kingdoms."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Kings West of the Jordan (3): Thirty-One in All",
+          "reference": "12:19-24",
+          "why_start_end_and_devices": "Continues to Tirzah. Ends 'thirty-one kings in all.' Devices: The grand total seals the conquest record."
+        }
       ]
     },
     {
@@ -48,21 +420,414 @@
       "why_start_end_and_literary_glue": "Starts with 'Now Joshua was old' (13:1), a clear narrative shift from conquest to allotment. New divine command: divide this land. Ends with triumphant theological summary (21:45): 'There failed not aught of any good thing... all came to pass.' Chapter 22 begins new story. Held together by repetitive formulas ('The lot of the tribe of...') and the theme of nahala (inheritance). Entire section is 'Domesday Book' of Israel—theological geography.",
       "reference": "13:1-21:45",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Command to Divide the Land", "reference": "13:1-7", "why_start_end_and_devices": "Starts with 'Joshua was old.' Ends with 'divide this land.' Introduces entire second half. Lists land yet to be conquered and gives overarching command to allot all of it."},
-        {"scene_number": 2, "scene_name": "The Transjordan Inheritance", "reference": "13:8-33", "why_start_end_and_devices": "Starts with 'With whom the Reubenites.' Ends with 'the LORD... was their inheritance.' Unified geographical review recounting allotment for Reuben, Gad, half-Manasseh already made by Moses. Note about Levi frames section."},
-        {"scene_number": 3, "scene_name": "The Division of Canaan Begins", "reference": "14:1-5", "why_start_end_and_devices": "Starts with 'And these are the inheritances.' Ends with 'they divided the land.' Brief formal introduction naming agents (Eleazar, Joshua, heads of fathers) and establishing method (by lot)."},
-        {"scene_number": 4, "scene_name": "Caleb's Special Inheritance", "reference": "14:6-15", "why_start_end_and_devices": "Starts with 'Then children of Judah came.' Ends with 'the land had rest from war.' First narrative scene breaking up lists. Caleb's speech contrasts unfaithful spies with his wholehearted following of the LORD."},
-        {"scene_number": 5, "scene_name": "The Boundaries of Judah", "reference": "15:1-12", "why_start_end_and_devices": "Starts with 'The lot of tribe of Judah.' Ends with 'border of children of Judah.' Pure boundary list scene. Geographically structured: south, east, north, west borders."},
-        {"scene_number": 6, "scene_name": "Caleb, Othniel, and Achsah", "reference": "15:13-19", "why_start_end_and_devices": "Starts with 'And unto Caleb.' Ends with 'springs of water.' Narrative embedded in Judah allotment. Details Caleb's conquest and Achsah's bold request for water springs."},
-        {"scene_number": 7, "scene_name": "The Cities of Judah", "reference": "15:20-63", "why_start_end_and_devices": "Starts with 'This is the inheritance.' Ends with 'unto this day.' Long city list—single literary unit organized by region: Negeb, Shephelah, hill country, wilderness. Ends with note of incomplete conquest (Jebusites)."},
-        {"scene_number": 8, "scene_name": "The Inheritance of Joseph", "reference": "16:1-17:18", "why_start_end_and_devices": "Starts with 'The lot of children of Joseph.' Ends with 'drive out the Canaanites.' Long but unified section on Joseph's sons (Ephraim, Manasseh). Includes Zelophehad's daughters special note and dialogue on Joseph's complaint."},
-        {"scene_number": 9, "scene_name": "The Tabernacle at Shiloh and the Seven Tribes", "reference": "18:1-10", "why_start_end_and_devices": "Starts with 'whole congregation assembled at Shiloh.' Ends with 'Joshua divided the land.' Crucial narrative pivot. Tabernacle set up at land's center. Joshua rebukes seven tribes for delay, institutes land survey and lot-casting plan."},
-        {"scene_number": 10, "scene_name": "The Lot of Benjamin", "reference": "18:11-28", "why_start_end_and_devices": "Starts with 'lot of tribe of Benjamin.' Ends with 'their inheritance.' Single unified allotment unit containing boundaries and city list."},
-        {"scene_number": 11, "scene_name": "The Lots of Simeon through Dan", "reference": "19:1-48", "why_start_end_and_devices": "Starts with 'And second lot came forth.' Ends with 'their inheritance.' Covers six tribes (Simeon, Zebulun, Issachar, Asher, Naphtali, Dan) with same parallel formula structure."},
-        {"scene_number": 12, "scene_name": "Joshua's Personal Inheritance", "reference": "19:49-51", "why_start_end_and_devices": "Starts with 'When they had made an end.' Ends with 'made an end of dividing.' Brief but powerful conclusion to tribal allotments. Parallels Caleb's scene but shows Joshua's humility: waits until all serve first."},
-        {"scene_number": 13, "scene_name": "The Cities of Refuge", "reference": "20:1-9", "why_start_end_and_devices": "Starts with 'The LORD also spoke.' Ends with 'slain by the avenger.' Single unified legal section fulfilling Numbers 35 command. Details purpose and names the cities."},
-        {"scene_number": 14, "scene_name": "The Levitical Cities", "reference": "21:1-42", "why_start_end_and_devices": "Starts with 'Then came heads of Levites.' Ends with 'its suburbs.' Final piece of allotment. Details request and fulfillment, then lists cities by Levitical family (Kohathites, Gershonites, Merarites)."},
-        {"scene_number": 15, "scene_name": "The Great Theological Conclusion", "reference": "21:43-45", "why_start_end_and_devices": "Starts with 'And the LORD gave unto Israel.' Ends with 'all came to pass.' Theological climax and summation. Three-fold declaration of God's faithfulness: gave land, gave rest, not one promise failed."}
+        {
+          "scene_number": 1,
+          "scene_name": "'You Are Old; Much Land Remains'",
+          "reference": "13:1-4",
+          "why_start_end_and_devices": "Starts the LORD's word to the aged Joshua. Ends the unconquered regions. Devices: The unfinished task; the land yet to be claimed by faith."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Divide It Among the Nine and a Half Tribes",
+          "reference": "13:5-7",
+          "why_start_end_and_devices": "Starts the remaining lands. Ends the command to apportion. Devices: Inheritance by promise, not yet by full possession."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Land East of the Jordan",
+          "reference": "13:8-10",
+          "why_start_end_and_devices": "Starts the Transjordan grant. Ends the border of Ammon. Devices: Moses' allotment recorded."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Levi Has No Land but the Offerings",
+          "reference": "13:11-14",
+          "why_start_end_and_devices": "Starts the territory of Bashan. Ends 'the offerings are their inheritance.' Devices: The Levite exception restated."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Reuben's Cities",
+          "reference": "13:15-19",
+          "why_start_end_and_devices": "Starts Reuben's allotment. Ends the towns of the plateau. Devices: Tribe-by-tribe Transjordan record."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Reuben's Border; Balaam Slain",
+          "reference": "13:20-23",
+          "why_start_end_and_devices": "Starts the remaining towns. Ends 'Balaam...was killed.' Devices: A historical footnote on the diviner of Numbers."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Inheritance of Gad",
+          "reference": "13:24-28",
+          "why_start_end_and_devices": "Starts Gad's allotment. Ends 'these were the towns and villages of Gad.' Devices: The eastern inheritance continued."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Inheritance of Half-Manasseh",
+          "reference": "13:29-33",
+          "why_start_end_and_devices": "Starts Manasseh's eastern half. Ends 'the LORD is their inheritance' (Levi). Devices: Closing the Transjordan division."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Division of Canaan Begins",
+          "reference": "14:1-5",
+          "why_start_end_and_devices": "Starts with 'And these are the inheritances.' Ends with 'they divided the land.' Brief formal introduction naming agents (Eleazar, Joshua, heads of fathers) and establishing method (by lot)."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Caleb Recalls the Spy Mission's Oath",
+          "reference": "14:6-9",
+          "why_start_end_and_devices": "Starts Caleb approaching Joshua. Ends 'the land...will be your inheritance.' Devices: A forty-five-year-old promise claimed."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "'Give Me This Hill Country'",
+          "reference": "14:10-12",
+          "why_start_end_and_devices": "Starts Caleb at eighty-five, still strong. Ends 'the Anakites are there...I will drive them out.' Devices: Bold faith—'as strong now as then.'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Hebron Given to Caleb; the Land Rests",
+          "reference": "14:13-15",
+          "why_start_end_and_devices": "Starts Joshua's blessing. Ends 'the land had rest from war.' Devices: Faith rewarded with Hebron, once a giant city."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Judah's Southern Border",
+          "reference": "15:1-4",
+          "why_start_end_and_devices": "Starts the lot for Judah. Ends 'this is the southern boundary.' Devices: The first and largest tribal allotment."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "From the Salt Sea Northward",
+          "reference": "15:5-8",
+          "why_start_end_and_devices": "Starts the eastern border. Ends the Valley of Hinnom by Jerusalem. Devices: Geographic precision marking the inheritance."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "To Ekron and the Sea",
+          "reference": "15:9-11",
+          "why_start_end_and_devices": "Starts the border to Baalah. Ends the Mediterranean. Devices: The northern line traced westward."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Western Border: the Great Sea",
+          "reference": "15:12",
+          "why_start_end_and_devices": "A single-verse close: the Mediterranean as Judah's western boundary. Devices: The allotment squared off."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Caleb Drives Out the Anakim",
+          "reference": "15:13-15",
+          "why_start_end_and_devices": "Starts Caleb's portion in Judah. Ends marching against Debir. Devices: Faith in action—the giants expelled."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Achsah's Dowry: the Springs of Water",
+          "reference": "15:16-19",
+          "why_start_end_and_devices": "Starts the offer of Achsah for Debir. Ends the upper and lower springs granted. Devices: A daughter's bold request for water in a dry land."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Cities of the Negev (1)",
+          "reference": "15:20-24",
+          "why_start_end_and_devices": "Starts Judah's town list. Ends Ziph and Telem. Devices: The southern desert towns enumerated."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Negev Cities (2)",
+          "reference": "15:25-28",
+          "why_start_end_and_devices": "Continues the Negev list. Ends Beersheba and Biziothiah. Devices: The roll of inheritance towns."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Negev Cities (3)",
+          "reference": "15:29-32",
+          "why_start_end_and_devices": "Continues to the southernmost towns. Ends 'twenty-nine towns in all.' Devices: Completing the Negev tally."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Cities of the Western Foothills (1)",
+          "reference": "15:33-36",
+          "why_start_end_and_devices": "Starts the Shephelah towns. Ends Gederah. Devices: The lowland cities listed."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Cities of the Foothills (2)",
+          "reference": "15:37-41",
+          "why_start_end_and_devices": "Continues the Shephelah. Ends Naamah and Makkedah. Devices: Town-by-town inheritance record."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Cities of the Foothills (3); the Coast to Gaza",
+          "reference": "15:42-47",
+          "why_start_end_and_devices": "Continues to the coastal plain. Ends Gaza and the Great Sea. Devices: The western frontier of Judah."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Cities of the Hill Country (1)",
+          "reference": "15:48-51",
+          "why_start_end_and_devices": "Starts the hill-country towns. Ends Goshen and Giloh. Devices: The highland allotment."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Cities of the Hill Country (2)",
+          "reference": "15:52-57",
+          "why_start_end_and_devices": "Continues the highlands. Ends Gibeah and Timnah. Devices: The central hill towns."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Hill Cities (3); the Jebusites Remain in Jerusalem",
+          "reference": "15:58-63",
+          "why_start_end_and_devices": "Continues to the last towns. Ends 'Judah could not drive out the Jebusites.' Devices: A candid note of incomplete conquest."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Joseph's Allotment Defined",
+          "reference": "16:1-4",
+          "why_start_end_and_devices": "Starts the lot for Joseph's sons. Ends 'Manasseh and Ephraim received their inheritance.' Devices: The double portion of Joseph realized."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Ephraim's Border; Canaanites Remain in Gezer",
+          "reference": "16:5-10",
+          "why_start_end_and_devices": "Starts Ephraim's territory. Ends 'they did not drive out the Canaanites in Gezer.' Devices: Another candid failure of full conquest."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Manasseh's Land; the Daughters of Zelophehad",
+          "reference": "17:1-6",
+          "why_start_end_and_devices": "Starts Manasseh's allotment. Ends the daughters receiving an inheritance. Devices: The Numbers 27 ruling honored in the land."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Manasseh's Border",
+          "reference": "17:7-10",
+          "why_start_end_and_devices": "Starts the boundary line. Ends Asher and Issachar to the north. Devices: Geographic delineation of the half-tribe."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Towns Within Other Tribes; Canaanites Subjected",
+          "reference": "17:11-13",
+          "why_start_end_and_devices": "Starts Manasseh's towns in Asher and Issachar. Ends the Canaanites put to forced labor. Devices: Partial obedience—subjected but not driven out."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Joseph Wants More; 'Clear the Forest'",
+          "reference": "17:14-18",
+          "why_start_end_and_devices": "Starts the Josephites' complaint. Ends 'you can drive out the Canaanites.' Devices: Joshua's challenge—your strength matches your need."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "The Tent Set Up; Survey the Land",
+          "reference": "18:1-4",
+          "why_start_end_and_devices": "Starts the tabernacle at Shiloh. Ends sending men to map the land. Devices: A new center of worship; survey before allotment."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Divide It into Seven Portions",
+          "reference": "18:5-7",
+          "why_start_end_and_devices": "Starts the surveying instruction. Ends 'the Levites have no share but the priesthood.' Devices: Seven remaining tribes; the lots prepared."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The Land Surveyed; Lots Cast at Shiloh",
+          "reference": "18:8-10",
+          "why_start_end_and_devices": "Starts the men mapping the towns. Ends Joshua casting lots before the LORD. Devices: Inheritance by sacred lot."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Benjamin's Northern and Western Borders",
+          "reference": "18:11-14",
+          "why_start_end_and_devices": "Starts Benjamin's lot. Ends the western corner. Devices: The small tribe set between Judah and Joseph."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Benjamin's Southern and Eastern Borders",
+          "reference": "18:15-20",
+          "why_start_end_and_devices": "Starts the southern line. Ends 'this was the inheritance of Benjamin.' Devices: The boundary closed around the allotment."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Benjamin's Cities (1)",
+          "reference": "18:21-24",
+          "why_start_end_and_devices": "Starts the town list. Ends 'twelve towns and their villages.' Devices: The eastern cities enumerated."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Benjamin's Cities (2)",
+          "reference": "18:25-28",
+          "why_start_end_and_devices": "Continues the list. Ends 'this was the inheritance of Benjamin.' Devices: The western towns, including Jerusalem's environs."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Simeon's Cities (1)",
+          "reference": "19:1-6",
+          "why_start_end_and_devices": "Starts the lot for Simeon within Judah. Ends Sharuhen. Devices: A tribe absorbed within Judah's territory."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Simeon's Cities (2); Within Judah",
+          "reference": "19:7-9",
+          "why_start_end_and_devices": "Continues Simeon's towns. Ends 'Simeon's inheritance was within Judah's portion.' Devices: Jacob's prophecy of scattering fulfilled."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Zebulun's Border",
+          "reference": "19:10-13",
+          "why_start_end_and_devices": "Starts the lot for Zebulun. Ends the eastern towns. Devices: The northern allotments begin."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Zebulun's Cities",
+          "reference": "19:14-16",
+          "why_start_end_and_devices": "Starts the boundary close. Ends 'twelve towns and their villages.' Devices: The tribe of the seacoast trade."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Issachar's Cities (1)",
+          "reference": "19:17-20",
+          "why_start_end_and_devices": "Starts the lot for Issachar. Ends Shion and Anaharath. Devices: The Jezreel Valley tribe."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Issachar's Cities (2)",
+          "reference": "19:21-23",
+          "why_start_end_and_devices": "Continues the towns. Ends 'this was the inheritance of Issachar.' Devices: Completing the allotment."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Asher's Border (1)",
+          "reference": "19:24-27",
+          "why_start_end_and_devices": "Starts the lot for Asher. Ends the border by Carmel. Devices: The northwestern coastal tribe."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Asher's Border (2)",
+          "reference": "19:28-31",
+          "why_start_end_and_devices": "Continues to Sidon and Tyre. Ends 'twenty-two towns.' Devices: The far-northern frontier."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Naphtali's Border",
+          "reference": "19:32-35",
+          "why_start_end_and_devices": "Starts the lot for Naphtali. Ends the fortified cities. Devices: The northeastern allotment."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Naphtali's Cities",
+          "reference": "19:36-39",
+          "why_start_end_and_devices": "Continues the towns. Ends 'this was the inheritance of Naphtali.' Devices: Completing the northern tribes."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Dan's Cities (1)",
+          "reference": "19:40-43",
+          "why_start_end_and_devices": "Starts the lot for Dan. Ends Ekron. Devices: A small western allotment soon outgrown."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Dan Takes Leshem (Dan)",
+          "reference": "19:44-48",
+          "why_start_end_and_devices": "Starts the remaining towns. Ends Dan capturing Leshem. Devices: The northern migration foreshadowed (cf. Judges 18)."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Joshua's Personal Inheritance",
+          "reference": "19:49-51",
+          "why_start_end_and_devices": "Starts with 'When they had made an end.' Ends with 'made an end of dividing.' Brief but powerful conclusion to tribal allotments. Parallels Caleb's scene but shows Joshua's humility: waits until all serve first."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Appoint the Cities of Refuge",
+          "reference": "20:1-6",
+          "why_start_end_and_devices": "Starts the LORD's command. Ends standing trial before the assembly. Devices: Mercy for the accidental killer; the Numbers/Deuteronomy law enacted."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "The Six Cities Named",
+          "reference": "20:7-9",
+          "why_start_end_and_devices": "Starts setting apart Kedesh, Shechem, Hebron. Ends the three east of the Jordan. Devices: Six cities, evenly spread—justice made accessible."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "The Levites Request Their Cities",
+          "reference": "21:1-3",
+          "why_start_end_and_devices": "Starts the Levite leaders' approach. Ends the towns given 'as the LORD commanded.' Devices: The landless tribe claims its scattered dwellings."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "The Lots: Kohath, Gershon, Merari",
+          "reference": "21:4-8",
+          "why_start_end_and_devices": "Starts the casting of lots. Ends 'forty-eight towns with their pasturelands.' Devices: The three Levite clans provided for."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Cities for Aaron's Sons",
+          "reference": "21:9-12",
+          "why_start_end_and_devices": "Starts the priestly allotment. Ends Caleb keeping the fields of Hebron. Devices: The priests placed among Judah and Simeon."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Cities for the Priests (1)",
+          "reference": "21:13-16",
+          "why_start_end_and_devices": "Starts Hebron and Libnah. Ends 'nine towns from these two tribes.' Devices: The priestly cities enumerated."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Cities for the Priests (2)",
+          "reference": "21:17-19",
+          "why_start_end_and_devices": "Starts the Benjamin towns. Ends 'thirteen towns in all.' Devices: Completing the Aaronic cities."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "Kohathite Cities (Ephraim)",
+          "reference": "21:20-22",
+          "why_start_end_and_devices": "Starts the rest of Kohath's clans. Ends four towns from Ephraim. Devices: The non-priestly Kohathites provided for."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Kohathite Cities (Dan, Half-Manasseh)",
+          "reference": "21:23-26",
+          "why_start_end_and_devices": "Starts the Dan towns. Ends 'ten towns in all.' Devices: The allotment continued."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "Gershonite Cities (1)",
+          "reference": "21:27-29",
+          "why_start_end_and_devices": "Starts the Gershonite clans. Ends the Issachar towns. Devices: The northern Levite cities."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "Gershonite Cities (2)",
+          "reference": "21:30-33",
+          "why_start_end_and_devices": "Starts the Asher towns. Ends 'thirteen towns in all.' Devices: Completing the Gershonites."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Merarite Cities (1)",
+          "reference": "21:34-37",
+          "why_start_end_and_devices": "Starts the Merarite clans. Ends the Reuben towns. Devices: The last Levite clan provided for."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "Merarite Cities (2)",
+          "reference": "21:38-40",
+          "why_start_end_and_devices": "Starts the Gad towns. Ends 'twelve towns allotted.' Devices: The Merarite allotment closed."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Forty-Eight Levitical Cities in All",
+          "reference": "21:41-42",
+          "why_start_end_and_devices": "Starts the total. Ends each town with its pasturelands. Devices: The Levites woven through every tribe—a teaching presence."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "The Great Theological Conclusion",
+          "reference": "21:43-45",
+          "why_start_end_and_devices": "Starts with 'And the LORD gave unto Israel.' Ends with 'all came to pass.' Theological climax and summation. Three-fold declaration of God's faithfulness: gave land, gave rest, not one promise failed."
+        }
       ]
     },
     {
@@ -71,13 +836,114 @@
       "why_start_end_and_literary_glue": "Starts with 'Then Joshua called the Reubenites' (22:1), new narrative action logically following completion of war and allotment. Ends with 'Eleazar... died' (24:33), death of entire leadership generation (Joshua, Eleazar) mirroring book's start with Moses' death. Formally closes the conquest era. Held together by theme of covenant faithfulness, fear of apostasy, and repeated call to 'serve the LORD.'",
       "reference": "22:1-24:33",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Transjordan Tribes Dismissed", "reference": "22:1-9", "why_start_end_and_devices": "Starts with 'Then Joshua called.' Ends with 'departed.' Single unified scene of dismissal containing commendation, final charge, blessing, and departure."},
-        {"scene_number": 2, "scene_name": "The Altar of Witness and the Crisis", "reference": "22:10-20", "why_start_end_and_devices": "Starts with 'built there an altar.' Ends with 'perished not alone in his iniquity.' The crisis: altar misinterpreted. Phinehas's speech lays out accusation using precedents of Peor and Achan."},
-        {"scene_number": 3, "scene_name": "The Crisis Averted", "reference": "22:21-34", "why_start_end_and_devices": "Starts with 'Then children of Reuben.' Ends with 'a witness between us.' Resolution scene. Transjordan tribes defend altar's purpose. Phinehas accepts, delegation returns, civil war averted."},
-        {"scene_number": 4, "scene_name": "Joshua's First Farewell Address", "reference": "23:1-16", "why_start_end_and_devices": "Starts with 'A long time after.' Ends with 'perish quickly from off the good land.' Single complete Deuteronomistic farewell discourse. Contains: historical review, exhortation to obedience, solemn warning/curse."},
-        {"scene_number": 5, "scene_name": "The Assembly at Shechem", "reference": "24:1-13", "why_start_end_and_devices": "Starts with 'Joshua gathered.' Ends with 'ye did not plant.' Historical prologue to covenant renewal. Joshua recites Israel's salvation history from Abraham through conquest as basis for covenant."},
-        {"scene_number": 6, "scene_name": "The Shechem Covenant", "reference": "24:14-28", "why_start_end_and_devices": "Starts with 'Now therefore fear the LORD.' Ends with 'unto his inheritance.' Covenant-making scene following classic treaty structure: call, decision ('choose this day'), pledge, stipulations, formal acceptance, witnessing."},
-        {"scene_number": 7, "scene_name": "The End of an Era", "reference": "24:29-33", "why_start_end_and_devices": "Starts with 'After these things.' Ends with 'in a hill.' Formal epilogue recording three key deaths: Joshua, Joseph's bones buried, Eleazar dies. Entire founding generation at rest."}
+        {
+          "scene_number": 1,
+          "scene_name": "Joshua Blesses and Sends Them Home",
+          "reference": "22:1-6",
+          "why_start_end_and_devices": "Starts Joshua summoning the eastern tribes. Ends 'love the LORD...and serve him.' Devices: Duty fulfilled; a parting charge to faithfulness."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "They Return to Gilead with Great Wealth",
+          "reference": "22:7-9",
+          "why_start_end_and_devices": "Starts the half-tribe of Manasseh. Ends the return to Gilead. Devices: Plunder shared; the eastern tribes depart in peace."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "An Imposing Altar; Israel Prepares for War",
+          "reference": "22:10-14",
+          "why_start_end_and_devices": "Starts the great altar by the Jordan. Ends the assembly mustering at Shiloh. Devices: A misunderstood act nearly sparks civil war."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Delegation's Rebuke: 'Do Not Rebel'",
+          "reference": "22:15-20",
+          "why_start_end_and_devices": "Starts Phinehas confronting them. Ends Achan's sin recalled. Devices: Corporate solidarity—one tribe's apostasy endangers all."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'The LORD Knows': Not in Rebellion",
+          "reference": "22:21-25",
+          "why_start_end_and_devices": "Starts the eastern tribes' defense. Ends fear of future exclusion. Devices: Threefold name of God invoked; sincerity protested."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "A Witness Altar, Not for Sacrifice",
+          "reference": "22:26-29",
+          "why_start_end_and_devices": "Starts 'we built it as a witness.' Ends 'far be it from us to rebel.' Devices: The altar reframed as a bond, not a rival shrine."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Peace Restored; the Altar Named 'Witness'",
+          "reference": "22:30-34",
+          "why_start_end_and_devices": "Starts Phinehas satisfied. Ends the altar called 'Witness.' Devices: Crisis averted; unity preserved by clarification."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "'You Have Seen All the LORD Did'",
+          "reference": "23:1-5",
+          "why_start_end_and_devices": "Starts the aged Joshua summoning Israel. Ends 'the LORD will push them out.' Devices: First farewell; victory by God, not sword."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Hold Fast; Do Not Mix with the Nations",
+          "reference": "23:6-8",
+          "why_start_end_and_devices": "Starts 'be very strong.' Ends 'hold fast to the LORD.' Devices: Separation from idolatry; the Deuteronomic warning."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "One of You Routs a Thousand",
+          "reference": "23:9-11",
+          "why_start_end_and_devices": "Starts the nations driven out. Ends 'love the LORD your God.' Devices: God's past faithfulness as motive for love."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "If You Turn Away, You Will Perish",
+          "reference": "23:12-16",
+          "why_start_end_and_devices": "Starts the warning against intermarriage. Ends 'you will quickly perish.' Devices: The covenant curse—blessing's mirror image."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Covenant History: Abraham to Jacob",
+          "reference": "24:1-4",
+          "why_start_end_and_devices": "Starts the assembly at Shechem. Ends Jacob going down to Egypt. Devices: 'Your fathers worshiped other gods'—grace from the start."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Exodus Recalled",
+          "reference": "24:5-7",
+          "why_start_end_and_devices": "Starts Moses and Aaron sent. Ends 'your own eyes saw what I did.' Devices: The Red Sea deliverance rehearsed."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Conquest and Gift of the Land",
+          "reference": "24:8-13",
+          "why_start_end_and_devices": "Starts the Amorites and Balaam. Ends 'a land you did not toil for.' Devices: The whole salvation-story leads to undeserved gift."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'Choose This Day Whom You Will Serve'",
+          "reference": "24:14-18",
+          "why_start_end_and_devices": "Starts 'fear the LORD and serve him.' Ends 'we too will serve the LORD.' Devices: The famous summons; 'as for me and my house.'"
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "'We Will Serve the LORD'",
+          "reference": "24:19-24",
+          "why_start_end_and_devices": "Starts Joshua's stern warning. Ends the people's renewed vow. Devices: 'You are witnesses against yourselves'—covenant sobriety."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Covenant Sealed; the Stone Witness",
+          "reference": "24:25-28",
+          "why_start_end_and_devices": "Starts the covenant made. Ends sending the people to their inheritance. Devices: A great stone 'has heard'—a silent witness."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The End of an Era",
+          "reference": "24:29-33",
+          "why_start_end_and_devices": "Starts with 'After these things.' Ends with 'in a hill.' Formal epilogue recording three key deaths: Joshua, Joseph's bones buried, Eleazar dies. Entire founding generation at rest."
+        }
       ]
     }
   ]

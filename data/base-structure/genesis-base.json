@@ -222,6 +222,68 @@
     },
     {
       "story_letter": "D",
+      "story_title": "Patriarchs of Old: The Long View",
+      "reference": "5:1-5:32",
+      "why_start_end_and_literary_glue": "The Sethite genealogy from Adam to Noah — ten generations on the recurring 'lived… became the father of… and he died' formula, broken only by Enoch who 'walked with God.' Bridges Creation to Flood.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Preamble: The Book of Adam's Generations",
+          "reference": "5:1-5:2",
+          "why_start_end_and_devices": "Toledot heading; recalls the image-of-God of ch.1. Inclusio with 1:27-28."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Adam to Seth",
+          "reference": "5:3-5:5",
+          "why_start_end_and_devices": "First cycle of the death formula; Adam 930 years."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Seth and Enosh",
+          "reference": "5:6-5:11",
+          "why_start_end_and_devices": "Two generations grouped; formulaic repetition."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Kenan and Mahalalel",
+          "reference": "5:12-5:17",
+          "why_start_end_and_devices": "Two generations grouped."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Jared",
+          "reference": "5:18-5:20",
+          "why_start_end_and_devices": "Single generation; sets up Enoch."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Enoch Walked with God, and Was No More",
+          "reference": "5:21-5:24",
+          "why_start_end_and_devices": "The formula breaks — no 'and he died'; 'God took him.' Theological peak."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Methuselah",
+          "reference": "5:25-5:27",
+          "why_start_end_and_devices": "Longest life (969); the death formula resumes."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Lamech and the Naming of Noah",
+          "reference": "5:28-5:31",
+          "why_start_end_and_devices": "Naming etiology: 'this one shall comfort us'; anticipates Flood relief."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Noah Fathers Shem, Ham, and Japheth",
+          "reference": "5:32-5:32",
+          "why_start_end_and_devices": "Transition verse into the Flood narrative."
+        }
+      ]
+    },
+    {
+      "story_letter": "E",
       "story_title": "The Flood: Judgment and Re-Creation",
       "why_start_end_and_literary_glue": "Begins with toledot formula, formally separating from genealogy. Ends with patriarchal death formula, closing definitively. Massive chiasm pivoting on 'God remembered Noah' (8:1); flood rising (Gen 7) mirrored by receding (Gen 8). Un-creation/re-creation theme: fountains/windows reverse Day 2; water-covered mountains reverse Day 3; ruach mirrors 1:2; 'be fruitful' repeats Genesis 1 blessing.",
       "reference": "6:9-9:29",
@@ -361,7 +423,63 @@
       ]
     },
     {
-      "story_letter": "E",
+      "story_letter": "F",
+      "story_title": "The Table of Nations",
+      "reference": "10:1-10:32",
+      "why_start_end_and_literary_glue": "The toledot of Noah's sons — seventy nations from Japheth, Ham, and Shem mapping the post-Flood world before Babel. Structured by the threefold 'sons of' formula.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Sons of Japheth; the Maritime Peoples",
+          "reference": "10:1-10:5",
+          "why_start_end_and_devices": "Toledot heading; outermost peoples first."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Sons of Ham",
+          "reference": "10:6-10:7",
+          "why_start_end_and_devices": "Second line; sets up Nimrod and Canaan."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Nimrod, the Mighty Hunter, and His Kingdom",
+          "reference": "10:8-10:12",
+          "why_start_end_and_devices": "The one narrative beat; Babel and Assyria foreshadowed."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Mizraim's Descendants",
+          "reference": "10:13-10:14",
+          "why_start_end_and_devices": "Parenthetical: origin of the Philistines."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Canaan's Descendants and Borders",
+          "reference": "10:15-10:20",
+          "why_start_end_and_devices": "Anticipates the land Israel will inherit."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Sons of Shem; Peleg and the Divided Earth",
+          "reference": "10:21-10:25",
+          "why_start_end_and_devices": "Peleg etiology anticipates Babel's dispersion."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Sons of Joktan",
+          "reference": "10:26-10:30",
+          "why_start_end_and_devices": "Arabian peoples."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Nations Spread Out After the Flood",
+          "reference": "10:31-10:32",
+          "why_start_end_and_devices": "Closing formula; sets up 11:1-9."
+        }
+      ]
+    },
+    {
+      "story_letter": "G",
       "story_title": "The Tower of Babel: Humanity's Hubris",
       "why_start_end_and_literary_glue": "Starts with 'whole earth had one language' (unity setup). Ends with etiological summary and scattering. Tight concentric chiasm: human plan ('Come, let us') mirrored by divine plan; human goal ('prevent scatter') mirrored by divine action ('scattered'); God's descent is center. Irony: tower to reach heaven too small for LORD to see. Wordplay: Babel/balal (confuse); nilbĕnâ/nāblâ; shem presages genealogy.",
       "reference": "11:1-11:9",
@@ -387,7 +505,7 @@
       ]
     },
     {
-      "story_letter": "F",
+      "story_letter": "H",
       "story_title": "The Abraham Cycle: The Promise and Its Trials",
       "why_start_end_and_literary_glue": "Begins with toledot of Terah (11:27) introducing first obstacle: barrenness (11:30). Ends after death (25:8); v.25:11 passes torch to Isaac. All plot points resolved: son born (21) and tested (22); land secured (23); lineage continued (24). Promise vs. Obstacle structure: son→barrenness/age/Hagar/Akedah; land→famine/Lot-conflict. Wife-sister motif twice (12, 20) shows promise preserved by God, not Abram. Large chiasm: A: Call (12:1-3)→A': Test (22:1-19); B: Egypt (12)→B': Gerar (20); C: Lot (13)→C': Sodom (18-19); Center: Covenant (17).",
       "reference": "11:27-25:11",
@@ -911,7 +1029,7 @@
       ]
     },
     {
-      "story_letter": "G",
+      "story_letter": "I",
       "story_title": "The Jacob Cycle: Struggle and Transformation",
       "why_start_end_and_literary_glue": "Begins with Isaac toledot (25:19), immediately introducing struggling twins, cycle's inciting incident. Ends with Bethel return (35:1-15) and Israel renaming (35:10), resolving descent; closes with Isaac's death (35:29), passing authority. Chapter 36 clears Esau. Large chiasm: A: Land/conflict Esau (25-27)→B: Bethel vision/departure (28)→C: Center: Haran/Laban conflict (29-31)→B': Peniel vision/return (32)→A': Land/Esau reconciliation (33-35). Theme of struggle in Jacob's name: struggles with Esau (birthright), Isaac (blessing), Laban (wives/wages), God (32), resulting in Israel ('struggles with God'). Irony: deceiver (Jacob/goatskins) is deceived (Laban/Leah).",
       "reference": "25:19-35:29",
@@ -1417,7 +1535,69 @@
       ]
     },
     {
-      "story_letter": "H",
+      "story_letter": "J",
+      "story_title": "Esau's Line: Edom Separated and Recorded",
+      "reference": "36:1-36:43",
+      "why_start_end_and_literary_glue": "The toledot of Esau — his descendants, the Horite predecessors of Seir, and the kings and chiefs of Edom. Closes Esau's account before the narrative narrows to Jacob's line in ch.37.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Esau's Wives and Sons in Canaan",
+          "reference": "36:1-36:5",
+          "why_start_end_and_devices": "Toledot heading; the Canaanite wives."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Esau Settles in Mount Seir",
+          "reference": "36:6-36:8",
+          "why_start_end_and_devices": "Separation from Jacob; 'their possessions were too great.'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Sons and Grandsons of Esau",
+          "reference": "36:9-36:14",
+          "why_start_end_and_devices": "Second toledot heading (in Seir)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Chiefs Descended from Esau",
+          "reference": "36:15-36:19",
+          "why_start_end_and_devices": "The 'alluf' (chief) formula."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Sons of Seir the Horite",
+          "reference": "36:20-36:25",
+          "why_start_end_and_devices": "The pre-Edomite inhabitants of the land."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Remaining Horite Clans and Their Chiefs",
+          "reference": "36:26-36:30",
+          "why_start_end_and_devices": "Horite chief list."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Kings of Edom (Bela to Hadad)",
+          "reference": "36:31-36:34",
+          "why_start_end_and_devices": "'before any king reigned over Israel'; death-succession formula."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "More Kings of Edom (Hadad to Baal-hanan)",
+          "reference": "36:35-36:39",
+          "why_start_end_and_devices": "Succession continues."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Chiefs of Esau, by Name",
+          "reference": "36:40-36:43",
+          "why_start_end_and_devices": "Closing list by settlement."
+        }
+      ]
+    },
+    {
+      "story_letter": "K",
       "story_title": "The Joseph Novella: Providence and Reconciliation",
       "why_start_end_and_literary_glue": "Begins with Jacob toledot (37:1), immediately introducing core conflict: Joseph's dreams and brothers' envy→slavery. Ends with Joseph's death, final Genesis verse, closing patriarchal age, setting Exodus stage. Reversal theme: Joseph pit→slavery→prison→power; brothers aggressors→supplicants; famine threat→provision. Motifs: Clothing (coat 37→garment 39→robes 41→sets 45); Dreams (Joseph 37→cupbearer/baker 40→Pharaoh 41). Providence vs. sin tension: 'you sold me...God sent me.' Deliberate interruption (38): Judah-Tamar parallels Joseph's morality, develops Judah who steps up in 44.",
       "reference": "37:1-50:26",

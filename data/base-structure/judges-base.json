@@ -10,10 +10,66 @@
       "why_start_end_and_literary_glue": "Starts with 'After the death of Joshua,' marking the post-Joshua era. Ends with the angel's rebuke at Bochim and the naming of 'Weepers' (2:5), providing narrative resolution. Held together by relentless repetition of 'did not drive out' (Heb. lo' horish), the thematic key to the entire story. This section answers why the conquest was incomplete—the theological explanation follows in Story B.",
       "reference": "1:1-2:5",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Judah and Simeon's Partial Success", "reference": "1:1-8", "why_start_end_and_devices": "Starts with 'Who shall go up for us first?' Ends with capture and burning of Jerusalem. Shows initial success but already hints at the struggles to come. Brutal justice on Adoni-bezek establishes 'eye for eye' theme."},
-        {"scene_number": 2, "scene_name": "Caleb's Inheritance and Othniel's Introduction", "reference": "1:9-20", "why_start_end_and_devices": "Starts with focus on Caleb (parallel to Joshua 15). Ends with summary of Judah's partial success/failure. Introduces Othniel, the first judge, and shows the last moment of true success in chapter."},
-        {"scene_number": 3, "scene_name": "The Failure of the Northern Tribes", "reference": "1:21-36", "why_start_end_and_devices": "Starts with Benjamin's failure. Ends with summary statement (1:36). This is a 'list of failures'—a devastating litany held together by repeated 'did not drive out,' building overwhelming sense of national disobedience tribe by tribe."},
-        {"scene_number": 4, "scene_name": "The Rebuke at Bochim", "reference": "2:1-5", "why_start_end_and_devices": "Starts with 'angel of the LORD came up from Gilgal.' Ends with place named 'Bochim' (Weepers). Theological capstone: Angel confronts people's sin and provides divine consequence. People's reaction gives the place its name, ending the story."}
+        {
+          "scene_number": 1,
+          "scene_name": "Judah Goes Up First; Bezek Defeated",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Starts 'after the death of Joshua.' Ends ten thousand struck at Bezek. Devices: Judah leads—the pattern of the book opens with partial obedience."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Adoni-bezek's Thumbs and Toes; Jerusalem Burned",
+          "reference": "1:5-8",
+          "why_start_end_and_devices": "Starts the capture of Adoni-bezek. Ends Jerusalem set afire. Devices: Poetic justice—'as I have done, so God has repaid me.'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Caleb Offers Achsah for Debir",
+          "reference": "1:9-12",
+          "why_start_end_and_devices": "Starts Judah in the hill country. Ends Caleb's challenge. Devices: A flashback to Joshua's faith-hero."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Othniel Wins Achsah; the Springs Granted",
+          "reference": "1:13-15",
+          "why_start_end_and_devices": "Starts Othniel taking Debir. Ends the upper and lower springs. Devices: Introduces the first judge through a marriage."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Kenites; Judah and Simeon's Gains",
+          "reference": "1:16-20",
+          "why_start_end_and_devices": "Starts the Kenites settling. Ends Hebron given to Caleb. Devices: Mixed success—victories shadowed by what follows."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Benjamin and Joseph; Bethel Taken",
+          "reference": "1:21-26",
+          "why_start_end_and_devices": "Starts Benjamin failing at Jerusalem. Ends the spared man founding Luz. Devices: The drumbeat of incomplete conquest begins."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Manasseh and Ephraim Fail to Drive Them Out",
+          "reference": "1:27-29",
+          "why_start_end_and_devices": "Starts Manasseh's unconquered towns. Ends Canaanites among Ephraim. Devices: 'They did not drive them out'—the refrain of failure."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Zebulun, Asher, and Naphtali Fail",
+          "reference": "1:30-33",
+          "why_start_end_and_devices": "Starts Zebulun. Ends Naphtali living among the Canaanites. Devices: The northern tribes' compromise."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Dan Pushed into the Hills",
+          "reference": "1:34-36",
+          "why_start_end_and_devices": "Starts the Amorites confining Dan. Ends the Amorite border. Devices: The reversal—Israel pressed back, not advancing."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Rebuke at Bochim",
+          "reference": "2:1-5",
+          "why_start_end_and_devices": "Starts with 'angel of the LORD came up from Gilgal.' Ends with place named 'Bochim' (Weepers). Theological capstone: Angel confronts people's sin and provides divine consequence. People's reaction gives the place its name, ending the story."
+        }
       ]
     },
     {
@@ -22,10 +78,36 @@
       "why_start_end_and_literary_glue": "Starts with 'When Joshua had sent the people away' (flashback to explain apostasy's origin). Ends with 'served their gods' (3:6), summarizing the ultimate sin. Held together by explicit description of cyclical formula (2:11-19)—the theological argument that governs all following stories. This is theological introduction, not narrative.",
       "reference": "2:6-3:6",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The New Generation That Did Not Know the LORD", "reference": "2:6-10", "why_start_end_and_devices": "Starts with flashback to Joshua's death. Ends with 'there arose another generation after them who did not know the LORD.' Provides crucial generational hinge. 'Knowing' (Heb. yada') is relational, not intellectual."},
-        {"scene_number": 2, "scene_name": "The Cycle of Apostasy and Judgment", "reference": "2:11-15", "why_start_end_and_devices": "Starts with formula: 'And the children of Israel did evil.' Ends with 'hand of the LORD was against them for harm.' First half of cyclical formula: Sin and Oppression. Language is programmatic, setting terms for all following stories."},
-        {"scene_number": 3, "scene_name": "The Raising of Judges and the Cycle of Failure", "reference": "2:16-23", "why_start_end_and_devices": "Starts with 'Then the LORD raised up judges.' Ends with Lord's declaration of why He won't drive out nations. Second half of formula: Deliverance and Rest/Relapse. Shows cycle is downward spiral, not stable loop."},
-        {"scene_number": 4, "scene_name": "The Nations Left as a Test", "reference": "3:1-6", "why_start_end_and_devices": "Starts with 'Now these are the nations the LORD left.' Ends with 'served their gods.' Concludes prologue by stating purpose of remaining nations and result of cycle. Flows directly into first major cycle with Othniel."}
+        {
+          "scene_number": 1,
+          "scene_name": "The New Generation That Did Not Know the LORD",
+          "reference": "2:6-10",
+          "why_start_end_and_devices": "Starts with flashback to Joshua's death. Ends with 'there arose another generation after them who did not know the LORD.' Provides crucial generational hinge. 'Knowing' (Heb. yada') is relational, not intellectual."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Cycle of Apostasy and Judgment",
+          "reference": "2:11-15",
+          "why_start_end_and_devices": "Starts with formula: 'And the children of Israel did evil.' Ends with 'hand of the LORD was against them for harm.' First half of cyclical formula: Sin and Oppression. Language is programmatic, setting terms for all following stories."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Judges Raised, Then the People Relapse",
+          "reference": "2:16-19",
+          "why_start_end_and_devices": "Starts 'the LORD raised up judges.' Ends 'they returned to corrupt ways.' Devices: The cyclical pattern stated as a thesis."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Nations Left to Test Israel",
+          "reference": "2:20-23",
+          "why_start_end_and_devices": "Starts the LORD's anger. Ends the nations left 'to test Israel.' Devices: Divine pedagogy—failure becomes a test of fidelity."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Nations Left as a Test",
+          "reference": "3:1-6",
+          "why_start_end_and_devices": "Starts with 'Now these are the nations the LORD left.' Ends with 'served their gods.' Concludes prologue by stating purpose of remaining nations and result of cycle. Flows directly into first major cycle with Othniel."
+        }
       ]
     },
     {
@@ -34,10 +116,42 @@
       "why_start_end_and_literary_glue": "Starts with first full iteration of cyclical formula (3:7). Ends with Shamgar's brief fragment (3:31). Applies the cyclical formula twice. Othniel's brief, perfect cycle serves as baseline; Ehud's longer, more graphic cycle shows increasing complexity. Held together by the formula itself.",
       "reference": "3:7-3:31",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Othniel Cycle", "reference": "3:7-11", "why_start_end_and_devices": "Starts with 'And the children of Israel did evil.' Ends with 'the land had rest forty years.' Contains all formula steps: Sin, Oppression, Cry, Deliverance, Rest. Brevity and perfection serve as baseline for later flawed judges."},
-        {"scene_number": 2, "scene_name": "The Ehud Cycle and Eglon's Oppression", "reference": "3:12-19", "why_start_end_and_devices": "Starts with 'And the children of Israel did evil again.' Ends with 'I have a secret message for you, O king.' Introduces new cycle. Literary device of left-handedness allows concealment of dagger. Ends on cliffhanger."},
-        {"scene_number": 3, "scene_name": "The Assassination and Escape", "reference": "3:20-29", "why_start_end_and_devices": "Starts with 'And Ehud came to him.' Ends with 'struck down about ten thousand men of Moab.' Masterpiece of dark, scatological humor. 'Secret message' is dagger. Fat king Eglon's death in private chamber allows Ehud's escape."},
-        {"scene_number": 4, "scene_name": "Shamgar's Fragment", "reference": "3:30-31", "why_start_end_and_devices": "Starts with Ehud story conclusion: 'the land had rest.' Ends with 'He also saved Israel.' One-verse fragment appended to larger story. Non-Hebrew name suggests non-Israelite raised by Yahweh, highlighting God's sovereign methods."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Othniel Cycle",
+          "reference": "3:7-11",
+          "why_start_end_and_devices": "Starts with 'And the children of Israel did evil.' Ends with 'the land had rest forty years.' Contains all formula steps: Sin, Oppression, Cry, Deliverance, Rest. Brevity and perfection serve as baseline for later flawed judges."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Eglon Oppresses; Ehud the Left-Handed Deliverer",
+          "reference": "3:12-15",
+          "why_start_end_and_devices": "Starts Moab's eighteen-year oppression. Ends Ehud sent with tribute. Devices: The left-handed Benjaminite—an unlikely deliverer."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Ehud's Hidden Dagger; the Secret Message",
+          "reference": "3:16-19",
+          "why_start_end_and_devices": "Starts the concealed double-edged sword. Ends 'I have a secret message for you.' Devices: Suspense built toward the assassination."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Ehud Kills Eglon and Escapes",
+          "reference": "3:20-23",
+          "why_start_end_and_devices": "Starts the private chamber. Ends Ehud slipping out. Devices: Dark comedy; the dagger lost in the fat king."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Trumpet of Ephraim; Moab Subdued",
+          "reference": "3:24-29",
+          "why_start_end_and_devices": "Starts the delay at the locked doors. Ends ten thousand Moabites slain. Devices: Israel rallied; deliverance through one bold act."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Shamgar's Fragment",
+          "reference": "3:30-31",
+          "why_start_end_and_devices": "Starts with Ehud story conclusion: 'the land had rest.' Ends with 'He also saved Israel.' One-verse fragment appended to larger story. Non-Hebrew name suggests non-Israelite raised by Yahweh, highlighting God's sovereign methods."
+        }
       ]
     },
     {
@@ -46,12 +160,78 @@
       "why_start_end_and_literary_glue": "Starts with 'And the children of Israel again did evil' (classic cyclical formula). Ends with Song's final line and 'rest forty years' (5:31). Chapters 4-5 are literary diptych: Chapter 4 is prose narrative; Chapter 5 is poetic 'Song of Deborah.' Held together by parallel accounts of same event with key figures appearing in both.",
       "reference": "4:1-5:31",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Deborah Summons Barak", "reference": "4:1-10", "why_start_end_and_devices": "Starts with cycle: Sin, Oppression (Jabin/Sisera), Cry. Ends with Barak agreeing to go, but only with Deborah. Introduces female prophet judge. Barak's lack of faith and Deborah's prophecy that honor goes to a woman foreshadow Jael's role."},
-        {"scene_number": 2, "scene_name": "The Battle at Mount Tabor", "reference": "4:11-16", "why_start_end_and_devices": "Starts with aside about Heber the Kenite (sets up next scene). Ends with army completely routed 'by the sword.' Sisera's nine hundred chariots rendered useless. Deborah's command shows Yahweh, not Barak, as true commander."},
-        {"scene_number": 3, "scene_name": "Jael and the Death of Sisera", "reference": "4:17-24", "why_start_end_and_devices": "Starts with Sisera fleeing to Jael's tent. Ends with 'So God subdued... Jabin.' Fulfills Deborah's prophecy. Subversive reversal of hospitality. Non-Israelite woman lures enemy commander, gives milk, murders him with tent peg—a woman's tool."},
-        {"scene_number": 4, "scene_name": "The Song of Deborah (Part 1: Praise and Summons)", "reference": "5:1-11", "why_start_end_and_devices": "Starts with 'Then sang Deborah and Barak.' Ends with 'rehearse the righteous acts of the LORD.' Poetic preamble: call to praise, description of God's awesome power in nature, desolate state before battle. Sets stage for victory attributed to Yahweh."},
-        {"scene_number": 5, "scene_name": "The Song of Deborah (Part 2: The Muster of the Tribes)", "reference": "5:12-23", "why_start_end_and_devices": "Starts with 'Awake, awake, Deborah.' Ends with curse on Meroz for non-participation. Core of song: contrasts tribes that came with those that didn't. Roll call of praise and shame. Fierce curse on Meroz for neutrality."},
-        {"scene_number": 6, "scene_name": "The Song of Deborah (Part 3: Jael's Act and Conclusion)", "reference": "5:24-31", "why_start_end_and_devices": "Starts with 'Most blessed of women be Jael.' Ends with song's final couplet and 'rest' statement. Parallels 4:17-24 with more graphic, triumphant detail. Contrasts Jael (blessed) with Sisera's mother (wisest lady, waiting). Brilliant dramatic irony."}
+        {
+          "scene_number": 1,
+          "scene_name": "Jabin's Oppression; Deborah Judging",
+          "reference": "4:1-5",
+          "why_start_end_and_devices": "Starts the relapse after Ehud. Ends Deborah judging under her palm. Devices: A prophetess-judge—a striking introduction."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Deborah Summons Barak; 'The Honor Will Go to a Woman'",
+          "reference": "4:6-10",
+          "why_start_end_and_devices": "Starts the call to Barak. Ends 'the LORD will deliver Sisera to a woman.' Devices: Barak's hesitancy reframes the glory."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Battle at Mount Tabor",
+          "reference": "4:11-16",
+          "why_start_end_and_devices": "Starts with aside about Heber the Kenite (sets up next scene). Ends with army completely routed 'by the sword.' Sisera's nine hundred chariots rendered useless. Deborah's command shows Yahweh, not Barak, as true commander."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Jael's Tent Peg",
+          "reference": "4:17-21",
+          "why_start_end_and_devices": "Starts Sisera fleeing to Jael's tent. Ends the peg through his temple. Devices: Hospitality turned to ambush—the prophecy fulfilled."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Sisera Found Dead; Jabin Subdued",
+          "reference": "4:22-24",
+          "why_start_end_and_devices": "Starts Barak arriving too late. Ends Jabin destroyed. Devices: The oppressor's downfall completed."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Song Begins: 'When the LORD Marched'",
+          "reference": "5:1-5",
+          "why_start_end_and_devices": "Starts Deborah and Barak singing. Ends Sinai trembling. Devices: A victory hymn; theophany imagery."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Days of Shamgar and Jael; Deborah Arose",
+          "reference": "5:6-11",
+          "why_start_end_and_devices": "Starts the desolate roads. Ends 'the people of the LORD went down to the gates.' Devices: Before-and-after contrast—oppression to deliverance."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "'Awake, Deborah!'; the Tribes Who Came",
+          "reference": "5:12-15",
+          "why_start_end_and_devices": "Starts the call to wake and sing. Ends Issachar with Barak. Devices: Roll-call of the faithful tribes."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Tribes Who Stayed; Zebulun Risked All",
+          "reference": "5:16-18",
+          "why_start_end_and_devices": "Starts Reuben's hesitation. Ends Zebulun and Naphtali risking their lives. Devices: Praise and blame distributed among the tribes."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Stars Fought; 'Curse Meroz'",
+          "reference": "5:19-23",
+          "why_start_end_and_devices": "Starts the kings of Canaan. Ends the curse on Meroz. Devices: Cosmic warfare—the stars and the Kishon fight for Israel."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "'Most Blessed Is Jael'",
+          "reference": "5:24-27",
+          "why_start_end_and_devices": "Starts Jael's blessing. Ends Sisera fallen at her feet. Devices: Vivid, brutal poetry celebrating the deliverance."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Sisera's Mother at the Window",
+          "reference": "5:28-31",
+          "why_start_end_and_devices": "Starts the mother watching for her son. Ends 'so perish all your enemies.' Devices: Pathos and irony—she awaits plunder that will never come."
+        }
       ]
     },
     {
@@ -60,17 +240,150 @@
       "why_start_end_and_literary_glue": "Starts with 'And the children of Israel did evil' (6:1). Ends with tragic summary: 'neither showed they kindness to the house of Jerubbaal' (8:35). One of longest, most complex narratives spanning three chapters. Held together by protagonist Gideon/Jerubbaal ('He who contends with Baal'). Arc moves from fearful beginning to public triumph to tragic, idolatrous end.",
       "reference": "6:1-8:35",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Oppression by Midian; the Prophet's Rebuke", "reference": "6:1-10", "why_start_end_and_devices": "Starts with 'And the children of Israel did evil.' Ends with prophet's message complete. Establishes problem: oppression so severe Israel lives in caves. Uniquely, God first sends prophet to explain *why* they suffer."},
-        {"scene_number": 2, "scene_name": "The Call of Gideon", "reference": "6:11-24", "why_start_end_and_devices": "Starts with Angel of the LORD under oak. Ends with altar 'Yahweh-Shalom' built, Angel departs. Classic call narrative. Profound irony: 'The LORD is with you, O mighty man of valor!' to fearful man hiding. Fire from rock is divine sign."},
-        {"scene_number": 3, "scene_name": "Gideon Becomes Jerubbaal", "reference": "6:25-32", "why_start_end_and_devices": "Starts with command 'Tear down the altar of Baal.' Ends with new name 'Jerubbaal' given. First act of obedience is internal (reform), not external. He contends with Baal at home before fighting Midian. Does it at night, showing continued fear."},
-        {"scene_number": 4, "scene_name": "The Sign of the Fleece", "reference": "6:33-40", "why_start_end_and_devices": "Starts with enemies gathering, Spirit 'clothes' Gideon. Ends with second fleece test completed. Despite being 'clothed' with Spirit, Gideon's faith wavers. Asks for sign twice, dictating terms. Vividly portrays human weakness."},
-        {"scene_number": 5, "scene_name": "The Army Reduced to 300", "reference": "7:1-8", "why_start_end_and_devices": "Starts with army mustered at spring of Harod. Ends with 300 men selected, rest sent home. Famous divine reduction. Theme explicit: too many would make Israel boast. Tests of fear and how they drink filter for alert minority."},
-        {"scene_number": 6, "scene_name": "The Midianite's Dream", "reference": "7:9-18", "why_start_end_and_devices": "Starts with 'That same night the LORD said.' Ends with Gideon gives battle plan. Final encouragement. Addresses remaining fear. Irony: Gideon's confirmation comes from enemy's dream. Barley loaf striking tent symbolizes mission."},
-        {"scene_number": 7, "scene_name": "The Rout of Midian and Appeasing Ephraim", "reference": "7:19-8:3", "why_start_end_and_devices": "Starts with attack 'at beginning of middle watch.' Ends with Ephraim's anger subsides. Battle won by psychological terror (trumpets, torches, shouting), not combat. Followed by conflict with Ephraim; Gideon uses flattery to diffuse."},
-        {"scene_number": 8, "scene_name": "Gideon Pursues Zebah and Zalmunna", "reference": "8:4-12", "why_start_end_and_devices": "Starts with 'Gideon came to the Jordan, faint yet pursuing.' Ends with capture of two kings. Reveals harsher side. Denied help by Succoth and Penuel; vows revenge. Transition from humble judge to vengeful warlord."},
-        {"scene_number": 9, "scene_name": "Gideon's Vengeance", "reference": "8:13-21", "why_start_end_and_devices": "Starts with Gideon's return from battle. Ends with execution of Zebah and Zalmunna. Dark scene. 'Teaches' Succoth with thorns, kills Penuel's men. Executes kings as blood-avenger for brothers. Personal, not theological. Marks moral shift."},
-        {"scene_number": 10, "scene_name": "Gideon's Ephod", "reference": "8:22-28", "why_start_end_and_devices": "Starts with people offering kingship: 'Rule over us.' Ends with 'the land had rest.' Climax of story. Rightously refuses title ('The LORD will rule') but immediately acts like king. Takes spoil, makes ephod—becomes object of idolatry/whoring."},
-        {"scene_number": 11, "scene_name": "Gideon's Death and Israel's Apostasy", "reference": "8:29-35", "why_start_end_and_devices": "Starts with Gideon returning to house. Ends with tragic summary of failed legacy. Details large harem (70 sons) and concubine (who bears Abimelech). As soon as Gideon dies, apostasy (Baal-berith worship) begins instantly."}
+        {
+          "scene_number": 1,
+          "scene_name": "Midian's Oppression; Israel in Caves",
+          "reference": "6:1-6",
+          "why_start_end_and_devices": "Starts the seven-year oppression. Ends Israel crying out. Devices: Locust-like raiders; Israel driven to dens and caves."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "A Prophet's Rebuke",
+          "reference": "6:7-10",
+          "why_start_end_and_devices": "Starts the LORD sending a prophet. Ends 'you have not obeyed me.' Devices: Indictment before deliverance."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "'The LORD Is with You, Mighty Warrior'",
+          "reference": "6:11-16",
+          "why_start_end_and_devices": "Starts the angel under the oak. Ends 'I will be with you.' Devices: Irony—Gideon threshing in a winepress, called a warrior."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Sign: Fire from the Rock",
+          "reference": "6:17-21",
+          "why_start_end_and_devices": "Starts Gideon's request for a sign. Ends fire consuming the offering. Devices: Confirmation by miracle."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'The LORD Is Peace'",
+          "reference": "6:22-24",
+          "why_start_end_and_devices": "Starts Gideon's fear of death. Ends the altar Jehovah-Shalom. Devices: Terror turned to peace."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Gideon Tears Down Baal's Altar by Night",
+          "reference": "6:25-27",
+          "why_start_end_and_devices": "Starts the command against Baal. Ends 'he did it at night.' Devices: Fearful but obedient—reform begins at home."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "'Let Baal Contend for Himself'",
+          "reference": "6:28-32",
+          "why_start_end_and_devices": "Starts the town's fury. Ends the name Jerubbaal. Devices: Joash's clever defense; Baal's impotence implied."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Spirit Comes; the Army Mustered",
+          "reference": "6:33-35",
+          "why_start_end_and_devices": "Starts the Midianite invasion. Ends the tribes summoned. Devices: 'The Spirit of the LORD clothed Gideon.'"
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Fleece and the Dew, Twice",
+          "reference": "6:36-40",
+          "why_start_end_and_devices": "Starts the first fleece test. Ends the reversed second sign. Devices: Gideon's cautious, repeated seeking of assurance."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Too Many: the Fearful Sent Home",
+          "reference": "7:1-3",
+          "why_start_end_and_devices": "Starts the army at the spring. Ends twenty-two thousand leaving. Devices: 'Lest Israel boast'—the theology of weakness."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Test at the Water; 300 Lappers",
+          "reference": "7:4-8",
+          "why_start_end_and_devices": "Starts the LORD's winnowing. Ends three hundred kept. Devices: God reduces the army so the victory is unmistakably his."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Midianite's Dream of the Barley Loaf",
+          "reference": "7:9-14",
+          "why_start_end_and_devices": "Starts Gideon sent down to the camp. Ends the dream interpreted. Devices: Overheard reassurance—God speaks through the enemy."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Gideon Worships; the Trumpets and Jars",
+          "reference": "7:15-18",
+          "why_start_end_and_devices": "Starts Gideon bowing in worship. Ends the battle signal. Devices: Faith turns to action; the unconventional weapons readied."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Rout: Trumpets, Jars, and the Sword",
+          "reference": "7:19-22",
+          "why_start_end_and_devices": "Starts the midnight shout. Ends Midian fleeing in confusion. Devices: 'A sword for the LORD and for Gideon'—panic does the fighting."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Midian Pursued; Oreb and Zeeb Slain",
+          "reference": "7:23-25",
+          "why_start_end_and_devices": "Starts the Israelites summoned to pursue. Ends the two princes' heads brought to Gideon. Devices: The victory pressed to completion."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Ephraim's Complaint Soothed",
+          "reference": "8:1-3",
+          "why_start_end_and_devices": "Starts Ephraim's jealous protest. Ends their anger subsiding. Devices: A soft answer—'is not the gleaning of Ephraim better?'"
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Succoth and Penuel Refuse Bread",
+          "reference": "8:4-9",
+          "why_start_end_and_devices": "Starts the exhausted pursuit. Ends Gideon's threats. Devices: Fellow Israelites withhold help—internal failure."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Zebah and Zalmunna Captured",
+          "reference": "8:10-12",
+          "why_start_end_and_devices": "Starts the surprise attack at Karkor. Ends the two kings captured. Devices: The pursuit completed against the odds."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Vengeance on Succoth and Penuel",
+          "reference": "8:13-17",
+          "why_start_end_and_devices": "Starts Gideon's return. Ends the tower of Penuel torn down. Devices: Promised retribution carried out."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Gideon Executes the Two Kings",
+          "reference": "8:18-21",
+          "why_start_end_and_devices": "Starts the questioning about Tabor. Ends the kings slain. Devices: Personal vengeance—'they were my brothers.'"
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Gideon Refuses Kingship",
+          "reference": "8:22-24",
+          "why_start_end_and_devices": "Starts Israel offering him rule. Ends his request for gold earrings. Devices: 'The LORD will rule over you'—right words, fatal next step."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Gold Ephod Becomes a Snare",
+          "reference": "8:25-28",
+          "why_start_end_and_devices": "Starts the ephod made. Ends forty years of peace. Devices: A monument to victory becomes an idol—Gideon's tragic flaw."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Gideon's Many Sons; His Death",
+          "reference": "8:29-32",
+          "why_start_end_and_devices": "Starts his seventy sons. Ends his death at a good old age. Devices: Abimelech of Shechem named—the next disaster seeded."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Israel Forgets the LORD and Gideon",
+          "reference": "8:33-35",
+          "why_start_end_and_devices": "Starts the relapse to Baal. Ends ingratitude to Gideon's house. Devices: The cycle resumes; sets up Abimelech."
+        }
       ]
     },
     {
@@ -79,11 +392,84 @@
       "why_start_end_and_literary_glue": "Starts with 'Now Abimelech son of Jerubbaal' (6:31 lineage connection). Ends with 'Thus God rendered the wickedness of Abimelech... the curse of Jotham came upon them' (9:57). Self-contained, tragic narrative. Does not follow cyclical pattern. No foreign oppression, no crying out, no divine deliverance. Dark commentary on choosing human king. Held together by fulfillment of Jotham's parable and theme of bloody, internecine strife.",
       "reference": "9:1-9:57",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Abimelech's Conspiracy at Shechem", "reference": "9:1-6", "why_start_end_and_devices": "Starts with Abimelech going to mother's relatives. Ends with making him king at oak of pillar. Details conspiracy: uses maternal connection, murders 70 half-brothers on one stone. Pure godless human politics."},
-        {"scene_number": 2, "scene_name": "Jotham's Parable of the Trees", "reference": "9:7-21", "why_start_end_and_devices": "Starts with Jotham on Mount Gerizim. Ends with Jotham flees to Beer. Poetic interruption. Parable: useful trees refuse kingship, useless bramble accepts. Jotham's curse—fire from bramble to destroy Shechem, fire from Shechem to destroy bramble—becomes plot outline."},
-        {"scene_number": 3, "scene_name": "The Shechem Rebellion and Gaal's Challenge", "reference": "9:22-29", "why_start_end_and_devices": "Starts with Abimelech ruling three years, God sends 'evil spirit.' Ends with Gaal issues challenge. Curse's fulfillment begins. 'Evil spirit' is divine judgment mechanism. Gaal taunts Abimelech, sets stage for self-destruction."},
-        {"scene_number": 4, "scene_name": "Abimelech Defeats Gaal and Destroys Shechem", "reference": "9:30-49", "why_start_end_and_devices": "Starts with Zebul hears Gaal's words. Ends with burning tower, killing ~1,000 men and women. Brutal warfare. First half of Jotham's curse fulfilled: fire from bramble destroys cedars of Lebanon (lords of Shechem)."},
-        {"scene_number": 5, "scene_name": "The Death of Abimelech at Thebez", "reference": "9:50-57", "why_start_end_and_devices": "Starts with Abimelech going to Thebez. Ends with theological summary of judgment. Fulfills second half of curse. Profound poetic justice: man who crushed brothers' heads on stone is killed by millstone. His concern for reputation (killed by woman) shows final pride."}
+        {
+          "scene_number": 1,
+          "scene_name": "Abimelech's Conspiracy at Shechem",
+          "reference": "9:1-6",
+          "why_start_end_and_devices": "Starts with Abimelech going to mother's relatives. Ends with making him king at oak of pillar. Details conspiracy: uses maternal connection, murders 70 half-brothers on one stone. Pure godless human politics."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Olive, Fig, and Vine Refuse",
+          "reference": "9:7-10",
+          "why_start_end_and_devices": "Starts Jotham on Mount Gerizim. Ends the vine's refusal. Devices: A political fable—the worthy decline to rule."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Bramble Accepts—and Threatens Fire",
+          "reference": "9:11-15",
+          "why_start_end_and_devices": "Starts the bramble's offer. Ends 'let fire come out of the bramble.' Devices: The worthless ruler—and the threat that will consume Shechem."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Jotham Applies the Parable and Flees",
+          "reference": "9:16-21",
+          "why_start_end_and_devices": "Starts the application. Ends Jotham fleeing to Beer. Devices: A prophetic curse spoken, then fulfilled."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Discord Sown Between Abimelech and Shechem",
+          "reference": "9:22-25",
+          "why_start_end_and_devices": "Starts three years of rule. Ends ambushes on the road. Devices: 'God sent an evil spirit'—the curse begins to work."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Gaal's Drunken Challenge",
+          "reference": "9:26-29",
+          "why_start_end_and_devices": "Starts Gaal winning Shechem's trust. Ends his boast against Abimelech. Devices: A rival rises amid the festival."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Zebul Warns Abimelech",
+          "reference": "9:30-33",
+          "why_start_end_and_devices": "Starts Zebul's secret message. Ends the plan to ambush at dawn. Devices: Intrigue and counter-intrigue."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Gaal Sees the Army; Zebul Taunts Him",
+          "reference": "9:34-38",
+          "why_start_end_and_devices": "Starts the forces in position. Ends 'go out and fight.' Devices: Zebul's mockery exposes Gaal's bluster."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Gaal Routed and Expelled",
+          "reference": "9:39-41",
+          "why_start_end_and_devices": "Starts the battle. Ends Gaal driven out. Devices: The challenger's quick collapse."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Shechem Destroyed and Sown with Salt",
+          "reference": "9:42-45",
+          "why_start_end_and_devices": "Starts the next day's assault. Ends salt scattered on the ruins. Devices: Total destruction—the curse advancing."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Tower of Shechem Burned",
+          "reference": "9:46-49",
+          "why_start_end_and_devices": "Starts the people fleeing to the temple-stronghold. Ends a thousand burned. Devices: Jotham's 'fire' literally fulfilled."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "A Millstone at Thebez; Abimelech Mortally Wounded",
+          "reference": "9:50-54",
+          "why_start_end_and_devices": "Starts the siege of Thebez. Ends his armor-bearer's stroke. Devices: A woman's millstone—ignominious end for the would-be king."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "God Repays Abimelech and Shechem",
+          "reference": "9:55-57",
+          "why_start_end_and_devices": "Starts the army dispersing. Ends 'the curse of Jotham came on them.' Devices: Explicit moral—God repaid the wickedness."
+        }
       ]
     },
     {
@@ -92,12 +478,96 @@
       "why_start_end_and_literary_glue": "Starts with 'After Abimelech... Tola arose' (10:1). Ends with 'Jephthah judged Israel six years. Then died and was buried' (12:7). Groups minor judges (Tola, Jair) as preface to major story of Jephthah. Runs through full sin-oppression-cry cycle in most intense form (10:6-18), then Jephthah's rise and tragic fall. Held together by cyclical formula and Jephthah narrative.",
       "reference": "10:1-12:7",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Minor Judges Tola and Jair", "reference": "10:1-5", "why_start_end_and_devices": "Starts with 'After Abimelech.' Ends with 'Jair died and was buried.' Brief minor judge interlude. Provides narrative bridge from Abimelech to next crisis. Wealth indicators (sons on donkeys) show move toward monarchy."},
-        {"scene_number": 2, "scene_name": "Israel's Sin and God's Angry Rebuke", "reference": "10:6-18", "why_start_end_and_devices": "Starts with 'And the children of Israel did evil again.' Ends with desperate people looking for leader. Most intense version of cycle's Sin and Cry elements. Sin is plural: serve gods of seven nations. God's ironic, angry refusal: 'Go cry to gods you chose.'"},
-        {"scene_number": 3, "scene_name": "Jephthah Recruited by Gilead", "reference": "11:1-11", "why_start_end_and_devices": "Starts with introduction of Jephthah as outcast son of prostitute. Ends with 'Jephthah spoke all words before the LORD at Mizpah.' Introduces deliverer. Irony: elders who drove him out must beg him to be their 'head.'"},
-        {"scene_number": 4, "scene_name": "Jephthah's Diplomatic Overture", "reference": "11:12-28", "why_start_end_and_devices": "Starts with messengers to Ammon king. Ends with 'king did not listen.' Long formal speech showing skilled diplomat and historian. Recounts Exodus and conquest. Theological point: Yahweh gave Israel land, Chemosh gave you land. Appeal fails, making war necessary."},
-        {"scene_number": 5, "scene_name": "Jephthah's Vow and His Daughter", "reference": "11:29-40", "why_start_end_and_devices": "Starts with Spirit comes upon Jephthah, he makes vow. Ends with establishment of four-day lament custom. Tragic heart of story. Driven by Spirit, he makes rash vow. Dramatic irony: 'whatever' comes out—his only child. Her request to bewail virginity is one of Bible's most tragic speeches."},
-        {"scene_number": 6, "scene_name": "The Shibboleth Incident", "reference": "12:1-7", "why_start_end_and_devices": "Starts with Ephraim challenging Jephthah. Ends with Jephthah's death and burial. Parallels Gideon's encounter with Ephraim (8:1-3) but with brutal violence. Civil war and linguistic test 'Shibboleth' mark tragic internecine conflict. Story ends not in rest, but in blood."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Minor Judges Tola and Jair",
+          "reference": "10:1-5",
+          "why_start_end_and_devices": "Starts with 'After Abimelech.' Ends with 'Jair died and was buried.' Brief minor judge interlude. Provides narrative bridge from Abimelech to next crisis. Wealth indicators (sons on donkeys) show move toward monarchy."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Israel's Idolatry; Ammon Oppresses",
+          "reference": "10:6-9",
+          "why_start_end_and_devices": "Starts the sevenfold idolatry. Ends Israel in great distress. Devices: The deepest relapse yet—a catalogue of foreign gods."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "'Go Cry to the Gods You Chose'",
+          "reference": "10:10-14",
+          "why_start_end_and_devices": "Starts Israel's confession. Ends God's stinging refusal. Devices: Divine sarcasm exposing their fickle worship."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Israel Repents; the Gileadites Seek a Leader",
+          "reference": "10:15-18",
+          "why_start_end_and_devices": "Starts putting away the foreign gods. Ends 'who will lead?' Devices: God 'could bear Israel's misery no longer'—mercy stirs."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Jephthah the Outcast Son",
+          "reference": "11:1-3",
+          "why_start_end_and_devices": "Starts the mighty warrior, son of a prostitute. Ends gathering outlaws. Devices: The rejected son—an unlikely deliverer."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Gilead Begs Him to Lead",
+          "reference": "11:4-8",
+          "why_start_end_and_devices": "Starts the elders' approach. Ends 'will I really be your head?' Devices: Reversal—those who drove him out now need him."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Jephthah's Terms Sworn at Mizpah",
+          "reference": "11:9-11",
+          "why_start_end_and_devices": "Starts the negotiation. Ends the vow before the LORD. Devices: Covenant language; words and vows foreshadow the tragedy."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Jephthah's Message to the King of Ammon",
+          "reference": "11:12-16",
+          "why_start_end_and_devices": "Starts the diplomatic query. Ends Israel's wilderness journey recalled. Devices: A reasoned case before war."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The History: Israel Did Not Take Ammon's Land",
+          "reference": "11:17-22",
+          "why_start_end_and_devices": "Starts Edom and Moab's refusals. Ends the conquest of Sihon. Devices: Historical argument for Israel's claim."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "'Whatever the LORD Gives Us'",
+          "reference": "11:23-28",
+          "why_start_end_and_devices": "Starts the theological appeal. Ends the king ignoring him. Devices: 'The LORD our God is judge'—diplomacy fails, war follows."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Jephthah's Rash Vow",
+          "reference": "11:29-31",
+          "why_start_end_and_devices": "Starts the Spirit coming on him. Ends the fatal vow. Devices: Faith marred by a needless, tragic bargain."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Victory—and His Daughter Comes Out",
+          "reference": "11:32-35",
+          "why_start_end_and_devices": "Starts the rout of Ammon. Ends 'you have brought me low.' Devices: Triumph turned to anguish at the door."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Daughter's Lament; the Yearly Custom",
+          "reference": "11:36-40",
+          "why_start_end_and_devices": "Starts her acceptance. Ends the four-day commemoration. Devices: A grievous resolution; the daughters of Israel remember."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Ephraim's Threat; Gilead Fights Back",
+          "reference": "12:1-4",
+          "why_start_end_and_devices": "Starts Ephraim's complaint (again). Ends the battle. Devices: Tribal jealousy turns deadly—contrast with Gideon's diplomacy."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Shibboleth Test; Jephthah's Death",
+          "reference": "12:5-7",
+          "why_start_end_and_devices": "Starts the Jordan fords seized. Ends Jephthah's death. Devices: A dialect-test slaughter—Israel turning on itself."
+        }
       ]
     },
     {
@@ -106,17 +576,150 @@
       "why_start_end_and_literary_glue": "Starts with 'After him, Ibzan of Bethlehem judged' (12:8). Ends with 'He had judged Israel twenty years' and burial (16:31). Groups final three minor judges (Ibzan, Elon, Abdon) as preface to long, final judge story. Complete life cycle from miraculous birth to tragic death. Unlike other judges, doesn't 'deliver' Israel; acts as lone, chaotic agent of vengeance. Represents final degradation of judge office. Held together by Nazarite vow and repeated self-destructive interactions with Philistine women.",
       "reference": "12:8-16:31",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Minor Judges Ibzan, Elon, and Abdon", "reference": "12:8-15", "why_start_end_and_devices": "Starts with 'After him, Ibzan.' Ends with 'Abdon died and was buried.' Final minor judge interlude. Notes wealth and large families. Reinforces theme of shift toward worldly monarchy."},
-        {"scene_number": 2, "scene_name": "The Angel's First Visit and the Nazarite Vow", "reference": "13:1-14", "why_start_end_and_devices": "Starts with 'And the children of Israel did evil again' and introduction of Manoah. Ends with angel departs from woman. Unique call narrative: angel speaks to *mother*, not judge. Angel dictates Nazarite vow terms (13:4-5)—source of strength and weakness."},
-        {"scene_number": 3, "scene_name": "The Angel's Second Visit and Samson's Birth", "reference": "13:15-25", "why_start_end_and_devices": "Starts with Manoah detaining Angel for meal. Ends with birth: 'the Spirit of the LORD began to move him.' Angel ascends in sacrifice flame (theophany). Introduction complete with statement of vow-keeping and Spirit's stirring."},
-        {"scene_number": 4, "scene_name": "Samson's Philistine Wife and the Lion's Riddle", "reference": "14:1-9", "why_start_end_and_devices": "Starts with Samson seeing woman at Timnah. Ends with honey taken, 'but he did not tell them.' Establishes fatal flaw: desire for Philistine women. Theological note: 'it was of the LORD' (14:4)—God uses sinful desires to 'seek occasion' against Philistines."},
-        {"scene_number": 5, "scene_name": "The Wedding Feast and the Riddle's Betrayal", "reference": "14:10-20", "why_start_end_and_devices": "Starts with Samson making feast. Ends with wife given to companion. Riddle ('Out of eater came something to eat') is central conflict. Turns on betrayal: wife's weeping coerces him, riddle solved. Triggers violent, Spirit-empowered response (14:19)."},
-        {"scene_number": 6, "scene_name": "The Flaming Foxes", "reference": "15:1-8", "why_start_end_and_devices": "Starts with Samson returning to visit wife. Ends with 'struck them hip and thigh with great blow.' Escalating, vengeful violence. Foxes/jackals with torches—agricultural terrorism. Wife and father-in-law burned. Vendetta cycle, not holy war."},
-        {"scene_number": 7, "scene_name": "The Jawbone at Lehi", "reference": "15:9-20", "why_start_end_and_devices": "Starts with Philistines coming to Lehi. Ends with summary of his judgeship (15:20). Highlights Judah's cowardice. Spirit frees him from bonds. Slays 1,000 with fresh jawbone. Rare moment: cries for water, shows dependence on God."},
-        {"scene_number": 8, "scene_name": "Samson at Gaza", "reference": "16:1-3", "why_start_end_and_devices": "Starts with 'Samson went to Gaza.' Ends with gates carried to Hebron. Self-contained vignette. He again visits prostitute, unchanged character. 'Escape' foreshadows his inability to escape in next scene. Gates to hilltop—superhuman strength and mockery."},
-        {"scene_number": 9, "scene_name": "Delilah's First Three Attempts", "reference": "16:4-14", "why_start_end_and_devices": "Starts with 'After this he loved a woman... Delilah.' Ends with third attempt at loom fails. Cat-and-mouse game. Delilah bribed (16:5). Samson lies three times about strength. Incredible arrogance: toying with secret that protects him."},
-        {"scene_number": 10, "scene_name": "Delilah's Success and Samson's Capture", "reference": "16:15-22", "why_start_end_and_devices": "Starts with Delilah's final plea: 'How can you say I love you?' Ends with 'his hair began to grow again.' Vexing (16:16) parallels first wife (14:17). Finally yields. Shaving is external sign of broken vow. True tragedy: 'did not know LORD had left him.' Blinding is physical manifestation of spiritual blindness."},
-        {"scene_number": 11, "scene_name": "The Death of Samson", "reference": "16:23-31", "why_start_end_and_devices": "Starts with Philistines gathering to sacrifice to Dagon. Ends with death, burial, and final summary: 'judged Israel twenty years.' Climax. Samson brought out 'to entertain them'—public spectacle. Final prayer personal ('avenge me'), not national. Pulls down temple, kills more in death than life."}
+        {
+          "scene_number": 1,
+          "scene_name": "Ibzan of Bethlehem",
+          "reference": "12:8-10",
+          "why_start_end_and_devices": "Starts the minor judge Ibzan. Ends his death. Devices: Brief annal; thirty sons and daughters."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Elon and Abdon",
+          "reference": "12:11-15",
+          "why_start_end_and_devices": "Starts Elon. Ends Abdon's seventy donkey-riding descendants. Devices: The minor-judge list bridging to Samson."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Angel Announces a Nazirite Son",
+          "reference": "13:1-5",
+          "why_start_end_and_devices": "Starts the Philistine oppression. Ends 'he will begin to deliver Israel.' Devices: A barren wife; a Nazirite from the womb."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Manoah's Wife Reports; He Prays for a Return",
+          "reference": "13:6-10",
+          "why_start_end_and_devices": "Starts her account to Manoah. Ends the angel returning. Devices: A father's earnest desire for guidance."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Angel Repeats the Instructions",
+          "reference": "13:11-14",
+          "why_start_end_and_devices": "Starts Manoah's question. Ends the Nazirite rules restated. Devices: Emphasis by repetition—the vow's terms."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Angel Ascends in the Altar Flame",
+          "reference": "13:15-20",
+          "why_start_end_and_devices": "Starts Manoah's offer of food. Ends the angel rising in the flame. Devices: 'His name is Wonderful'—a theophany."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "'We Have Seen God'; Samson Born",
+          "reference": "13:21-25",
+          "why_start_end_and_devices": "Starts Manoah's fear of death. Ends the Spirit beginning to stir Samson. Devices: Birth narrative closing; the deliverer arrives."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Samson Desires a Philistine Wife",
+          "reference": "14:1-4",
+          "why_start_end_and_devices": "Starts the woman at Timnah. Ends 'this was from the LORD.' Devices: Providence working through Samson's flawed desire."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Lion and the Honey",
+          "reference": "14:5-9",
+          "why_start_end_and_devices": "Starts the lion killed barehanded. Ends honey from the carcass. Devices: The riddle's secret source seeded."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Wedding Riddle",
+          "reference": "14:10-14",
+          "why_start_end_and_devices": "Starts the feast. Ends the companions stumped. Devices: 'Out of the eater...something to eat'—the wager set."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Bride Pressed; She Tells the Answer",
+          "reference": "14:15-17",
+          "why_start_end_and_devices": "Starts the threats against the bride. Ends her weeping out the secret. Devices: Manipulation and betrayal—foreshadowing Delilah."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Riddle Answered; Thirty Slain at Ashkelon",
+          "reference": "14:18-20",
+          "why_start_end_and_devices": "Starts 'what is sweeter than honey?' Ends the wife given to another. Devices: Samson's rage; the cycle of revenge begins."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Samson Denied His Wife",
+          "reference": "15:1-3",
+          "why_start_end_and_devices": "Starts Samson returning to her. Ends 'this time I have a right.' Devices: Insult fuels the next outburst."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Foxes and Firebrands; 'I Merely Repaid Them'",
+          "reference": "15:4-8",
+          "why_start_end_and_devices": "Starts the three hundred foxes. Ends Samson at the cave of Etam. Devices: Escalating, grotesque revenge."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Judah Binds Samson to Hand Him Over",
+          "reference": "15:9-13",
+          "why_start_end_and_devices": "Starts the Philistine raid. Ends Samson bound with new ropes. Devices: His own people fear him more than they trust him."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Jawbone of a Donkey; a Thousand Slain",
+          "reference": "15:14-17",
+          "why_start_end_and_devices": "Starts the Spirit rushing on him. Ends 'Ramath-lehi.' Devices: The ropes melt; an improbable weapon."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Water from En-hakkore",
+          "reference": "15:18-20",
+          "why_start_end_and_devices": "Starts Samson's thirst. Ends twenty years of judging. Devices: A rare prayer; God provides."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Samson at Gaza",
+          "reference": "16:1-3",
+          "why_start_end_and_devices": "Starts with 'Samson went to Gaza.' Ends with gates carried to Hebron. Self-contained vignette. He again visits prostitute, unchanged character. 'Escape' foreshadows his inability to escape in next scene. Gates to hilltop—superhuman strength and mockery."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Delilah and the Seven Bowstrings",
+          "reference": "16:4-9",
+          "why_start_end_and_devices": "Starts the Philistines' bribe. Ends the first deception exposed. Devices: The cat-and-mouse game begins."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "New Ropes and the Loom",
+          "reference": "16:10-14",
+          "why_start_end_and_devices": "Starts Delilah's reproach. Ends 'you have mocked me.' Devices: Repetition building toward the fatal disclosure."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "'How Can You Say You Love Me?'; the Secret Told",
+          "reference": "16:15-19",
+          "why_start_end_and_devices": "Starts her relentless pressing. Ends his head shaved. Devices: Worn down to death; the Nazirite vow broken."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Strength Gone; Blinded and Bound; the Hair Grows",
+          "reference": "16:20-22",
+          "why_start_end_and_devices": "Starts 'the LORD had left him.' Ends 'his hair began to grow.' Devices: The tragic low point—and a seed of hope."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Mocked at Dagon's Temple",
+          "reference": "16:23-27",
+          "why_start_end_and_devices": "Starts the Philistine sacrifice to Dagon. Ends the temple packed with onlookers. Devices: God's deliverer made sport—humiliation at its peak."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "'Let Me Die with the Philistines'",
+          "reference": "16:28-31",
+          "why_start_end_and_devices": "Starts Samson's final prayer. Ends his burial. Devices: Strength restored once more; victory in death."
+        }
       ]
     },
     {
@@ -125,11 +728,60 @@
       "why_start_end_and_literary_glue": "Starts with 'There was a man of the hill country of Ephraim' (17:1). Ends with contrast to 'the house of God... at Shiloh' (18:31). First of two appendixes forming book's epilogue. Self-contained narrative explaining origin of idolatrous shrine at Dan. Not part of judge cycle; case study of *religious* anarchy. Held together by refrain 'In those days there was no king in Israel' and journey of Micah's stolen idols/corrupt priest.",
       "reference": "17:1-18:31",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Micah and His Idols", "reference": "17:1-6", "why_start_end_and_devices": "Starts with 'There was a man.' Ends with key refrain: 'In those days there was no king in Israel; everyone did what was right in his own eyes' (17:6). Dark satire of pious apostasy. Steals from mother, she curses, he confesses, she consecrates stolen silver to make idol."},
-        {"scene_number": 2, "scene_name": "Micah Hires a Levite Priest", "reference": "17:7-13", "why_start_end_and_devices": "Starts with 'a young man from Bethlehem... a Levite.' Ends with Micah's false confidence: 'Now I know the LORD will prosper me.' Deepens syncretism. Wandering Levite, hired priest. Supreme irony: Micah's 'house of gods' *and* personal Levite ensure blessing."},
-        {"scene_number": 3, "scene_name": "The Danite Spies and the Levite", "reference": "18:1-10", "why_start_end_and_devices": "Starts with refrain and introduction of Danites (18:1). Ends with spies returning with favorable report (18:10). Connects plotlines. Danites looking for land recognize Levite, receive self-serving 'oracle' (18:6). Find Laish—unsuspecting, quiet—and decide to take it."},
-        {"scene_number": 4, "scene_name": "The Danites Steal Micah's Idols and Priest", "reference": "18:11-21", "why_start_end_and_devices": "Starts with 600 Danites setting out. Ends with priest 'in midst of them' departing. Danites' corruption revealed: don't just want land, want *religion*. Levite easily persuaded to be tribe priest rather than house priest. Steals idols."},
-        {"scene_number": 5, "scene_name": "The Conquest of Laish", "reference": "18:22-31", "why_start_end_and_devices": "Starts with Micah and neighbors pursuing Danites. Ends with final summary of new shrine. Pathetic end for Micah ('What more have I?' 18:24). Danites 'put to sword and burned' Laish, rename it Dan, establish idolatrous shrine with Micah's idols. Contrast with true shrine at Shiloh."}
+        {
+          "scene_number": 1,
+          "scene_name": "Micah and His Idols",
+          "reference": "17:1-6",
+          "why_start_end_and_devices": "Starts with 'There was a man.' Ends with key refrain: 'In those days there was no king in Israel; everyone did what was right in his own eyes' (17:6). Dark satire of pious apostasy. Steals from mother, she curses, he confesses, she consecrates stolen silver to make idol."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "A Wandering Levite Comes to Micah",
+          "reference": "17:7-9",
+          "why_start_end_and_devices": "Starts the Levite from Bethlehem. Ends seeking a place to stay. Devices: Rootless religion in 'the days when there was no king.'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Micah Hires Him as Priest",
+          "reference": "17:10-13",
+          "why_start_end_and_devices": "Starts the offer of wages. Ends 'now I know the LORD will be good to me.' Devices: Privatized, transactional worship—deep irony."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Danite Spies Consult the Levite",
+          "reference": "18:1-6",
+          "why_start_end_and_devices": "Starts Dan seeking land. Ends 'your journey has the LORD's approval.' Devices: A corrupt oracle blesses a doomed venture."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Laish Scouted: 'The Land Is Very Good'",
+          "reference": "18:7-10",
+          "why_start_end_and_devices": "Starts the spies at Laish. Ends 'God has given it into your hands.' Devices: A peaceful, defenseless people targeted."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Six Hundred Danites at Micah's House",
+          "reference": "18:11-16",
+          "why_start_end_and_devices": "Starts the armed migration. Ends standing at the gate. Devices: Force gathering around the shrine."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "They Steal the Idols and the Priest",
+          "reference": "18:17-21",
+          "why_start_end_and_devices": "Starts the idols taken. Ends the priest gladly joining them. Devices: 'Better to be priest to a tribe'—mercenary religion."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Micah Pursues but Is Outmatched",
+          "reference": "18:22-26",
+          "why_start_end_and_devices": "Starts Micah's outcry. Ends 'what do you have left?' Devices: Might makes right in a lawless age."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Laish Burned, Renamed Dan; the Idol Set Up",
+          "reference": "18:27-31",
+          "why_start_end_and_devices": "Starts the defenseless city destroyed. Ends the idol there 'all the time the house of God was at Shiloh.' Devices: Apostasy institutionalized."
+        }
       ]
     },
     {
@@ -138,13 +790,144 @@
       "why_start_end_and_literary_glue": "Starts with 'And it came to pass in those days, when there was no king in Israel' (19:1). Ends with 'In those days there was no king in Israel: every man did that which was right in his own eyes' (21:25)—book's final verse. Ultimate case study of anarchy when 'no king.' Single, unbroken story arc: Crime → Judgment → Consequences → 'Solution.' Details moral and political disintegration ending in brutal civil war and morally bankrupt solution. Held together by 'no king' refrain and single narrative flow.",
       "reference": "19:1-21:25",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Levite and His Concubine Journey to Gibeah", "reference": "19:1-15", "why_start_end_and_devices": "Starts with 'no king' formula and Levite introduction (19:1). Ends with Levite party sitting in square of Gibeah, no one takes them in. Builds tension. Levite retrieves unfaithful concubine from father's house. Father-in-law's insistent hospitality delays them, causing tragic nightfall arrival at Gibeah."},
-        {"scene_number": 2, "scene_name": "The Atrocity at Gibeah", "reference": "19:16-30", "why_start_end_and_devices": "Starts with old Ephraimite offering hospitality. Ends with Levite dismembering body, sending it 'into all territory of Israel.' Horrifying parallel to Sodom story. 'Worthless fellows' demand man. Host offers virgin daughter and concubine. Concubine abused all night, dies on doorstep. Levite's dismemberment is grotesque 'call to arms.'"},
-        {"scene_number": 3, "scene_name": "Israel Gathers at Mizpah to Judge", "reference": "20:1-11", "why_start_end_and_devices": "Starts with 'Then all people of Israel came out... as one man.' Ends with 'all men of Israel gathered... united as one man.' Framed by 'as one man,' showing unified horror. Levite recounts story (20:4-7). Nation resolves punishment. Contrast: 11 tribes unified, Benjamin stands alone."},
-        {"scene_number": 4, "scene_name": "The Civil War: Benjamin's First Two Victories", "reference": "20:12-28", "why_start_end_and_devices": "Starts with ultimatum to Benjamin, refused (20:12-13). Ends with second defeat, Israel weeps, inquires at Bethel (20:28). Benjamin's solidarity *with sinners* (20:14) rather than justice. Shock as Israel, despite God's 'approval' (20:18, 23, 28), defeated twice with massive casualties."},
-        {"scene_number": 5, "scene_name": "The Ambush and Destruction of Benjamin", "reference": "20:29-48", "why_start_end_and_devices": "Starts with Israel setting ambush. Ends with Benjamin 'wiped out' (20:48). Mirrors Ai battle (Joshua 8). Ambush (20:29, 34) and smoke signal (20:38, 40) finally defeat Benjamin. Victory turns to 'cherem' (total destruction)—holy war practice turned inward in bloody civil war."},
-        {"scene_number": 6, "scene_name": "Lament for a Lost Tribe", "reference": "21:1-14", "why_start_end_and_devices": "Starts with realization of rash vow: 'No one shall give daughter to Benjamin' (21:1). Ends with 400 wives from Jabesh-gilead, 'but they were not enough' (21:14). Horror of victory. Having destroyed 12th tribe, now lament the 'breach' (21:15). Solution as brutal as crime: slaughter Jabesh-gilead to steal 400 virgins."},
-        {"scene_number": 7, "scene_name": "Wives from Shiloh; The Final Verdict", "reference": "21:15-25", "why_start_end_and_devices": "Starts with elders seeking 'solution' for remaining men (21:15). Ends with final, summarizing verse: 'every man did that which was right in his own eyes' (21:25). Book ends in utter moral depravity sanctioned by elders. Solution: *kidnap* women from religious festival at Shiloh (21:19-21). Legal technicality justifies vow-breaking (21:22). Closes with key refrain showing chaos results from 'no king.'"}
+        {
+          "scene_number": 1,
+          "scene_name": "A Levite Reclaims His Concubine",
+          "reference": "19:1-4",
+          "why_start_end_and_devices": "Starts 'in those days Israel had no king.' Ends the father-in-law's welcome. Devices: The ominous frame-refrain returns."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Father-in-Law's Insistent Hospitality",
+          "reference": "19:5-9",
+          "why_start_end_and_devices": "Starts the delayed departures. Ends leaving late in the day. Devices: Hospitality stretched to a fateful delay."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "They Reach Gibeah at Nightfall",
+          "reference": "19:10-15",
+          "why_start_end_and_devices": "Starts passing by Jebus. Ends no one taking them in. Devices: Gibeah of Benjamin—worse than the pagans, foreshadowed."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "An Old Man Takes Them In",
+          "reference": "19:16-21",
+          "why_start_end_and_devices": "Starts the old man from the fields. Ends the guests refreshed. Devices: A flicker of hospitality before horror."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Outrage at Gibeah",
+          "reference": "19:22-26",
+          "why_start_end_and_devices": "Starts the wicked men surrounding the house. Ends the concubine collapsing at the door. Devices: A deliberate echo of Sodom—Israel's depth of corruption."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Concubine Cut into Twelve Pieces",
+          "reference": "19:27-30",
+          "why_start_end_and_devices": "Starts the Levite's cold command. Ends 'nothing like this has ever happened.' Devices: A grisly summons to national reckoning."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "All Israel Assembles at Mizpah",
+          "reference": "20:1-3",
+          "why_start_end_and_devices": "Starts the nation gathering 'as one man.' Ends Benjamin hearing of it. Devices: Rare unity—over an atrocity."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Levite's Accusation",
+          "reference": "20:4-7",
+          "why_start_end_and_devices": "Starts his account. Ends 'give your verdict.' Devices: A self-serving retelling that still demands justice."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "United to Punish Gibeah",
+          "reference": "20:8-11",
+          "why_start_end_and_devices": "Starts the people rising as one. Ends the army united against the city. Devices: Resolve to purge the evil."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Benjamin Refuses to Surrender the Guilty",
+          "reference": "20:12-17",
+          "why_start_end_and_devices": "Starts the demand for the wicked men. Ends the armies numbered. Devices: Tribal loyalty over justice—civil war looms."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Israel Defeated Twice; They Weep",
+          "reference": "20:18-23",
+          "why_start_end_and_devices": "Starts inquiring of God. Ends weeping before the LORD. Devices: Costly defeats despite a just cause—humbling Israel."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "A Third Inquiry: 'Go Up'",
+          "reference": "20:24-28",
+          "why_start_end_and_devices": "Starts the second defeat. Ends 'tomorrow I will deliver them.' Devices: Phinehas and the ark; persistence rewarded."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Ambush Set at Gibeah",
+          "reference": "20:29-34",
+          "why_start_end_and_devices": "Starts the ambush positioned. Ends the fierce fighting. Devices: Strategy shifts the tide."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Benjamin Lured from the City",
+          "reference": "20:35-39",
+          "why_start_end_and_devices": "Starts the LORD striking Benjamin. Ends the feigned retreat. Devices: The trap from Joshua's Ai replayed."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Smoke Signal; Benjamin Routed",
+          "reference": "20:40-43",
+          "why_start_end_and_devices": "Starts the column of smoke. Ends Benjamin overtaken. Devices: Panic as the city burns behind them."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Benjamin Almost Annihilated",
+          "reference": "20:44-48",
+          "why_start_end_and_devices": "Starts the thousands fallen. Ends the towns put to the sword. Devices: Near-extinction of a tribe—horror upon horror."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The People Mourn the Lost Tribe",
+          "reference": "21:1-4",
+          "why_start_end_and_devices": "Starts the weeping at Bethel. Ends building an altar. Devices: Grief over the self-inflicted wound."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Oath That Created the Crisis",
+          "reference": "21:5-7",
+          "why_start_end_and_devices": "Starts the oath against giving daughters. Ends 'how can we provide wives?' Devices: A rash vow compounds the disaster (cf. Jephthah)."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Jabesh-gilead Punished; 400 Virgins Spared",
+          "reference": "21:8-12",
+          "why_start_end_and_devices": "Starts the absent town. Ends four hundred young women taken. Devices: A second atrocity to remedy the first."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Peace Offered to Benjamin",
+          "reference": "21:13-14",
+          "why_start_end_and_devices": "Starts the offer of peace. Ends 'there were not enough.' Devices: A grim, partial solution."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Still Not Enough Wives",
+          "reference": "21:15-18",
+          "why_start_end_and_devices": "Starts the people's grief for Benjamin. Ends the bind of the oath. Devices: Legalism trapping its makers."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Seize the Dancers at Shiloh",
+          "reference": "21:19-21",
+          "why_start_end_and_devices": "Starts the festival plan. Ends 'each of you catch a wife.' Devices: A sanctioned abduction—lawlessness dressed as solution."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "'Everyone Did as He Saw Fit'",
+          "reference": "21:22-25",
+          "why_start_end_and_devices": "Starts the scheme justified. Ends the book's closing refrain. Devices: The bleaderless chaos summed up—'no king in Israel.'"
+        }
       ]
     }
   ]

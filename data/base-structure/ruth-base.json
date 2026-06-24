@@ -18,18 +18,24 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "The Debate on the Road",
-          "reference": "1:6-1:14",
-          "why_start_end_and_devices": "Starts with new action and location: 'Then she arose with her daughters-in-law to return...' (1:6). Ends with Orpah's decision: 'And Orpah kissed her mother-in-law, but Ruth clung to her' (1:14). Driven by Naomi's threefold speech urging her daughters-in-law to 'return' (shuv). Her logic is based on her emptiness and old age (1:11-13). The scene builds tension around the decision, resolved by Orpah's departure, isolating Ruth's loyalty."
+          "scene_name": "Naomi Urges Her Daughters-in-Law Home",
+          "reference": "1:6-9",
+          "why_start_end_and_devices": "Starts Naomi setting out from Moab. Ends 'may you find rest in a husband's house.' Devices: Selfless love amid grief; the road as a place of decision."
         },
         {
           "scene_number": 3,
+          "scene_name": "Orpah Turns Back; Ruth Clings",
+          "reference": "1:10-14",
+          "why_start_end_and_devices": "Starts their protest to stay. Ends 'Ruth clung to her.' Devices: The pivotal contrast—Orpah kisses, Ruth clings."
+        },
+        {
+          "scene_number": 4,
           "scene_name": "Ruth's Vow",
           "reference": "1:15-1:18",
           "why_start_end_and_devices": "Starts with Naomi's address to Ruth after Orpah's departure: 'See, your sister-in-law has gone back...' (1:15). Ends with debate resolution: 'And when Naomi saw that she was determined to go with her, she said no more' (1:18). This is the emotional and theological climax of the chapter, a tight, complete thought focused entirely on Ruth's decision. The center is Ruth's famous poetic vow (1:16-17), a profound statement of hesed (loyal kindness) transferring her allegiance from her people and gods to Naomi's people and God."
         },
         {
-          "scene_number": 4,
+          "scene_number": 5,
           "scene_name": "The Empty Return to Bethlehem",
           "reference": "1:19-1:22",
           "why_start_end_and_devices": "Starts with new action and location: 'So the two of them went on until they came to Bethlehem' (1:19). Ends with chapter's concluding summary and narrative hinge: '...and they came to Bethlehem at the beginning of barley harvest' (1:22). Forms structural inclusio with 1:1-5. Women of Bethlehem's question ('Is this Naomi?' 1:19) prompts Naomi's key speech defining the book's central theme: 'Do not call me Naomi; call me Mara, for the Almighty has dealt very bitterly with me' (1:20-21), explicitly establishing the 'emptiness' that the rest of the book will resolve."
@@ -50,12 +56,24 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "Boaz Shows Favor to Ruth",
-          "reference": "2:4-2:17",
-          "why_start_end_and_devices": "Starts with Boaz's arrival and dialogue: 'And behold, Boaz came from Bethlehem' (2:4). Ends with end of workday and result: 'So she gleaned in the field until evening. Then she beat out what she had gleaned, and it was about an ephah of barley' (2:17). This is the chapter's main scene, structured by series of dialogues: Boaz and workers (2:4), Boaz and foreman (2:5-7), Boaz and Ruth (first exchange, 2:8-10), Boaz's blessing recognizing Ruth's hesed (2:11-12), Ruth's response (2:13), Boaz's provision at meal (2:14), Boaz's private command to workers (2:15-16). The 'ephah of barley' is physical evidence of the favor shown."
+          "scene_name": "Boaz Notices the Stranger Gleaning",
+          "reference": "2:4-7",
+          "why_start_end_and_devices": "Starts Boaz arriving from Bethlehem. Ends the foreman's report. Devices: 'Whose young woman is this?'—providence at work."
         },
         {
           "scene_number": 3,
+          "scene_name": "'Stay in My Field'; Ruth's Gratitude",
+          "reference": "2:8-13",
+          "why_start_end_and_devices": "Starts Boaz's protective kindness. Ends 'you have comforted me.' Devices: Hesed (covenant kindness) flowing both ways; 'under whose wings you have taken refuge.'"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Boaz's Generosity at the Meal",
+          "reference": "2:14-17",
+          "why_start_end_and_devices": "Starts the shared meal. Ends an ephah of barley. Devices: Deliberate over-provision—grace exceeding the law."
+        },
+        {
+          "scene_number": 5,
           "scene_name": "Naomi's Hope is Kindled",
           "reference": "2:18-2:23",
           "why_start_end_and_devices": "Starts with Ruth's return: 'And she took it up and went into the city' (2:18). Ends with chapter's concluding summary: 'And she lived with her mother-in-law' (2:23). This scene parallels 1:19-22 but in reverse. Ruth brings food (fullness) instead of just herself (emptiness). Naomi's response is now a blessing (2:19-20) instead of a curse (1:20-21). Key moment is Naomi's recognition of Boaz as 'one of our redeemers' (go'el), forming basis for her plan in Chapter 3. The shift from mourning to hope is complete."
@@ -76,12 +94,24 @@
         },
         {
           "scene_number": 2,
-          "scene_name": "The Encounter at the Threshing Floor",
-          "reference": "3:6-3:15",
-          "why_start_end_and_devices": "Starts with Ruth executing plan: 'So she went down to the threshing floor...' (3:6). Ends with night-time encounter over and Boaz sending Ruth away with pledge: '...he laid it on her. Then she went into the city' (3:15). This is the book's narrative climax and turning point, filled with suspense (darkness, midnight, the startle in 3:8). Key dialogue is Ruth's proposal: 'spread your wings [kanaph, same word as 2:12] over your servant, for you are a redeemer' (3:9). Plot twist is introduced: 'there is a redeemer nearer than I' (3:12). Six measures of barley (3:15) serve as physical pledge to Naomi that Boaz will act."
+          "scene_name": "At His Feet: 'Spread Your Cloak Over Me'",
+          "reference": "3:6-9",
+          "why_start_end_and_devices": "Starts the threshing floor at night. Ends Ruth's bold request. Devices: A daring appeal to the kinsman-redeemer law; 'spread your wings.'"
         },
         {
           "scene_number": 3,
+          "scene_name": "Boaz Blesses Her; the Nearer Redeemer",
+          "reference": "3:10-13",
+          "why_start_end_and_devices": "Starts Boaz's blessing. Ends 'as the LORD lives.' Devices: A complication—a closer redeemer must be cleared first."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Six Measures of Barley Before Dawn",
+          "reference": "3:14-15",
+          "why_start_end_and_devices": "Starts the discreet departure. Ends the gift of grain. Devices: Guarding her honor; a pledge of full provision."
+        },
+        {
+          "scene_number": 5,
           "scene_name": "The Report to Naomi",
           "reference": "3:16-3:18",
           "why_start_end_and_devices": "Starts with Ruth's return to Naomi: 'And when she came to her mother-in-law...' (3:16). Ends with chapter's resolving statement and anticipation: '...the man will not rest, but will finish the matter today' (3:18). This scene parallels 2:18-23 (Ruth returns to Naomi with grain). Naomi's opening question 'Who are you, my daughter?' prompts Ruth's report. Naomi's final speech (3:18) shows complete confidence in Boaz, resolving chapter's tension and setting stage for final act."
@@ -96,18 +126,24 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Legal Transaction at the Gate",
-          "reference": "4:1-4:12",
-          "why_start_end_and_devices": "Starts with Boaz arriving at public, legal space: 'Now Boaz had gone up to the gate...' (4:1). Ends with legal matter finished and witnesses blessing: '...and all the people who were at the gate... said, \"We are witnesses\"' (4:11-12). This scene is a formal legal proceeding, structured as a public courtroom drama: 1) Boaz assembles court (4:1-2), 2) Boaz presents the case of land to nearer kinsman (4:3-4), 3) kinsman accepts, 4) Boaz adds the plot twist: Ruth (4:5), 5) kinsman refuses (4:6), 6) sandal ceremony seals transfer of redemption (4:7-10), 7) people and elders serve as witnesses and give blessing (4:11-12). The formal procedure confirms public legitimacy."
+          "scene_name": "The Nearer Kinsman Declines",
+          "reference": "4:1-6",
+          "why_start_end_and_devices": "Starts Boaz at the town gate. Ends 'you redeem it yourself.' Devices: Legal drama; the redeemer who will not risk his estate."
         },
         {
           "scene_number": 2,
+          "scene_name": "The Sandal; Boaz Redeems and the Blessing",
+          "reference": "4:7-12",
+          "why_start_end_and_devices": "Starts the sandal custom. Ends the elders' blessing (Rachel, Leah, Tamar). Devices: Public covenant; the community blesses the union—pointing to David."
+        },
+        {
+          "scene_number": 3,
           "scene_name": "Naomi's Redemption",
           "reference": "4:13-4:17",
           "why_start_end_and_devices": "Starts with narrative fulfillment of legal act: 'So Boaz took Ruth...' (4:13). Ends with child named, completing family line and resolving Naomi's emptiness: 'and they named him Obed. He was the father of Jesse, the father of David' (4:17). This is the thematic climax of the book. Action moves swiftly: marriage → conception → birth (4:13). Focus shifts entirely to Naomi. Women of Bethlehem (cf. 1:19) pronounce blessing on Naomi (4:14-15), explicitly stating 'he shall be to you a restorer of life.' Naomi 'takes the child and lays him in her bosom' (4:16), symbolic adoption resolving her 'emptiness' from 1:21. Perfect inverse of the book's opening."
         },
         {
-          "scene_number": 3,
+          "scene_number": 4,
           "scene_name": "The Genealogy to David",
           "reference": "4:18-4:22",
           "why_start_end_and_devices": "Starts with formal genealogical heading: 'Now these are the generations of Perez...' (4:18). Ends with book's close. This is a formal toledot (genealogy) serving as the book's colophon. The ten-generation list (Perez to David) widens the book's lens from personal family drama to event of national and theological significance, rooting Davidic kingship in the faithfulness of God and the hesed of individuals like Ruth and Boaz. The genealogy elevates Ruth from foreigner to ancestor of Israel's greatest king, answering the book's implicit question about the LORD's redemptive purposes."

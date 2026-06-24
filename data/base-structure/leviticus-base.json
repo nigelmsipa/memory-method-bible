@@ -10,34 +10,246 @@
       "why_start_end_and_literary_glue": "Begins with the book's opening proclamation 'The LORD called to Moses from the tent of meeting' (1:1), directly resolving Exodus 40:35's crisis. God initiates communication from within the place of inaccessibility, providing the first protocols for human approach. Ends with a formal colophon (7:37-38) summarizing all five sacrifices: 'This is the law of the burnt offering, the grain offering, the sin offering, the guilt offering...' This inclusio (bracketing device) formally closes the sacrificial instruction. Literary glue: Dominated by repetitive formulaic language binding the pericopes: 'an offering by fire of a soothing aroma to the LORD' (refrain in Ch. 1-3); 'the priest shall make atonement...and they will be forgiven' (refrain in Ch. 4-5). The section uses two-part parallelism: Part A (Ch. 1-6:7) addresses the laity; Part B (Ch. 6:8-7:36) addresses priests. This inversion shifts ultimate cultic authority from priests to the book itself.",
       "reference": "1:1-7:38",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Burnt Offering from Cattle", "reference": "1:1-9", "why_start_end_and_devices": "Begins with God's call, introducing the first and most common offering (burnt offering, 'olah). Establishes the foundational formula: presentation, hand-laying (transferring intent), slaughter, priestly handling, burning. Ends with the key refrain 'an offering by fire, a pleasing aroma to the LORD.' Devices: Formula establishes the pattern for all offerings to follow."},
-        {"scene_number": 2, "scene_name": "The Burnt Offering from the Flock", "reference": "1:10-13", "why_start_end_and_devices": "Parallel case for sheep/goat, following identical structure with same refrain. Devices: Structural repetition demonstrates law's scalability by economic means (cattle → flock → birds)."},
-        {"scene_number": 3, "scene_name": "The Burnt Offering of Birds", "reference": "1:14-17", "why_start_end_and_devices": "Third parallel for poor households. Completes triad with same refrain. Devices: Parallelism and gradation—demonstrates accessibility for all socioeconomic levels."},
-        {"scene_number": 4, "scene_name": "The Grain Offering of Fine Flour", "reference": "2:1-3", "why_start_end_and_devices": "New topic ('When anyone brings a grain offering'). Marks shift from animal to plant offerings. Ends with 'most holy part of the LORD's food offerings.' Devices: Only memorial portion burned; remainder provides priestly support, establishing economic model."},
-        {"scene_number": 5, "scene_name": "The Grain Offering Prepared in Oven or Griddle", "reference": "2:4-10", "why_start_end_and_devices": "Parallel cases for baked/cooked grain offerings with same 'memorial portion' principle. Devices: Repetition ('memorial portion') and parallelism maintain structural unity."},
-        {"scene_number": 6, "scene_name": "General Rules for Grain Offerings", "reference": "2:11-13", "why_start_end_and_devices": "Shifts from listing types to stating general rules: prohibition on leaven/honey, requirement of salt. Devices: Symbolism—leaven/honey (agents of decay) prohibited; salt (preservative) mandated as metaphor for eternal covenant."},
-        {"scene_number": 7, "scene_name": "The Grain Offering of Firstfruits", "reference": "2:14-16", "why_start_end_and_devices": "Final grain offering type: firstfruits with unique preparation. Ends with 'an offering by fire to the LORD.' Devices: Connects agricultural bounty to cultic obligation."},
-        {"scene_number": 8, "scene_name": "The Peace Offering from Cattle", "reference": "3:1-5", "why_start_end_and_devices": "Major offering type begins ('If his offering is a sacrifice of peace offering'). Specifies fat portions burned, rest shared. Ends with 'pleasing aroma' refrain. Devices: Structural contrast—unlike 'olah (entirely burned) or minchah (priest eats), peace offering creates communion meal."},
-        {"scene_number": 9, "scene_name": "The Peace Offering from the Flock", "reference": "3:6-16", "why_start_end_and_devices": "Parallel cases for lamb and goat with anatomical detail (fat tail). Devices: Parallelism; detailed anatomy emphasizes specificity of priestly knowledge."},
-        {"scene_number": 10, "scene_name": "Concluding Prohibition on Fat and Blood", "reference": "3:17", "why_start_end_and_devices": "Grand summary rule, elevated to permanent universal statute. Devices: Climax and generalization—elevates specific ritual practice to foundational prohibition 'You shall not eat any fat or any blood.'"},
-        {"scene_number": 11, "scene_name": "The Purification Offering for the Anointed Priest", "reference": "4:1-12", "why_start_end_and_devices": "Major topic shift (oracle formula change addresses 'unintentional sin'). Highest status person requires most complex ritual—blood brought into Holy Place. Introduces new refrain 'the priest shall make atonement...and he shall be forgiven.' Devices: New refrain signals new section on atonement versus 'pleasing aroma.'"},
-        {"scene_number": 12, "scene_name": "The Purification Offering for the Whole Congregation", "reference": "4:13-21", "why_start_end_and_devices": "Second parallel: entire community's sin has identical ritual consequence as High Priest's. Devices: Structural parallelism—text equates community's sin severity with priest's by same ritual."},
-        {"scene_number": 13, "scene_name": "The Purification Offering for a Leader", "reference": "4:22-26", "why_start_end_and_devices": "Third case with pointedly less complex ritual—blood on outer altar, not inside tent. Ends with forgiveness refrain. Devices: Structural contrast—hierarchy defined by ritual complexity reflecting holiness breach severity."},
-        {"scene_number": 14, "scene_name": "The Purification Offering for a Common Person", "reference": "4:27-35", "why_start_end_and_devices": "Final hierarchical case with optional animals (goat or lamb). Ends with forgiveness refrain and summary. Devices: Completes hierarchy (Priest > Community > Leader > Commoner) with accessible options."},
-        {"scene_number": 15, "scene_name": "The Purification Offering for Sins of Omission", "reference": "5:1-4", "why_start_end_and_devices": "New sub-topic addressing 'sins of omission': failing to testify, touching unclean unknowingly, making forgotten oaths. Devices: List structure defines specific sin category (non-action vs. commission)."},
-        {"scene_number": 16, "scene_name": "The Purification Offering with Confession and Sliding Scale", "reference": "5:5-13", "why_start_end_and_devices": "Solution to omission sins: command to 'confess' (critical addition) with sliding scale for poor (lamb, birds, or flour). Ends with forgiveness refrain. Devices: Gradation and parallelism mirror burnt offering (1:1-17), reinforcing theological principle of accessibility."},
-        {"scene_number": 17, "scene_name": "The Guilt Offering for Sacrilege", "reference": "5:14-19", "why_start_end_and_devices": "New offering type (asham/reparation) for sin against holy things. Unique requirement: 'pay it back, and add a fifth.' Devices: Unique formula—first offering requiring restitution, shifting from purification to restoration."},
-        {"scene_number": 18, "scene_name": "The Guilt Offering for Sins Against a Neighbor", "reference": "6:1-7", "why_start_end_and_devices": "Climax of laity section: defrauding a neighbor (lying, robbery, extortion). Ends with forgiveness refrain. Devices: Theologically explosive—equates sin against human with 'breach of faith against the LORD,' linking ritual law to social ethics."},
-        {"scene_number": 19, "scene_name": "The Law of the Burnt Offering (Priest's Duty)", "reference": "6:8-13", "why_start_end_and_devices": "New section begins (priest's perspective). Command to keep fire lit all night, proper vestment and ash handling. Devices: Repetition and inversion—structure now focuses on priestly labor and portions received."},
-        {"scene_number": 20, "scene_name": "The Law of the Grain Offering (Priest's Portion)", "reference": "6:14-18", "why_start_end_and_devices": "Priests' portion rules: must eat without leaven, confined to holy court. Devices: Transitions from what to bring to what priests perform and receive."},
-        {"scene_number": 21, "scene_name": "The Priest's Own Daily Grain Offering", "reference": "6:19-23", "why_start_end_and_devices": "High Priest's daily offering entirely burned (unlike laity's, where priests eat remainder). Devices: Contrast emphasizing priest's unique status—cannot profit from own required offering."},
-        {"scene_number": 22, "scene_name": "The Law of the Purification Offering (Priest's Duty)", "reference": "6:24-30", "why_start_end_and_devices": "Rules for contagious holiness: blood spatter contaminates garments (must wash) and vessels (must break if pottery, scour if metal). Clarifies which offerings priests can eat. Devices: Introduces contagious holiness—inverse of contagious impurity."},
-        {"scene_number": 23, "scene_name": "The Law of the Guilt Offering (Priest's Portion)", "reference": "7:1-10", "why_start_end_and_devices": "Details priestly portion. Expands to summary of all priestly portions from various offerings (e.g., hide of burnt offering). Devices: Consolidation of priestly economic support across all sacrifices."},
-        {"scene_number": 24, "scene_name": "The Law of the Peace Offering (Thanksgiving)", "reference": "7:11-15", "why_start_end_and_devices": "Specific sub-section: peace offering for thanksgiving with unleavened and leavened breads. Strict 1-day consumption limit. Devices: Differentiates thanksgiving offering (most restrictive timeline) from other peace offerings."},
-        {"scene_number": 25, "scene_name": "The Law of the Peace Offering (Vow or Freewill)", "reference": "7:16-21", "why_start_end_and_devices": "Parallel: vow and freewill offerings with lenient 2-day limit. Penalty for eating on third day: 'abomination.' Devices: Structural parallelism showing different peace offering types with different rules."},
-        {"scene_number": 26, "scene_name": "Concluding Prohibition on Fat and Blood (Reiterated)", "reference": "7:22-27", "why_start_end_and_devices": "Final summary reiterating prohibition from 3:17 with penalty (cut off). Devices: Repetition and intensification—command now to priests to enforce, not just law for laity."},
-        {"scene_number": 27, "scene_name": "The Priest's Permanent Portion", "reference": "7:28-36", "why_start_end_and_devices": "Specifies 'wave offering' (breast) and 'contribution' (thigh) as permanent priestly portions from peace offering. Devices: Formalizes economic support through standardized portions."},
-        {"scene_number": 28, "scene_name": "Concluding Colophon for Story 1", "reference": "7:37-38", "why_start_end_and_devices": "Summary verses closing entire unit (Ch. 1-7). Acts as 'table of contents' listing all five sacrifices. Devices: Inclusio/colophon confirming single, cohesive literary unit before narrative shift."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Call; The Bull Presented and Accepted",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Begins with the LORD calling Moses from the tent. Ends with the hand laid on the head 'to make atonement.' Devices: Hand-laying transfers intent; the 'olah introduced as the foundational offering."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Slaughtered, Arranged, and Burned: A Pleasing Aroma",
+          "reference": "1:5-9",
+          "why_start_end_and_devices": "Starts with the slaughter and blood dashed on the altar. Ends 'a pleasing aroma to the LORD.' Devices: The whole animal ascends in smoke—total dedication; the refrain that recurs through the manual."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Burnt Offering from the Flock",
+          "reference": "1:10-13",
+          "why_start_end_and_devices": "Parallel case for sheep/goat, following identical structure with same refrain. Devices: Structural repetition demonstrates law's scalability by economic means (cattle → flock → birds)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Burnt Offering of Birds",
+          "reference": "1:14-17",
+          "why_start_end_and_devices": "Third parallel for poor households. Completes triad with same refrain. Devices: Parallelism and gradation—demonstrates accessibility for all socioeconomic levels."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Grain Offering of Fine Flour",
+          "reference": "2:1-3",
+          "why_start_end_and_devices": "New topic ('When anyone brings a grain offering'). Marks shift from animal to plant offerings. Ends with 'most holy part of the LORD's food offerings.' Devices: Only memorial portion burned; remainder provides priestly support, establishing economic model."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Grain Offering Baked or Griddle-Cooked",
+          "reference": "2:4-7",
+          "why_start_end_and_devices": "Starts with the oven-baked option. Ends with the pan-cooked option. Devices: Variety of preparation for varied means; all unleavened with oil."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Presented, the Memorial Portion Burned",
+          "reference": "2:8-10",
+          "why_start_end_and_devices": "Starts with bringing the offering to the priest. Ends 'most holy.' Devices: The 'memorial portion' burned, the rest to the priests—God's share and the priests' share distinguished."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "General Rules for Grain Offerings",
+          "reference": "2:11-13",
+          "why_start_end_and_devices": "Shifts from listing types to stating general rules: prohibition on leaven/honey, requirement of salt. Devices: Symbolism—leaven/honey (agents of decay) prohibited; salt (preservative) mandated as metaphor for eternal covenant."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Grain Offering of Firstfruits",
+          "reference": "2:14-16",
+          "why_start_end_and_devices": "Final grain offering type: firstfruits with unique preparation. Ends with 'an offering by fire to the LORD.' Devices: Connects agricultural bounty to cultic obligation."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Peace Offering from Cattle",
+          "reference": "3:1-5",
+          "why_start_end_and_devices": "Major offering type begins ('If his offering is a sacrifice of peace offering'). Specifies fat portions burned, rest shared. Ends with 'pleasing aroma' refrain. Devices: Structural contrast—unlike 'olah (entirely burned) or minchah (priest eats), peace offering creates communion meal."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Peace Offering: A Lamb",
+          "reference": "3:6-11",
+          "why_start_end_and_devices": "Starts with the flock offering. Ends with the food offering burned. Devices: The fat as the LORD's portion; 'food, an offering by fire.'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Peace Offering: A Goat",
+          "reference": "3:12-16",
+          "why_start_end_and_devices": "Starts with the goat option. Ends 'all the fat is the LORD's.' Devices: Parallel ritual; the fat reserved for God closes the section."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Concluding Prohibition on Fat and Blood",
+          "reference": "3:17",
+          "why_start_end_and_devices": "Grand summary rule, elevated to permanent universal statute. Devices: Climax and generalization—elevates specific ritual practice to foundational prohibition 'You shall not eat any fat or any blood.'"
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Anointed Priest Who Sins: The Bull",
+          "reference": "4:1-4",
+          "why_start_end_and_devices": "Starts the purification ('sin') offering for unintentional sin. Ends with the bull slaughtered. Devices: When the anointed priest sins he 'brings guilt on the people'—leadership's weight."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Blood Before the Veil and on the Incense Altar",
+          "reference": "4:5-7",
+          "why_start_end_and_devices": "Starts with carrying the blood into the tent. Ends with the blood poured at the altar base. Devices: Blood sprinkled seven times before the veil—graver sin reaches deeper into the sanctuary."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Fat Burned; the Rest Outside the Camp",
+          "reference": "4:8-12",
+          "why_start_end_and_devices": "Starts with the fat burned on the altar. Ends with the carcass burned outside the camp. Devices: Disposal 'outside the camp' marks defilement removed (cf. Heb 13)."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "When the Whole Assembly Sins",
+          "reference": "4:13-17",
+          "why_start_end_and_devices": "Starts with corporate unintentional guilt. Ends with the blood sprinkled before the veil. Devices: The community treated like the priest—shared responsibility."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Atonement Made for the Congregation",
+          "reference": "4:18-21",
+          "why_start_end_and_devices": "Starts with blood on the altar horns. Ends with the bull burned outside the camp. Devices: 'They will be forgiven'—the goal of the whole system stated."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Purification Offering for a Leader",
+          "reference": "4:22-26",
+          "why_start_end_and_devices": "Third case with pointedly less complex ritual—blood on outer altar, not inside tent. Ends with forgiveness refrain. Devices: Structural contrast—hierarchy defined by ritual complexity reflecting holiness breach severity."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "When a Common Person Sins: the Goat",
+          "reference": "4:27-31",
+          "why_start_end_and_devices": "Starts with the ordinary Israelite's unintentional sin. Ends 'he will be forgiven.' Devices: A female goat—lesser cost than the priest's bull; accessible atonement."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Or a Lamb for a Sin Offering",
+          "reference": "4:32-35",
+          "why_start_end_and_devices": "Starts with the lamb alternative. Ends 'he will be forgiven.' Devices: Repetition with variation; the refrain of forgiveness."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Purification Offering for Sins of Omission",
+          "reference": "5:1-4",
+          "why_start_end_and_devices": "New sub-topic addressing 'sins of omission': failing to testify, touching unclean unknowingly, making forgotten oaths. Devices: List structure defines specific sin category (non-action vs. commission)."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Confession and the Sliding Scale: Lamb or Birds",
+          "reference": "5:5-10",
+          "why_start_end_and_devices": "Starts 'he must confess.' Ends with atonement by two birds. Devices: Confession named; the graded provision begins—cost scaled to means."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Poor: a Grain Sin Offering",
+          "reference": "5:11-13",
+          "why_start_end_and_devices": "Starts with the flour option for the very poor. Ends 'he will be forgiven.' Devices: Even the poorest can atone—grace without exclusion."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Guilt Offering for Sacrilege",
+          "reference": "5:14-19",
+          "why_start_end_and_devices": "New offering type (asham/reparation) for sin against holy things. Unique requirement: 'pay it back, and add a fifth.' Devices: Unique formula—first offering requiring restitution, shifting from purification to restoration."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Defrauding a Neighbor: Restitution Plus a Fifth",
+          "reference": "6:1-5",
+          "why_start_end_and_devices": "Starts with deceit against a neighbor (a sin against God too). Ends with full restitution plus a fifth. Devices: Horizontal wrong requires both repayment and offering."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Guilt Offering Ram; Forgiveness",
+          "reference": "6:6-7",
+          "why_start_end_and_devices": "Starts with the ram brought to the priest. Ends 'he will be forgiven.' Devices: Vertical and horizontal reconciliation joined."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Law of the Burnt Offering (Priest's Duty)",
+          "reference": "6:8-13",
+          "why_start_end_and_devices": "New section begins (priest's perspective). Command to keep fire lit all night, proper vestment and ash handling. Devices: Repetition and inversion—structure now focuses on priestly labor and portions received."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Law of the Grain Offering (Priest's Portion)",
+          "reference": "6:14-18",
+          "why_start_end_and_devices": "Priests' portion rules: must eat without leaven, confined to holy court. Devices: Transitions from what to bring to what priests perform and receive."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Priest's Own Daily Grain Offering",
+          "reference": "6:19-23",
+          "why_start_end_and_devices": "High Priest's daily offering entirely burned (unlike laity's, where priests eat remainder). Devices: Contrast emphasizing priest's unique status—cannot profit from own required offering."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "The Sin Offering Is Most Holy",
+          "reference": "6:24-27",
+          "why_start_end_and_devices": "Starts the priestly instruction. Ends 'whatever touches its flesh will become holy.' Devices: Contagious holiness; eaten in a holy place."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Vessel and the Blood Rules",
+          "reference": "6:28-30",
+          "why_start_end_and_devices": "Starts with the clay pot broken. Ends with the offering whose blood enters the tent burned, not eaten. Devices: Purity of vessels; the distinction in disposal."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Guilt Offering: Most Holy",
+          "reference": "7:1-6",
+          "why_start_end_and_devices": "Starts 'These are the regulations for the guilt offering.' Ends 'it is most holy.' Devices: Blood and fat ritual paralleling the sin offering."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "The Priests' Portions of Offerings",
+          "reference": "7:7-10",
+          "why_start_end_and_devices": "Starts with the priest's share. Ends dividing baked vs. dry grain offerings. Devices: Provision for the priesthood codified."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The Law of the Peace Offering (Thanksgiving)",
+          "reference": "7:11-15",
+          "why_start_end_and_devices": "Specific sub-section: peace offering for thanksgiving with unleavened and leavened breads. Strict 1-day consumption limit. Devices: Differentiates thanksgiving offering (most restrictive timeline) from other peace offerings."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The Law of the Peace Offering (Vow or Freewill)",
+          "reference": "7:16-21",
+          "why_start_end_and_devices": "Parallel: vow and freewill offerings with lenient 2-day limit. Penalty for eating on third day: 'abomination.' Devices: Structural parallelism showing different peace offering types with different rules."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Concluding Prohibition on Fat and Blood (Reiterated)",
+          "reference": "7:22-27",
+          "why_start_end_and_devices": "Final summary reiterating prohibition from 3:17 with penalty (cut off). Devices: Repetition and intensification—command now to priests to enforce, not just law for laity."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "The Wave Breast and the Thigh",
+          "reference": "7:28-32",
+          "why_start_end_and_devices": "Starts with the peace-offering portions. Ends with the right thigh given to the priest. Devices: The 'wave offering' gesture; God's portion and the priests' share."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Aaron's Perpetual Share",
+          "reference": "7:33-36",
+          "why_start_end_and_devices": "Starts with the thigh as the officiating priest's. Ends 'a perpetual portion.' Devices: Permanence formula closing the priests' dues."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Concluding Colophon for Story 1",
+          "reference": "7:37-38",
+          "why_start_end_and_devices": "Summary verses closing entire unit (Ch. 1-7). Acts as 'table of contents' listing all five sacrifices. Devices: Inclusio/colophon confirming single, cohesive literary unit before narrative shift."
+        }
       ]
     },
     {
@@ -46,22 +258,138 @@
       "why_start_end_and_literary_glue": "Begins with clear narrative shift: 'The LORD spoke to Moses, saying, Take Aaron...' (8:1). Moves from theory (laws of Ch. 1-7) to practice (who is authorized). Ends with Moses' approval (10:20) after investigating potential ritual error, resolving narrative conflict. Literary glue: Distinct narrative (not legal) interruption in book dominated by law. Three-act structure: Consecration (Ch. 8), Inauguration (Ch. 9), Crisis (Ch. 10). Thematic parallelism to Genesis creation/fall: seven-day 'creation' of priesthood (Ch. 8), 'eighth day' new beginning (Ch. 9), immediate 'fall' through unauthorized sin (Ch. 10). Repetition of command structure signals sin: Ch. 8 ('LORD spoke'), Ch. 9 ('Moses called'), Ch. 10 lacks command, highlighting unauthorized act. Functions as terrifying case study justifying obsessive legalism of Story 1.",
       "reference": "8:1-10:20",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Command to Consecrate Aaron and His Sons", "reference": "8:1-4", "why_start_end_and_devices": "Divine command to Moses to take Aaron and sons, gather congregation at tent entrance. Complete once assembly gathered and materials listed. Devices: Focalization through Moses; public setting underscores priesthood as communal office, not private guild."},
-        {"scene_number": 2, "scene_name": "The Consecration: Washing and Vesting Aaron", "reference": "8:5-9", "why_start_end_and_devices": "Complete ritual action: washing and clothing Aaron in High Priestly garments (tunic, sash, robe, ephod, breastpiece with Urim/Thummim). Complete when fully dressed. Devices: Symbolic transformation from man to sacred official through clothing."},
-        {"scene_number": 3, "scene_name": "The Consecration: Anointing Tabernacle and Aaron", "reference": "8:10-12", "why_start_end_and_devices": "Second major ritual: anointing oil transfers holiness to tabernacle and furnishings first, then to Aaron. Devices: Metonymy and hierarchy—space sanctified before person, establishing order."},
-        {"scene_number": 4, "scene_name": "The Consecration: Vesting Aaron's Sons", "reference": "8:13", "why_start_end_and_devices": "Parallel scene to 8:5-9. Clothing and anointing Aaron's sons (subordinate action). Devices: Structural contrast—simpler garments and brief description reinforce priestly hierarchy."},
-        {"scene_number": 5, "scene_name": "The Consecration: The Purification Offering", "reference": "8:14-17", "why_start_end_and_devices": "First of three ordination sacrifices: sin offering (chatat). Priests lay hands on bull. Moses (not Aaron, still inactive) applies blood to altar horns. Complete when sacrifice finished. Devices: Priests identify with animal; Moses's mediation shows Aaron's status still transitional."},
-        {"scene_number": 6, "scene_name": "The Consecration: The Burnt Offering", "reference": "8:18-21", "why_start_end_and_devices": "Second ordination sacrifice: burnt offering ('olah) for general atonement. Presented, burned, ends with 'pleasing aroma' refrain. Devices: Familiar language from Story 1 applies to ordination context."},
-        {"scene_number": 7, "scene_name": "The Consecration: The Ordination Offering", "reference": "8:22-24", "why_start_end_and_devices": "Third and most unique: 'ram of ordination' with distinctive ritual—blood dabbed on right ear, right thumb, right big toe of Aaron and sons. Complete when body parts touched. Devices: Symbolism—ear (hear God's word), thumb (perform work), toe (walk in holy place)."},
-        {"scene_number": 8, "scene_name": "The Consecration: Wave Offering and Final Anointing", "reference": "8:25-30", "why_start_end_and_devices": "Concludes ordination sacrifices with wave offering and final anointing with oil and blood. Visually marks them as consecrated. Complete when anointing finished. Devices: Final visual marking confirms consecration status."},
-        {"scene_number": 9, "scene_name": "The Seven-Day Wait at the Tent", "reference": "8:31-36", "why_start_end_and_devices": "New command: newly consecrated priests remain at tent entrance seven days, repeating ordination sacrifices. Single cohesive instruction. Devices: Seven-day period parallels Genesis creation, symbolizing priesthood as new creation/new order."},
-        {"scene_number": 10, "scene_name": "The Eighth Day: Aaron's First Sacrifices", "reference": "9:1-21", "why_start_end_and_devices": "New beginning begins: 'On the eighth day.' Aaron performs first sacrifices (sin and burnt for self; offerings for people). Complete when sacrifices on altar await divine response. Devices: Narrative tension—first test of entire system; reader questions 'Will it work?'"},
-        {"scene_number": 11, "scene_name": "The Divine Affirmation: Glory Appears", "reference": "9:22-24", "why_start_end_and_devices": "Narrative climax: Moses and Aaron bless people; 'the glory of the LORD appeared...and fire came out from before the LORD and consumed the burnt offering.' People shout and fall on faces. Devices: Deus ex machina—divine 'Amen' on entire sacrifice system and priesthood."},
-        {"scene_number": 12, "scene_name": "The Crisis: Nadab and Abihu's Unauthorized Fire", "reference": "10:1-3", "why_start_end_and_devices": "Shocking reversal: 'Now Nadab and Abihu...offered unauthorized fire, which he had not commanded them.' Immediate judgment (fire from LORD). Moses' theological explanation to silent Aaron. Devices: Tragic irony—same fire that affirmed legitimate cult judges rogue priests. Demonstrates lethality of proximity to holiness."},
-        {"scene_number": 13, "scene_name": "The Aftermath: Removing Bodies", "reference": "10:4-7", "why_start_end_and_devices": "Cousins remove bodies. Aaron and remaining sons commanded not to mourn (tear clothes, uncover heads). Complete when bodies removed. Devices: Contrast—priestly duty to holiness supersedes family grief obligations."},
-        {"scene_number": 14, "scene_name": "New Law: No Alcohol for Priests", "reference": "10:8-11", "why_start_end_and_devices": "First law given directly to Aaron (not via Moses): prohibits alcohol before tent entry. Complete when law stated. Devices: Placement after Nadab/Abihu implies (though never states) drunkenness caused their disastrous act."},
-        {"scene_number": 15, "scene_name": "The Second Crisis: The Uneaten Offering", "reference": "10:12-18", "why_start_end_and_devices": "Narrative tension resumes: Moses gives eating instructions, discovers sin offering was burned, not eaten. Angrily confronts Eleazar and Ithamar. Complete with accusation. Devices: Narrative rhyme—second potential ritual failure same day; tension high."},
-        {"scene_number": 16, "scene_name": "The Resolution: Aaron's Justification and Approval", "reference": "10:19-20", "why_start_end_and_devices": "Aaron justifies action: day's tragedy prevented pious eating. 'Moses heard it, and he approved.' Complete resolution. Devices: Denouement—unlike Nadab/Abihu's defiance, this deviation was context-sensitive piety; Moses accepts, showing system's flexibility."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Command to Consecrate Aaron and His Sons",
+          "reference": "8:1-4",
+          "why_start_end_and_devices": "Divine command to Moses to take Aaron and sons, gather congregation at tent entrance. Complete once assembly gathered and materials listed. Devices: Focalization through Moses; public setting underscores priesthood as communal office, not private guild."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Consecration: Washing and Vesting Aaron",
+          "reference": "8:5-9",
+          "why_start_end_and_devices": "Complete ritual action: washing and clothing Aaron in High Priestly garments (tunic, sash, robe, ephod, breastpiece with Urim/Thummim). Complete when fully dressed. Devices: Symbolic transformation from man to sacred official through clothing."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Consecration: Anointing Tabernacle and Aaron",
+          "reference": "8:10-12",
+          "why_start_end_and_devices": "Second major ritual: anointing oil transfers holiness to tabernacle and furnishings first, then to Aaron. Devices: Metonymy and hierarchy—space sanctified before person, establishing order."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Consecration: Vesting Aaron's Sons",
+          "reference": "8:13",
+          "why_start_end_and_devices": "Parallel scene to 8:5-9. Clothing and anointing Aaron's sons (subordinate action). Devices: Structural contrast—simpler garments and brief description reinforce priestly hierarchy."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Consecration: The Purification Offering",
+          "reference": "8:14-17",
+          "why_start_end_and_devices": "First of three ordination sacrifices: sin offering (chatat). Priests lay hands on bull. Moses (not Aaron, still inactive) applies blood to altar horns. Complete when sacrifice finished. Devices: Priests identify with animal; Moses's mediation shows Aaron's status still transitional."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Consecration: The Burnt Offering",
+          "reference": "8:18-21",
+          "why_start_end_and_devices": "Second ordination sacrifice: burnt offering ('olah) for general atonement. Presented, burned, ends with 'pleasing aroma' refrain. Devices: Familiar language from Story 1 applies to ordination context."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Consecration: The Ordination Offering",
+          "reference": "8:22-24",
+          "why_start_end_and_devices": "Third and most unique: 'ram of ordination' with distinctive ritual—blood dabbed on right ear, right thumb, right big toe of Aaron and sons. Complete when body parts touched. Devices: Symbolism—ear (hear God's word), thumb (perform work), toe (walk in holy place)."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Consecration: Wave Offering and Final Anointing",
+          "reference": "8:25-30",
+          "why_start_end_and_devices": "Concludes ordination sacrifices with wave offering and final anointing with oil and blood. Visually marks them as consecrated. Complete when anointing finished. Devices: Final visual marking confirms consecration status."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Seven-Day Wait at the Tent",
+          "reference": "8:31-36",
+          "why_start_end_and_devices": "New command: newly consecrated priests remain at tent entrance seven days, repeating ordination sacrifices. Single cohesive instruction. Devices: Seven-day period parallels Genesis creation, symbolizing priesthood as new creation/new order."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Eighth Day: Offerings Commanded",
+          "reference": "9:1-4",
+          "why_start_end_and_devices": "Starts on the eighth day with Moses summoning Aaron. Ends 'today the LORD will appear to you.' Devices: The climax of the ordination week; promise of theophany."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Aaron Approaches the Altar",
+          "reference": "9:5-7",
+          "why_start_end_and_devices": "Starts with the assembly drawing near. Ends with Aaron commanded to make atonement. Devices: Aaron first atones for himself, then the people."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Aaron's Sin Offering",
+          "reference": "9:8-11",
+          "why_start_end_and_devices": "Starts with Aaron at the altar. Ends with the flesh burned outside the camp. Devices: The high priest follows the same law he administers."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Aaron's Burnt Offering",
+          "reference": "9:12-14",
+          "why_start_end_and_devices": "Starts with the burnt offering. Ends with it burned on the altar. Devices: Total dedication offered for the priesthood."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The People's Sin and Burnt Offerings",
+          "reference": "9:15-17",
+          "why_start_end_and_devices": "Starts with the people's goat. Ends with the morning burnt offering added. Devices: The order moves from priest to people—mediation modeled."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Peace Offerings and the Wave Offering",
+          "reference": "9:18-21",
+          "why_start_end_and_devices": "Starts with the ox and ram for peace offerings. Ends with the wave offering as Moses commanded. Devices: Fellowship offerings conclude the inaugural service."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Divine Affirmation: Glory Appears",
+          "reference": "9:22-24",
+          "why_start_end_and_devices": "Narrative climax: Moses and Aaron bless people; 'the glory of the LORD appeared...and fire came out from before the LORD and consumed the burnt offering.' People shout and fall on faces. Devices: Deus ex machina—divine 'Amen' on entire sacrifice system and priesthood."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Crisis: Nadab and Abihu's Unauthorized Fire",
+          "reference": "10:1-3",
+          "why_start_end_and_devices": "Shocking reversal: 'Now Nadab and Abihu...offered unauthorized fire, which he had not commanded them.' Immediate judgment (fire from LORD). Moses' theological explanation to silent Aaron. Devices: Tragic irony—same fire that affirmed legitimate cult judges rogue priests. Demonstrates lethality of proximity to holiness."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Aftermath: Removing Bodies",
+          "reference": "10:4-7",
+          "why_start_end_and_devices": "Cousins remove bodies. Aaron and remaining sons commanded not to mourn (tear clothes, uncover heads). Complete when bodies removed. Devices: Contrast—priestly duty to holiness supersedes family grief obligations."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "New Law: No Alcohol for Priests",
+          "reference": "10:8-11",
+          "why_start_end_and_devices": "First law given directly to Aaron (not via Moses): prohibits alcohol before tent entry. Complete when law stated. Devices: Placement after Nadab/Abihu implies (though never states) drunkenness caused their disastrous act."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Eat the Remaining Offerings in a Holy Place",
+          "reference": "10:12-15",
+          "why_start_end_and_devices": "Starts with Moses instructing the surviving sons. Ends with the perpetual portion. Devices: Continuity of ministry even after the disaster of Nadab and Abihu."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Moses' Anger Over the Burned Sin Offering",
+          "reference": "10:16-18",
+          "why_start_end_and_devices": "Starts with the goat found burned, not eaten. Ends with Moses' rebuke. Devices: The tension between law and grief that Aaron will answer next."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Resolution: Aaron's Justification and Approval",
+          "reference": "10:19-20",
+          "why_start_end_and_devices": "Aaron justifies action: day's tragedy prevented pious eating. 'Moses heard it, and he approved.' Complete resolution. Devices: Denouement—unlike Nadab/Abihu's defiance, this deviation was context-sensitive piety; Moses accepts, showing system's flexibility."
+        }
       ]
     },
     {
@@ -70,31 +398,294 @@
       "why_start_end_and_literary_glue": "Begins with clear new topic: 'The LORD spoke to Moses and Aaron...These are the living things that you may eat...' (11:1-2). Logically follows Story 2's crisis—if sanctuary is so holy it reacts lethally, approaching community must be in proper 'clean' state. Ends with summary colophon (15:31-33) stating purpose: 'Thus you shall keep the people of Israel separate from their uncleanness, lest they die in their uncleanness by defiling my tabernacle that is in their midst.' Literary glue: Bound by binary vocabulary (clean/unclean, pure/impure) and repetitive diagnostic structure: (1) 'If/When [phenomenon occurs],' (2) 'it is unclean,' (3) '[prescribed separation/ritual for cleansing].' Systematic, objective, medical tone unifies five chapters on diverse topics (food, childbirth, disease, bodily functions). Defines ritual impurity as non-moral, contagious state polluting community and, by extension, sanctuary.",
       "reference": "11:1-15:33",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Clean and Unclean Land Animals", "reference": "11:1-8", "why_start_end_and_devices": "Introduces two-part test: 'cloven hoof AND chews the cud.' Lists four abominations failing test (camel, hyrax, hare, pig). Devices: Mnemonic formula allows laity independent application without priestly consultation."},
-        {"scene_number": 2, "scene_name": "Clean and Unclean Water and Air Animals", "reference": "11:9-19", "why_start_end_and_devices": "Parallel: water animals need 'fins AND scales.' Birds: list of unclean (predators, scavengers). Devices: Parallelism for water animals; list for birds suggests different categorical logic."},
-        {"scene_number": 3, "scene_name": "Unclean Insects and Swarming Things", "reference": "11:20-23", "why_start_end_and_devices": "Winged insects unclean except 'jointed-legged' (locusts, crickets). Ends with summary refrain. Devices: Exception structure demonstrates rule-based thinking."},
-        {"scene_number": 4, "scene_name": "Contagion from Animal Carcasses", "reference": "11:24-28", "why_start_end_and_devices": "Shifts to transmission: touching carcass makes unclean 'until evening.' Applies to various contacts. Devices: Introduces ritual contagion concept—transferable state managed through time and washing."},
-        {"scene_number": 5, "scene_name": "Contagion from Swarming Things and Vessels", "reference": "11:29-38", "why_start_end_and_devices": "Parallel for swarming things contaminating objects. Porous pottery must break; non-porous items wash. Seeds rule. Devices: System based on porosity—porous absorbs impurity and must be destroyed; non-porous can be washed clean."},
-        {"scene_number": 6, "scene_name": "Concluding Summary on Animal Uncleanness", "reference": "11:39-47", "why_start_end_and_devices": "Summarizes rules and provides overarching rationale: 'For I am the LORD your God. Consecrate yourselves...and be holy, for I am holy.' First appearance of critical refrain. Ends with formal colophon. Devices: Refrain ('be holy, for I am holy')—key to book; links mundane act of eating to imitation of God's character."},
-        {"scene_number": 7, "scene_name": "Impurity from Childbirth", "reference": "12:1-5", "why_start_end_and_devices": "New topic: postpartum impurity timeline (7 days boy, 14 girl) and subsequent blood purification (33/66 days). Complete when timeline set. Devices: Structural binary (male/female) with doubled female times; impurity not sinful but associated with power of life and blood."},
-        {"scene_number": 8, "scene_name": "The Purification Ritual for Childbirth", "reference": "12:6-8", "why_start_end_and_devices": "Solution: sacrifice after purity period (burnt offering, sin offering). Sliding scale for poor (bird instead of lamb). Completes chapter. Devices: Accessibility principle applied to childbirth context."},
-        {"scene_number": 9, "scene_name": "Diagnosing Malignant Skin Disease (Tzara'at)", "reference": "13:1-8", "why_start_end_and_devices": "Major topic: skin disease diagnosis. Initial signs (white hair, raw flesh); priest's judgment (unclean or 7-day quarantine). Devices: Diagnostic formula like medical textbook; priestly observation and judgment emphasized."},
-        {"scene_number": 10, "scene_name": "Diagnosing Chronic Tzara'at and Boils", "reference": "13:9-23", "why_start_end_and_devices": "Chronic disease cases and paradox: whole-body coverage = clean. Includes boils and related cases. Devices: Collection of diagnostic cases; paradoxical rule suggests disease burnout."},
-        {"scene_number": 11, "scene_name": "Diagnosing Burns, Scalds, and Scalp Conditions", "reference": "13:24-37", "why_start_end_and_devices": "Burns, scalds, and 'scall' (head/beard condition). Complete thought on specific body locations. Devices: Continuation of diagnostic list."},
-        {"scene_number": 12, "scene_name": "Diagnosing Benign Spots and Baldness", "reference": "13:38-44", "why_start_end_and_devices": "Distinguishes tzara'at from benign white spots and natural baldness. Completes diagnostic list by ruling out non-cases. Devices: Necessary clarifications preventing false diagnoses."},
-        {"scene_number": 13, "scene_name": "The Conduct of the Unclean Person", "reference": "13:45-46", "why_start_end_and_devices": "Social consequence: tear clothes, cover face, cry 'Unclean, unclean!', live alone outside camp. Devices: Visible, dramatic consequences of diagnosis."},
-        {"scene_number": 14, "scene_name": "Diagnosing Tzara'at in Garments", "reference": "13:47-59", "why_start_end_and_devices": "Parallel: mildew in fabric/leather treated as 'tzara'at.' Same diagnostic logic: quarantine, observation, burn if remains. Devices: Metaphor—fabric treated as 'body'; extends purity system to possessions."},
-        {"scene_number": 15, "scene_name": "The Cleansing Ritual for Tzara'at (Day 1: The Birds)", "reference": "14:1-9", "why_start_end_and_devices": "New chapter: cleansing cured person. Outside camp ritual: two birds, cedar, scarlet, hyssop. Person pronounced clean, waits 7 days. Devices: Symbolic ritual—killed bird represents 'death' of old unclean state; released bird represents cured person's return to life and community."},
-        {"scene_number": 16, "scene_name": "The Cleansing Ritual (Day 8: The Sacrifices)", "reference": "14:10-20", "why_start_end_and_devices": "Second part: 'On the eighth day' at Tent. Sacrifices (guilt, sin, burnt) with blood and oil dabbed on ear, thumb, toe. Devices: Ritual mirrors priestly ordination (8:23-24); cured person re-ordained into community."},
-        {"scene_number": 17, "scene_name": "The Cleansing Ritual (Sliding Scale for the Poor)", "reference": "14:21-32", "why_start_end_and_devices": "Alternative sacrifices for poor unable to afford three lambs. Ends with atonement refrain and summary. Devices: Parallelism reinforcing accessibility theme."},
-        {"scene_number": 18, "scene_name": "Diagnosing and Cleansing Tzara'at in Houses", "reference": "14:33-47", "why_start_end_and_devices": "Final parallel: mold in house. Same diagnostic logic: inspection, quarantine, destruction if necessary, restoration if possible. Devices: House treated as 'body' with potential for restoration (unlike fabric, which is destroyed)."},
-        {"scene_number": 19, "scene_name": "The Ritual for Cleansing a House", "reference": "14:48-57", "why_start_end_and_devices": "Cleansing ritual for cured house. Ends with summary colophon covering Ch. 13-14. Devices: Identical two-bird ritual from 14:1-9 used; confirms conceptual analogy between person and house."},
-        {"scene_number": 20, "scene_name": "Impurity from Male Bodily Discharges (Unnatural)", "reference": "15:1-12", "why_start_end_and_devices": "New chapter, new topic: unnatural male discharges. Rules for contamination and 7-day purification. Devices: Medical/clinical tone; distinct from natural discharges."},
-        {"scene_number": 21, "scene_name": "The Cleansing Ritual for Male Discharges", "reference": "15:13-15", "why_start_end_and_devices": "Solution: 7-day wait, two-bird sacrifice. Completes thought on unnatural discharges. Devices: Sliding scale established (similar to sin offering logic)."},
-        {"scene_number": 22, "scene_name": "Impurity from Male Bodily Discharges (Natural)", "reference": "15:16-18", "why_start_end_and_devices": "Parallel: natural discharge (semen) less severe—no sacrifice, only washing, 'until evening.' Devices: Structural contrast between diseased and normal discharges with different consequences."},
-        {"scene_number": 23, "scene_name": "Impurity from Female Bodily Discharges (Natural)", "reference": "15:19-24", "why_start_end_and_devices": "Parallel for women: menstruation; 7-day impurity; contagion rules. Devices: Binary structure (male/female) parallels childbirth section."},
-        {"scene_number": 24, "scene_name": "Impurity from Female Bodily Discharges (Unnatural)", "reference": "15:25-30", "why_start_end_and_devices": "Chronic bleeding (unnatural) mirroring unnatural male discharge. Two-bird sacrifice for cleansing. Devices: Structural parallelism throughout male/female sections."},
-        {"scene_number": 25, "scene_name": "Concluding Colophon for Story 3", "reference": "15:31-33", "why_start_end_and_devices": "Summary (15:31-33) for entire unit (Ch. 11-15). States purpose: 'Thus you shall keep the people of Israel separate from their uncleanness, lest they die in their uncleanness by defiling my tabernacle that is in their midst.' Devices: Inclusio/colophon—theological 'why'; directly sets up need for Story 4."}
+        {
+          "scene_number": 1,
+          "scene_name": "Clean Land Animals: Cud and Hoof",
+          "reference": "11:1-4",
+          "why_start_end_and_devices": "Starts the dietary law. Ends with the camel as unclean. Devices: Twin criteria (chews cud, split hoof); ordering creation by holiness."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Unclean: Hyrax, Hare, Pig",
+          "reference": "11:5-8",
+          "why_start_end_and_devices": "Starts with the hyrax. Ends 'they are unclean for you.' Devices: Boundary species that fail one test—teaching discernment."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Creatures of the Water: Fins and Scales",
+          "reference": "11:9-12",
+          "why_start_end_and_devices": "Starts with water creatures. Ends 'you are to regard them as detestable.' Devices: Fins-and-scales criterion; order by domain."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Detestable Birds (1)",
+          "reference": "11:13-16",
+          "why_start_end_and_devices": "Starts with the eagle and vulture. Ends with the hawk. Devices: List of predators and carrion-eaters—creatures of death excluded."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Detestable Birds (2)",
+          "reference": "11:17-19",
+          "why_start_end_and_devices": "Starts with the owl. Ends with the bat. Devices: Completing the avian list; night and unclean creatures."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Unclean Insects and Swarming Things",
+          "reference": "11:20-23",
+          "why_start_end_and_devices": "Winged insects unclean except 'jointed-legged' (locusts, crickets). Ends with summary refrain. Devices: Exception structure demonstrates rule-based thinking."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Contagion from Animal Carcasses",
+          "reference": "11:24-28",
+          "why_start_end_and_devices": "Shifts to transmission: touching carcass makes unclean 'until evening.' Applies to various contacts. Devices: Introduces ritual contagion concept—transferable state managed through time and washing."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Unclean Swarming Things and What They Touch",
+          "reference": "11:29-32",
+          "why_start_end_and_devices": "Starts with the swarming creatures. Ends with objects defiled until evening. Devices: Contagion by contact; even tools rendered unclean."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Defiled Vessels, Ovens, and Seed",
+          "reference": "11:33-38",
+          "why_start_end_and_devices": "Starts with the clay pot. Ends with the distinction over wetted seed. Devices: Detailed purity casuistry; the seam-line of clean and unclean."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Carcasses and Swarming Things",
+          "reference": "11:39-43",
+          "why_start_end_and_devices": "Starts with a clean animal that dies. Ends 'do not defile yourselves.' Devices: Uncleanness even from permitted animals if found dead."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "'Be Holy, for I Am Holy': the Distinction",
+          "reference": "11:44-47",
+          "why_start_end_and_devices": "Starts with the call to holiness. Ends distinguishing clean from unclean. Devices: The theological key—imitatio Dei grounds the food laws."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Impurity from Childbirth",
+          "reference": "12:1-5",
+          "why_start_end_and_devices": "New topic: postpartum impurity timeline (7 days boy, 14 girl) and subsequent blood purification (33/66 days). Complete when timeline set. Devices: Structural binary (male/female) with doubled female times; impurity not sinful but associated with power of life and blood."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Purification Ritual for Childbirth",
+          "reference": "12:6-8",
+          "why_start_end_and_devices": "Solution: sacrifice after purity period (burnt offering, sin offering). Sliding scale for poor (bird instead of lamb). Completes chapter. Devices: Accessibility principle applied to childbirth context."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Priest Examines the Skin Spot",
+          "reference": "13:1-4",
+          "why_start_end_and_devices": "Starts with a sore brought to the priest. Ends with the first quarantine. Devices: Diagnostic procedure; the priest as examiner, not healer."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Seven-Day Quarantine and Verdict",
+          "reference": "13:5-8",
+          "why_start_end_and_devices": "Starts with the seventh-day check. Ends with the unclean verdict. Devices: Waiting and re-examination—patience built into the law."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Chronic Disease: Raw Flesh",
+          "reference": "13:9-11",
+          "why_start_end_and_devices": "Starts with an established case. Ends 'it is a chronic disease.' Devices: Raw flesh as decisive sign."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "When It Covers the Whole Body",
+          "reference": "13:12-17",
+          "why_start_end_and_devices": "Starts with disease covering all the skin. Ends with the turn to raw flesh. Devices: Counter-intuitive ruling—total whiteness is clean, raw flesh unclean."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Disease Arising from a Boil",
+          "reference": "13:18-23",
+          "why_start_end_and_devices": "Starts with a healed boil. Ends with the clean verdict for a fading scar. Devices: Distinguishing active disease from a scar."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Disease from a Burn",
+          "reference": "13:24-28",
+          "why_start_end_and_devices": "Starts with a burn on the skin. Ends with the scar of a burn as clean. Devices: Same logic applied to burns—careful differential diagnosis."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "An Itch on the Head or Chin",
+          "reference": "13:29-32",
+          "why_start_end_and_devices": "Starts with an itch in the hair. Ends with the seven-day quarantine. Devices: Scalp and beard cases; yellow thin hair as a sign."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Itch Examined and Cleared",
+          "reference": "13:33-37",
+          "why_start_end_and_devices": "Starts with shaving around the itch. Ends 'he is clean.' Devices: Re-examination; the priest's verdict of restoration."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Harmless White Spots",
+          "reference": "13:38-39",
+          "why_start_end_and_devices": "Starts with white spots on the skin. Ends 'he is clean.' Devices: A benign rash distinguished from disease—mercy in diagnosis."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Baldness and Disease on the Bald Head",
+          "reference": "13:40-44",
+          "why_start_end_and_devices": "Starts with natural baldness (clean). Ends with disease on a bald head as unclean. Devices: Baldness itself is clean; only the sore defiles."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Conduct of the Unclean Person",
+          "reference": "13:45-46",
+          "why_start_end_and_devices": "Social consequence: tear clothes, cover face, cry 'Unclean, unclean!', live alone outside camp. Devices: Visible, dramatic consequences of diagnosis."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Mold in Fabric: Examined and Burned",
+          "reference": "13:47-52",
+          "why_start_end_and_devices": "Starts with mildew in cloth or leather. Ends with the persistent garment burned. Devices: Tzara'at extends to objects; the same examine-and-quarantine logic."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Washing the Affected Garment",
+          "reference": "13:53-55",
+          "why_start_end_and_devices": "Starts with washing when the mark hasn't spread. Ends with burning if it stays unchanged. Devices: A second chance for the cloth before destruction."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Final Ruling on the Garment",
+          "reference": "13:56-59",
+          "why_start_end_and_devices": "Starts with the faded mark torn out. Ends with the summary 'law for mildew.' Devices: Colophon closing the fabric-disease section."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Cleansing Ritual Begins",
+          "reference": "14:1-4",
+          "why_start_end_and_devices": "Starts 'This is the law for the cleansed.' Ends with the materials gathered. Devices: Restoration ritual—two birds, cedar, scarlet, hyssop."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "One Bird Killed, One Released",
+          "reference": "14:5-7",
+          "why_start_end_and_devices": "Starts with one bird killed over running water. Ends with the living bird released. Devices: Sevenfold sprinkling; the freed bird dramatizes release from death."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Washing, Shaving, and Waiting",
+          "reference": "14:8-9",
+          "why_start_end_and_devices": "Starts with washing and shaving. Ends with the seven-day wait. Devices: Re-entry to the community staged over days."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Day Eight: the Offerings Brought",
+          "reference": "14:10-13",
+          "why_start_end_and_devices": "Starts on the eighth day. Ends with the guilt offering slaughtered. Devices: The cleansed person reintegrated through sacrifice."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Blood and Oil on Ear, Thumb, Toe",
+          "reference": "14:14-18",
+          "why_start_end_and_devices": "Starts with blood on the ear, thumb, toe. Ends 'to make atonement.' Devices: The same consecration rite as the priests—the cleansed restored to holy life."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Atonement Completed",
+          "reference": "14:19-20",
+          "why_start_end_and_devices": "Starts with the sin and burnt offerings. Ends 'he will be clean.' Devices: Full restoration sealed."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "The Poor Person's Provision",
+          "reference": "14:21-25",
+          "why_start_end_and_devices": "Starts 'if he is poor.' Ends with blood on ear, thumb, toe. Devices: Sliding scale again—holiness not gated by wealth."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The Oil Applied",
+          "reference": "14:26-29",
+          "why_start_end_and_devices": "Starts with the oil poured into the hand. Ends 'to make atonement.' Devices: The oil rite preserved for the poor in full."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The Birds Offered",
+          "reference": "14:30-32",
+          "why_start_end_and_devices": "Starts with the two birds offered. Ends with the summary for the poor. Devices: Colophon for the affordable rite."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Mold in a House: First Inspection",
+          "reference": "14:33-38",
+          "why_start_end_and_devices": "Starts 'when you enter Canaan.' Ends with the house shut up seven days. Devices: The land itself can be 'diseased'; emptying the house before the verdict."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Removing the Affected Stones",
+          "reference": "14:39-42",
+          "why_start_end_and_devices": "Starts with the spreading mark. Ends with new stones and plaster. Devices: Surgical removal—containment of impurity."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "When the Mold Returns",
+          "reference": "14:43-47",
+          "why_start_end_and_devices": "Starts with the returning mildew. Ends with the unclean verdict on the house. Devices: The house torn down—impurity that cannot be cleansed is destroyed."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Cleansing the House with Birds and Blood",
+          "reference": "14:48-53",
+          "why_start_end_and_devices": "Starts with the house found clean. Ends 'so it will be clean.' Devices: The same bird ritual applied to a dwelling—atonement for a place."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Summary: the Law of Skin Disease and Mold",
+          "reference": "14:54-57",
+          "why_start_end_and_devices": "Starts 'This is the law for any infectious skin disease.' Ends teaching when something is clean or unclean. Devices: Grand colophon over chapters 13-14."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "An Abnormal Discharge Defiles",
+          "reference": "15:1-6",
+          "why_start_end_and_devices": "Starts with a man's bodily discharge. Ends with the one who sits where he sat unclean. Devices: Impurity that spreads by contact—holiness boundaries around the body."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "What the Afflicted Man Touches",
+          "reference": "15:7-12",
+          "why_start_end_and_devices": "Starts with touching the afflicted man. Ends with the broken clay pot. Devices: Detailed contagion casuistry; the rinsed and the destroyed."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "The Cleansing Ritual for Male Discharges",
+          "reference": "15:13-15",
+          "why_start_end_and_devices": "Solution: 7-day wait, two-bird sacrifice. Completes thought on unnatural discharges. Devices: Sliding scale established (similar to sin offering logic)."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Impurity from Male Bodily Discharges (Natural)",
+          "reference": "15:16-18",
+          "why_start_end_and_devices": "Parallel: natural discharge (semen) less severe—no sacrifice, only washing, 'until evening.' Devices: Structural contrast between diseased and normal discharges with different consequences."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Impurity from Female Bodily Discharges (Natural)",
+          "reference": "15:19-24",
+          "why_start_end_and_devices": "Parallel for women: menstruation; 7-day impurity; contagion rules. Devices: Binary structure (male/female) parallels childbirth section."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Impurity from Female Bodily Discharges (Unnatural)",
+          "reference": "15:25-30",
+          "why_start_end_and_devices": "Chronic bleeding (unnatural) mirroring unnatural male discharge. Two-bird sacrifice for cleansing. Devices: Structural parallelism throughout male/female sections."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Concluding Colophon for Story 3",
+          "reference": "15:31-33",
+          "why_start_end_and_devices": "Summary (15:31-33) for entire unit (Ch. 11-15). States purpose: 'Thus you shall keep the people of Israel separate from their uncleanness, lest they die in their uncleanness by defiling my tabernacle that is in their midst.' Devices: Inclusio/colophon—theological 'why'; directly sets up need for Story 4."
+        }
       ]
     },
     {
@@ -103,15 +694,60 @@
       "why_start_end_and_literary_glue": "Begins with critical narrative link: 'The LORD spoke to Moses after the death of the two sons of Aaron...' (16:1). Explicitly connects to Story 2 crisis (Ch. 10), explaining why this precise, careful ritual is necessary—prevents priest's death entering Holy of Holies. Ends with concluding colophon (16:34): 'This shall be an everlasting statute for you...And he did as the LORD commanded Moses.' Formally closes ritual instruction, generalizes for all time. Literary glue: Chapter is 'remarkable tapestry' bound by complex chiasm (ring structure). Entire ritual follows High Priest's physical movement: approach to Holy of Holies, core rite at center, exit back to camp. Structure follows A-B-C-D-E-D'-C'-B'-A' chiastic pattern. This micro-chiasm (Ch. 16) serves as centerpiece of macro-structure where Ch. 1-15 (sanctuary purity) balance Ch. 17-27 (people's holiness). Theological center of entire book.",
       "reference": "16:1-34",
       "scenes": [
-        {"scene_number": 1, "scene_name": "(A) Introduction: Prohibition on Free Entry", "reference": "16:1-2", "why_start_end_and_devices": "Outer frame of chiasm. Sets stage: God prohibits Aaron from entering Holy of Holies 'at any time' except this one ritual, one day. Complete when restriction stated. Devices: Narrative frame grounding ritual in Story 2's life-or-death crisis."},
-        {"scene_number": 2, "scene_name": "(B) Priest's Preparation: White Linen and Animals", "reference": "16:3-5", "why_start_end_and_devices": "Second chiasm layer. Aaron bathes, puts on special white linen (not golden garments), brings animals (bull for sin offering, ram for burnt offering). Devices: Symbolism—white linen signals humility, not glory; enters as humble servant."},
-        {"scene_number": 3, "scene_name": "(C) The Two Goats and Lot Casting", "reference": "16:6-10", "why_start_end_and_devices": "Third layer. Aaron presents bull, but core action is lot-casting over two goats: one 'for the LORD,' one 'for Azazel.' Azazel goat 'set alive.' Devices: Binary opposition—perfectly balanced pair; one dies (cleanse sanctuary), one lives (carry sins away)."},
-        {"scene_number": 4, "scene_name": "(D) Purging Holy of Holies with Bull's Blood", "reference": "16:11-14", "why_start_end_and_devices": "Priest begins entry. Takes incense (cloud shields from God's presence), bull's blood inside veil, sprinkles on Mercy Seat for his own sin. Complete when first purging finished. Devices: Incense cloud shows awe; sprinkling actions precise and ritualistic."},
-        {"scene_number": 5, "scene_name": "(E) Chiastic Center: Purging with Goat's Blood for People", "reference": "16:15-17", "why_start_end_and_devices": "Center and climax. Aaron takes goat's blood (for people's sin) inside veil. Verses 16-17 summarize: 'he makes atonement for the Holy Place' because of people's 'uncleanness.' Devices: Perfect mirror of previous scene; one moment yearly when priest stands in God's presence for nation."},
-        {"scene_number": 6, "scene_name": "(D') Purging Outer Altar", "reference": "16:18-20a", "why_start_end_and_devices": "First exit layer. Priest exits Holy of Holies, uses mixed blood (bull and goat) to purge outer altar. Devices: Chiastic repetition (D'); purging moves from inside outward."},
-        {"scene_number": 7, "scene_name": "(C') Sending Azazel Goat into Wilderness", "reference": "16:20b-22", "why_start_end_and_devices": "Second exit layer. Aaron lays hands on live goat, 'confesses over it all the iniquities...of the people,' sends it into wilderness. Devices: Chiastic repetition (C'); powerful visible metaphor—sins physically carried away, removed from camp."},
-        {"scene_number": 8, "scene_name": "(B') Priest's Return to Normal Duties", "reference": "16:23-28", "why_start_end_and_devices": "Third exit layer. Aaron removes white linen, bathes, puts golden garments back on. Offers burnt offerings; scapegoat-handler and carcass-burner cleanse themselves. Devices: Chiastic repetition (B'); clothing change signifies return from atonement state to normal office."},
-        {"scene_number": 9, "scene_name": "(A') Permanent Statute: Yom Kippur Established", "reference": "16:29-34", "why_start_end_and_devices": "Outer frame of chiasm. Generalizes ritual into permanent, annual law for people. Commands to 'afflict your souls' (fast) and rest. Establishes Yom Kippur. Devices: Chiastic repetition (A')/inclusio; shifts from Aaron-specific to everyone's obligation; concludes first half of book."}
+        {
+          "scene_number": 1,
+          "scene_name": "(A) Introduction: Prohibition on Free Entry",
+          "reference": "16:1-2",
+          "why_start_end_and_devices": "Outer frame of chiasm. Sets stage: God prohibits Aaron from entering Holy of Holies 'at any time' except this one ritual, one day. Complete when restriction stated. Devices: Narrative frame grounding ritual in Story 2's life-or-death crisis."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "(B) Priest's Preparation: White Linen and Animals",
+          "reference": "16:3-5",
+          "why_start_end_and_devices": "Second chiasm layer. Aaron bathes, puts on special white linen (not golden garments), brings animals (bull for sin offering, ram for burnt offering). Devices: Symbolism—white linen signals humility, not glory; enters as humble servant."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "(C) The Two Goats and Lot Casting",
+          "reference": "16:6-10",
+          "why_start_end_and_devices": "Third layer. Aaron presents bull, but core action is lot-casting over two goats: one 'for the LORD,' one 'for Azazel.' Azazel goat 'set alive.' Devices: Binary opposition—perfectly balanced pair; one dies (cleanse sanctuary), one lives (carry sins away)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "(D) Purging Holy of Holies with Bull's Blood",
+          "reference": "16:11-14",
+          "why_start_end_and_devices": "Priest begins entry. Takes incense (cloud shields from God's presence), bull's blood inside veil, sprinkles on Mercy Seat for his own sin. Complete when first purging finished. Devices: Incense cloud shows awe; sprinkling actions precise and ritualistic."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "(E) Chiastic Center: Purging with Goat's Blood for People",
+          "reference": "16:15-17",
+          "why_start_end_and_devices": "Center and climax. Aaron takes goat's blood (for people's sin) inside veil. Verses 16-17 summarize: 'he makes atonement for the Holy Place' because of people's 'uncleanness.' Devices: Perfect mirror of previous scene; one moment yearly when priest stands in God's presence for nation."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "(D') Purging Outer Altar",
+          "reference": "16:18-20a",
+          "why_start_end_and_devices": "First exit layer. Priest exits Holy of Holies, uses mixed blood (bull and goat) to purge outer altar. Devices: Chiastic repetition (D'); purging moves from inside outward."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "(C') Sending Azazel Goat into Wilderness",
+          "reference": "16:20b-22",
+          "why_start_end_and_devices": "Second exit layer. Aaron lays hands on live goat, 'confesses over it all the iniquities...of the people,' sends it into wilderness. Devices: Chiastic repetition (C'); powerful visible metaphor—sins physically carried away, removed from camp."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "(B') Priest's Return to Normal Duties",
+          "reference": "16:23-28",
+          "why_start_end_and_devices": "Third exit layer. Aaron removes white linen, bathes, puts golden garments back on. Offers burnt offerings; scapegoat-handler and carcass-burner cleanse themselves. Devices: Chiastic repetition (B'); clothing change signifies return from atonement state to normal office."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "(A') Permanent Statute: Yom Kippur Established",
+          "reference": "16:29-34",
+          "why_start_end_and_devices": "Outer frame of chiasm. Generalizes ritual into permanent, annual law for people. Commands to 'afflict your souls' (fast) and rest. Establishes Yom Kippur. Devices: Chiastic repetition (A')/inclusio; shifts from Aaron-specific to everyone's obligation; concludes first half of book."
+        }
       ]
     },
     {
@@ -120,49 +756,480 @@
       "why_start_end_and_literary_glue": "Begins with clear new beginning: prologue (17:1-7) addresses 'Aaron, his sons, and all the people'—shift to whole community. First law (centralizing sacrifice) bridges from sanctuary (Ch. 16) to land (Ch. 17). Ends with massive epilogue (Chapter 26) of covenantal blessings and curses—classic Ancient Near Eastern law code ending. Colophon (26:46): 'These are the statutes and rules and laws...' Literary glue: Powerfully bound by two key refrains: (1) 'You shall be holy, for I the LORD your God am holy' (19:2); (2) 'I am the LORD' or 'I am the LORD your God' (appears 47 times vs. twice in Ch. 1-16). This refrain justifies laws through imitation of God's character, not utilitarianism. Story 5 is goal of entire book: Stories 1-4 solve ritual problem; Story 5 shows what happens when holy God dwells in midst—community itself becomes holy. Climax: 19:18, 'Love your neighbor as yourself,' ultimate expression of holiness.",
       "reference": "17:1-26:46",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Prologue: Centralizing Sacrifice", "reference": "17:1-7", "why_start_end_and_devices": "Prologue to Holiness Code. Commands all sacrifices must come to Tabernacle (bans private worship, 'sacrifices to goat demons'). Centralizes cult. Devices: Massive social change—linking all animal killing to one Tent; extends sanctuary authority over entire land."},
-        {"scene_number": 2, "scene_name": "Prologue: The Sacred Nature of Blood", "reference": "17:8-16", "why_start_end_and_devices": "Reinforces centralization and states theological reason: 'For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls.' Blood's sanctity clearly explained. Devices: One of Torah's clearest explanations of blood's sacred function in atonement."},
-        {"scene_number": 3, "scene_name": "Sexual Laws: Introduction", "reference": "18:1-5", "why_start_end_and_devices": "New chapter and topic. Introduction framing laws: don't be like Egypt (past) or Canaan (future); follow God's rules 'by which, if a person does them, he shall live.' Devices: Binary opposition frames laws as choice of national identity."},
-        {"scene_number": 4, "scene_name": "Sexual Laws: Prohibited Family Relations", "reference": "18:6-18", "why_start_end_and_devices": "First list: 'None of you shall approach a close relative.' Cohesive unit listing all prohibited family/sexual relationships. Devices: Repetition 'you shall not uncover the nakedness of...' creates rhythmic, binding literary glue."},
-        {"scene_number": 5, "scene_name": "Sexual Laws: Prohibited Acts and Molech", "reference": "18:19-23", "why_start_end_and_devices": "Second list: menstruation, adultery, child sacrifice (Molech), same-sex intercourse, bestiality. Devices: Juxtaposition of diverse sexual purity laws suggests unified concern for ordered sexuality."},
-        {"scene_number": 6, "scene_name": "Sexual Laws: Warning and Consequences", "reference": "18:24-30", "why_start_end_and_devices": "Concluding bracket. Warns Canaan is 'vomited out' for these practices; Israel will be also if defiled. Devices: Metaphor of land 'vomiting out'—visceral image of moral defilement."},
-        {"scene_number": 7, "scene_name": "The Holiness Kernel: Core Laws", "reference": "19:1-4", "why_start_end_and_devices": "Chapter 19 begins—ethical core of Holiness Code, 'literary masterpiece.' Opens with key refrain: 'You shall be holy, for I the LORD your God am holy.' Lists laws parallel to Ten Commandments: honor parents, keep Sabbath, no idols. Devices: Refrain and allusion to Decalogue establish continuity with revelation."},
-        {"scene_number": 8, "scene_name": "Laws on Ritual and Social Justice", "reference": "19:5-10", "why_start_end_and_devices": "Combines ritual (peace offerings) with social justice (gleaning for poor/sojourner). Complete thought on both. Devices: Juxtaposition—ritual and ethics equally important, both justified by 'I am the LORD.'"},
-        {"scene_number": 9, "scene_name": "Laws on Community Ethics", "reference": "19:11-14", "why_start_end_and_devices": "Ethical commands: no stealing, lying, defrauding. Pay workers same day. Don't curse deaf or block blind. Devices: Mix of explicit and concrete (don't steal) with metaphorical (don't block blind)."},
-        {"scene_number": 10, "scene_name": "The Climax: Love Your Neighbor", "reference": "19:15-18", "why_start_end_and_devices": "Ethical climax. Commands just judgment, no slander, and positive command: 'Love your neighbor as yourself: I am the LORD' (19:17-18). Devices: Climax toward which all negative laws aim; positive formulation of ethics."},
-        {"scene_number": 11, "scene_name": "Laws on Mixtures and Distinction", "reference": "19:19", "why_start_end_and_devices": "Brief cohesive unit: no mixed cattle, seeds, or fabric (shaatnez). Complete thought. Devices: Physical metaphors for moral holiness (separation, distinction, maintaining God's order)."},
-        {"scene_number": 12, "scene_name": "Various Laws Bound by 'I am the LORD'", "reference": "19:20-28", "why_start_end_and_devices": "Disparate laws: sexual relations with engaged slave, uncircumcised fruit rule, pagan ritual prohibitions. Devices: Held together by 'I am the LORD' refrain; demonstrates refrain's power to bind diverse content."},
-        {"scene_number": 13, "scene_name": "Concluding Laws: Holiness Extended", "reference": "19:29-37", "why_start_end_and_devices": "Chapter conclusion: don't prostitute daughters, repeat Sabbath, ban mediums, respect aged, love sojourners, honest weights. Devices: Inclusio—repeats Sabbath (19:30 echoes 19:3); 'love sojourner' expands 'love neighbor' to foreigners (radical)."},
-        {"scene_number": 14, "scene_name": "Penalties: Molech and Mediums", "reference": "20:1-8", "why_start_end_and_devices": "New chapter: penalties for laws in Ch. 18-19. Death (stoning) for Molech sacrifice and consulting mediums. Devices: Repetition of laws with added punishment; raises stakes."},
-        {"scene_number": 15, "scene_name": "Penalties: Family and Sexual Sins", "reference": "20:9-21", "why_start_end_and_devices": "Capital crimes: cursing parents, adultery, incest, sexual 'perversion.' Mirrors Chapter 18. Devices: Phrase 'their blood is upon them' binds as legal formula."},
-        {"scene_number": 16, "scene_name": "Conclusion: Holiness as Separation", "reference": "20:22-27", "why_start_end_and_devices": "Conclusion to penalties. Rationale: God separates Israel from nations as He separated clean/unclean animals. Ends with refrain 'You shall be holy to me, for I the LORD am holy.' Devices: Analogy linking purity system (Ch. 11-15) to sexual ethics."},
-        {"scene_number": 17, "scene_name": "Priestly Holiness: Mourning and Marriage", "reference": "21:1-15", "why_start_end_and_devices": "New topic: laws specifically for priests (higher holiness standard). Rules on mourning (defiling) and marriage. High Priest even more restricted. Devices: Gradation—Laity < Priests < High Priest; hierarchy based on holiness level."},
-        {"scene_number": 18, "scene_name": "Priestly Holiness: Physical Blemishes", "reference": "21:16-24", "why_start_end_and_devices": "Parallel: priests with blemishes cannot serve altar but can eat holy food. Devices: Contrast—eating vs. serving; shows graduated participation based on physical wholeness."},
-        {"scene_number": 19, "scene_name": "Rules for Eating Holy Food: Who", "reference": "22:1-9", "why_start_end_and_devices": "Who can eat priestly portions: excludes strangers, non-priest daughters, unclean priests. Devices: Boundary-setting around holy food."},
-        {"scene_number": 20, "scene_name": "Rules for Eating Holy Food: Households", "reference": "22:10-16", "why_start_end_and_devices": "Slaves can eat, hired workers cannot. Penalty for accidental eating: restitution + 20%. Devices: Economic status determines access; restitution formula familiar from other offerings."},
-        {"scene_number": 21, "scene_name": "Rules for Unblemished Sacrifices", "reference": "22:17-25", "why_start_end_and_devices": "All sacrifices unblemished; prohibits blind, lame, castrated animals. Devices: Links Holiness Code back to Sacrifice Code (Story 1); shows unified concerns."},
-        {"scene_number": 22, "scene_name": "Rules for Specific Sacrifices", "reference": "22:26-33", "why_start_end_and_devices": "Three specific rules: 7-day waiting period for newborns, mother/young not killed same day, thanksgiving eaten same day. Ends with summary. Devices: Life-protection themes (waiting period, protecting mother-young bond)."},
-        {"scene_number": 23, "scene_name": "The Liturgical Calendar: Sabbath and Passover", "reference": "23:1-8", "why_start_end_and_devices": "Major topic shift: sacred time (appointed feasts). Introduces topic and lists Sabbath and Passover/Unleavened Bread. Devices: Chapter sanctifies time as other chapters sanctified food, bodies, space."},
-        {"scene_number": 24, "scene_name": "Agricultural Feasts: Firstfruits and Weeks", "reference": "23:9-22", "why_start_end_and_devices": "Firstfruits offering and Feast of Weeks (Shavuot); counting omer (7 weeks). Includes gleaning law. Devices: Gleaning inserted reminds that worship and social justice inseparable."},
-        {"scene_number": 25, "scene_name": "Fall Feasts: Trumpets and Atonement", "reference": "23:23-32", "why_start_end_and_devices": "Feast of Trumpets (Rosh Hashanah) and Day of Atonement. Atonement description summarizes Chapter 16 from laity's perspective. Devices: Repetition emphasizing laity's obligations."},
-        {"scene_number": 26, "scene_name": "Fall Feast: Booths (Sukkot)", "reference": "23:33-44", "why_start_end_and_devices": "Feast of Booths; command to 'dwell in booths' as historical reminder. Includes summary and second description. Devices: Extended treatment emphasizes importance."},
-        {"scene_number": 27, "scene_name": "Tabernacle Interior: Oil and Bread", "reference": "24:1-9", "why_start_end_and_devices": "New chapter and topic: sanctuary maintenance. Pure oil for menorah and 'bread of the Presence.' Devices: Daily cultic maintenance emphasizes perpetual upkeep."},
-        {"scene_number": 28, "scene_name": "Narrative: Blasphemy Case Study", "reference": "24:10-12", "why_start_end_and_devices": "Narrative interruption (like Ch. 10). Half-Israelite blasphemes Name; put in custody pending God's verdict. Devices: Test case establishing precedent for ambiguous legal situation."},
-        {"scene_number": 29, "scene_name": "The Law of Blasphemy and Talion", "reference": "24:13-23", "why_start_end_and_devices": "God's verdict: blasphemer stoned. Case expanded to general law including 'eye for an eye' (lex talionis) for 'sojourner and native alike.' Devices: Specific case becomes universal principle; emphasizes equality."},
-        {"scene_number": 30, "scene_name": "The Sabbatical Year", "reference": "25:1-7", "why_start_end_and_devices": "New chapter and major topic: land's Sabbath. 7th year land lies fallow; produce for everyone. Devices: Land personified as Sabbath-observant participant in covenant."},
-        {"scene_number": 31, "scene_name": "The Jubilee Proclamation", "reference": "25:8-13", "why_start_end_and_devices": "'Sabbath of Sabbaths': 50th year (Jubilee). Proclaimed with trumpet; 'every man returns to his property.' Devices: System-wide reset button; safeguard against permanent poverty."},
-        {"scene_number": 32, "scene_name": "Jubilee Economic Laws", "reference": "25:14-18", "why_start_end_and_devices": "Land 'sales' actually leases; price calculated by years to Jubilee. Prevents permanent land sales. Devices: Structural safeguard protecting family land ownership."},
-        {"scene_number": 33, "scene_name": "Sabbatical Theological Rationale", "reference": "25:19-22", "why_start_end_and_devices": "Answers practical question: 'What will we eat in 7th year?' God promises triple crop in 6th year. Pure theological promise. Devices: Anticipates reader's pragmatic doubt; answers with divine reassurance."},
-        {"scene_number": 34, "scene_name": "Redeeming Land and Houses", "reference": "25:25-34", "why_start_end_and_devices": "Mechanics of redemption: kinsman can redeem land; houses in walled cities (1-year limit) vs. outside (Jubilee applies). Devices: Systematic rules protecting property access."},
-        {"scene_number": 35, "scene_name": "Redeeming Israelite Servants", "reference": "25:35-43", "why_start_end_and_devices": "Don't charge interest to poor brother; Israelite who 'sells himself' treated as hired servant, not slave; released at Jubilee. Devices: Protects fellow Israelite's freedom; contrasts with foreign slavery law."},
-        {"scene_number": 36, "scene_name": "Foreign Slaves and Property", "reference": "25:44-46", "why_start_end_and_devices": "Parallel: foreign slaves can be held as property. Contrasts with previous scene. Devices: Binary (Israelite/foreign) emphasizing special protected status."},
-        {"scene_number": 37, "scene_name": "Israelite Sold to Sojourner", "reference": "25:47-55", "why_start_end_and_devices": "Complex case: Israelite sold to sojourner; right of redemption by kinsman, prorated by Jubilee. Ends with theological rationale: 'For the land is mine...For they are my servants...I am the LORD your God.' Devices: Final rationale solidifies all Jubilee laws."},
-        {"scene_number": 38, "scene_name": "Epilogue: Final Warning Summary", "reference": "26:1-2", "why_start_end_and_devices": "Epilogue begins (Ch. 26). Final warning against core sins: idols, Sabbath-breaking. Perfectly brackets entire Holiness Code. Devices: Summative refrain of major themes."},
-        {"scene_number": 39, "scene_name": "Epilogue: The Blessings", "reference": "26:3-13", "why_start_end_and_devices": "First half of covenantal conclusion: 'If you walk in my statutes...': blessings (rain, crops, peace, victory, intimate presence). Ends with climax: 'I will walk among you...you shall be my people.' Devices: Covenant formula structure; blessings reverse Eden's curses."},
-        {"scene_number": 40, "scene_name": "Epilogue: First Wave of Curses", "reference": "26:14-17", "why_start_end_and_devices": "Second half: 'But if you will not listen...' First curse stage: terror, disease, failed crops, defeat. Devices: Covenantal curses; beginning of escalation."},
-        {"scene_number": 41, "scene_name": "Epilogue: Escalating Curses (Sevenfold)", "reference": "26:18-26", "why_start_end_and_devices": "Second, third, fourth waves: 'if you still...I will punish sevenfold.' Heavens like iron, wild beasts, plague/sword/famine. Devices: 'Sevenfold' refrain creates terrifying rhetorical impact."},
-        {"scene_number": 42, "scene_name": "Epilogue: Final Wave—Exile", "reference": "26:27-39", "why_start_end_and_devices": "'If you walk contrary...': ultimate curse—cannibalism, sanctuary destruction, exile; land enjoys its Sabbaths. Devices: Tragic irony—land 'enjoys Sabbaths' because people refused them."},
-        {"scene_number": 43, "scene_name": "Epilogue: Hope and Restoration", "reference": "26:40-46", "why_start_end_and_devices": "Final word: hope. 'But if they confess...': even in exile, repentance brings restoration; God won't break covenant. Ends with colophon. Devices: Inclusio—concludes with promise, not judgment; 'I am the LORD their God.'"}
+        {
+          "scene_number": 1,
+          "scene_name": "All Slaughter Brought to the Tent",
+          "reference": "17:1-4",
+          "why_start_end_and_devices": "Starts the Holiness Code with the slaughter law. Ends 'bloodguilt' for slaughtering elsewhere. Devices: Centralization guards against unholy worship."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "No More Sacrifices to Goat Demons",
+          "reference": "17:5-7",
+          "why_start_end_and_devices": "Starts with bringing offerings to the LORD. Ends 'a lasting ordinance.' Devices: Polemic against the 'goat idols'—exclusive worship."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Life Is in the Blood",
+          "reference": "17:8-12",
+          "why_start_end_and_devices": "Starts with the ban on outside sacrifice. Ends 'the life of a creature is in the blood.' Devices: The theological heart of the blood prohibition—blood given for atonement."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Draining Blood; Eating Carcasses",
+          "reference": "17:13-16",
+          "why_start_end_and_devices": "Starts with covering drained blood. Ends with washing after eating a carcass. Devices: Reverence for life extended to hunting and diet."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Sexual Laws: Introduction",
+          "reference": "18:1-5",
+          "why_start_end_and_devices": "New chapter and topic. Introduction framing laws: don't be like Egypt (past) or Canaan (future); follow God's rules 'by which, if a person does them, he shall live.' Devices: Binary opposition frames laws as choice of national identity."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Do Not Uncover the Nakedness of Close Kin",
+          "reference": "18:6-11",
+          "why_start_end_and_devices": "Starts 'no one is to approach a close relative.' Ends with the half-sister. Devices: 'Uncover nakedness' euphemism; concentric circles of kinship."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Aunts, In-Laws, and Kin",
+          "reference": "18:12-16",
+          "why_start_end_and_devices": "Starts with the father's sister. Ends with the brother's wife. Devices: Extending the prohibited degrees by marriage and blood."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "A Woman and Her Daughter; Sisters",
+          "reference": "18:17-18",
+          "why_start_end_and_devices": "Starts with a woman and her daughter. Ends with marrying sisters as rivals. Devices: Closing the incest list; protecting the household."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Sexual Laws: Prohibited Acts and Molech",
+          "reference": "18:19-23",
+          "why_start_end_and_devices": "Second list: menstruation, adultery, child sacrifice (Molech), same-sex intercourse, bestiality. Devices: Juxtaposition of diverse sexual purity laws suggests unified concern for ordered sexuality."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Land Vomits Out the Defiled",
+          "reference": "18:24-28",
+          "why_start_end_and_devices": "Starts 'do not defile yourselves.' Ends with the land vomiting out its inhabitants. Devices: Vivid personification—the land as moral agent."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Keep My Charge: Be Not Cut Off",
+          "reference": "18:29-30",
+          "why_start_end_and_devices": "Starts with the 'cut off' penalty. Ends 'I am the LORD your God.' Devices: The signature refrain seals the section."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Holiness Kernel: Core Laws",
+          "reference": "19:1-4",
+          "why_start_end_and_devices": "Chapter 19 begins—ethical core of Holiness Code, 'literary masterpiece.' Opens with key refrain: 'You shall be holy, for I the LORD your God am holy.' Lists laws parallel to Ten Commandments: honor parents, keep Sabbath, no idols. Devices: Refrain and allusion to Decalogue establish continuity with revelation."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Laws on Ritual and Social Justice",
+          "reference": "19:5-10",
+          "why_start_end_and_devices": "Combines ritual (peace offerings) with social justice (gleaning for poor/sojourner). Complete thought on both. Devices: Juxtaposition—ritual and ethics equally important, both justified by 'I am the LORD.'"
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Laws on Community Ethics",
+          "reference": "19:11-14",
+          "why_start_end_and_devices": "Ethical commands: no stealing, lying, defrauding. Pay workers same day. Don't curse deaf or block blind. Devices: Mix of explicit and concrete (don't steal) with metaphorical (don't block blind)."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Climax: Love Your Neighbor",
+          "reference": "19:15-18",
+          "why_start_end_and_devices": "Ethical climax. Commands just judgment, no slander, and positive command: 'Love your neighbor as yourself: I am the LORD' (19:17-18). Devices: Climax toward which all negative laws aim; positive formulation of ethics."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Laws on Mixtures and Distinction",
+          "reference": "19:19",
+          "why_start_end_and_devices": "Brief cohesive unit: no mixed cattle, seeds, or fabric (shaatnez). Complete thought. Devices: Physical metaphors for moral holiness (separation, distinction, maintaining God's order)."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Servant Betrothal; Fruit Trees",
+          "reference": "19:20-25",
+          "why_start_end_and_devices": "Starts with the case of a betrothed servant woman. Ends with the fourth-year fruit holy to the LORD. Devices: Mixed civil-ritual laws; patience with new trees."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "No Divination, No Cutting the Body",
+          "reference": "19:26-28",
+          "why_start_end_and_devices": "Starts with the ban on divination. Ends with no tattoos or cutting for the dead. Devices: Separation from pagan mourning and magic."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Honor the Sabbath and the Aged",
+          "reference": "19:29-32",
+          "why_start_end_and_devices": "Starts with not degrading a daughter. Ends 'rise in the presence of the aged.' Devices: Reverence woven through social life; 'I am the LORD.'"
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Love the Foreigner; Honest Weights",
+          "reference": "19:33-37",
+          "why_start_end_and_devices": "Starts with the foreigner 'as native-born.' Ends with honest weights and measures. Devices: Love of neighbor extended to the stranger and the marketplace."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Giving Children to Molech",
+          "reference": "20:1-5",
+          "why_start_end_and_devices": "Starts with the Molech penalty. Ends with the LORD setting his face against the offender. Devices: Capital sanction; God himself as prosecutor."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Mediums and the Call to Holiness",
+          "reference": "20:6-8",
+          "why_start_end_and_devices": "Starts with mediums and spiritists. Ends 'I am the LORD who sanctifies you.' Devices: The sanctification refrain motivating obedience."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Cursing Parents; Adultery",
+          "reference": "20:9-12",
+          "why_start_end_and_devices": "Starts with cursing father or mother. Ends with the death penalty for adultery and incest. Devices: Penalties matched to the chapter-18 prohibitions."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Forbidden Unions Punished",
+          "reference": "20:13-16",
+          "why_start_end_and_devices": "Starts with same-sex relations. Ends with bestiality. Devices: 'Their blood is on their own heads'—personal accountability."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Incest and Impurity Penalties",
+          "reference": "20:17-21",
+          "why_start_end_and_devices": "Starts with marrying a sister. Ends with childlessness as judgment. Devices: A spectrum of penalties—'cut off,' bear guilt, die childless."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Conclusion: Holiness as Separation",
+          "reference": "20:22-27",
+          "why_start_end_and_devices": "Conclusion to penalties. Rationale: God separates Israel from nations as He separated clean/unclean animals. Ends with refrain 'You shall be holy to me, for I the LORD am holy.' Devices: Analogy linking purity system (Ch. 11-15) to sexual ethics."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "A Priest's Limited Mourning",
+          "reference": "21:1-6",
+          "why_start_end_and_devices": "Starts with restrictions on a priest touching the dead. Ends 'they must be holy.' Devices: Death and holiness in tension; the priest set apart even in grief."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "A Priest's Marriage; His Daughter",
+          "reference": "21:7-9",
+          "why_start_end_and_devices": "Starts with whom a priest may marry. Ends with the burning of a priest's profaned daughter. Devices: Family holiness reflects on the office."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The High Priest: Set Wholly Apart",
+          "reference": "21:10-15",
+          "why_start_end_and_devices": "Starts with the high priest's higher standard. Ends 'I am the LORD who sanctifies him.' Devices: No mourning, no leaving the sanctuary—the apex of consecration."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "No Blemished Priest May Offer",
+          "reference": "21:16-20",
+          "why_start_end_and_devices": "Starts with the rule on physical defects. Ends with the list of blemishes. Devices: Wholeness as a symbol of holiness at the altar."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "He May Eat the Holy Food, but Not Officiate",
+          "reference": "21:21-24",
+          "why_start_end_and_devices": "Starts with the blemished descendant. Ends 'he must not profane my sanctuaries.' Devices: Inclusion in provision, exclusion from service—mercy with order."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Priests Must Be Clean to Eat Holy Things",
+          "reference": "22:1-5",
+          "why_start_end_and_devices": "Starts with treating the sacred gifts with respect. Ends with the sources of uncleanness. Devices: Reverence for holy food; the priest's own purity required."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "When a Priest Becomes Clean Again",
+          "reference": "22:6-9",
+          "why_start_end_and_devices": "Starts with washing at sunset. Ends 'I am the LORD who sanctifies them.' Devices: Restoration timeline; the sanctification refrain."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Who in a Priest's House May Eat",
+          "reference": "22:10-13",
+          "why_start_end_and_devices": "Starts with the outsider barred. Ends with the widowed daughter's return. Devices: Household membership defines access to holy food."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Restitution for Eating It Unknowingly",
+          "reference": "22:14-16",
+          "why_start_end_and_devices": "Starts with eating holy food by mistake. Ends with adding a fifth. Devices: Restitution principle (cf. ch. 5-6) applied to the sacred."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Offerings Must Be Without Defect",
+          "reference": "22:17-20",
+          "why_start_end_and_devices": "Starts with vows and freewill offerings. Ends 'it will not be accepted.' Devices: Unblemished animals—the worshiper gives God his best."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "No Blemished Animal Accepted",
+          "reference": "22:21-25",
+          "why_start_end_and_devices": "Starts with the peace offering standard. Ends barring foreign blemished animals. Devices: Wholeness mirrors the priestly blemish law—symmetry of giver and gift."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Newborn Animals; Not With Its Young",
+          "reference": "22:26-30",
+          "why_start_end_and_devices": "Starts with the seven-day waiting for newborns. Ends with eating the thank offering the same day. Devices: Compassion in ritual (not slaughtering young with mother)."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Do Not Profane My Holy Name",
+          "reference": "22:31-33",
+          "why_start_end_and_devices": "Starts 'keep my commands.' Ends 'I am the LORD who brought you out of Egypt.' Devices: The exodus motive; the name-sanctification refrain closes the chapter."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "The Sabbath: a Day of Sacred Rest",
+          "reference": "23:1-3",
+          "why_start_end_and_devices": "Starts the festival calendar. Ends with the weekly Sabbath. Devices: The Sabbath heads the list—weekly rhythm before annual feasts."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Passover and Unleavened Bread",
+          "reference": "23:4-8",
+          "why_start_end_and_devices": "Starts with the appointed times. Ends with the seven days of unleavened bread. Devices: The spring feasts commemorating the exodus."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "The Firstfruits Sheaf",
+          "reference": "23:9-14",
+          "why_start_end_and_devices": "Starts 'when you enter the land.' Ends 'a lasting ordinance.' Devices: Waving the first sheaf—gratitude before the full harvest."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Fifty Days to the Feast of Weeks",
+          "reference": "23:15-18",
+          "why_start_end_and_devices": "Starts counting fifty days. Ends with the offerings of Weeks. Devices: Pentecost timing; new-grain loaves waved."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "The Offerings; Leave the Gleanings",
+          "reference": "23:19-22",
+          "why_start_end_and_devices": "Starts with the festival sacrifices. Ends 'leave them for the poor and the foreigner.' Devices: Worship joined to social justice—gleaning law embedded in the feast."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "The Feast of Trumpets",
+          "reference": "23:23-25",
+          "why_start_end_and_devices": "Starts with the first day of the seventh month. Ends with a sacred assembly. Devices: Trumpet blasts open the climactic month."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "The Day of Atonement: Afflict Yourselves",
+          "reference": "23:26-28",
+          "why_start_end_and_devices": "Starts with the tenth day. Ends 'make atonement for you.' Devices: The solemn fast; self-denial commanded."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "A Sabbath of Complete Rest",
+          "reference": "23:29-32",
+          "why_start_end_and_devices": "Starts with the 'cut off' warning. Ends 'from evening to evening.' Devices: Total rest; the gravest day kept as a Sabbath of Sabbaths."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "The Feast of Booths Proclaimed",
+          "reference": "23:33-38",
+          "why_start_end_and_devices": "Starts with the fifteenth day. Ends summarizing all the appointed feasts. Devices: The great ingathering feast; seven days of offerings."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Living in Booths: Remember the Exodus",
+          "reference": "23:39-44",
+          "why_start_end_and_devices": "Starts with rejoicing before the LORD. Ends 'I had the Israelites live in booths.' Devices: Branches and shelters re-enact the wilderness—memory as worship."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "The Lamps Tended Continually",
+          "reference": "24:1-4",
+          "why_start_end_and_devices": "Starts with the oil for the lamps. Ends 'before the LORD continually.' Devices: Perpetual light; Aaron's daily tending."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "The Bread of the Presence",
+          "reference": "24:5-9",
+          "why_start_end_and_devices": "Starts with the twelve loaves. Ends 'a lasting covenant.' Devices: Twelve loaves for the tribes; a memorial portion of incense."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Narrative: Blasphemy Case Study",
+          "reference": "24:10-12",
+          "why_start_end_and_devices": "Narrative interruption (like Ch. 10). Half-Israelite blasphemes Name; put in custody pending God's verdict. Devices: Test case establishing precedent for ambiguous legal situation."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "The Blasphemer Stoned",
+          "reference": "24:13-16",
+          "why_start_end_and_devices": "Starts with the LORD's verdict. Ends 'must be put to death.' Devices: The narrative case yields a permanent statute; hands laid on the head."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Life for Life, Eye for Eye",
+          "reference": "24:17-20",
+          "why_start_end_and_devices": "Starts with the law of homicide. Ends 'as he has injured...so it is to be done.' Devices: The lex talionis—proportional, limiting justice."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "One Law for All; the Stoning",
+          "reference": "24:21-23",
+          "why_start_end_and_devices": "Starts 'the same law for the foreigner and the native.' Ends with the sentence carried out. Devices: Impartial justice; narrative closes on obedience."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Six Years Sow, the Seventh a Sabbath",
+          "reference": "25:1-5",
+          "why_start_end_and_devices": "Starts at Sinai with the land's Sabbath. Ends 'a year of rest for the land.' Devices: The land itself keeps Sabbath—creation rhythm extended to soil."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "The Sabbath-Year Yield for All",
+          "reference": "25:6-7",
+          "why_start_end_and_devices": "Starts with whatever the land yields. Ends including livestock and wild animals. Devices: Shared provision in the fallow year—trust in God."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "The Jubilee Proclamation",
+          "reference": "25:8-13",
+          "why_start_end_and_devices": "'Sabbath of Sabbaths': 50th year (Jubilee). Proclaimed with trumpet; 'every man returns to his property.' Devices: System-wide reset button; safeguard against permanent poverty."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Jubilee Economic Laws",
+          "reference": "25:14-18",
+          "why_start_end_and_devices": "Land 'sales' actually leases; price calculated by years to Jubilee. Prevents permanent land sales. Devices: Structural safeguard protecting family land ownership."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Sabbatical Theological Rationale",
+          "reference": "25:19-22",
+          "why_start_end_and_devices": "Answers practical question: 'What will we eat in 7th year?' God promises triple crop in 6th year. Pure theological promise. Devices: Anticipates reader's pragmatic doubt; answers with divine reassurance."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "The Land Is Mine; Provide for Redemption",
+          "reference": "25:23-24",
+          "why_start_end_and_devices": "Starts 'the land must not be sold permanently.' Ends 'you must provide for redemption of the land.' Devices: The theological hinge of the Jubilee—'the land is mine; you are but foreigners and sojourners with me.'"
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Redeeming Sold Land",
+          "reference": "25:25-28",
+          "why_start_end_and_devices": "Starts with a brother selling land in poverty. Ends with release in the Jubilee. Devices: Kinsman-redeemer principle; land returns to the family."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "Houses in Walled Cities and Levite Property",
+          "reference": "25:29-34",
+          "why_start_end_and_devices": "Starts with houses in walled cities. Ends with the Levites' perpetual right. Devices: Distinctions between city and country, Levite and lay—land theology applied."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "Help the Impoverished Brother",
+          "reference": "25:35-38",
+          "why_start_end_and_devices": "Starts 'if your brother becomes poor.' Ends 'I am the LORD your God.' Devices: No interest from a brother; the exodus motive grounds generosity."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Do Not Enslave Your Brother",
+          "reference": "25:39-43",
+          "why_start_end_and_devices": "Starts with the poor brother who sells himself. Ends 'do not rule over him harshly.' Devices: An Israelite serves as a hired worker, freed at Jubilee."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "Foreign Slaves and Property",
+          "reference": "25:44-46",
+          "why_start_end_and_devices": "Parallel: foreign slaves can be held as property. Contrasts with previous scene. Devices: Binary (Israelite/foreign) emphasizing special protected status."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "The Right of Redemption",
+          "reference": "25:47-52",
+          "why_start_end_and_devices": "Starts with selling oneself to a resident foreigner. Ends with the price reckoned to the Jubilee. Devices: Redemption by kin; value prorated to the years remaining."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "Released in the Jubilee: 'They Are My Servants'",
+          "reference": "25:53-55",
+          "why_start_end_and_devices": "Starts with humane treatment. Ends 'the Israelites are my servants.' Devices: Ultimate ownership belongs to God—no permanent human bondage."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "Epilogue: Final Warning Summary",
+          "reference": "26:1-2",
+          "why_start_end_and_devices": "Epilogue begins (Ch. 26). Final warning against core sins: idols, Sabbath-breaking. Perfectly brackets entire Holiness Code. Devices: Summative refrain of major themes."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "If You Follow My Statutes: Rain, Peace, Victory",
+          "reference": "26:3-8",
+          "why_start_end_and_devices": "Starts 'if you follow my decrees.' Ends with five chasing a hundred. Devices: Covenant blessings—agricultural abundance and security."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "I Will Walk Among You",
+          "reference": "26:9-13",
+          "why_start_end_and_devices": "Starts with God turning toward them. Ends 'I broke the bars of your yoke.' Devices: The climactic promise of Presence—'I will walk among you and be your God.'"
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "Epilogue: First Wave of Curses",
+          "reference": "26:14-17",
+          "why_start_end_and_devices": "Second half: 'But if you will not listen...' First curse stage: terror, disease, failed crops, defeat. Devices: Covenantal curses; beginning of escalation."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "Sevenfold Discipline; Wild Beasts",
+          "reference": "26:18-22",
+          "why_start_end_and_devices": "Starts 'if after all this you will not listen.' Ends with wild animals bereaving them. Devices: Escalating, sevenfold discipline—measured, not arbitrary."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Sword, Pestilence, and Broken Bread",
+          "reference": "26:23-26",
+          "why_start_end_and_devices": "Starts with the avenging sword. Ends with bread rationed by weight. Devices: Famine imagery; the staff of bread broken."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "Famine to Cannibalism; High Places Destroyed",
+          "reference": "26:27-30",
+          "why_start_end_and_devices": "Starts with God's hostility. Ends with the destruction of the high places. Devices: The horror of siege; idols thrown down on corpses."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "Cities Laid Waste; Scattered Among Nations",
+          "reference": "26:31-33",
+          "why_start_end_and_devices": "Starts with cities in ruins. Ends 'I will scatter you among the nations.' Devices: Exile foretold—the ultimate covenant curse."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "The Land Enjoys Its Sabbaths; Exile's Terror",
+          "reference": "26:34-39",
+          "why_start_end_and_devices": "Starts with the land resting at last. Ends with wasting away in enemy lands. Devices: The neglected Sabbaths repaid; dread pursuing the survivors."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "If They Confess Their Iniquity",
+          "reference": "26:40-43",
+          "why_start_end_and_devices": "Starts 'if they confess their sins.' Ends with the land enjoying its Sabbaths. Devices: The turn toward hope—confession opens the door."
+        },
+        {
+          "scene_number": 79,
+          "scene_name": "I Will Remember My Covenant",
+          "reference": "26:44-46",
+          "why_start_end_and_devices": "Starts 'yet in spite of this.' Ends with the covenant at Sinai. Devices: Covenant memory—God will not utterly reject; grace beneath judgment."
+        }
       ]
     },
     {
@@ -171,14 +1238,60 @@
       "why_start_end_and_literary_glue": "Begins with new divine speech: 'The LORD spoke to Moses...When a person makes a special vow...' (27:1-2). Shifts from commanded obligations (Ch. 1-26) to voluntary devotion. Ends with final verse of entire book (27:34): 'These are the commandments that the LORD commanded Moses for the people of Israel on Mount Sinai.' Ultimate colophon closing all 27 chapters. Literary glue: Bound by highly structured, systematic, repetitive list organized by category: (1) Persons, (2) Animals, (3) Houses, (4) Land. Each section follows formula: 'If...[item vowed]...then your valuation shall be...' This systematic approach provides theological capstone: from obligation and sin to free-will devotion and redemption.",
       "reference": "27:1-34",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Valuation of Persons", "reference": "27:1-8", "why_start_end_and_devices": "Details 'commutation' price (silver shekels) for person dedicated by vow. Fixed rate by age/gender, with sliding scale for poor. Devices: Value not based on social worth but on fixed schedule; accessibility principle applies."},
-        {"scene_number": 2, "scene_name": "The Valuation of Animals", "reference": "27:9-13", "why_start_end_and_devices": "Clean animals (fit for sacrifice) cannot be redeemed; unclean can be with 20% penalty. Devices: Binary (clean/unclean); emphasis that altar-fit animals cannot be taken back."},
-        {"scene_number": 3, "scene_name": "The Valuation of Houses", "reference": "27:14-15", "why_start_end_and_devices": "Houses redeemable with 20% penalty. Devices: Repetition of familiar penalty; applies residential property logic."},
-        {"scene_number": 4, "scene_name": "The Valuation of Land (Inherited)", "reference": "27:16-21", "why_start_end_and_devices": "Most complex: inherited land with price prorated by years to Jubilee. Connects to Story 5's Jubilee system. Devices: Integration of vow system with land law; demonstrates whole law's coherence."},
-        {"scene_number": 5, "scene_name": "The Valuation of Land (Purchased)", "reference": "27:22-25", "why_start_end_and_devices": "Parallel: non-family purchased land with same Jubilee-based calculation. Completes land laws. Devices: Systematic treatment of both land types."},
-        {"scene_number": 6, "scene_name": "Irredeemable Things", "reference": "27:26-29", "why_start_end_and_devices": "Things already God's and cannot be vowed: firstborn and anything 'devoted to destruction' (cherem). Devices: Contrast establishes limits to vow system."},
-        {"scene_number": 7, "scene_name": "The Law of the Tithe", "reference": "27:30-33", "why_start_end_and_devices": "Final law: tithe of seed/fruit and flock belongs to God (like firstborn) but can be redeemed with 20% penalty. Devices: Systematic inclusion of tithe in redemption framework."},
-        {"scene_number": 8, "scene_name": "The Final Colophon", "reference": "27:34", "why_start_end_and_devices": "Final verse of entire book: ultimate 'signature' closing all 27 chapters. Binds as single revelation from God through Moses at Sinai. Devices: Inclusio/colophon formally closing entire Torah's central book."}
+        {
+          "scene_number": 1,
+          "scene_name": "Valuation Vows: Men and Women",
+          "reference": "27:1-4",
+          "why_start_end_and_devices": "Starts with special vows of persons. Ends with the valuation of a woman. Devices: A monetary scale for dedicating persons to the LORD."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Valuations by Age; the Poor",
+          "reference": "27:5-8",
+          "why_start_end_and_devices": "Starts with valuations for the young. Ends with the priest valuing the poor 'according to what he can afford.' Devices: Sliding scale again—devotion accessible to all."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Valuation of Animals",
+          "reference": "27:9-13",
+          "why_start_end_and_devices": "Clean animals (fit for sacrifice) cannot be redeemed; unclean can be with 20% penalty. Devices: Binary (clean/unclean); emphasis that altar-fit animals cannot be taken back."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Valuation of Houses",
+          "reference": "27:14-15",
+          "why_start_end_and_devices": "Houses redeemable with 20% penalty. Devices: Repetition of familiar penalty; applies residential property logic."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Valuation of Land (Inherited)",
+          "reference": "27:16-21",
+          "why_start_end_and_devices": "Most complex: inherited land with price prorated by years to Jubilee. Connects to Story 5's Jubilee system. Devices: Integration of vow system with land law; demonstrates whole law's coherence."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Valuation of Land (Purchased)",
+          "reference": "27:22-25",
+          "why_start_end_and_devices": "Parallel: non-family purchased land with same Jubilee-based calculation. Completes land laws. Devices: Systematic treatment of both land types."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Irredeemable Things",
+          "reference": "27:26-29",
+          "why_start_end_and_devices": "Things already God's and cannot be vowed: firstborn and anything 'devoted to destruction' (cherem). Devices: Contrast establishes limits to vow system."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Law of the Tithe",
+          "reference": "27:30-33",
+          "why_start_end_and_devices": "Final law: tithe of seed/fruit and flock belongs to God (like firstborn) but can be redeemed with 20% penalty. Devices: Systematic inclusion of tithe in redemption framework."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Final Colophon",
+          "reference": "27:34",
+          "why_start_end_and_devices": "Final verse of entire book: ultimate 'signature' closing all 27 chapters. Binds as single revelation from God through Moses at Sinai. Devices: Inclusio/colophon formally closing entire Torah's central book."
+        }
       ]
     }
   ]

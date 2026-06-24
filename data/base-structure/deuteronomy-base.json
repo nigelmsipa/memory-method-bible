@@ -7,111 +7,1463 @@
     {
       "story_letter": "A",
       "story_title": "The First Address: History as Hortatory",
-      "why_start_end_and_literary_glue": "Functions as the Historical Prologue of the covenant treaty. Moses, as covenant mediator, opens with formal superscription establishing setting (plains of Moab), time (40th year), and authority. The speech is rhetorical history of wilderness wandering from Horeb to present—not objective history but persuasive argument: God (Suzerain) has been perfectly faithful, while Israel (vassal) has been rebellious. This past failure motivates new generation to 'hear' and 'obey.' Speech concludes with first great exhortation to obedience and powerful warning against idolatry. Entire unit held together by theme of 'remembering' versus 'forgetting'.",
-      "reference": "1:1-4:49",
+      "why_start_end_and_literary_glue": "Moses' first speech: a sermonic retelling of the wilderness journey from Horeb to Moab, turning history into exhortation. Ends with the cities of refuge east of the Jordan (4:41-43), the narrative bridge before the second address.",
+      "reference": "1:1-4:43",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Superscription and Authority", "reference": "1:1-5", "why_start_end_and_devices": "Formal preamble identifying speaker (Moses), audience (all Israel), location (plains of Moab), and time (40th year, 11th month). Establishes legal authority. Devices: Formal legal opening, chronological and geographical precision, speaker authority."},
-        {"scene_number": 2, "scene_name": "The Command from Horeb", "reference": "1:6-8", "why_start_end_and_devices": "First quoted speech 'The LORD our God said to us at Horeb...' Frames entire 40-year period as response to divine command and promise. Devices: Direct divine speech, mandate and promise, theophanic framing."},
-        {"scene_number": 3, "scene_name": "The Appointment of Judges", "reference": "1:9-18", "why_start_end_and_devices": "Moses recasts Jethro's suggestion as his own idea. Paints picture of wise leadership and divine faithfulness. Devices: Inclusio (envelope structure), rhetorical reframing, leadership model."},
-        {"scene_number": 4, "scene_name": "The Mission of the Spies", "reference": "1:19-33", "why_start_end_and_devices": "Transition to Kadesh-barnea. First major historical indictment. Mission is people's idea, placing blame squarely on them. Devices: Rhetorical shift of blame, contrast between faith and unbelief, narrative tension."},
-        {"scene_number": 5, "scene_name": "The Penalty for Unbelief", "reference": "1:34-46", "why_start_end_and_devices": "Details consequences of rebellion. God's oath of judgment, exception (Caleb), penalty extended to Moses. Includes presumptuous invasion attempt and rout. Devices: Narrative escalation, divine judgment, irony of failure."},
-        {"scene_number": 6, "scene_name": "The Years of Wandering", "reference": "2:1-25", "why_start_end_and_devices": "Covers 38 years, characterized by divine commands not to engage certain relatives. Shows God's precise control over history and geography. Pivots with command to now engage. Devices: Repetition of divine instructions, geographical precision, divine sovereignty."},
-        {"scene_number": 7, "scene_name": "The Conquest of Sihon", "reference": "2:26-37", "why_start_end_and_devices": "Tale of King Sihon presented as model holy war. God 'hardened Sihon's spirit' and delivered victory. Rhetorical point: when Israel obedient, God delivers. Devices: Narrative example, divine agency, victory theme."},
-        {"scene_number": 8, "scene_name": "The Conquest of Og", "reference": "3:1-11", "why_start_end_and_devices": "Second great victory paralleling Sihon. Completes conquest of Transjordan. Mention of Og's bedstead emphasizes 'giant' stature, making victory more impressive. Devices: Narrative parallelism, enemy magnitude emphasis."},
-        {"scene_number": 9, "scene_name": "Land Distribution in Transjordan", "reference": "3:12-22", "why_start_end_and_devices": "Details distribution of Transjordanian land to 2.5 tribes. Charge to help brothers reinforces national unity. Charge to Joshua given. Devices: Leadership transition, unity emphasis, succession preparation."},
-        {"scene_number": 10, "scene_name": "Moses's Plea and God's Refusal", "reference": "3:23-29", "why_start_end_and_devices": "Moses's personal plea to enter land denied. Personalizes cost of earlier rebellion. Sets up Joshua's succession. Devices: Personal pathos, divine refusal, leadership transition."},
-        {"scene_number": 11, "scene_name": "The Great Exhortation to Obey", "reference": "4:1-8", "why_start_end_and_devices": "Rhetorical climax of first speech. Shift from history to exhortation. Because of history, Israel must 'listen' and 'do' the law. Law as 'wisdom' and basis of unique relationship. Devices: Rhetorical pivot, exemplary narratives, divine uniqueness."},
-        {"scene_number": 12, "scene_name": "The Warning from Horeb Experience", "reference": "4:9-14", "why_start_end_and_devices": "Warning against forgetting. Primary event to remember is Horeb. Contrast: heard voices but 'saw no form'. Devices: Memory command, theophanic contrast, auditory emphasis."},
-        {"scene_number": 13, "scene_name": "The Warning Against Idolatry", "reference": "4:15-24", "why_start_end_and_devices": "Because God is formless, any attempt to make image is lie and corruption. God described as 'consuming fire, a jealous God'. Devices: Theological argument from Horeb, divine character, idolatry prohibition."},
-        {"scene_number": 14, "scene_name": "The Prophecy of Exile and Return", "reference": "4:25-31", "why_start_end_and_devices": "Covenant lawsuit in miniature. Provision for future (v. 25), warning of transgression (idolatry), calling witnesses, curse (exile), path to restoration (repentance). Devices: Treaty structure, prophetic warning, restoration promise."},
-        {"scene_number": 15, "scene_name": "The Uniqueness of YHWH as Basis for Loyalty", "reference": "4:32-40", "why_start_end_and_devices": "Final summary of first address. Series of rhetorical questions establish YHWH's absolute uniqueness. Uniqueness is reason for command to 'know... and keep his statutes.' Devices: Rhetorical questions, theological argument, motivational language."},
-        {"scene_number": 16, "scene_name": "The Horeb Covenant with This Generation", "reference": "5:1-5", "why_start_end_and_devices": "Foundational claim: covenant not just with fathers but 'with us, who are all of us here alive today.' Rhetorical move makes law immediately binding. Establishes Moses's mediator role. Devices: Direct address, covenantal claim, generation transfer."},
-        {"scene_number": 17, "scene_name": "The Ten Commandments Recited", "reference": "5:6-21", "why_start_end_and_devices": "Moses's recitation of Decalogue. Profound rhetorical change: Sabbath grounded in Redemption ('you were a slave in Egypt') not Creation. Re-frames law as response to grace. Devices: Legal formulation, rhetorical adaptation, grace framework."},
-        {"scene_number": 18, "scene_name": "The People's Fear and Request for Mediation", "reference": "5:22-33", "why_start_end_and_devices": "People terrified by God's direct presence beg Moses be intermediary. God endorses plan. Validates Moses's authority to speak rest of laws on God's behalf. Devices: Narrative framing, dialogue, authority establishment."},
-        {"scene_number": 19, "scene_name": "The Purpose of the Law: Life in the Land", "reference": "6:1-3", "why_start_end_and_devices": "Transition from Horeb event to application. States purpose of obedience: 'that your days may be long' and 'it may go well with you.' Links Ten Commandments to specific statutes. Devices: Transitional rhetoric, purpose statement, life promise."},
-        {"scene_number": 20, "scene_name": "The Shema: The Great Commandment", "reference": "6:4-9", "why_start_end_and_devices": "Theological and literary heart of Deuteronomy. Defines loyalty: exclusive ('one LORD') and total ('all your heart, soul, might'). Commands transmission through pedagogy. Devices: Creedal formulation, comprehensive love command, pedagogical instruction."},
-        {"scene_number": 21, "scene_name": "Cities of Refuge Narrative Interlude", "reference": "4:41-43", "why_start_end_and_devices": "Shift to third-person narrative. Moses's action setting apart cities. Serves as structural 'curtain drop' between first and second speeches. Devices: Narrative framing, structural separation, practical application."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Superscription and Setting",
+          "reference": "1:1-5",
+          "why_start_end_and_devices": "Starts 'These are the words Moses spoke.' Ends with Moses beginning to expound the law. Devices: Geographic frame; 'beyond the Jordan' sets the vantage point of the whole book."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Command from Horeb",
+          "reference": "1:6-8",
+          "why_start_end_and_devices": "Starts 'You have stayed long enough at this mountain.' Ends 'go in and take possession.' Devices: The land-promise to the patriarchs invoked as warrant."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Moses Cannot Bear the People Alone",
+          "reference": "1:9-12",
+          "why_start_end_and_devices": "Starts with Moses' burden. Ends 'how can I bear your problems alone?' Devices: The growth-as-blessing motif strains leadership."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Wise Leaders Appointed Over the Tribes",
+          "reference": "1:13-15",
+          "why_start_end_and_devices": "Starts 'choose wise men.' Ends with commanders set over thousands. Devices: Shared governance recalled from Exodus 18."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Judge Righteously, Great and Small Alike",
+          "reference": "1:16-18",
+          "why_start_end_and_devices": "Starts the charge to the judges. Ends 'the judgment is God's.' Devices: Impartial justice; 'do not be afraid of any man.'"
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Go Up and Take the Land",
+          "reference": "1:19-21",
+          "why_start_end_and_devices": "Starts the journey to Kadesh-barnea. Ends 'do not be afraid.' Devices: The land set before them; the first call to faith."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Spies Sent; the Good Report",
+          "reference": "1:22-25",
+          "why_start_end_and_devices": "Starts with the people's request to scout. Ends 'it is a good land.' Devices: Even the spies confirm the gift before the failure."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The People Refuse to Go Up",
+          "reference": "1:26-28",
+          "why_start_end_and_devices": "Starts 'you were unwilling.' Ends with hearts melting over the Anakim. Devices: Grumbling in the tents; fear distorts the report."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "'The LORD Will Fight for You'—Yet They Would Not Trust",
+          "reference": "1:29-33",
+          "why_start_end_and_devices": "Starts Moses' reassurance. Ends 'you did not trust the LORD.' Devices: The pillar of fire and cloud cited as proof of God's care."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The LORD's Oath: None but Caleb Will Enter",
+          "reference": "1:34-36",
+          "why_start_end_and_devices": "Starts with the LORD's anger. Ends with Caleb's reward. Devices: The oath of exclusion; faith rewarded with inheritance."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Even Moses Barred; Turn Back",
+          "reference": "1:37-40",
+          "why_start_end_and_devices": "Starts 'because of you the LORD was angry with me.' Ends with the turn to the wilderness. Devices: Moses implicated; the children will inherit instead."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Presumptuous Defeat at Hormah",
+          "reference": "1:41-46",
+          "why_start_end_and_devices": "Starts with belated, presumptuous zeal. Ends with weeping at Kadesh. Devices: Disobedient attack 'without the LORD'—routed like bees."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Long Years Around Mount Seir",
+          "reference": "2:1-3",
+          "why_start_end_and_devices": "Starts with years skirting the hill country. Ends 'turn north.' Devices: The wandering summarized; God's timing governs the march."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Pass by Edom Peaceably",
+          "reference": "2:4-7",
+          "why_start_end_and_devices": "Starts the command regarding Esau's descendants. Ends 'you have lacked nothing.' Devices: Restraint toward kin; provision in the desert."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Past Moab; the Land of Ar",
+          "reference": "2:8-12",
+          "why_start_end_and_devices": "Starts skirting Moab. Ends with a note on the Horites. Devices: Antiquarian asides; Moab's land not for Israel (Lot's sons)."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Crossing the Zered; a Generation Gone",
+          "reference": "2:13-15",
+          "why_start_end_and_devices": "Starts at the Zered Valley. Ends 'until the whole generation had perished.' Devices: The thirty-eight years closed; the death sentence fulfilled."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Do Not Harass Moab or Ammon",
+          "reference": "2:16-19",
+          "why_start_end_and_devices": "Starts after the warriors died off. Ends with Ammon as Lot's sons. Devices: Boundaries of conquest divinely fixed."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Ancient Peoples of the Land Recalled",
+          "reference": "2:20-23",
+          "why_start_end_and_devices": "Starts with the Rephaim and Zamzummim. Ends with the Caphtorim. Devices: Learned digression—God has displaced nations before."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Rise Up: the Dread of Israel Begins",
+          "reference": "2:24-25",
+          "why_start_end_and_devices": "Starts 'set out and cross the Arnon.' Ends with dread upon the nations. Devices: The turn from wandering to conquest; fear precedes Israel."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Sihon Refuses Passage; His Heart Hardened",
+          "reference": "2:26-30",
+          "why_start_end_and_devices": "Starts with the peaceful offer to Sihon. Ends 'the LORD hardened his spirit.' Devices: Refusal becomes the occasion of conquest (cf. Pharaoh)."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Sihon Defeated at Jahaz",
+          "reference": "2:31-33",
+          "why_start_end_and_devices": "Starts 'I have begun to give Sihon over.' Ends with his defeat. Devices: The first conquest east of the Jordan."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Cities Devoted to Destruction",
+          "reference": "2:34-37",
+          "why_start_end_and_devices": "Starts with the ban on Sihon's cities. Ends with restraint toward Ammon's border. Devices: Herem warfare bounded by divine limits."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Og of Bashan Defeated",
+          "reference": "3:1-5",
+          "why_start_end_and_devices": "Starts with Og marching out. Ends with sixty fortified cities taken. Devices: A second giant-king felled; momentum builds."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Sixty Cities Taken; Og's Iron Bed",
+          "reference": "3:6-11",
+          "why_start_end_and_devices": "Starts with the devotion of Bashan. Ends with Og's iron bedstead. Devices: Antiquarian proof of the last of the Rephaim."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Land Given to Reuben, Gad, Half-Manasseh",
+          "reference": "3:12-17",
+          "why_start_end_and_devices": "Starts dividing the conquered land. Ends with the Jordan boundary. Devices: The Transjordan settlement recorded."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Armed Men Must Cross First; 'Do Not Fear'",
+          "reference": "3:18-22",
+          "why_start_end_and_devices": "Starts the charge to the eastern tribes. Ends 'the LORD your God will fight for you.' Devices: Solidarity in conquest; Joshua encouraged."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "'Let Me Cross Over'—the LORD Refuses",
+          "reference": "3:23-26",
+          "why_start_end_and_devices": "Starts Moses' plea to see the land. Ends 'do not speak to me again of this.' Devices: Poignant denial; 'the LORD was angry with me because of you.'"
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "View the Land from Pisgah; Commission Joshua",
+          "reference": "3:27-29",
+          "why_start_end_and_devices": "Starts 'go up to Pisgah.' Ends in the valley near Beth-peor. Devices: Sight without entry; Joshua charged."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Hear and Obey; Add Nothing, Take Nothing",
+          "reference": "4:1-4",
+          "why_start_end_and_devices": "Starts the great exhortation. Ends with those who held fast 'alive today.' Devices: The canon-principle; Baal-peor as cautionary memory."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Your Wisdom Before the Nations",
+          "reference": "4:5-8",
+          "why_start_end_and_devices": "Starts 'see, I have taught you.' Ends 'what great nation has such righteous laws?' Devices: Obedience as witness to the watching nations."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "The Warning from Horeb's Experience",
+          "reference": "4:9-14",
+          "why_start_end_and_devices": "Starts 'watch yourselves closely.' Ends with the two tablets. Devices: Memory and teaching to children; 'you heard words but saw no form.'"
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "You Saw No Form—Make No Idol",
+          "reference": "4:15-20",
+          "why_start_end_and_devices": "Starts 'you saw no form.' Ends 'his own inheritance.' Devices: The aniconic argument; idolatry as betrayal."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "A Consuming Fire, a Jealous God",
+          "reference": "4:21-24",
+          "why_start_end_and_devices": "Starts recalling Moses' exclusion. Ends 'a consuming fire, a jealous God.' Devices: Covenant jealousy; the danger of forgetting."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Corruption Will Bring Exile",
+          "reference": "4:25-28",
+          "why_start_end_and_devices": "Starts 'when you have children.' Ends serving lifeless idols. Devices: Prophetic foresight of exile—the curse named early."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Seek Him and He Will Be Found",
+          "reference": "4:29-31",
+          "why_start_end_and_devices": "Starts 'but if you seek the LORD.' Ends 'he will not forget the covenant.' Devices: Mercy beyond judgment; the door of return."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Has Any God Done Such Things?",
+          "reference": "4:32-35",
+          "why_start_end_and_devices": "Starts 'ask now about former days.' Ends 'the LORD is God; there is no other.' Devices: The argument from unique history—Sinai and the exodus."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Know Today: the LORD Is God",
+          "reference": "4:36-40",
+          "why_start_end_and_devices": "Starts with the voice from heaven. Ends 'that it may go well with you.' Devices: Election, redemption, and obedience bound together."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Cities of Refuge East of the Jordan",
+          "reference": "4:41-43",
+          "why_start_end_and_devices": "Starts 'then Moses set apart three cities.' Ends naming Bezer, Ramoth, Golan. Devices: A narrative interlude closing the first address; mercy embedded in law."
+        }
       ]
     },
     {
       "story_letter": "B",
       "story_title": "The Second Address, Part 1: The Heart of the Covenant",
-      "why_start_end_and_literary_glue": "Functions as General Stipulations section of covenant treaty. Theological 'heart' of Deuteronomy, establishing principles of loyalty that precede specific laws. Begins with preamble mirroring first speech, then great call 'Hear, O Israel' (Shema Yisrael). Re-presents Ten Commandments with critical rhetorical shift: covenant with present generation. Uses rest of unit (Ch. 6-11) as massive sermonic expansion of first and second commandments, centering on Shema itself demanding total, exclusive love. Chapters 7-11 are powerful hortatory sermons on why Israel must maintain exclusive loyalty, using history as primary rhetorical tool. Warns against temptations: fear, pride in prosperity, self-righteousness.",
+      "why_start_end_and_literary_glue": "The exhortatory core: the Decalogue (ch 5), the Shema (6:4-9), and the great call to love and remember (7-11). Begins with the law's superscription (4:44-49) and ends at the blessing-and-curse on Gerizim and Ebal (11:26-32).",
       "reference": "4:44-11:32",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Preamble to the Second Speech", "reference": "4:44-49", "why_start_end_and_devices": "Second, more specific preamble introducing 'law' (torah), specified as 'testimonies,' 'statutes,' and 'rules.' Functions as 'envelope' with 1:1-5. Devices: Formal introduction, geographical precision, legal terminology."},
-        {"scene_number": 2, "scene_name": "The Danger of Forgetting in Prosperity", "reference": "6:10-25", "why_start_end_and_devices": "First of several warnings. Moses's great fear is not failure but success. Warns when in abundance, 'heart will be lifted up' and forget LORD. Provides pedagogical antidote. Devices: Hypothetical scenario, warning against complacency, teaching emphasis."},
-        {"scene_number": 3, "scene_name": "A Holy People and the Program of Conquest", "reference": "7:1-26", "why_start_end_and_devices": "Outlines 'program of conquest,' demanding 'total destruction' of Canaanite nations. Harsh command given theological rationale: prevent religious syncretism. Core is doctrine of election based on love. Devices: Theological rationale, election doctrine, holy war framework."},
-        {"scene_number": 4, "scene_name": "The Lesson of the Manna and Wilderness", "reference": "8:1-20", "why_start_end_and_devices": "Masterful sermon on memory. Uses manna as key metaphor. God's wilderness purpose was to 'humble' and 'test,' teaching 'man does not live by bread alone.' Warning when rich, lest claim 'My power... has gotten me wealth.' Devices: Historical exemplum, metaphor, humility lesson."},
-        {"scene_number": 5, "scene_name": "The Golden Calf and Historical Indictment", "reference": "9:1-10:11", "why_start_end_and_devices": "Historical-rhetorical climax. To destroy self-righteousness, reminds of greatest sin. Describes detailed intercession. Proves they possess land through grace and mediation, not righteousness. Includes new tablets making. Devices: Historical narrative, intercession theme, humility argument."},
-        {"scene_number": 6, "scene_name": "The Call to Covenant Commitment", "reference": "10:12-11:32", "why_start_end_and_devices": "Concluding exhortation after sinful history review. Answer to 'what does God require': 'fear... walk... love... and serve.' Key command: 'Circumcise therefore the foreskin of your heart.' Final passionate appeal with great choice formula. Devices: Rhetorical question, heart metaphor, choice presentation."}
+        {
+          "scene_number": 1,
+          "scene_name": "Preamble to the Second Speech",
+          "reference": "4:44-49",
+          "why_start_end_and_devices": "Starts 'this is the law Moses set before Israel.' Ends with the conquered territory. Devices: Formal heading reintroducing the law-giving."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Horeb Covenant with This Generation",
+          "reference": "5:1-5",
+          "why_start_end_and_devices": "Starts 'Hear, O Israel.' Ends 'I stood between the LORD and you.' Devices: 'Not with our fathers but with us'—the covenant made present."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "No Other Gods; No Idols",
+          "reference": "5:6-10",
+          "why_start_end_and_devices": "Starts 'I am the LORD your God.' Ends 'showing love to a thousand generations.' Devices: The first commandments; grounded in the exodus."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Name; the Sabbath (Remember Egypt)",
+          "reference": "5:11-15",
+          "why_start_end_and_devices": "Starts with the Name. Ends 'remember you were slaves in Egypt.' Devices: Deuteronomy's redemptive (not creation) Sabbath rationale."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Honor Parents; Love of Neighbor",
+          "reference": "5:16-21",
+          "why_start_end_and_devices": "Starts 'honor your father and mother.' Ends 'you shall not covet.' Devices: The second-table commands; from act to desire."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The People Beg Moses to Mediate",
+          "reference": "5:22-27",
+          "why_start_end_and_devices": "Starts with the voice from the fire. Ends 'you go near and listen.' Devices: Terror at the divine voice; mediation requested."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "'Oh That They Had Such a Heart'",
+          "reference": "5:28-33",
+          "why_start_end_and_devices": "Starts the LORD's approval of their words. Ends 'walk in all the way I command.' Devices: The longing for an obedient heart—answered later (30:6)."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Purpose of the Law: Life in the Land",
+          "reference": "6:1-3",
+          "why_start_end_and_devices": "Starts 'these are the commands.' Ends 'a land flowing with milk and honey.' Devices: Obedience tied to long life and blessing."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Shema: the Great Commandment",
+          "reference": "6:4-9",
+          "why_start_end_and_devices": "Starts 'Hear, O Israel: the LORD our God, the LORD is one.' Ends with words on doorframes and gates. Devices: The center of Deuteronomy—total love; teach, bind, write."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "When You Are Full, Do Not Forget",
+          "reference": "6:10-15",
+          "why_start_end_and_devices": "Starts with the gift of a ready-built land. Ends 'a jealous God.' Devices: Prosperity as a spiritual danger; the warning against forgetting."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Do Not Test the LORD; Do What Is Right",
+          "reference": "6:16-19",
+          "why_start_end_and_devices": "Starts 'do not test the LORD as at Massah.' Ends driving out the enemies. Devices: Massah recalled; obedience as the path to the promise."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "When Your Son Asks: Tell the Story",
+          "reference": "6:20-25",
+          "why_start_end_and_devices": "Starts the child's question. Ends 'it will be our righteousness.' Devices: Catechesis—the exodus rehearsed for the next generation."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Devote the Nations; Make No Covenant",
+          "reference": "7:1-5",
+          "why_start_end_and_devices": "Starts with the seven nations. Ends 'burn their idols.' Devices: Separation from idolatry; no intermarriage."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "A People Holy and Chosen in Love",
+          "reference": "7:6-8",
+          "why_start_end_and_devices": "Starts 'you are a holy people.' Ends 'he redeemed you from slavery.' Devices: Election by love, not merit—'the fewest of all peoples.'"
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Faithful God Who Keeps Covenant",
+          "reference": "7:9-11",
+          "why_start_end_and_devices": "Starts 'know therefore.' Ends 'follow them.' Devices: The covenant-keeping God who repays both love and hatred."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Blessings for Obedience: Fruitfulness and Health",
+          "reference": "7:12-16",
+          "why_start_end_and_devices": "Starts 'if you pay attention.' Ends consuming the nations. Devices: Fertility, health, victory promised; no disease of Egypt."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Do Not Fear Them; Remember Egypt",
+          "reference": "7:17-21",
+          "why_start_end_and_devices": "Starts 'you may say, these nations are stronger.' Ends 'a great and awesome God.' Devices: Memory of Egypt as the antidote to fear."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Little by Little; Destroy Their Idols",
+          "reference": "7:22-26",
+          "why_start_end_and_devices": "Starts 'little by little.' Ends 'utterly detest it.' Devices: Gradual conquest; idols as devoted things to be destroyed."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The LORD Humbled and Tested You",
+          "reference": "8:1-5",
+          "why_start_end_and_devices": "Starts 'be careful to follow.' Ends 'as a man disciplines his son.' Devices: Manna as a lesson—'man does not live on bread alone.'"
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "A Good Land You Are Entering",
+          "reference": "8:6-9",
+          "why_start_end_and_devices": "Starts the call to obedience. Ends 'a land where you will lack nothing.' Devices: Lavish description of the land's goodness."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "When You Are Full, Bless Him—Do Not Forget",
+          "reference": "8:10-14",
+          "why_start_end_and_devices": "Starts 'when you have eaten and are satisfied.' Ends 'your heart will become proud.' Devices: The danger of self-sufficiency."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Remember Who Gave You Power to Prosper",
+          "reference": "8:15-18",
+          "why_start_end_and_devices": "Starts recalling the wilderness. Ends 'he gives you the ability to produce wealth.' Devices: Prosperity traced back to God, not self."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Forget Him and You Will Perish",
+          "reference": "8:19-20",
+          "why_start_end_and_devices": "Starts 'if you ever forget.' Ends 'you will perish.' Devices: The stark alternative closes the chapter."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Cross Over Today; the LORD Goes Before You",
+          "reference": "9:1-3",
+          "why_start_end_and_devices": "Starts 'Hear, O Israel: you are crossing.' Ends 'subdue them quickly.' Devices: God as the consuming fire who fights for them."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Not for Your Righteousness",
+          "reference": "9:4-6",
+          "why_start_end_and_devices": "Starts 'do not say in your heart.' Ends 'you are a stiff-necked people.' Devices: Conquest by grace and the nations' wickedness, not Israel's merit."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Remember Horeb: the Golden Calf",
+          "reference": "9:7-12",
+          "why_start_end_and_devices": "Starts 'remember and do not forget.' Ends 'they have made an idol.' Devices: The forty days on the mountain; rebellion at the foot."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Moses Breaks the Tablets",
+          "reference": "9:13-17",
+          "why_start_end_and_devices": "Starts the LORD's offer to destroy them. Ends with the shattered tablets. Devices: The broken tablets dramatize the broken covenant."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Forty Days of Intercession; the Calf Destroyed",
+          "reference": "9:18-21",
+          "why_start_end_and_devices": "Starts Moses falling before the LORD. Ends grinding the calf to dust. Devices: Renewed forty-day fast; the idol pulverized."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Rebellions Recalled: From the First Day",
+          "reference": "9:22-24",
+          "why_start_end_and_devices": "Starts naming Taberah, Massah, Kibroth-hattaavah. Ends 'you have been rebellious.' Devices: A catalogue of rebellions—the pattern exposed."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Moses' Prayer: Remember Abraham",
+          "reference": "9:25-29",
+          "why_start_end_and_devices": "Starts the prayer in the forty days. Ends 'your people, your inheritance.' Devices: Appeal to the patriarchs and to God's reputation."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "The Second Tablets; the Ark",
+          "reference": "10:1-5",
+          "why_start_end_and_devices": "Starts 'at that time the LORD said.' Ends with the tablets in the ark. Devices: Covenant renewed; the law preserved."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Aaron's Death; Levi Set Apart",
+          "reference": "10:6-9",
+          "why_start_end_and_devices": "Starts the itinerary note. Ends 'the LORD is his inheritance.' Devices: Embedded history; the Levites' special portion."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The LORD Relents; 'Continue the Journey'",
+          "reference": "10:10-11",
+          "why_start_end_and_devices": "Starts 'I stayed on the mountain.' Ends 'lead the people.' Devices: Intercession accepted; the march resumes."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "What Does the LORD Require? Fear and Love",
+          "reference": "10:12-15",
+          "why_start_end_and_devices": "Starts 'and now, what does the LORD ask?' Ends 'he chose you.' Devices: The famous summary—fear, walk, love, serve."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Circumcise Your Hearts; Love the Foreigner",
+          "reference": "10:16-19",
+          "why_start_end_and_devices": "Starts 'circumcise your hearts.' Ends 'love the foreigner.' Devices: Inward religion; God's impartial justice as the model."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Cling to Him; Seventy Became as the Stars",
+          "reference": "10:20-22",
+          "why_start_end_and_devices": "Starts 'fear the LORD, hold fast to him.' Ends 'as numerous as the stars.' Devices: The Abrahamic promise fulfilled."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Know His Discipline: What He Did to Egypt",
+          "reference": "11:1-4",
+          "why_start_end_and_devices": "Starts 'love the LORD and keep his charge.' Ends drowning Pharaoh's army. Devices: The adults who 'saw with their own eyes' are addressed."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "What He Did in the Wilderness",
+          "reference": "11:5-7",
+          "why_start_end_and_devices": "Starts recalling the wilderness. Ends 'your own eyes have seen.' Devices: Dathan and Abiram swallowed—discipline witnessed firsthand."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "A Land the LORD Cares For",
+          "reference": "11:8-12",
+          "why_start_end_and_devices": "Starts 'observe therefore.' Ends 'his eyes are continually on it.' Devices: Canaan contrasted with Egypt—a land watered by heaven."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Rain in Its Season—If You Obey",
+          "reference": "11:13-17",
+          "why_start_end_and_devices": "Starts 'if you faithfully obey.' Ends 'the land will yield no produce.' Devices: The early and latter rains tied to covenant fidelity."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Bind These Words; Teach Your Children",
+          "reference": "11:18-21",
+          "why_start_end_and_devices": "Starts 'fix these words in your hearts.' Ends 'as many as the days the heavens are above the earth.' Devices: The Shema's pedagogy restated."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Every Place Your Foot Treads",
+          "reference": "11:22-25",
+          "why_start_end_and_devices": "Starts 'if you carefully keep.' Ends 'no one will be able to stand against you.' Devices: Sweeping land-promise; dread upon the nations."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "A Blessing and a Curse Set Before You",
+          "reference": "11:26-28",
+          "why_start_end_and_devices": "Starts 'see, I set before you a blessing and a curse.' Ends the conditional. Devices: The fundamental choice—blessing for obedience, curse for apostasy."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "On Gerizim and Ebal",
+          "reference": "11:29-32",
+          "why_start_end_and_devices": "Starts the command for the ceremony. Ends 'be careful to obey.' Devices: The two mountains anticipate chapter 27's covenant ritual."
+        }
       ]
     },
     {
       "story_letter": "C",
       "story_title": "The Second Address, Part 2: The Deuteronomic Code",
-      "why_start_end_and_literary_glue": "Massive unit constituting Specific Stipulations section of covenant treaty. The 'Deuteronomic Code' proper, detailed legal corpus functioning as constitution for Israel's life in land. Highly organized, likely following Ten Commandments structure. Broadly organized into three main sections: Laws of Worship (Ch. 12-16a) expanding Decalogue 1-4; Laws of Leadership (Ch. 16b-18) expanding Decalogue 5; Laws of Community Life (Ch. 19-25) expanding Decalogue 6-10. Entire section formally sealed by covenant ratification ceremony (Chapter 26) where people bring firstfruits/tithes and formally declare mutual allegiance with YHWH. Systematically revised and expanded version of older Covenant Code.",
+      "why_start_end_and_literary_glue": "The statutes and ordinances themselves—worship, leadership, justice, warfare, family, and society—framed by the central-sanctuary law (12) and the firstfruits creed and covenant summary (26).",
       "reference": "12:1-26:19",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Central Sanctuary", "reference": "12:1-32", "why_start_end_and_devices": "Foundational law of entire Code. Commands destruction of all Canaanite shrines and centralization at 'the place that the LORD your God will choose.' Radical innovation, departing from Genesis-Exodus practice. Allows secular butchering but strictly forbids sacrificial worship elsewhere. Devices: Legal formulation, centralization principle, prohibition structure."},
-        {"scene_number": 2, "scene_name": "The Law of the Apostate", "reference": "13:1-18", "why_start_end_and_devices": "Details legal response to apostasy in three scenarios: false prophet, family member, entire town. Punishment is herem (total destruction). Direct application of 'no other gods' command. Devices: Casuistic law, escalating scenarios, herem doctrine."},
-        {"scene_number": 3, "scene_name": "Purity Laws: Ritual and Dietary", "reference": "14:1-21", "why_start_end_and_devices": "Defines Israel as 'holy people' through two categories: mourning practices forbidding pagan self-mutilation, and dietary laws defining 'clean/unclean' animals. Condensed version of Leviticus 11, adapted to Deuteronomy's style. Devices: Holiness doctrine, binary classifications, identity markers."},
-        {"scene_number": 4, "scene_name": "The Law of the Tithe", "reference": "14:22-29", "why_start_end_and_devices": "Adapts tithe for new centralized system. Tithe brought to 'the place.' Pragmatic exception: convert to money if place too far. Introduces three-year cycle for local distribution. Devices: Practical law-giving, economic provision, social justice."},
-        {"scene_number": 5, "scene_name": "The Sabbatical Year: Debts and Slaves", "reference": "15:1-18", "why_start_end_and_devices": "Expands social justice implications of Sabbath principle. Two laws: release of debts every seven years with warning against 'mean heart,' and release of Hebrew slaves requiring master furnish 'liberally.' Devices: Cyclical law, humanitarian emphasis, heart motivation."},
-        {"scene_number": 6, "scene_name": "Firstlings and Annual Feasts", "reference": "15:19-16:17", "why_start_end_and_devices": "Consolidates laws of sacred time binding to central sanctuary. Covers firstborn animal and three pilgrimage feasts (Passover, Weeks, Booths). Requires all males 'appear before the LORD' in chosen place, physically unifying nation. Devices: Sacred calendar, pilgrimage laws, unity reinforcement."},
-        {"scene_number": 7, "scene_name": "Laws for Judges and Justice", "reference": "16:18-17:13", "why_start_end_and_devices": "Establishes local judiciary commanding pure justice: 'Justice, and only justice, you shall follow.' Establishes 'supreme court' at central sanctuary for difficult cases. Key centralizing move. Devices: Judicial structure, justice principle, appellate system."},
-        {"scene_number": 8, "scene_name": "The Law of the King", "reference": "17:14-20", "why_start_end_and_devices": "Unique, revolutionary text. Permits monarchy but severely restricts: Israelite only, not multiply horses, wives, or gold. One positive duty: write 'copy of this law' and read it all life. King subject to torah. Devices: Conditional permission, restrictive regulations, torah supremacy."},
-        {"scene_number": 9, "scene_name": "Priests, Levites, and Prophets", "reference": "18:1-22", "why_start_end_and_devices": "Details 'spiritual' leadership. Priests/Levites: 'no inheritance,' 'LORD is their inheritance.' Warns against pagan divination, promises 'prophet like me.' Establishes prophetic office and test for true vs. false prophet. Devices: Priestly theology, prophetic succession, discernment criteria."},
-        {"scene_number": 10, "scene_name": "Cities of Refuge and Witnesses", "reference": "19:1-21", "why_start_end_and_devices": "Begins 'Community Life' section. Cities of Refuge: asylum for accidental manslaughter, protecting 'innocent blood.' Witnesses: forbids moving boundary markers, establishes evidentiary rules (two/three witnesses), lex talionis for perjury. Devices: Asylum principle, evidentiary rules, legal proportionality."},
-        {"scene_number": 11, "scene_name": "The Laws of Warfare", "reference": "20:1-20", "why_start_end_and_devices": "Provides rules for holy war. Known for 'humanitarian' provisions: priest's exhortation and exemptions for newly married, new house, 'fearful.' Distinguishes 'distant' cities (offer peace) and 'cities in land' (total herem). Devices: Holy war theology, humanitarian provisions, geographical distinction."},
-        {"scene_number": 12, "scene_name": "Unsolved Murder and Family Laws", "reference": "21:1-23", "why_start_end_and_devices": "Collection of difficult cases threatening community purity. Unsolved Murder: ritual prescribed to absolve land of bloodguilt. Female Captive: protects woman taken in war. Firstborn Son: protects inheritance rights. Rebellious Son: public legal process. Hanged Man: buried same day. Devices: Casuistic collection, purity concerns, family law."},
-        {"scene_number": 13, "scene_name": "Laws of Property and Sexual Morality", "reference": "22:1-30", "why_start_end_and_devices": "Casuistic collection. Covers Lost Property, General Helpfulness, Distinction of Sexes, Mother Bird, Parapets, Unlawful Mixtures, Tassels, series on sexual morality (accusations of non-virginity, adultery, rape). Devices: Casuistic law, practical ethics, sexual regulations."},
-        {"scene_number": 14, "scene_name": "Congregation and Camp Purity", "reference": "23:1-25", "why_start_end_and_devices": "Focuses on holiness of 'assembly' and 'camp.' Assembly Exclusions: lists those excluded and admitted. Camp Purity: ritual and physical purity in military camp. Various Laws: runaway slaves, cult prostitution, interest, vows. Devices: Membership criteria, purity rules, miscellaneous laws."},
-        {"scene_number": 15, "scene_name": "Laws of Divorce, Loans, and Justice", "reference": "24:1-22", "why_start_end_and_devices": "Collection heavily focused on protecting vulnerable. Divorce: regulates and forbids remarrying divorced wife who married another. Newlyweds: exemption. Loans/Pledges: protect livelihood and warmth. Leprosy, Day Laborers, Justice, Vulnerable: commands leaving 'gleanings' for poor. Devices: Social justice emphasis, humanitarian rhetoric, victim protection."},
-        {"scene_number": 16, "scene_name": "Various Social and Civil Laws", "reference": "25:1-19", "why_start_end_and_devices": "Final collection. Flogging: limits to 40 lashes. The Ox: don't muzzle. Levirate Marriage: brother's responsibility. Immodest Woman: social shame. Honest Weights: commercial integrity. Amalek: 'remember' and 'blot out.' Devices: Miscellaneous legal collection, herem command, memory rhetoric."},
-        {"scene_number": 17, "scene_name": "Firstfruits, Tithes, and Covenant Conclusion", "reference": "26:1-19", "why_start_end_and_devices": "Formal ratification of entire Code. Firstfruits: worshiper recites 'credo' of redemption ('A wandering Aramean was my father...'). Tithe: prescribed distribution. Grand finale: mutual, formal covenant: 'you have declared today that the LORD is your God... the LORD has declared today that you are his treasured people.' Devices: Liturgical action, historical recitation, covenant declaration."}
+        {
+          "scene_number": 1,
+          "scene_name": "Destroy the Pagan Places of Worship",
+          "reference": "12:1-4",
+          "why_start_end_and_devices": "Starts the code with the demolition command. Ends 'you must not worship the LORD in their way.' Devices: Negative prologue—clear the land of idolatry."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Seek the Place the LORD Will Choose",
+          "reference": "12:5-7",
+          "why_start_end_and_devices": "Starts 'seek the place.' Ends 'rejoice in everything you have put your hand to.' Devices: Cult centralization; joy in worship."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Rejoice There Once You Have Rest",
+          "reference": "12:8-12",
+          "why_start_end_and_devices": "Starts 'not as we do here.' Ends 'rejoice...with the Levite.' Devices: Future-oriented worship; inclusion of the landless Levite."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Sacrifice Only Where He Chooses",
+          "reference": "12:13-16",
+          "why_start_end_and_devices": "Starts 'be careful not to sacrifice anywhere.' Ends 'pour the blood on the ground.' Devices: Place-restriction; blood prohibition."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Tithes at the Place; Do Not Neglect the Levite",
+          "reference": "12:17-19",
+          "why_start_end_and_devices": "Starts the list of holy gifts. Ends 'do not neglect the Levite.' Devices: Sacred meals at the sanctuary; care for the Levite."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Eating Meat in Your Towns; Pour Out the Blood",
+          "reference": "12:20-25",
+          "why_start_end_and_devices": "Starts 'when the LORD enlarges your territory.' Ends 'so that it may go well with you.' Devices: Secular slaughter permitted; blood still sacred."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Bring Your Holy Things to the Place",
+          "reference": "12:26-28",
+          "why_start_end_and_devices": "Starts 'take your consecrated things.' Ends doing 'what is good and right.' Devices: The sacred reserved for the chosen place."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Do Not Inquire After Their Gods",
+          "reference": "12:29-32",
+          "why_start_end_and_devices": "Starts the warning after conquest. Ends 'do not add to it or take from it.' Devices: The snare of curiosity about pagan worship; the canon principle."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Prophet Who Leads to Other Gods",
+          "reference": "13:1-5",
+          "why_start_end_and_devices": "Starts with the false prophet's sign. Ends 'purge the evil.' Devices: Even a true sign cannot justify apostasy—the LORD is testing you."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "If a Loved One Entices You",
+          "reference": "13:6-11",
+          "why_start_end_and_devices": "Starts with the secret enticer. Ends 'all Israel will hear and be afraid.' Devices: Loyalty to God above family; deterrence by public justice."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "A City Led Astray",
+          "reference": "13:12-15",
+          "why_start_end_and_devices": "Starts the rumor of an apostate town. Ends putting it to the sword. Devices: Investigation before judgment; corporate apostasy."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The City Burned as a Whole Offering",
+          "reference": "13:16-18",
+          "why_start_end_and_devices": "Starts gathering the plunder. Ends 'the LORD will show you mercy.' Devices: The city as a herem offering; obedience restores favor."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "You Are Holy: No Pagan Mourning, No Detestable Food",
+          "reference": "14:1-3",
+          "why_start_end_and_devices": "Starts 'you are children of the LORD.' Ends 'do not eat any detestable thing.' Devices: Holiness shapes mourning and diet."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Clean and Unclean Land Animals",
+          "reference": "14:4-8",
+          "why_start_end_and_devices": "Starts the list of edible animals. Ends 'they are unclean for you.' Devices: The dietary boundaries (cf. Lev 11)."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Creatures of the Water",
+          "reference": "14:9-10",
+          "why_start_end_and_devices": "Starts fins-and-scales rule. Ends 'it is unclean for you.' Devices: Brief aquatic criterion."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Clean Birds; Forbidden Birds",
+          "reference": "14:11-13",
+          "why_start_end_and_devices": "Starts 'you may eat any clean bird.' Ends the first forbidden birds. Devices: Predators and carrion-eaters excluded."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Forbidden Birds and Winged Creatures",
+          "reference": "14:14-18",
+          "why_start_end_and_devices": "Starts with the raven. Ends with the bat. Devices: Completing the avian list."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Insects, Carcasses, and the Kid in Milk",
+          "reference": "14:19-21",
+          "why_start_end_and_devices": "Starts winged insects. Ends 'do not boil a young goat in its mother's milk.' Devices: Holiness even toward the foreigner and the resident alien."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Yearly Tithe Eaten Before the LORD",
+          "reference": "14:22-27",
+          "why_start_end_and_devices": "Starts 'set aside a tenth.' Ends 'do not neglect the Levite.' Devices: A feast of gratitude; provision for travel to the place."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Third-Year Tithe for the Levite and Poor",
+          "reference": "14:28-29",
+          "why_start_end_and_devices": "Starts 'at the end of every three years.' Ends 'so that the LORD may bless you.' Devices: The welfare tithe—Levite, foreigner, orphan, widow."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Year of Release: Cancel Debts",
+          "reference": "15:1-6",
+          "why_start_end_and_devices": "Starts 'at the end of seven years.' Ends 'you will rule over many nations.' Devices: Sabbatical debt-cancellation; blessing tied to generosity."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Open Your Hand to the Poor",
+          "reference": "15:7-11",
+          "why_start_end_and_devices": "Starts 'if there is a poor man.' Ends 'be openhanded.' Devices: 'There will always be poor'—a perpetual command to give."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Release the Servant in the Seventh Year",
+          "reference": "15:12-15",
+          "why_start_end_and_devices": "Starts the manumission law. Ends 'remember you were slaves.' Devices: Generous release; the exodus as motive."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Servant Who Stays for Love",
+          "reference": "15:16-18",
+          "why_start_end_and_devices": "Starts 'if your servant says, I do not want to leave.' Ends 'the LORD will bless you.' Devices: The awl through the ear—voluntary lifelong service."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Firstborn Males Consecrated",
+          "reference": "15:19-23",
+          "why_start_end_and_devices": "Starts 'set apart every firstborn male.' Ends pouring out the blood. Devices: Firstlings to the LORD; no blemished animal."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Keep the Passover at the Chosen Place",
+          "reference": "16:1-4",
+          "why_start_end_and_devices": "Starts the Passover command. Ends with no leaven for seven days. Devices: Centralized Passover; 'the bread of affliction.'"
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Seven Days of Unleavened Bread",
+          "reference": "16:5-8",
+          "why_start_end_and_devices": "Starts the place-restriction for Passover. Ends 'do no work.' Devices: National pilgrimage feast at the sanctuary."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Feast of Weeks",
+          "reference": "16:9-12",
+          "why_start_end_and_devices": "Starts counting seven weeks. Ends 'remember you were slaves.' Devices: A freewill feast of joy, inclusive of the vulnerable."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Feast of Booths; Three Times a Year",
+          "reference": "16:13-17",
+          "why_start_end_and_devices": "Starts the autumn feast. Ends 'no one should appear empty-handed.' Devices: The three pilgrim feasts summarized; give as you are blessed."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Appoint Judges; Pursue Justice",
+          "reference": "16:18-20",
+          "why_start_end_and_devices": "Starts 'appoint judges and officials.' Ends 'justice, justice you shall pursue.' Devices: No bribes, no partiality—the famous double imperative."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "No Asherah Poles or Sacred Stones",
+          "reference": "16:21-22",
+          "why_start_end_and_devices": "Starts the ban on Asherah beside the altar. Ends 'the LORD hates them.' Devices: Purity of worship guarded at the sanctuary."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "No Blemished Sacrifice",
+          "reference": "17:1",
+          "why_start_end_and_devices": "A single-verse rule: offer nothing defective. Devices: Wholeness as honor to God; bridges into the judicial laws."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Worshiper of Other Gods: Two or Three Witnesses",
+          "reference": "17:2-7",
+          "why_start_end_and_devices": "Starts the apostasy case. Ends 'purge the evil.' Devices: Evidentiary standard; the witnesses' hands first in execution."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Hard Cases Brought to the Priests and Judge",
+          "reference": "17:8-13",
+          "why_start_end_and_devices": "Starts 'if cases are too difficult.' Ends deterrence 'so no one will act presumptuously.' Devices: A central court of appeal; submission to the verdict."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "A King the LORD Chooses; His Limits",
+          "reference": "17:14-17",
+          "why_start_end_and_devices": "Starts 'when you say, let us set a king.' Ends the bans on horses, wives, and gold. Devices: Kingship hedged against pride and apostasy."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The King Must Copy and Read the Law",
+          "reference": "17:18-20",
+          "why_start_end_and_devices": "Starts 'when he takes the throne.' Ends 'so that he and his descendants may reign long.' Devices: A king under the Torah—the king as chief reader."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "The Levites' Portion: the LORD Is Their Inheritance",
+          "reference": "18:1-5",
+          "why_start_end_and_devices": "Starts 'the Levitical priests shall have no allotment.' Ends 'the LORD chose them.' Devices: Priestly dues; God as their inheritance."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "The Levite Who Comes to the Chosen Place",
+          "reference": "18:6-8",
+          "why_start_end_and_devices": "Starts the Levite's right to serve. Ends 'equal benefits.' Devices: Provision for the migrating Levite."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Do Not Imitate Pagan Divination",
+          "reference": "18:9-14",
+          "why_start_end_and_devices": "Starts 'do not imitate the detestable ways.' Ends 'the LORD has not permitted you to do so.' Devices: A catalogue of occult practices forbidden."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "A Prophet Like Moses",
+          "reference": "18:15-19",
+          "why_start_end_and_devices": "Starts 'the LORD will raise up a prophet like me.' Ends 'I will hold him accountable.' Devices: The prophetic-succession promise (read messianically)."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Testing a True Prophet",
+          "reference": "18:20-22",
+          "why_start_end_and_devices": "Starts the presumptuous prophet. Ends 'do not be afraid of him.' Devices: Fulfillment as the test of a true word."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Set Apart Cities of Refuge",
+          "reference": "19:1-3",
+          "why_start_end_and_devices": "Starts 'when the LORD has destroyed the nations.' Ends building roads to them. Devices: Mercy structured into the land."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "The Accidental Killer Protected",
+          "reference": "19:4-7",
+          "why_start_end_and_devices": "Starts the case of unintentional killing. Ends 'set apart three cities.' Devices: The avenger restrained by law."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Three More Cities if the Land Expands",
+          "reference": "19:8-10",
+          "why_start_end_and_devices": "Starts 'if the LORD enlarges your territory.' Ends 'so innocent blood will not be shed.' Devices: Provision scaled to the promise."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "But Not for the Murderer",
+          "reference": "19:11-13",
+          "why_start_end_and_devices": "Starts 'if a man hates his neighbor.' Ends 'purge the guilt of innocent blood.' Devices: Refuge withheld from the willful killer."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Do Not Move a Boundary Stone",
+          "reference": "19:14",
+          "why_start_end_and_devices": "A single-verse property law. Devices: Protecting the inheritance handed down by the ancestors."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "The Malicious Witness",
+          "reference": "19:15-18",
+          "why_start_end_and_devices": "Starts 'one witness is not enough.' Ends investigation of the false witness. Devices: Due process; the two-or-three-witness rule."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Life for Life, Eye for Eye",
+          "reference": "19:19-21",
+          "why_start_end_and_devices": "Starts 'do to him as he intended.' Ends the talion formula. Devices: Proportional, deterrent justice."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Do Not Fear: the LORD Goes With You",
+          "reference": "20:1-4",
+          "why_start_end_and_devices": "Starts the war law. Ends 'he will give you victory.' Devices: The priest's battlefield exhortation against fear."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Exemptions from Battle",
+          "reference": "20:5-9",
+          "why_start_end_and_devices": "Starts the officers' proclamation. Ends appointing commanders. Devices: New house, vineyard, betrothal, and fear excuse a man."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Terms of Peace for Distant Cities",
+          "reference": "20:10-15",
+          "why_start_end_and_devices": "Starts 'when you march to attack a city.' Ends taking the plunder. Devices: Offer of peace before siege; mercy bounded."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Devote the Nearby Nations to Destruction",
+          "reference": "20:16-18",
+          "why_start_end_and_devices": "Starts the herem on the Canaanite cities. Ends 'or they will teach you their detestable ways.' Devices: Total devotion to prevent idolatry."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Do Not Destroy the Fruit Trees",
+          "reference": "20:19-20",
+          "why_start_end_and_devices": "Starts 'when you besiege a city.' Ends using only non-fruit trees. Devices: 'Are the trees men?'—restraint even in war."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "The Heifer and the Elders",
+          "reference": "21:1-5",
+          "why_start_end_and_devices": "Starts the unsolved-murder rite. Ends the priests' role. Devices: Corporate responsibility for innocent blood."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Cleanse the Guilt of Innocent Blood",
+          "reference": "21:6-9",
+          "why_start_end_and_devices": "Starts the elders washing their hands. Ends 'you will purge the guilt.' Devices: Ritual disavowal; the land cleansed."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Marrying a Captive Woman",
+          "reference": "21:10-14",
+          "why_start_end_and_devices": "Starts the captive-bride law. Ends 'you must not sell her.' Devices: Dignity and protection for the vulnerable captive."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "The Firstborn's Double Portion",
+          "reference": "21:15-17",
+          "why_start_end_and_devices": "Starts the two-wives case. Ends 'the right of the firstborn.' Devices: Justice over favoritism in inheritance."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "The Rebellious Son",
+          "reference": "21:18-21",
+          "why_start_end_and_devices": "Starts the stubborn son brought to the elders. Ends 'all Israel will hear and be afraid.' Devices: Family authority under communal justice."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "A Body Hung on a Tree—Cursed",
+          "reference": "21:22-23",
+          "why_start_end_and_devices": "Starts the executed criminal. Ends 'anyone hung is under God's curse.' Devices: Bury the same day; the land kept undefiled (cf. Gal 3:13)."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Return Your Brother's Lost Property",
+          "reference": "22:1-4",
+          "why_start_end_and_devices": "Starts 'do not ignore your brother's ox.' Ends helping lift the fallen donkey. Devices: Active love of neighbor in daily life."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "Mixed Things, the Nest, and the Parapet",
+          "reference": "22:5-8",
+          "why_start_end_and_devices": "Starts cross-dressing prohibition. Ends the roof railing. Devices: Order, mercy to the mother bird, and safety—holiness in ordinary life."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "No Mixing Seed, Cloth, or Team; Tassels",
+          "reference": "22:9-12",
+          "why_start_end_and_devices": "Starts forbidden mixtures. Ends the tassels. Devices: Symbolic distinctness; visible reminders of the covenant."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "The Husband's False Charge",
+          "reference": "22:13-16",
+          "why_start_end_and_devices": "Starts the slander of a bride. Ends the parents' defense. Devices: Protecting a woman's honor; evidence required."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "The Proof of Virginity; the Fine",
+          "reference": "22:17-19",
+          "why_start_end_and_devices": "Starts the cloth as evidence. Ends 'he cannot divorce her.' Devices: Vindication and penalty for slander."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "When the Charge Is True",
+          "reference": "22:20-21",
+          "why_start_end_and_devices": "Starts the case proven. Ends 'purge the evil.' Devices: The grave view of covenant infidelity."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "Adultery and Betrothed Women",
+          "reference": "22:22-24",
+          "why_start_end_and_devices": "Starts adultery. Ends the city case. Devices: Distinctions of guilt by circumstance."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "The Woman in the Field Is Innocent",
+          "reference": "22:25-27",
+          "why_start_end_and_devices": "Starts the assault in the country. Ends 'there was no one to rescue her.' Devices: Mercy—the cry unheard does not condemn the victim."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "Seduction and a Father's Wife",
+          "reference": "22:28-30",
+          "why_start_end_and_devices": "Starts the unbetrothed virgin. Ends 'a man shall not dishonor his father's bed.' Devices: Restitution by marriage; family honor protected."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "Who May Enter the Assembly",
+          "reference": "23:1-6",
+          "why_start_end_and_devices": "Starts exclusions from the assembly. Ends the ban on Ammon and Moab. Devices: Boundaries of the worshiping community; history remembered."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "Do Not Despise Edom or Egypt",
+          "reference": "23:7-8",
+          "why_start_end_and_devices": "Starts 'do not despise an Edomite.' Ends the third-generation entry. Devices: Kinship and hospitality tempering exclusion."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "Keep the Camp Holy",
+          "reference": "23:9-14",
+          "why_start_end_and_devices": "Starts the war-camp purity laws. Ends 'he must not see anything indecent.' Devices: 'The LORD walks in your camp'—holiness in the mundane."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "The Escaped Slave; No Cult Prostitution",
+          "reference": "23:15-18",
+          "why_start_end_and_devices": "Starts protection of the runaway slave. Ends 'the LORD detests them both.' Devices: Compassion and cultic purity together."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "No Interest from a Brother",
+          "reference": "23:19-20",
+          "why_start_end_and_devices": "Starts the interest law. Ends 'so the LORD may bless you.' Devices: Brotherly economics distinguished from dealings with foreigners."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Vows Must Be Kept",
+          "reference": "23:21-23",
+          "why_start_end_and_devices": "Starts 'if you make a vow.' Ends 'you must do what you have promised.' Devices: The binding word; freedom not to vow, duty to fulfill."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "Eating from a Neighbor's Field",
+          "reference": "23:24-25",
+          "why_start_end_and_devices": "Starts the grapes and grain. Ends 'do not put a sickle to it.' Devices: Generosity without exploitation."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "The Law of Divorce and Remarriage",
+          "reference": "24:1-4",
+          "why_start_end_and_devices": "Starts the certificate of divorce. Ends 'that would be detestable.' Devices: Limiting remarriage to a former wife; protecting the land."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "A New Husband Exempt; the Pledge; Kidnapping",
+          "reference": "24:5-7",
+          "why_start_end_and_devices": "Starts the one-year exemption. Ends the kidnapper's death. Devices: Compassion for newlyweds; the millstone not taken in pledge."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "Guard Against Skin Disease; Remember Miriam",
+          "reference": "24:8-9",
+          "why_start_end_and_devices": "Starts the leprosy instruction. Ends 'remember what the LORD did to Miriam.' Devices: History as warning embedded in law."
+        },
+        {
+          "scene_number": 79,
+          "scene_name": "Return the Poor Man's Pledged Cloak",
+          "reference": "24:10-13",
+          "why_start_end_and_devices": "Starts 'do not go into his house to get the pledge.' Ends 'it will be credited to you as righteousness.' Devices: Dignity of the debtor; mercy by sundown."
+        },
+        {
+          "scene_number": 80,
+          "scene_name": "Pay the Hired Worker the Same Day",
+          "reference": "24:14-15",
+          "why_start_end_and_devices": "Starts 'do not take advantage of the poor.' Ends 'he may cry to the LORD against you.' Devices: Wages owed daily; God hears the worker."
+        },
+        {
+          "scene_number": 81,
+          "scene_name": "Each Dies for His Own Sin",
+          "reference": "24:16",
+          "why_start_end_and_devices": "A single-verse principle of individual responsibility. Devices: Fathers and sons not put to death for each other."
+        },
+        {
+          "scene_number": 82,
+          "scene_name": "Justice for the Foreigner, Orphan, Widow",
+          "reference": "24:17-18",
+          "why_start_end_and_devices": "Starts 'do not deprive the foreigner of justice.' Ends 'remember you were slaves.' Devices: The exodus as the ground of compassion."
+        },
+        {
+          "scene_number": 83,
+          "scene_name": "Leave the Gleanings for the Needy",
+          "reference": "24:19-22",
+          "why_start_end_and_devices": "Starts the forgotten sheaf. Ends 'remember you were slaves in Egypt.' Devices: Structured generosity—the harvest shared."
+        },
+        {
+          "scene_number": 84,
+          "scene_name": "Limited Flogging Preserves Dignity",
+          "reference": "25:1-3",
+          "why_start_end_and_devices": "Starts the courtroom flogging. Ends 'your brother will be degraded.' Devices: Punishment capped to protect human dignity."
+        },
+        {
+          "scene_number": 85,
+          "scene_name": "Do Not Muzzle the Ox",
+          "reference": "25:4",
+          "why_start_end_and_devices": "A single-verse mercy law. Devices: The worker shares in the fruit of labor (cf. 1 Cor 9)."
+        },
+        {
+          "scene_number": 86,
+          "scene_name": "Levirate Marriage; the Removed Sandal",
+          "reference": "25:5-10",
+          "why_start_end_and_devices": "Starts the brother-in-law duty. Ends 'the family of the unsandaled.' Devices: Preserving a dead brother's name; public shaming for refusal."
+        },
+        {
+          "scene_number": 87,
+          "scene_name": "An Immodest Intervention Punished",
+          "reference": "25:11-12",
+          "why_start_end_and_devices": "Starts the brawl. Ends the penalty. Devices: A narrow case guarding propriety."
+        },
+        {
+          "scene_number": 88,
+          "scene_name": "Honest Weights and Measures",
+          "reference": "25:13-16",
+          "why_start_end_and_devices": "Starts 'do not have two differing weights.' Ends 'the LORD detests dishonest dealing.' Devices: Integrity in commerce as covenant faithfulness."
+        },
+        {
+          "scene_number": 89,
+          "scene_name": "Blot Out the Memory of Amalek",
+          "reference": "25:17-19",
+          "why_start_end_and_devices": "Starts 'remember what Amalek did.' Ends 'do not forget.' Devices: A standing command of justice against the cowardly attacker."
+        },
+        {
+          "scene_number": 90,
+          "scene_name": "Bring the Firstfruits in a Basket",
+          "reference": "26:1-4",
+          "why_start_end_and_devices": "Starts 'when you enter the land.' Ends the priest setting the basket down. Devices: Liturgy of gratitude opens the code's conclusion."
+        },
+        {
+          "scene_number": 91,
+          "scene_name": "The Creed: 'My Father Was a Wandering Aramean'",
+          "reference": "26:5-9",
+          "why_start_end_and_devices": "Starts the recited confession. Ends 'a land flowing with milk and honey.' Devices: Israel's salvation-history creed."
+        },
+        {
+          "scene_number": 92,
+          "scene_name": "Set It Before the LORD and Rejoice",
+          "reference": "26:10-11",
+          "why_start_end_and_devices": "Starts presenting the firstfruits. Ends rejoicing with the Levite and foreigner. Devices: Worship culminating in shared joy."
+        },
+        {
+          "scene_number": 93,
+          "scene_name": "The Third-Year Tithe Declaration",
+          "reference": "26:12-15",
+          "why_start_end_and_devices": "Starts the tithe for the needy. Ends 'look down from heaven and bless.' Devices: A sworn declaration of obedience; intercession for the land."
+        },
+        {
+          "scene_number": 94,
+          "scene_name": "You Are His Treasured People",
+          "reference": "26:16-19",
+          "why_start_end_and_devices": "Starts 'this day the LORD commands you.' Ends 'a people holy to the LORD.' Devices: Mutual covenant declaration—the code's grand seal."
+        }
       ]
     },
     {
       "story_letter": "D",
       "story_title": "The Third Address: The Covenant Sanctions",
-      "why_start_end_and_literary_glue": "Constitutes formal Sanctions clause of ANE treaty. Having laid out principles and stipulations, Moses details consequences for keeping or breaking covenant. Chapter 27 describes future ratification ceremony people must perform entering land: build altar on Mount Ebal, write law on stones, divide tribes (six on Gerizim for blessing, six on Ebal for curse), Levites recite curses, people respond 'Amen.' Placement of altar on Mount Ebal is profound theological statement: law's function is to reveal curse, God provides atonement altar at point of failure. Chapter 28 presents blessings/curses in masterpiece of persuasive rhetoric. Blessings for obedience are short, powerful. Curses for disobedience are terrifyingly long, detailed, graphic. Imbalance typical of ANE treaties. Curses culminate in ultimate covenant curse: plague, siege, cannibalism, exile.",
-      "reference": "27:1-29:1",
+      "why_start_end_and_literary_glue": "The covenant ceremony and its consequences: the Ebal altar and curses (27), the blessings and the long catalogue of curses (28), the covenant renewed in Moab (29), and the final call to choose life (30).",
+      "reference": "27:1-30:20",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Command for the Ebal Altar", "reference": "27:1-10", "why_start_end_and_devices": "Details instructions for ratification ceremony in land. Key elements: large plastered stones with law written, uncut stone altar. Placement on Mount Ebal is theologically central: law reveals curse, God provides atonement altar. Bracketed by 'Moses and elders' and 'Moses and Levitical priests.' Devices: Ritual instruction, material inscription, collective leadership."},
-        {"scene_number": 2, "scene_name": "The Twelve Curses", "reference": "27:11-26", "why_start_end_and_devices": "Details formal curse ceremony. Divides tribes: six on Gerizim for blessing, six on Ebal for curse. Levites recite twelve 'cursed be anyone who...' statements, focusing on secret sins (idols, dishonoring parents, injustice, sexual immorality). Final, summarizing curse: 'anyone who does not confirm words of this law.' Participatory 'Amen' turns into self-binding oath. Devices: Ceremonial listing, tribal division, participatory oath."},
-        {"scene_number": 3, "scene_name": "The Blessings for Obedience", "reference": "28:1-14", "why_start_end_and_devices": "Positive side of sanction. Powerful description of total, holistic national blessing. Blessing will 'come upon you and overtake you.' Systematic blessings: in city/country, of body/ground, in provision, in security, national status ('head not tail'). Devices: Conditional blessing, systematic enumeration, motivational rhetoric."},
-        {"scene_number": 4, "scene_name": "The Curses for Disobedience", "reference": "28:15-68", "why_start_end_and_devices": "One of most terrifying Bible chapters. Systematic, detailed, graphic deconstruction of blessings. Sickness, famine, defeat, confusion—every life aspect cursed. Escalating horror cycles, culminating in siege with cannibalism, final curse of exile. Ultimate Exodus inversion: 'LORD will bring you back in ships to Egypt... you shall offer yourselves for sale... but no one will buy you.' Devices: Escalation, graphic imagery, ultimate reversal."},
-        {"scene_number": 5, "scene_name": "The Moab Covenant Preamble", "reference": "29:1-9", "why_start_end_and_devices": "Preamble to final address. Moses reviews history ('You have seen all that the LORD did... in Egypt'), including 40 years of provision. Rhetorical point: God faithful up to this very day. Faithfulness basis for command to 'keep the words of this covenant.' Devices: Historical review, divine faithfulness, covenant motivation."},
-        {"scene_number": 6, "scene_name": "The Moab Covenant Ceremony", "reference": "29:10-29", "why_start_end_and_devices": "Formal ceremony. All-inclusive (all classes, even sojourners) and multi-generational. Core is paradox: Moses warns against 'root' of apostasy and prophesies inevitable exile. Contains stark admission God 'has not given you a heart to understand.' Concludes with 'The secret things belong to the LORD.' Devices: Prophetic warning, covenant binding, paradox of grace/judgment."},
-        {"scene_number": 7, "scene_name": "The Promise of Restoration", "reference": "30:1-10", "why_start_end_and_devices": "Theological climax of book. Prophesies repentance in exile and subsequent restoration. Climax is v. 6: 'And the LORD your God will circumcise your heart... to love the LORD your God.' Divine solution to human problem. God himself will enable love that law demands. Devices: Prophetic promise, heart transformation, divine enablement."},
-        {"scene_number": 8, "scene_name": "The Commandment Is Not Too Hard", "reference": "30:11-14", "why_start_end_and_devices": "Beautiful, short scene refuting any excuse. Law is not 'in heaven' (too hard) or 'beyond sea' (too distant). It is 'very near you. It is in your mouth and in your heart.' Empowers obedience through accessibility. Devices: Rhetorical accessibility, motivational assurance."},
-        {"scene_number": 9, "scene_name": "The Choice of Life and Death", "reference": "30:15-20", "why_start_end_and_devices": "Grand climax of address. Because God promised to enable obedience, command is accessible. Calls 'heaven and earth' as witnesses and puts stark choice: 'I have set before you life and death, blessing and curse. Therefore, choose life.' Final word: '...that you... may live.' Devices: Rhetorical persuasion, cosmic witnesses, binary choice, motivational conclusion."},
-        {"scene_number": 10, "scene_name": "The First Commission of Joshua", "reference": "31:1-8", "why_start_end_and_devices": "Public transfer of leadership. Moses announces his death and formally passes mantle to Joshua. Gives charge to people ('Be strong and courageous') and parallel charge to Joshua. Devices: Narrative action, public commissioning, repeated exhortation."},
-        {"scene_number": 11, "scene_name": "The Deposition of the Law", "reference": "31:9-13", "why_start_end_and_devices": "Legal act of deposition. Moses writes torah and gives to priests with two commands: Keep it, and Read it. Public reading every seven years ensures all future generations 'may hear.' Devices: Legal deposition, textual authority, cyclical reading practice."},
-        {"scene_number": 12, "scene_name": "The Divine Commission of Joshua and the Song", "reference": "31:14-23", "why_start_end_and_devices": "Divine commissioning of Joshua. God and Moses meet at tent. God gives Joshua same charge: 'Be strong and courageous.' Contains God's bleak prophecy of Israel's apostasy and commission of Song as witness. Devices: Divine speech, parallel commissioning, prophetic warning, song commission."},
-        {"scene_number": 13, "scene_name": "The Law and Song as Witnesses", "reference": "31:24-30", "why_start_end_and_devices": "Final act of deposition. Moses commands Levites: 'put [Book of Law] beside the ark... for a witness against you.' Assembles all Israel to 'speak in their hearing all these words,' setting stage for Song. Devices: Narrative climax, legal deposition, witness terminology."},
-        {"scene_number": 14, "scene_name": "God's Command for Moses to Ascend Nebo", "reference": "32:48-52", "why_start_end_and_devices": "God formally commands Moses to 'Go up to this mountain... Mount Nebo... and die.' Allowed to see land, not enter it. Reason explicitly given: failure at Meribah waters ('you broke faith with me'). Devices: Divine command, narrative interlude, divine judgment."}
+        {
+          "scene_number": 1,
+          "scene_name": "Write the Law on Plastered Stones",
+          "reference": "27:1-4",
+          "why_start_end_and_devices": "Starts the command to inscribe the law. Ends setting the stones on Mount Ebal. Devices: The law made monumental at the entry to the land."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Build an Altar of Uncut Stones",
+          "reference": "27:5-8",
+          "why_start_end_and_devices": "Starts the altar command. Ends 'write very clearly on them all the words.' Devices: Worship and law together at the covenant site."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "This Day You Have Become His People",
+          "reference": "27:9-10",
+          "why_start_end_and_devices": "Starts 'be silent and listen.' Ends 'obey the LORD.' Devices: A solemn covenant-making declaration."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Tribes on Gerizim and Ebal",
+          "reference": "27:11-13",
+          "why_start_end_and_devices": "Starts assigning the tribes to the mountains. Ends the blessing and cursing tribes. Devices: The dramatic antiphonal ceremony staged."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Curses: Idolatry, Dishonor, Injustice",
+          "reference": "27:14-19",
+          "why_start_end_and_devices": "Starts the Levites' proclamation. Ends cursing those who pervert justice. Devices: The dodecalogue of curses, each sealed with 'Amen.'"
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Curses on Forbidden Unions",
+          "reference": "27:20-23",
+          "why_start_end_and_devices": "Starts the curse on incest. Ends the mother-in-law. Devices: Hidden sins exposed under the covenant oath."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Curses on Secret Violence and All Who Disobey",
+          "reference": "27:24-26",
+          "why_start_end_and_devices": "Starts secret killing and bribery. Ends 'cursed is anyone who does not uphold this law.' Devices: The summary curse on disobedience (cf. Gal 3:10)."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Blessings That Overtake the Obedient",
+          "reference": "28:1-6",
+          "why_start_end_and_devices": "Starts 'if you fully obey.' Ends 'blessed coming in and going out.' Devices: Blessings that 'come upon and overtake you'—comprehensive favor."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Victory, Plenty, and a Holy People",
+          "reference": "28:7-10",
+          "why_start_end_and_devices": "Starts enemies defeated. Ends 'the peoples will fear you.' Devices: Security and reputation among the nations."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Abundance; the Head and Not the Tail",
+          "reference": "28:11-14",
+          "why_start_end_and_devices": "Starts overflowing prosperity. Ends 'do not turn aside.' Devices: Supremacy promised, conditioned on fidelity."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Curses That Overtake the Disobedient",
+          "reference": "28:15-19",
+          "why_start_end_and_devices": "Starts 'if you do not obey.' Ends 'cursed going out.' Devices: The mirror image of the blessings—curses overtake."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Disease, Drought, and Defeat",
+          "reference": "28:20-24",
+          "why_start_end_and_devices": "Starts confusion and rebuke. Ends 'until you are destroyed.' Devices: Escalating natural and martial disasters."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Routed, Plagued, and Groping at Noon",
+          "reference": "28:25-29",
+          "why_start_end_and_devices": "Starts defeat before enemies. Ends 'groping at midday like a blind man.' Devices: Helplessness and madness as judgment."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Stolen Labor and Lost Harvest",
+          "reference": "28:30-33",
+          "why_start_end_and_devices": "Starts the betrothed taken, the house unused. Ends a foreign people consuming your produce. Devices: Futility curses—labor without enjoyment."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Madness and a Proverb Among the Nations",
+          "reference": "28:34-37",
+          "why_start_end_and_devices": "Starts driven mad by what you see. Ends 'an object of scorn.' Devices: The covenant people made a byword."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Locusts and Worms Consume All",
+          "reference": "28:38-42",
+          "why_start_end_and_devices": "Starts seed devoured. Ends locusts taking the trees. Devices: Agricultural ruin in vivid detail."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Foreigner Rises, You Sink",
+          "reference": "28:43-46",
+          "why_start_end_and_devices": "Starts the alien ascending. Ends 'a sign and a wonder forever.' Devices: Reversal of fortunes as lasting testimony."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "A Nation from Afar with an Iron Yoke",
+          "reference": "28:47-51",
+          "why_start_end_and_devices": "Starts 'because you did not serve joyfully.' Ends devouring your livestock and crops. Devices: The eagle-swift invader; the iron yoke."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Siege So Terrible You Eat Your Own Children",
+          "reference": "28:52-57",
+          "why_start_end_and_devices": "Starts the besieged cities. Ends the horror of cannibalism. Devices: The unthinkable depths of the siege curse."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Fearful Plagues and Reversal of Fortune",
+          "reference": "28:58-63",
+          "why_start_end_and_devices": "Starts 'if you do not carefully obey.' Ends 'uprooted from the land.' Devices: 'As the LORD delighted to bless, so he will delight to ruin.'"
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Scattered Among the Nations; Back to Egypt",
+          "reference": "28:64-68",
+          "why_start_end_and_devices": "Starts dispersion among all peoples. Ends 'no one will buy you' as slaves. Devices: Exile and a despairing return—the curse's nadir."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "A Covenant Beyond Horeb; Eyes Yet Unseeing",
+          "reference": "29:1-4",
+          "why_start_end_and_devices": "Starts the Moab covenant. Ends 'the LORD has not given you a heart to understand.' Devices: A second covenant; spiritual blindness named."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Remember the Wilderness; Keep This Covenant",
+          "reference": "29:5-9",
+          "why_start_end_and_devices": "Starts the forty years recalled. Ends 'so that you may prosper.' Devices: Provision remembered as motive for obedience."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "All of You Stand Today to Enter the Covenant",
+          "reference": "29:10-13",
+          "why_start_end_and_devices": "Starts 'you are standing here.' Ends 'as he promised your fathers.' Devices: The whole nation, high and low, bound together."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "This Oath Binds Future Generations Too",
+          "reference": "29:14-17",
+          "why_start_end_and_devices": "Starts 'I am making this covenant also with those not here.' Ends recalling the idols of the nations. Devices: A trans-generational oath."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "No Secret Idolater—'I Have Peace'",
+          "reference": "29:18-21",
+          "why_start_end_and_devices": "Starts the bitter root. Ends the LORD blotting out his name. Devices: The hidden apostate exposed; complacency rebuked."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Why Has the LORD Done This?",
+          "reference": "29:22-24",
+          "why_start_end_and_devices": "Starts future generations seeing the ruin. Ends the nations' question. Devices: The devastated land as a sermon to onlookers."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Because They Forsook the Covenant",
+          "reference": "29:25-28",
+          "why_start_end_and_devices": "Starts the answer. Ends 'thrust them into another land.' Devices: Exile explained as covenant-breaking."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Secret Things Belong to the LORD",
+          "reference": "29:29",
+          "why_start_end_and_devices": "A single-verse maxim closing the chapter. Devices: Mystery and revelation balanced—'the revealed things belong to us.'"
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Return and the LORD Will Gather You",
+          "reference": "30:1-5",
+          "why_start_end_and_devices": "Starts 'when all these things come upon you.' Ends 'he will gather you.' Devices: Restoration after exile—repentance opens the way home."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "He Will Circumcise Your Heart",
+          "reference": "30:6-10",
+          "why_start_end_and_devices": "Starts the promise of a circumcised heart. Ends 'with all your heart.' Devices: The answer to 5:29—God enables the love he commands."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Commandment Is Not Too Hard",
+          "reference": "30:11-14",
+          "why_start_end_and_devices": "Starts 'this command is not too difficult.' Ends 'in your mouth and in your heart.' Devices: Nearness of the word (cf. Rom 10)."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Choice of Life and Death",
+          "reference": "30:15-20",
+          "why_start_end_and_devices": "Starts 'see, I set before you life and death.' Ends 'choose life.' Devices: The book's great summons; heaven and earth as witnesses."
+        }
       ]
     },
     {
       "story_letter": "E",
-      "story_title": "The Appendix: Succession, Blessing, and Farewell",
-      "why_start_end_and_literary_glue": "Handles Succession and Deposition portion of covenant treaty plus poetic Witnesses. Great speeches over. Tone shifts from speech to narrative of Moses's final acts. At 120 years old, Moses performs acts necessary for covenant's continuity. Continuity ensured through: The Leader (Joshua): Moses commissions Joshua publicly and in divine ceremony. Repeated charge: 'Be strong and courageous.' The Law (The Book): Written, deposited beside ark as 'witness.' The Witnesses (The Songs): Song of Moses (Ch. 32) is covenant lawsuit indicting apostasy; Blessing of Moses (Ch. 33) is valedictory speech of hope. Both poetic utterances serve as formal Witnesses of treaty. Chapter 34 is epilogue recounting Moses's death on Nebo, Joshua's succession, and canonical eulogy declaring Moses greatest prophet with unique face-to-face intimacy with YHWH.",
-      "reference": "32:1-34:12",
+      "story_title": "The Appendix: Song, Blessing, and Farewell",
+      "why_start_end_and_literary_glue": "Moses' final acts: commissioning Joshua and depositing the law (31), the Song of Moses as covenant witness (32), the tribal Blessing (33), and the death of Moses on Nebo (34).",
+      "reference": "31:1-34:12",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Song of Moses: Indictment Phase", "reference": "32:1-18", "why_start_end_and_devices": "Indictment phase of covenant lawsuit. Begins by establishing God's character as 'the Rock,' perfect, just, faithful. Contrasts with Israel's 'crooked and twisted generation.' Recites God's benevolence, immediately followed by charge: 'Jeshurun grew fat and kicked... abandoned God.' Devices: Legal indictment, divine character, beneficence-rebellion contrast."},
-        {"scene_number": 2, "scene_name": "The Song of Moses: Judgment and Restoration", "reference": "32:19-43", "why_start_end_and_devices": "Judgment and restoration phase. God declares will 'hide his face' and send judgment. However, judgment not total; God restrains himself. Poem pivots to promise of restoration: 'The LORD will vindicate his people.' God alone will save, taking vengeance on enemies and 'making atonement' for land. Devices: Divine judgment, divine self-restraint, restoration promise, salvation language."},
-        {"scene_number": 3, "scene_name": "Narrative Conclusion to the Song", "reference": "32:44-47", "why_start_end_and_devices": "Brief narrative epilogue. Shows Moses and Joshua faithfully delivering Song. Moses's final brief exhortation: 'take to heart all the words... for it is your very life.' Devices: Narrative framing, hortatory conclusion, life emphasis."},
-        {"scene_number": 4, "scene_name": "The Vision from Nebo", "reference": "34:1-4", "why_start_end_and_devices": "Fulfillment of God's promise. Moses obeys and ascends mountain. Text emphasizes vision's totality: 'the LORD showed him all the land.' God's final words are both promise (land sworn to Abraham) and judgment ('you shall not go over'). Devices: Obedience narrative, divine vision, promise and judgment."},
-        {"scene_number": 5, "scene_name": "The Death and Burial of Moses", "reference": "34:5-8", "why_start_end_and_devices": "Sober, respectful account. Honors Moses with title 'servant of the LORD.' His death is 'according to the word of the LORD.' Most striking: 'he [God] buried him... but no one knows the place of his burial,' prevents grave from becoming shrine. Formal 30-day mourning period. Devices: Honorific language, divine burial, secret grave, mourning ritual."},
-        {"scene_number": 6, "scene_name": "The Blessing of Moses: Theophany and Tribes", "reference": "33:1-29", "why_start_end_and_devices": "Moses's final blessing, pure hope speech. Begins with majestic theophany describing God shining from Sinai. Proceeds tribe by tribe, giving positive destiny: Reuben ('Let Reuben live'), Judah, Levi (praising fidelity), Benjamin, Joseph (extensive prosperity), others. Concludes with celebration of God as Israel's 'refuge' and 'shield.' Devices: Valedictory blessing, tribal enumeration, theophanic opening, hopeful conclusion."},
-        {"scene_number": 7, "scene_name": "Joshua's Succession and Moses's Eulogy", "reference": "34:9-12", "why_start_end_and_devices": "Accomplishes final authority transfer. Joshua 'was full of the spirit of wisdom' because 'Moses had laid his hands on him.' People accept transfer: 'people of Israel obeyed him.' Final three verses are canonical eulogy declaring Moses 'greatest prophet,' unparalleled in intimacy with God ('face to face') and 'mighty power.' Devices: Succession narrative, authority transfer, canonical eulogy."},
-        {"scene_number": 8, "scene_name": "The Song as Witness: Summons to Witness", "reference": "32:1", "why_start_end_and_devices": "Opening of Song covenant lawsuit. Call to witnesses: 'Give ear, O heavens, and I will speak.' Establishes formal, legal context for entire song. Devices: Legal summons, cosmic witnesses, formal language."},
-        {"scene_number": 9, "scene_name": "The Blessing Introduction: God's Majesty", "reference": "33:1-5", "why_start_end_and_devices": "Formal introduction to Blessing. Moses described as man 'beloved of the LORD.' Theophany describes God shining from Sinai with 'myriads of holy ones' at his right hand. Concludes: 'And he became king in Jeshurun.' Frames blessing as God's majesty. Devices: Theophanic language, divine kingship, majestic introduction."},
-        {"scene_number": 10, "scene_name": "Tribal Blessings: Judah, Joseph, Benjamin", "reference": "33:6-17", "why_start_end_and_devices": "Heart of blessing: specific destines for key tribes. Judah: military victory. Joseph: agricultural abundance, God's favor. Benjamin: God's beloved, dwells 'secure by him.' Each tribe receives unique gift suited to its character. Devices: Tribal enumeration, specific blessings, character-suited destiny."},
-        {"scene_number": 11, "scene_name": "Tribal Blessings: Levi and Others", "reference": "33:18-29", "why_start_end_and_devices": "Continuation of blessings. Levi: honored for covenantal faithfulness (Exodus context). Other tribes (Naphtali, Asher, Dan, Reuben) blessed. Culminates with powerful celebration of God as Israel's helper and shield (vv. 26-29). Devices: Priestly honor, continued enumeration, joyful conclusion."},
-        {"scene_number": 12, "scene_name": "The Epilogue: Pentateuchal Conclusion", "reference": "34:1-12", "why_start_end_and_devices": "Final chapter concludes not only Deuteronomy but entire Torah. Epilogue, necessarily written by later hand (traditionally Joshua or later editor). Soberly recounts Moses's final acts: ascends Nebo, sees land, dies, God buries him, people mourn, Joshua succeeds, Moses eulogy declares him greatest prophet with unique face-to-face intimacy with YHWH. Final authoritative stamp on entire Torah. Devices: Narrative closure, eulogy authority, pentateuchal completion."}
+        {
+          "scene_number": 1,
+          "scene_name": "'Be Strong and Courageous'; the LORD Goes With You",
+          "reference": "31:1-6",
+          "why_start_end_and_devices": "Starts Moses at 120 years. Ends 'he will never leave you.' Devices: The leader's farewell; the refrain that Joshua will inherit."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Moses Charges Joshua Before All Israel",
+          "reference": "31:7-8",
+          "why_start_end_and_devices": "Starts Moses summoning Joshua. Ends 'do not be afraid.' Devices: Public succession; the LORD goes before."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Deposition of the Law",
+          "reference": "31:9-13",
+          "why_start_end_and_devices": "Starts Moses writing the law and giving it to the priests. Ends teaching the children. Devices: Septennial public reading at Booths—covenant renewal built in."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The LORD Foretells Israel's Apostasy",
+          "reference": "31:14-18",
+          "why_start_end_and_devices": "Starts the summons to the tent. Ends 'I will hide my face.' Devices: The grim prophecy that frames the Song."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Write This Song as a Witness; Joshua Commissioned",
+          "reference": "31:19-23",
+          "why_start_end_and_devices": "Starts 'write down this song.' Ends Joshua charged by the LORD. Devices: The Song as legal witness against future Israel."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Book Placed Beside the Ark as a Witness",
+          "reference": "31:24-27",
+          "why_start_end_and_devices": "Starts Moses finishing the writing. Ends 'how much more after my death.' Devices: The law as a standing witness; Israel's stubbornness named."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Moses Speaks the Song in Their Hearing",
+          "reference": "31:28-30",
+          "why_start_end_and_devices": "Starts gathering the elders. Ends Moses reciting the Song. Devices: Heaven and earth summoned as witnesses—transition to the poem."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Song: 'Give Ear, O Heavens'",
+          "reference": "32:1-6",
+          "why_start_end_and_devices": "Starts the cosmic summons. Ends 'is he not your Father?' Devices: Doctrine like rain; the Rock whose works are perfect."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "He Kept Him Like the Apple of His Eye",
+          "reference": "32:7-12",
+          "why_start_end_and_devices": "Starts 'remember the days of old.' Ends 'the LORD alone led him.' Devices: The eagle stirring its nest—tender election imagery."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Jeshurun Grew Fat and Forsook God",
+          "reference": "32:13-18",
+          "why_start_end_and_devices": "Starts feeding him the produce of the land. Ends 'you forgot the God who gave you birth.' Devices: Prosperity breeding apostasy—the Song's turn."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Provoked to Jealousy by 'No-Gods'",
+          "reference": "32:19-22",
+          "why_start_end_and_devices": "Starts the LORD's rejection. Ends fire burning to the depths. Devices: Lex talionis of jealousy—'I will make them jealous by a non-people.'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Famine, Pestilence, the Sword",
+          "reference": "32:23-25",
+          "why_start_end_and_devices": "Starts heaping disasters. Ends terror within and without. Devices: Comprehensive judgment in poetic compression."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Yet Not Utterly Destroyed—Lest the Enemy Boast",
+          "reference": "32:26-31",
+          "why_start_end_and_devices": "Starts 'I would have scattered them.' Ends 'their rock is not like our Rock.' Devices: Restraint for the sake of God's name; the enemy's folly."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Vengeance Is Mine; the Day of Calamity",
+          "reference": "32:32-35",
+          "why_start_end_and_devices": "Starts the bitter vine of the enemy. Ends 'their foot will slip.' Devices: Judgment stored up (cf. Rom 12:19)."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The LORD Will Vindicate His People",
+          "reference": "32:36-38",
+          "why_start_end_and_devices": "Starts 'the LORD will judge his people.' Ends mocking the impotent idols. Devices: Compassion follows judgment; the gods who cannot save."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "'See Now That I Am He'",
+          "reference": "32:39-43",
+          "why_start_end_and_devices": "Starts the great self-declaration. Ends 'rejoice, O nations, with his people.' Devices: 'I put to death and I bring to life'; cosmic vindication."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Narrative Conclusion to the Song",
+          "reference": "32:44-47",
+          "why_start_end_and_devices": "Starts Moses reciting it with Joshua. Ends 'they are your life.' Devices: The Song applied—'not idle words.'"
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "God's Command for Moses to Ascend Nebo",
+          "reference": "32:48-52",
+          "why_start_end_and_devices": "Starts 'that same day.' Ends 'you will not enter.' Devices: The death sentence reaffirmed; Meribah recalled—prepares chapter 34."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Blessing Introduction: God's Majesty",
+          "reference": "33:1-5",
+          "why_start_end_and_devices": "Starts 'this is the blessing.' Ends 'the LORD was king over Jeshurun.' Devices: A theophany prologue framing the tribal blessings."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Reuben and Judah Blessed",
+          "reference": "33:6-7",
+          "why_start_end_and_devices": "Starts 'let Reuben live.' Ends the plea for Judah. Devices: Survival and restoration sought for the firstborn and the royal tribe."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Levi: Thummim and Urim, the Teaching Tribe",
+          "reference": "33:8-11",
+          "why_start_end_and_devices": "Starts the blessing of Levi. Ends 'strike down those who rise against him.' Devices: Levi's zeal at Massah rewarded with priestly office."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Benjamin and Joseph Blessed",
+          "reference": "33:12-17",
+          "why_start_end_and_devices": "Starts 'the beloved of the LORD.' Ends the ten thousands of Ephraim. Devices: Benjamin sheltered; Joseph's lavish, fertile blessing."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Zebulun, Issachar, and Gad",
+          "reference": "33:18-21",
+          "why_start_end_and_devices": "Starts 'rejoice, Zebulun.' Ends Gad executing the LORD's justice. Devices: Sea-trade, tents, and the lion of Gad."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Dan, Naphtali, and Asher",
+          "reference": "33:22-25",
+          "why_start_end_and_devices": "Starts 'Dan is a lion's cub.' Ends 'your strength will equal your days.' Devices: Brief, vivid tribal images closing the roll."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "'There Is None Like the God of Jeshurun'",
+          "reference": "33:26-29",
+          "why_start_end_and_devices": "Starts the praise of God. Ends 'you will tread on their heights.' Devices: 'The eternal God is your refuge'—the blessing's triumphant close."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Vision from Nebo",
+          "reference": "34:1-4",
+          "why_start_end_and_devices": "Starts Moses ascending Pisgah. Ends 'I have let you see it, but you will not cross.' Devices: The whole land shown—promise seen, not entered."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Death and Burial of Moses",
+          "reference": "34:5-8",
+          "why_start_end_and_devices": "Starts 'Moses died there.' Ends thirty days of mourning. Devices: Buried by the LORD himself; his eye undimmed at 120."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Joshua's Succession and Moses's Eulogy",
+          "reference": "34:9-12",
+          "why_start_end_and_devices": "Starts Joshua filled with the spirit of wisdom. Ends 'no prophet has risen like Moses.' Devices: The Pentateuch's closing eulogy—unmatched intimacy with God."
+        }
       ]
     }
   ]

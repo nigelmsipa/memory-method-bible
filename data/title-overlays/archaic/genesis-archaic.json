@@ -1,6 +1,6 @@
 {
-  "language_style": "Archaic English",
-  "language_style_full_name": "Archaic and Formal Biblical English (KJV, Geneva, Bishop's Bible, etc.)",
+  "style": "Archaic English",
+  "style_full_name": "Archaic and Formal Biblical English (KJV, Geneva, Bishop's Bible, etc.)",
   "license": "Translation-specific",
   "book": "Genesis",
   "themes": [
