@@ -48,12 +48,18 @@
         },
         {
           "scene_number": 7,
-          "scene_name": "The Prayer of Distress and Salvation",
-          "reference": "2:2-2:9",
-          "why_start_end_and_devices": "Jonah’s psalm opens and ends with 'Salvation belongs to Yahweh!' Devices: lament‑thanksgiving psalm, maritime/sheol imagery, chiastic center of book."
+          "scene_name": "In My Distress I Called to the LORD",
+          "reference": "2:2-5",
+          "why_start_end_and_devices": "The first half of Jonah's prayer from the fish: cast into the heart of the seas, banished yet looking toward the holy temple."
         },
         {
           "scene_number": 8,
+          "scene_name": "Salvation Is from the LORD",
+          "reference": "2:6-9",
+          "why_start_end_and_devices": "Descended to the roots of the mountains but raised from the pit, closing on the creed 'Salvation is from the LORD!'"
+        },
+        {
+          "scene_number": 9,
           "scene_name": "The Divine Edict and the Final Landing",
           "reference": "2:10",
           "why_start_end_and_devices": "Yahweh speaks; fish obeys and vomits Jonah onto dry land. Devices: terse command‑obedience, sovereignty over creation."
@@ -106,4 +112,3 @@
     }
   ]
 }
-
