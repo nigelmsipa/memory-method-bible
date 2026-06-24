@@ -12,30 +12,42 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Lord Descends for Judgment",
-          "reference": "1:1-1:7",
-          "why_start_end_and_devices": "Superscription/oracle formula; Yahweh comes forth, mountains melt; concludes with Samaria’s specific demolition and idol‑wealth exposed. Devices: theophany, rhetorical question (1:5), devastation imagery."
+          "scene_name": "The LORD Comes Down to Tread the Heights",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "The vision against Samaria and Jerusalem: the LORD descending from His temple, mountains melting like wax."
         },
         {
           "scene_number": 2,
-          "scene_name": "The Prophet's Lament and Town Puns",
-          "reference": "1:8-1:16",
-          "why_start_end_and_devices": "Speaker shifts to prophet’s hyperbolic grief; series of paronomasia on town names announces cascading losses; ends with shaved head over exiled children. Devices: lament form, wordplay chain, imperatives."
+          "scene_name": "Samaria Made a Heap of Rubble",
+          "reference": "1:5-7",
+          "why_start_end_and_devices": "Judgment for the transgression of Jacob: her stones poured into the valley, her idols smashed."
         },
         {
           "scene_number": 3,
+          "scene_name": "I Will Lament and Wail",
+          "reference": "1:8-11",
+          "why_start_end_and_devices": "The prophet's barefoot mourning over the incurable wound, with the puns on the doomed towns of Judah."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Shave Yourselves Bald in Mourning",
+          "reference": "1:12-16",
+          "why_start_end_and_devices": "Lachish the beginning of Zion's sin, the conqueror coming, the children going into exile."
+        },
+        {
+          "scene_number": 5,
           "scene_name": "The Masters of Iniquity and Their Schemes",
           "reference": "2:1-2:5",
           "why_start_end_and_devices": "'Woe' indictment of land‑grabbers designing evil on beds; closes with loss of lot‑line in Yahweh’s assembly. Devices: woe oracle, inheritance reversal legalism."
         },
         {
-          "scene_number": 4,
+          "scene_number": 6,
           "scene_name": "Silencing the True Prophets",
           "reference": "2:6-2:11",
           "why_start_end_and_devices": "Audience protests 'Do not preach'; prophet counters with questions and contrasts; ends with satire of desired wine‑preacher. Devices: dialogue, rhetorical questions, irony."
         },
         {
-          "scene_number": 5,
+          "scene_number": 7,
           "scene_name": "The Breakthrough of the King",
           "reference": "2:12-2:13",
           "why_start_end_and_devices": "Sudden salvation oracle gathers Jacob; the 'Breaker' opens the way; 'Yahweh at their head' closes the cycle. Devices: royal/shepherd metaphors, abrupt hope pivot."
@@ -92,9 +104,21 @@
         },
         {
           "scene_number": 8,
-          "scene_name": "Cleansing and Final Judgment",
-          "reference": "5:6-5:15",
-          "why_start_end_and_devices": "Remnant imagery (dew/lion) and comprehensive 'I will cut off' purges (horses, cities, sorceries, idols), closing with vengeance on disobedient nations. Devices: lexical chain of cut‑offs, purification catalog."
+          "scene_name": "The Remnant Like Dew and a Lion",
+          "reference": "5:6-9",
+          "why_start_end_and_devices": "The remnant of Jacob among the nations — like refreshing dew, yet like a lion that tramples its foes."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "I Will Remove Your Horses and Sorceries",
+          "reference": "5:10-12",
+          "why_start_end_and_devices": "The purging of military and occult false trusts — chariots, strongholds, and fortune-tellers cut off."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "I Will Root Out Your Idols",
+          "reference": "5:13-15",
+          "why_start_end_and_devices": "Carved images and Asherah poles demolished, with vengeance on the disobedient nations."
         }
       ]
     },
@@ -118,30 +142,47 @@
         },
         {
           "scene_number": 3,
-          "scene_name": "The City's False Standards and Judgment",
-          "reference": "6:9-6:16",
-          "why_start_end_and_devices": "'The voice of Yahweh' to the city indicts false scales and violence; ends with covenant‑reversal curses and citation of Omri/Ahab statutes. Devices: forensic oracle, measure‑for‑measure reversal."
+          "scene_name": "The Short Ephah and False Scales",
+          "reference": "6:9-12",
+          "why_start_end_and_devices": "The LORD's voice to the city against dishonest weights and the violence of its wealthy."
         },
         {
           "scene_number": 4,
-          "scene_name": "The Prophet's Personal Lament",
-          "reference": "7:1-7:7",
-          "why_start_end_and_devices": "First‑person 'woe to me' over fruitless land and broken trusts; closes in defiant faith: 'I will look to Yahweh … my God will hear me.' Devices: lament metaphor (harvest), social breakdown catalogue."
+          "scene_name": "The Statutes of Omri and Ahab",
+          "reference": "6:13-16",
+          "why_start_end_and_devices": "The covenant-curses: eating without satisfaction, sowing without reaping — made a desolation."
         },
         {
           "scene_number": 5,
+          "scene_name": "The Godly Have Perished from the Land",
+          "reference": "7:1-4",
+          "why_start_end_and_devices": "The prophet's lament for a society where none are upright and the powerful conspire for bribes."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "A Man's Enemies Are His Own Household",
+          "reference": "7:5-7",
+          "why_start_end_and_devices": "The breakdown of trust even within the family (cited by Jesus), answered by 'I will look to the LORD.'"
+        },
+        {
+          "scene_number": 7,
           "scene_name": "Zion's Reply, Confession, and Vindication",
           "reference": "7:8-7:13",
           "why_start_end_and_devices": "Address to enemy; confession of sin and hope in light; vision of vindication and desolation for foes—completed with land made desolate for deeds. Devices: light/darkness motif, confession‑to‑vindication arc."
         },
         {
-          "scene_number": 6,
-          "scene_name": "Prayer for the Shepherd and Final Doxology",
-          "reference": "7:14-7:20",
-          "why_start_end_and_devices": "Petition to shepherd the flock; promise of marvels as in Exodus; doxology exalting God who pardons and has compassion; closes with covenant faithfulness to Jacob/Abraham. Devices: shepherd metaphor, exodus typology, doxological conclusion."
+          "scene_number": 8,
+          "scene_name": "Shepherd Your People with Your Staff",
+          "reference": "7:14-17",
+          "why_start_end_and_devices": "The prayer for the flock and the promise of Exodus-wonders before which the nations come trembling."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Who Is a God Like You?",
+          "reference": "7:18-20",
+          "why_start_end_and_devices": "The closing doxology: the pardoning God who casts our sins into the depths of the sea, faithful to Abraham."
         }
       ]
     }
   ]
 }
-
