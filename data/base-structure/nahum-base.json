@@ -12,15 +12,33 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Jealous God and the Cosmic Tempest",
-          "reference": "1:1-1:8",
-          "why_start_end_and_devices": "Superscription introduces the burden; theophany imagery (whirlwind, drying seas, melting mountains) culminates in totalizing pursuit into darkness (1:8). Devices: theophany hymn, hyperbole, incomplete acrostic traces."
+          "scene_name": "The Jealous and Avenging God",
+          "reference": "1:1-3",
+          "why_start_end_and_devices": "The burden against Nineveh: the LORD jealous and avenging, slow to anger yet by no means leaving the guilty unpunished."
         },
         {
           "scene_number": 2,
-          "scene_name": "Comfort for Judah and Destruction for the Enemy",
-          "reference": "1:9-1:15",
-          "why_start_end_and_devices": "Rhetorical question turns to Nineveh’s plotting and certain end; closes with Judah’s feast/vows and promise of peace (1:15). Devices: parallelism, tricolon of ruin, audience shift to comfort."
+          "scene_name": "The Cosmic Tempest",
+          "reference": "1:4-6",
+          "why_start_end_and_devices": "He rebukes the sea, mountains quake and melt — 'who can withstand His indignation?'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "A Stronghold in the Day of Distress",
+          "reference": "1:7-8",
+          "why_start_end_and_devices": "The LORD good to those who trust Him, yet an overwhelming flood to make an end of Nineveh."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Whatever You Plot Against the LORD",
+          "reference": "1:9-11",
+          "why_start_end_and_devices": "The plotter against the LORD brought to an end, consumed like fully-dry stubble."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Feet of One Who Brings Good News",
+          "reference": "1:12-15",
+          "why_start_end_and_devices": "Judah's yoke broken (12-13), Nineveh's name cut off (14), and the herald of peace on the mountains (15)."
         }
       ]
     },
@@ -32,12 +50,24 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Charging Chariots and the Plunder",
-          "reference": "2:1-2:10",
-          "why_start_end_and_devices": "Warning that the shatterer ascends shifts to present‑tense action: flashing shields, racing chariots, breached gates, flight, and plunder; resolves in the tricolon of desolation (empty, void, waste). Devices: kinetic imagery, repetition, narrative sequencing."
+          "scene_name": "The Scatterer Advances",
+          "reference": "2:1-3",
+          "why_start_end_and_devices": "Nineveh braced for the assault as the LORD restores Jacob's splendor; the scarlet-clad warriors and flashing chariots."
         },
         {
           "scene_number": 2,
+          "scene_name": "The Charging Chariots",
+          "reference": "2:4-6",
+          "why_start_end_and_devices": "Chariots darting like lightning, the stumbling nobles, the river gates thrown open and the palace collapsing."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Plunder the Silver, Plunder the Gold",
+          "reference": "2:7-10",
+          "why_start_end_and_devices": "The city exiled and drained like a pool — 'she is emptied!' — hearts melting and faces pale."
+        },
+        {
+          "scene_number": 4,
           "scene_name": "The Silencing of the Lion's Den",
           "reference": "2:11-2:13",
           "why_start_end_and_devices": "Rhetorical question introduces lion‑den metaphor summarizing predatory history; closes with 'Behold, I am against you' oracle of Yahweh of hosts. Devices: metaphor, oracle formula, just recompense."
@@ -52,18 +82,24 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "The Whip, the Harlot, and the Public Shame",
-          "reference": "3:1-3:7",
-          "why_start_end_and_devices": "'Woe to the bloody city' opens; whip/horses/chariots kinetic chorus frames the harlot metaphor and Yahweh’s declaration 'I am against you'; ends with no one to mourn her. Devices: woe formula, metaphor, shame imagery."
+          "scene_name": "Woe to the City of Blood",
+          "reference": "3:1-3",
+          "why_start_end_and_devices": "The crack of the whip and heaps of slain in the bloody, plunder-filled city."
         },
         {
           "scene_number": 2,
+          "scene_name": "I Will Lift Your Skirts Over Your Face",
+          "reference": "3:4-7",
+          "why_start_end_and_devices": "The harlot-sorceress exposed in public shame — 'Nineveh is devastated; who will grieve for her?'"
+        },
+        {
+          "scene_number": 3,
           "scene_name": "The Mocking Analogy of No-Amon (Thebes)",
           "reference": "3:8-3:13",
           "why_start_end_and_devices": "'Are you better than No‑Amon?' frames a historical analogy dismantling Nineveh’s confidence; concludes that her people and gates are weak and ready for siege. Devices: a fortiori analogy, geographic detail, irony."
         },
         {
-          "scene_number": 3,
+          "scene_number": 4,
           "scene_name": "Finality and Universal Relief",
           "reference": "3:14-3:19",
           "why_start_end_and_devices": "Mocking imperatives (draw water, fortify) yield to images of fire/sword/locust flight; addresses king of Assyria; closes with incurable wound and worldwide applause at Nineveh’s end. Devices: sarcasm, simile, rhetorical question as book’s coda."
@@ -72,4 +108,3 @@
     }
   ]
 }
-
