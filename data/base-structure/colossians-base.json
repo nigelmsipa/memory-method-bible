@@ -10,12 +10,48 @@
       "why_start_end_and_literary_glue": "Start (1:1) epistolary opening; end (2:5) completes the foundational confidence (‘order’ and ‘steadfastness’) before the 2:6 imperative pivot. Glue: thanksgiving/prayer reports framing the Christ Hymn (1:15–20) and repeated ‘in/through him’ emphasizing Christ’s centrality.",
       "reference": "1:1 - 2:5",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Salutation and Thanksgiving for Faith", "reference": "1:1-1:8", "why_start_end_and_devices": "Salutation to Colossae; thanksgiving concludes with gospel’s fruit/growth among them. Devices: epistolary proem, parallelism (‘bearing fruit and growing’)."},
-        {"scene_number": 2, "scene_name": "Prayer for Knowledge and Strength", "reference": "1:9-1:14", "why_start_end_and_devices": "‘From the day we heard…’ intercessory request; ends with redemption/forgiveness. Devices: purpose‑clause chain, kingdom transfer metaphor."},
-        {"scene_number": 3, "scene_name": "The Christological Hymn", "reference": "1:15-1:20", "why_start_end_and_devices": "‘He is the image…’ elevated hymn from creation to reconciliation; ends ‘making peace by the blood of his cross’. Devices: parallelism, titular escalation, balanced creation/new‑creation structure."},
-        {"scene_number": 4, "scene_name": "Reconciliation Applied", "reference": "1:21-1:23", "why_start_end_and_devices": "‘And you…’ shifts to audience; conditional perseverance closes appeal. Devices: contrast (alienated vs reconciled), conditional caveat."},
-        {"scene_number": 5, "scene_name": "Paul’s Ministry of the Mystery", "reference": "1:24-2:1", "why_start_end_and_devices": "Sufferings for their sake; steward of the mystery: Christ in you. Devices: paradox (rejoice in sufferings), stewardship motif, mystery revelation."},
-        {"scene_number": 6, "scene_name": "Aim: Full Assurance and Steadfastness", "reference": "2:2-2:5", "why_start_end_and_devices": "Hearts encouraged, knit in love; ends with joy at their order/steadfastness. Devices: treasure/knowledge language, military order imagery."}
+        {
+          "scene_number": 1,
+          "scene_name": "Salutation",
+          "reference": "1:1-2",
+          "why_start_end_and_devices": "Paul and Timothy greet the saints and faithful brothers in Christ at Colossae."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Thanksgiving for Faith, Love, and Hope",
+          "reference": "1:3-8",
+          "why_start_end_and_devices": "Gratitude for their faith and love, springing from the hope laid up in heaven, learned from Epaphras."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Prayer for Knowledge and Strength",
+          "reference": "1:9-1:14",
+          "why_start_end_and_devices": "‘From the day we heard…’ intercessory request; ends with redemption/forgiveness. Devices: purpose‑clause chain, kingdom transfer metaphor."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Christological Hymn",
+          "reference": "1:15-1:20",
+          "why_start_end_and_devices": "‘He is the image…’ elevated hymn from creation to reconciliation; ends ‘making peace by the blood of his cross’. Devices: parallelism, titular escalation, balanced creation/new‑creation structure."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Reconciliation Applied",
+          "reference": "1:21-1:23",
+          "why_start_end_and_devices": "‘And you…’ shifts to audience; conditional perseverance closes appeal. Devices: contrast (alienated vs reconciled), conditional caveat."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Paul’s Ministry of the Mystery",
+          "reference": "1:24-2:1",
+          "why_start_end_and_devices": "Sufferings for their sake; steward of the mystery: Christ in you. Devices: paradox (rejoice in sufferings), stewardship motif, mystery revelation."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Aim: Full Assurance and Steadfastness",
+          "reference": "2:2-2:5",
+          "why_start_end_and_devices": "Hearts encouraged, knit in love; ends with joy at their order/steadfastness. Devices: treasure/knowledge language, military order imagery."
+        }
       ]
     },
     {
@@ -24,10 +60,30 @@
       "why_start_end_and_literary_glue": "Start (2:6) ‘Therefore… walk in him’ launches the polemical core; end (2:23) dismisses regulations as powerless. Glue: fullness/completeness in Christ (2:9–10) vs emptiness of philosophy, elemental spirits refrain (2:8, 20).",
       "reference": "2:6 - 2:23",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Walk in Christ; Warning Against Philosophy", "reference": "2:6-2:10", "why_start_end_and_devices": "Therefore→walk; rooted/built up; ‘in him you have been filled’. Devices: rooted/built metaphor, capture warning, sufficiency verdict."},
-        {"scene_number": 2, "scene_name": "True Circumcision and New Life", "reference": "2:11-2:15", "why_start_end_and_devices": "Circumcision without hands; buried/raised; debt canceled; rulers disarmed. Devices: typology (rite vs reality), financial and triumphal metaphors."},
-        {"scene_number": 3, "scene_name": "Judgment on Rituals and Asceticism", "reference": "2:16-2:19", "why_start_end_and_devices": "Let none judge re: food/festival/Sabbath; hold fast to the Head. Devices: shadow vs substance contrast, body‑Head growth metaphor."},
-        {"scene_number": 4, "scene_name": "Insufficiency of Worldly Regulations", "reference": "2:20-2:23", "why_start_end_and_devices": "If you died with Christ, why submit? Self‑made religion is of no value. Devices: rhetorical question, ironic dismissal, a fortiori reasoning."}
+        {
+          "scene_number": 1,
+          "scene_name": "Walk in Christ; Warning Against Philosophy",
+          "reference": "2:6-2:10",
+          "why_start_end_and_devices": "Therefore→walk; rooted/built up; ‘in him you have been filled’. Devices: rooted/built metaphor, capture warning, sufficiency verdict."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "True Circumcision and New Life",
+          "reference": "2:11-2:15",
+          "why_start_end_and_devices": "Circumcision without hands; buried/raised; debt canceled; rulers disarmed. Devices: typology (rite vs reality), financial and triumphal metaphors."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Judgment on Rituals and Asceticism",
+          "reference": "2:16-2:19",
+          "why_start_end_and_devices": "Let none judge re: food/festival/Sabbath; hold fast to the Head. Devices: shadow vs substance contrast, body‑Head growth metaphor."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Insufficiency of Worldly Regulations",
+          "reference": "2:20-2:23",
+          "why_start_end_and_devices": "If you died with Christ, why submit? Self‑made religion is of no value. Devices: rhetorical question, ironic dismissal, a fortiori reasoning."
+        }
       ]
     },
     {
@@ -36,13 +92,48 @@
       "why_start_end_and_literary_glue": "Start (3:1) raised‑with‑Christ imperative pivots to praxis; end (4:6) closes general outward conduct before personal greetings. Glue: ‘put off’ vices/‘put on’ virtues anaphora, household code, and gratitude thread.",
       "reference": "3:1 - 4:6",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Set Your Mind Above", "reference": "3:1-3:4", "why_start_end_and_devices": "Seek/think above; hidden life now, appearing then. Devices: above/below antithesis, hidden‑life eschatology."},
-        {"scene_number": 2, "scene_name": "Put Off the Old", "reference": "3:5-3:9", "why_start_end_and_devices": "Put to death earthly sins; you have put off the old self. Devices: vice lists, wrath rationale, clothing‑off metaphor."},
-        {"scene_number": 3, "scene_name": "Put On the New", "reference": "3:10-3:14", "why_start_end_and_devices": "New self renewed; virtues listed; above all love binds all. Devices: clothing‑on metaphor, unity summary (3:11), love as bond."},
-        {"scene_number": 4, "scene_name": "Marks of the New Life", "reference": "3:15-3:17", "why_start_end_and_devices": "Peace rule, word dwell, do all in Jesus’ name with thanks. Devices: ruling umpire metaphor, repeated thanksgiving inclusio."},
-        {"scene_number": 5, "scene_name": "Haustafel: Wives and Husbands", "reference": "3:18-3:19", "why_start_end_and_devices": "Wives submit; husbands love and do not be harsh. Devices: reciprocal pairing, Lord‑framed duty."},
-        {"scene_number": 6, "scene_name": "Haustafel: Children, Parents, Slaves, Masters", "reference": "3:20-4:1", "why_start_end_and_devices": "Children obey; fathers nurture; slaves serve the Lord; masters act justly. Devices: reciprocal duties with theological motives/rewards."},
-        {"scene_number": 7, "scene_name": "Final General Exhortations", "reference": "4:2-4:6", "why_start_end_and_devices": "Continue in prayer; walk in wisdom toward outsiders; gracious, salty speech. Devices: prayer vigilance with thanksgiving, seasoned‑speech metaphor."}
+        {
+          "scene_number": 1,
+          "scene_name": "Set Your Mind Above",
+          "reference": "3:1-3:4",
+          "why_start_end_and_devices": "Seek/think above; hidden life now, appearing then. Devices: above/below antithesis, hidden‑life eschatology."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Put Off the Old",
+          "reference": "3:5-3:9",
+          "why_start_end_and_devices": "Put to death earthly sins; you have put off the old self. Devices: vice lists, wrath rationale, clothing‑off metaphor."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Put On the New",
+          "reference": "3:10-3:14",
+          "why_start_end_and_devices": "New self renewed; virtues listed; above all love binds all. Devices: clothing‑on metaphor, unity summary (3:11), love as bond."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Marks of the New Life",
+          "reference": "3:15-3:17",
+          "why_start_end_and_devices": "Peace rule, word dwell, do all in Jesus’ name with thanks. Devices: ruling umpire metaphor, repeated thanksgiving inclusio."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Haustafel: Wives and Husbands",
+          "reference": "3:18-3:19",
+          "why_start_end_and_devices": "Wives submit; husbands love and do not be harsh. Devices: reciprocal pairing, Lord‑framed duty."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Haustafel: Children, Parents, Slaves, Masters",
+          "reference": "3:20-4:1",
+          "why_start_end_and_devices": "Children obey; fathers nurture; slaves serve the Lord; masters act justly. Devices: reciprocal duties with theological motives/rewards."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Final General Exhortations",
+          "reference": "4:2-4:6",
+          "why_start_end_and_devices": "Continue in prayer; walk in wisdom toward outsiders; gracious, salty speech. Devices: prayer vigilance with thanksgiving, seasoned‑speech metaphor."
+        }
       ]
     },
     {
@@ -51,12 +142,31 @@
       "why_start_end_and_literary_glue": "Start (4:7) introduces messengers and transitions to personalia; end (4:18) autograph and benediction. Glue: names/greetings (prosopography) and chains inclusio (4:3; 4:18).",
       "reference": "4:7 - 4:18",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Messengers and Their Mission", "reference": "4:7-4:9", "why_start_end_and_devices": "Tychicus and Onesimus will tell all; ‘one of you’. Devices: commendation formula, credibility emphasis."},
-        {"scene_number": 2, "scene_name": "Greetings from Fellow Workers", "reference": "4:10-4:14", "why_start_end_and_devices": "Aristarchus, Mark, Jesus Justus, Epaphras, Luke, Demas greet. Devices: prosopography, communal solidarity."},
-        {"scene_number": 3, "scene_name": "Charge to Laodicea and Archippus", "reference": "4:15-4:17", "why_start_end_and_devices": "Greet Laodicea/Nympha; letter exchange; fulfill your ministry. Devices: extra‑Colossian instruction, specific admonition."},
-        {"scene_number": 4, "scene_name": "Autograph and Benediction", "reference": "4:18-4:18", "why_start_end_and_devices": "‘I, Paul, write… Remember my chains. Grace be with you.’ Devices: autograph verification, pathos appeal, grace close."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Messengers and Their Mission",
+          "reference": "4:7-4:9",
+          "why_start_end_and_devices": "Tychicus and Onesimus will tell all; ‘one of you’. Devices: commendation formula, credibility emphasis."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Greetings from Fellow Workers",
+          "reference": "4:10-4:14",
+          "why_start_end_and_devices": "Aristarchus, Mark, Jesus Justus, Epaphras, Luke, Demas greet. Devices: prosopography, communal solidarity."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Charge to Laodicea and Archippus",
+          "reference": "4:15-4:17",
+          "why_start_end_and_devices": "Greet Laodicea/Nympha; letter exchange; fulfill your ministry. Devices: extra‑Colossian instruction, specific admonition."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Autograph and Benediction",
+          "reference": "4:18-4:18",
+          "why_start_end_and_devices": "‘I, Paul, write… Remember my chains. Grace be with you.’ Devices: autograph verification, pathos appeal, grace close."
+        }
       ]
     }
   ]
 }
-

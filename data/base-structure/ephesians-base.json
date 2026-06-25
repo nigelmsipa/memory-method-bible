@@ -10,13 +10,78 @@
       "why_start_end_and_literary_glue": "Start (1:1) epistolary salutation opens the letter; end (2:22) completes the new‑temple metaphor (‘dwelling place of God in the Spirit’), capping the corporate identity argument. Glue: ‘in Christ’ leitwort and ‘riches’ vocabulary tie election, redemption, inheritance, and life together.",
       "reference": "1:1 - 2:22",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Salutation and Grace", "reference": "1:1-1:2", "why_start_end_and_devices": "Starts with apostolic identification; ends with grace/peace benediction. Devices: epistolary salutatio/benedictio, theme preview (grace/peace)."},
-        {"scene_number": 2, "scene_name": "The Divine Blueprint (Single Sentence)", "reference": "1:3-1:14", "why_start_end_and_devices": "Begins ‘Blessed be…’; ends ‘to the praise of his glory’ (Spirit’s seal). Devices: doxological anaphora ‘in him’, triune blessing, macro‑sentence parataxis."},
-        {"scene_number": 3, "scene_name": "Paul’s Prayer for Enlightenment", "reference": "1:15-1:23", "why_start_end_and_devices": "‘For this reason…’ thanks→petition; ends with Christ as head over all for the church. Devices: thanksgiving→supplication structure, resurrection/exaltation power focus."},
-        {"scene_number": 4, "scene_name": "From Death to Life", "reference": "2:1-2:7", "why_start_end_and_devices": "‘You were dead…’ contrasts past death with present co‑vivification/seating; ends with purpose of displaying immeasurable grace. Devices: stark antithesis, purpose clause teleology."},
-        {"scene_number": 5, "scene_name": "The Essence of Salvation", "reference": "2:8-2:10", "why_start_end_and_devices": "‘For by grace… through faith’ explains 2:1–7; ends with created for good works to walk in. Devices: justification mini‑summary, works‑purpose closure."},
-        {"scene_number": 6, "scene_name": "Reconciliation of the Two Peoples", "reference": "2:11-2:18", "why_start_end_and_devices": "‘Therefore remember…’ recounts alienation→peace; ends with shared access in one Spirit to the Father. Devices: dividing‑wall metaphor, repetition of ‘peace’, one‑new‑man creation."},
-        {"scene_number": 7, "scene_name": "The Church as God’s New Temple", "reference": "2:19-2:22", "why_start_end_and_devices": "‘So then…’ logical conclusion; ends with dwelling place of God. Devices: architectural metaphor (foundation/cornerstone/temple), corporate identity resolution."}
+        {
+          "scene_number": 1,
+          "scene_name": "Salutation and Grace",
+          "reference": "1:1-1:2",
+          "why_start_end_and_devices": "Starts with apostolic identification; ends with grace/peace benediction. Devices: epistolary salutatio/benedictio, theme preview (grace/peace)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Chosen and Adopted Before the Foundation of the World",
+          "reference": "1:3-6",
+          "why_start_end_and_devices": "Every spiritual blessing: chosen in Him to be holy, predestined for adoption to the praise of His grace."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Redemption and the Mystery of His Will",
+          "reference": "1:7-10",
+          "why_start_end_and_devices": "Redemption through His blood and the plan to unite all things in heaven and earth in Christ."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Sealed with the Promised Holy Spirit",
+          "reference": "1:11-14",
+          "why_start_end_and_devices": "Chosen as God's own and sealed with the Spirit, the pledge of our inheritance."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Prayer for a Spirit of Wisdom and Revelation",
+          "reference": "1:15-19",
+          "why_start_end_and_devices": "Paul prays they would know the hope of His calling and the greatness of His power toward believers."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Christ Seated Far Above All, Head Over the Church",
+          "reference": "1:20-23",
+          "why_start_end_and_devices": "The risen Christ exalted above every rule, made head over all things for His body, the church."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Dead in Trespasses, Children of Wrath",
+          "reference": "2:1-3",
+          "why_start_end_and_devices": "Once walking in the ways of the world and the ruler of the air, by nature children of wrath."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "But God, Rich in Mercy, Made Us Alive",
+          "reference": "2:4-7",
+          "why_start_end_and_devices": "Out of great love, raised and seated with Christ to display the riches of His grace."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Essence of Salvation",
+          "reference": "2:8-2:10",
+          "why_start_end_and_devices": "‘For by grace… through faith’ explains 2:1–7; ends with created for good works to walk in. Devices: justification mini‑summary, works‑purpose closure."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Once Far Off, Now Brought Near by the Blood",
+          "reference": "2:11-13",
+          "why_start_end_and_devices": "Gentiles formerly without hope and without God, now brought near through the blood of Christ."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "He Is Our Peace, Breaking Down the Dividing Wall",
+          "reference": "2:14-18",
+          "why_start_end_and_devices": "Christ abolishing the hostility to make one new man, granting both access to the Father by one Spirit."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Church as God’s New Temple",
+          "reference": "2:19-2:22",
+          "why_start_end_and_devices": "‘So then…’ logical conclusion; ends with dwelling place of God. Devices: architectural metaphor (foundation/cornerstone/temple), corporate identity resolution."
+        }
       ]
     },
     {
@@ -25,12 +90,54 @@
       "why_start_end_and_literary_glue": "Start (3:1) parenthetical commission digression; end (4:16) body growth in love completes unity/gifts argument before broader ethics. Glue: ‘mystery’ terminology (3:3–9) and the sevenfold ‘one’ (4:4–6) bridging doctrine to unity appeal.",
       "reference": "3:1 - 4:16",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Paul’s Apostolic Commission", "reference": "3:1-3:7", "why_start_end_and_devices": "‘For this reason I…’ prisoner‑apostle; ends with becoming a minister by grace/power. Devices: revelation source, Gentiles as fellow heirs (3:6)."},
-        {"scene_number": 2, "scene_name": "Cosmic Purpose of the Ministry", "reference": "3:8-3:13", "why_start_end_and_devices": "Least of saints given grace to unveil wisdom to rulers; ends with bold access and exhortation not to lose heart. Devices: self‑abasement vs cosmic scope, teleology of suffering."},
-        {"scene_number": 3, "scene_name": "Prayer for Fullness", "reference": "3:14-3:21", "why_start_end_and_devices": "Resumes ‘for this reason’; ends with doxology. Devices: dimensional love (breadth/length/height/depth), superabundant ability formula."},
-        {"scene_number": 4, "scene_name": "Walk Worthy in Unity", "reference": "4:1-4:6", "why_start_end_and_devices": "‘I… urge you to walk’ hinge from indicative→imperative; ends with ‘one…’ heptad. Devices: ‘walk’ structural marker, anaphoric ‘one’ list."},
-        {"scene_number": 5, "scene_name": "Diversity of Gifts from the Ascended Christ", "reference": "4:7-4:10", "why_start_end_and_devices": "Grace to each; Ps 68 descent/ascent; ends ‘that he might fill all things’. Devices: proof‑text interlude, triumph imagery."},
-        {"scene_number": 6, "scene_name": "Gifts for Maturity and Love", "reference": "4:11-4:16", "why_start_end_and_devices": "Given ministers to equip until maturity; ends with body building itself in love. Devices: body‑under‑Head metaphor, infancy→maturity contrast."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Stewardship of Grace and the Mystery",
+          "reference": "3:1-4",
+          "why_start_end_and_devices": "Paul the prisoner for the Gentiles, given insight into the mystery of Christ by revelation."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Gentiles Fellow Heirs Through the Gospel",
+          "reference": "3:5-7",
+          "why_start_end_and_devices": "The mystery now revealed: Gentiles are fellow heirs and partakers of the promise in Christ."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Cosmic Purpose of the Ministry",
+          "reference": "3:8-3:13",
+          "why_start_end_and_devices": "Least of saints given grace to unveil wisdom to rulers; ends with bold access and exhortation not to lose heart. Devices: self‑abasement vs cosmic scope, teleology of suffering."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Prayer to Know the Love of Christ",
+          "reference": "3:14-19",
+          "why_start_end_and_devices": "Bowing his knees, Paul prays for inner strength to grasp the surpassing love of Christ and God's fullness."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Doxology: To Him Who Is Able",
+          "reference": "3:20-21",
+          "why_start_end_and_devices": "Glory to the One able to do immeasurably more than we ask, in the church and in Christ forever."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Walk Worthy in Unity",
+          "reference": "4:1-4:6",
+          "why_start_end_and_devices": "‘I… urge you to walk’ hinge from indicative→imperative; ends with ‘one…’ heptad. Devices: ‘walk’ structural marker, anaphoric ‘one’ list."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Diversity of Gifts from the Ascended Christ",
+          "reference": "4:7-4:10",
+          "why_start_end_and_devices": "Grace to each; Ps 68 descent/ascent; ends ‘that he might fill all things’. Devices: proof‑text interlude, triumph imagery."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Gifts for Maturity and Love",
+          "reference": "4:11-4:16",
+          "why_start_end_and_devices": "Given ministers to equip until maturity; ends with body building itself in love. Devices: body‑under‑Head metaphor, infancy→maturity contrast."
+        }
       ]
     },
     {
@@ -39,17 +146,127 @@
       "why_start_end_and_literary_glue": "Start (4:17) ‘no longer walk’ launches imperative section; end (6:24) benediction closes epistle. Glue: repeated ‘walk’ (4:17; 5:2, 8, 15), old/new self clothing metaphor, Haustafel sequence, and armor of God imagery.",
       "reference": "4:17 - 6:24",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Old Self Off, New Self On", "reference": "4:17-4:24", "why_start_end_and_devices": "No longer walk as Gentiles; ends with putting on the new self. Devices: clothing metaphor, mind renewal, identity contrast."},
-        {"scene_number": 2, "scene_name": "Integrity, Edification, and Forgiveness", "reference": "4:25-4:32", "why_start_end_and_devices": "Therefore… series of imperatives; ends ‘as God in Christ forgave you’. Devices: paratactic ethic list, gospel grounding."},
-        {"scene_number": 3, "scene_name": "Walk in Love and Purity", "reference": "5:1-5:7", "why_start_end_and_devices": "Imitate God; walk in love; ends ‘do not become partners’. Devices: love motif, vice boundary for kingdom inheritance."},
-        {"scene_number": 4, "scene_name": "Walk as Children of Light", "reference": "5:8-5:14", "why_start_end_and_devices": "You were darkness, now light; ends with hymn/quotation ‘awake…’. Devices: light/dark antithesis, identity→imperative logic."},
-        {"scene_number": 5, "scene_name": "Wisdom, Spirit‑Fullness, Mutual Submission", "reference": "5:15-5:21", "why_start_end_and_devices": "Walk wisely; be filled with the Spirit; ends with mutual submission. Devices: folly/wisdom contrast, worship/thanskgiving outputs, submission hinge."},
-        {"scene_number": 6, "scene_name": "Haustafel: Wives and Husbands", "reference": "5:22-5:33", "why_start_end_and_devices": "Wives submit; husbands love; Christ‑church analogy; ends with dual summary command. Devices: extended marriage analogy, head/body motif."},
-        {"scene_number": 7, "scene_name": "Haustafel: Children, Parents, Slaves, Masters", "reference": "6:1-6:9", "why_start_end_and_devices": "Children obey; fathers nurture; slaves obey; masters do the same; ends with reward rationale. Devices: balanced reciprocal duties, Lord‑centric motivation."},
-        {"scene_number": 8, "scene_name": "The Armor of God", "reference": "6:10-6:17", "why_start_end_and_devices": "Be strong; put on panoplia; ends with sword of the Spirit. Devices: sustained military metaphor, listed armor pieces with theological functions."},
-        {"scene_number": 9, "scene_name": "Prayer, Mission, and Benediction", "reference": "6:18-6:24", "why_start_end_and_devices": "All‑times prayer; Tychicus’ mission; peace and grace benedictions. Devices: prayer linkage to warfare, epistolary close."}
+        {
+          "scene_number": 1,
+          "scene_name": "No Longer Walk as the Gentiles",
+          "reference": "4:17-19",
+          "why_start_end_and_devices": "The futile, darkened, callous walk of the alienated who give themselves over to sensuality."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Put Off the Old Self, Put On the New",
+          "reference": "4:20-24",
+          "why_start_end_and_devices": "Taught in Christ to discard the corrupt old self and put on the new self, created like God."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Speak Truth, Be Angry Without Sin, Work and Give",
+          "reference": "4:25-28",
+          "why_start_end_and_devices": "Put off falsehood, do not let anger fester or give the devil a foothold, and work to share with the needy."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Wholesome Speech; Be Kind and Forgiving",
+          "reference": "4:29-32",
+          "why_start_end_and_devices": "No unwholesome talk; do not grieve the Spirit; be kind and forgiving as God forgave you."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Walk in Love; No Immorality or Crude Talk",
+          "reference": "5:1-4",
+          "why_start_end_and_devices": "Imitate God and walk in love; let there be no hint of immorality, greed, or crude joking, but thanksgiving."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "No Immoral Person Has Inheritance",
+          "reference": "5:5-7",
+          "why_start_end_and_devices": "The immoral and idolatrous have no inheritance in the kingdom; do not be deceived or partake with them."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Walk as Children of Light",
+          "reference": "5:8-10",
+          "why_start_end_and_devices": "Once darkness, now light: walk as children of light, testing what pleases the Lord."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Expose Works of Darkness; Awake, O Sleeper",
+          "reference": "5:11-14",
+          "why_start_end_and_devices": "Have no fellowship with darkness but expose it — 'Wake up, O sleeper, and Christ will shine on you.'"
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Walk Wisely, Understanding the Lord's Will",
+          "reference": "5:15-17",
+          "why_start_end_and_devices": "Pay careful attention to your walk, redeeming the time and understanding the will of the Lord."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Be Filled with the Spirit; Sing and Submit",
+          "reference": "5:18-21",
+          "why_start_end_and_devices": "Be filled with the Spirit, singing and giving thanks, submitting to one another in reverence for Christ."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Wives, Submit to Your Husbands",
+          "reference": "5:22-24",
+          "why_start_end_and_devices": "As the church submits to Christ the head, so wives to their husbands."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Husbands, Love as Christ Loved the Church",
+          "reference": "5:25-27",
+          "why_start_end_and_devices": "Christ gave Himself to sanctify and present her radiant, without spot or blemish."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Love Your Wife as Your Own Body",
+          "reference": "5:28-30",
+          "why_start_end_and_devices": "As a man cares for his own body, so he is to nourish and cherish his wife, members of Christ's body."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Two Become One: A Profound Mystery",
+          "reference": "5:31-33",
+          "why_start_end_and_devices": "The one-flesh union as a picture of Christ and the church — each loving his wife, the wife respecting him."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Children and Fathers",
+          "reference": "6:1-4",
+          "why_start_end_and_devices": "Children obey and honor parents; fathers raise them in the discipline and instruction of the Lord."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Slaves and Masters",
+          "reference": "6:5-9",
+          "why_start_end_and_devices": "Slaves serve as to Christ from the heart; masters cease threats, knowing the same Master shows no favoritism."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Put On the Whole Armor of God",
+          "reference": "6:10-13",
+          "why_start_end_and_devices": "Be strong in the Lord against the spiritual forces of evil; take up the full armor to stand."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Belt, Breastplate, Shoes, Shield, Helmet, Sword",
+          "reference": "6:14-17",
+          "why_start_end_and_devices": "Stand armed with truth, righteousness, the gospel of peace, faith, salvation, and the word of God."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Pray at All Times; Pray for Me",
+          "reference": "6:18-20",
+          "why_start_end_and_devices": "Pray in the Spirit always and for Paul, an ambassador in chains, to proclaim the gospel boldly."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Tychicus Sent; Final Peace and Grace",
+          "reference": "6:21-24",
+          "why_start_end_and_devices": "Tychicus to report Paul's affairs; closing peace, love, and grace to all who love the Lord."
+        }
       ]
     }
   ]
 }
-

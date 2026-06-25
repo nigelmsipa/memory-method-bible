@@ -10,11 +10,36 @@
       "why_start_end_and_literary_glue": "Start (1:3) ‘remain at Ephesus… charge certain persons’ sets the narrative/imperative purpose; end (1:20) names Hymenaeus and Alexander, concretizing the warning. Glue: law/teaching vocabulary (nomos/didaskalia) and a doxology (1:17) that underwrites the charge’s authority.",
       "reference": "1:1 - 1:20",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Salutation and The Immediate Commission", "reference": "1:1-1:4", "why_start_end_and_devices": "Apostolic greeting flows into the first directive to stop different doctrine. Devices: commission verb ‘charge’ (paraggellō), conflict markers (myths, genealogies)."},
-        {"scene_number": 2, "scene_name": "The Goal of the Charge vs Vain Discussion", "reference": "1:5-1:7", "why_start_end_and_devices": "Aim is love from pure heart, good conscience, sincere faith; ends with would‑be law‑teachers lacking understanding. Devices: antithesis (love vs vain talk), purpose definition."},
-        {"scene_number": 3, "scene_name": "The Proper Use of the Law", "reference": "1:8-1:11", "why_start_end_and_devices": "Law is good if used lawfully; vice list shows its target; closes with ‘glorious gospel’ trust. Devices: enumerated parallelism, law/gospel linkage."},
-        {"scene_number": 4, "scene_name": "Paul’s Call and Mercy Testimony", "reference": "1:12-1:17", "why_start_end_and_devices": "Thanksgiving for strength and mercy; ‘chief of sinners’; sealed by doxology. Devices: autobiographical ethos, climactic doxology (1:17)."},
-        {"scene_number": 5, "scene_name": "Reiteration of the Charge and Consequence", "reference": "1:18-1:20", "why_start_end_and_devices": "‘This charge I entrust…’ wage the good warfare; names delivered to Satan. Devices: warfare metaphor, exempla of discipline, inclusio with 1:3."}
+        {
+          "scene_number": 1,
+          "scene_name": "Salutation and The Immediate Commission",
+          "reference": "1:1-1:4",
+          "why_start_end_and_devices": "Apostolic greeting flows into the first directive to stop different doctrine. Devices: commission verb ‘charge’ (paraggellō), conflict markers (myths, genealogies)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Goal of the Charge vs Vain Discussion",
+          "reference": "1:5-1:7",
+          "why_start_end_and_devices": "Aim is love from pure heart, good conscience, sincere faith; ends with would‑be law‑teachers lacking understanding. Devices: antithesis (love vs vain talk), purpose definition."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Proper Use of the Law",
+          "reference": "1:8-1:11",
+          "why_start_end_and_devices": "Law is good if used lawfully; vice list shows its target; closes with ‘glorious gospel’ trust. Devices: enumerated parallelism, law/gospel linkage."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Paul’s Call and Mercy Testimony",
+          "reference": "1:12-1:17",
+          "why_start_end_and_devices": "Thanksgiving for strength and mercy; ‘chief of sinners’; sealed by doxology. Devices: autobiographical ethos, climactic doxology (1:17)."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Reiteration of the Charge and Consequence",
+          "reference": "1:18-1:20",
+          "why_start_end_and_devices": "‘This charge I entrust…’ wage the good warfare; names delivered to Satan. Devices: warfare metaphor, exempla of discipline, inclusio with 1:3."
+        }
       ]
     },
     {
@@ -23,11 +48,54 @@
       "why_start_end_and_literary_glue": "Start (2:1) ‘First of all, then…’ marks the shift to assembly life; end (3:16) confessional hymn on the mystery of godliness crowns the order instructions. Glue: order/propriety (kosmios) and godliness (eusebeia) recur; leadership qualifications anchor corporate structure.",
       "reference": "2:1 - 3:16",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Universal Prayer for All People", "reference": "2:1-2:7", "why_start_end_and_devices": "Urging prayers; one God/one mediator; Paul commissioned to Gentiles. Devices: enumerated prayers, mediator motif, apostolic testimony."},
-        {"scene_number": 2, "scene_name": "Men and Women in Corporate Prayer", "reference": "2:8-2:15", "why_start_end_and_devices": "Men pray with holy hands; women with modesty/quietness; Adam/Eve rationale; preservation statement. Devices: juxtaposition, typological proof, propriety theme."},
-        {"scene_number": 3, "scene_name": "Qualifications for Overseers", "reference": "3:1-3:7", "why_start_end_and_devices": "‘Trustworthy saying’: oversight as noble task; character checklist; good reputation with outsiders. Devices: enumerated traits, blamelessness envelope, home/public symmetry."},
-        {"scene_number": 4, "scene_name": "Qualifications for Deacons (and Women)", "reference": "3:8-3:13", "why_start_end_and_devices": "‘Deacons likewise…’ tested first; reward of good standing; women/wives directive (3:11). Devices: examination process, parallel attributes, translational ambiguity noted."},
-        {"scene_number": 5, "scene_name": "The Mystery of Godliness (Why Order Matters)", "reference": "3:14-3:16", "why_start_end_and_devices": "Purpose of writing: conduct in God’s household; church as pillar/buttress; hymn on the mystery of godliness. Devices: architectural metaphor, creedal six‑line confession."}
+        {
+          "scene_number": 1,
+          "scene_name": "Pray for All; God Desires All to Be Saved",
+          "reference": "2:1-4",
+          "why_start_end_and_devices": "Prayers for all people and rulers, pleasing to God our Savior, who desires all to be saved."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "One God, One Mediator, a Ransom for All",
+          "reference": "2:5-7",
+          "why_start_end_and_devices": "One mediator, Christ Jesus, who gave Himself a ransom — for which Paul was appointed a herald."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Men Pray; Women Adorned with Good Works",
+          "reference": "2:8-10",
+          "why_start_end_and_devices": "Men to pray without anger; women to adorn themselves with modesty and good deeds, not finery."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Women Learn Quietly; Saved Through Childbearing",
+          "reference": "2:11-15",
+          "why_start_end_and_devices": "A woman to learn quietly in submission, with the appeal to creation order and the childbearing promise."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Overseer Above Reproach",
+          "reference": "3:1-4",
+          "why_start_end_and_devices": "Aspiring to overseer is noble; he must be above reproach, self-controlled, and managing his household well."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Not a Recent Convert; Well Regarded Outside",
+          "reference": "3:5-7",
+          "why_start_end_and_devices": "One who cannot manage his house cannot care for the church; not a novice, with a good outside reputation."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Qualifications for Deacons (and Women)",
+          "reference": "3:8-3:13",
+          "why_start_end_and_devices": "‘Deacons likewise…’ tested first; reward of good standing; women/wives directive (3:11). Devices: examination process, parallel attributes, translational ambiguity noted."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Mystery of Godliness (Why Order Matters)",
+          "reference": "3:14-3:16",
+          "why_start_end_and_devices": "Purpose of writing: conduct in God’s household; church as pillar/buttress; hymn on the mystery of godliness. Devices: architectural metaphor, creedal six‑line confession."
+        }
       ]
     },
     {
@@ -36,12 +104,60 @@
       "why_start_end_and_literary_glue": "Start (4:1) Spirit’s explicit oracle marks new unit on error and godliness; end (5:25) moral maxim on conspicuous works closes the household/office guidance before slave instructions. Glue: godless myths vs training for godliness; imperative cadence (‘command/teach’).",
       "reference": "4:1 - 5:25",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Source and Error of Future Apostasy", "reference": "4:1-4:5", "why_start_end_and_devices": "Spirit says: some depart; forbidding marriage/foods countered by creation’s goodness. Devices: prophetic oracle, enumeration, consecration rationale."},
-        {"scene_number": 2, "scene_name": "Timothy’s Example of True Ministry", "reference": "4:6-4:16", "why_start_end_and_devices": "Set these things before brothers; train for godliness; be an example; devote/read/teach; progress visible. Devices: antithesis myths vs godliness, imperative chain, model metaphor."},
-        {"scene_number": 3, "scene_name": "Relating to Different Ages", "reference": "5:1-5:2", "why_start_end_and_devices": "Do not rebuke older man; appeal as father/brother/mother/sister with purity. Devices: family metaphor, paired parallelism."},
-        {"scene_number": 4, "scene_name": "Care of Widows I: Qualifications", "reference": "5:3-5:8", "why_start_end_and_devices": "Honor true widows; family duty emphasized; failure worse than unbelief. Devices: casuistic instruction, severe censure for neglect."},
-        {"scene_number": 5, "scene_name": "Care of Widows II: Roll and Conduct", "reference": "5:9-5:16", "why_start_end_and_devices": "Enrollment criteria; younger widows counselled to marry/manage homes; church relieved. Devices: eligibility list, remedy for idleness/gossip."},
-        {"scene_number": 6, "scene_name": "Rules for Elders and Accountability", "reference": "5:17-5:25", "why_start_end_and_devices": "Double honor; do not admit charge without witnesses; rebuke in presence of all; impartiality; keep yourself pure; note on wine; visible sins/works. Devices: judicial process, impartial charge, concluding maxim."}
+        {
+          "scene_number": 1,
+          "scene_name": "Source and Error of Future Apostasy",
+          "reference": "4:1-4:5",
+          "why_start_end_and_devices": "Spirit says: some depart; forbidding marriage/foods countered by creation’s goodness. Devices: prophetic oracle, enumeration, consecration rationale."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "A Good Servant Nourished on the Faith",
+          "reference": "4:6-10",
+          "why_start_end_and_devices": "Trained in godliness rather than myths, laboring in hope set on the living God, the Savior of all."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Set an Example; Watch Your Life and Doctrine",
+          "reference": "4:11-16",
+          "why_start_end_and_devices": "Let no one despise his youth; devote himself to Scripture and teaching, watching life and doctrine closely."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Relating to Different Ages",
+          "reference": "5:1-5:2",
+          "why_start_end_and_devices": "Do not rebuke older man; appeal as father/brother/mother/sister with purity. Devices: family metaphor, paired parallelism."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Care of Widows I: Qualifications",
+          "reference": "5:3-5:8",
+          "why_start_end_and_devices": "Honor true widows; family duty emphasized; failure worse than unbelief. Devices: casuistic instruction, severe censure for neglect."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Enrolling Widows; the Younger Widows' Idleness",
+          "reference": "5:9-13",
+          "why_start_end_and_devices": "The qualifications for enrolled widows and the warning of younger widows growing idle and gossiping."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Younger Widows Marry; Relieve the Truly Widowed",
+          "reference": "5:14-16",
+          "why_start_end_and_devices": "Younger widows to marry and manage homes; believing women to support their widows, easing the church."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Honor Elders; Charges and Rebuke",
+          "reference": "5:17-21",
+          "why_start_end_and_devices": "Double honor for laboring elders, charges only on two witnesses, and impartial public rebuke of sin."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Lay Hands Hastily on None; Sins Become Evident",
+          "reference": "5:22-25",
+          "why_start_end_and_devices": "Do not ordain hastily or share in sins; some sins and good works are evident, others surface later."
+        }
       ]
     },
     {
@@ -50,12 +166,37 @@
       "why_start_end_and_literary_glue": "Start (6:1) slave/master instruction opens final cluster; end (6:21) ‘Grace be with you’ closes letter. Glue: godliness vs love of money, ‘sound words’ vs controversy, and a solemn oath‑charge (6:11–16) forming inclusio with the opening charge.",
       "reference": "6:1 - 6:21",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Slaves, False Teachers, and the Love of Money", "reference": "6:1-6:10", "why_start_end_and_devices": "Honor masters so God’s name isn’t reviled; false teachers linked to greed; contentment maxim; love of money root of evils. Devices: social instruction→censure→maxim, cause–effect chain, piercing metaphor."},
-        {"scene_number": 2, "scene_name": "Timothy’s Solemn Charge and Oath", "reference": "6:11-6:16", "why_start_end_and_devices": "Flee/pursue; fight the good fight; keep the command unstained until appearing; doxological depiction of God. Devices: covenantal charge, parallel imperatives, oath by confession, mini‑doxology."},
-        {"scene_number": 3, "scene_name": "Instruction for the Rich", "reference": "6:17-6:19", "why_start_end_and_devices": "Charge the rich: not haughty, hope in God, be rich in good works; lay up a firm foundation. Devices: contrast trust, financial metaphor for treasure."},
-        {"scene_number": 4, "scene_name": "Final Summary and Farewell", "reference": "6:20-6:21", "why_start_end_and_devices": "Guard the deposit; avoid profane chatter/contradictions; grace be with you. Devices: deposit metaphor (parathēkē), inclusio with opening charge, benediction formula."}
+        {
+          "scene_number": 1,
+          "scene_name": "Slaves Honor Masters; Beware Greedy Teachers",
+          "reference": "6:1-5",
+          "why_start_end_and_devices": "Slaves to honor masters; a warning against conceited teachers who imagine godliness a means of gain."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Godliness with Contentment; the Love of Money",
+          "reference": "6:6-10",
+          "why_start_end_and_devices": "Godliness with contentment is great gain; the love of money is a root of all kinds of evil."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Timothy’s Solemn Charge and Oath",
+          "reference": "6:11-6:16",
+          "why_start_end_and_devices": "Flee/pursue; fight the good fight; keep the command unstained until appearing; doxological depiction of God. Devices: covenantal charge, parallel imperatives, oath by confession, mini‑doxology."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Instruction for the Rich",
+          "reference": "6:17-6:19",
+          "why_start_end_and_devices": "Charge the rich: not haughty, hope in God, be rich in good works; lay up a firm foundation. Devices: contrast trust, financial metaphor for treasure."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Final Summary and Farewell",
+          "reference": "6:20-6:21",
+          "why_start_end_and_devices": "Guard the deposit; avoid profane chatter/contradictions; grace be with you. Devices: deposit metaphor (parathēkē), inclusio with opening charge, benediction formula."
+        }
       ]
     }
   ]
 }
-
