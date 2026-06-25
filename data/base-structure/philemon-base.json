@@ -10,12 +10,49 @@
       "why_start_end_and_literary_glue": "Start (1:1) prescript salutation marks the letter’s beginning; end (1:25) benediction formula closes the epistle. Glue: koinōnia/partner inclusio (vv. 6, 17), love/joy vocabulary, and paronomasia on Onesimus (‘useless/now useful’) that centers the appeal.",
       "reference": "1:1 - 1:25",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Salutation and The Foundation of Shared Faith", "reference": "1:1-1:7", "why_start_end_and_devices": "Address to Philemon, Apphia, Archippus, church; thanksgiving for Philemon’s love/faith; ends with ‘hearts refreshed’—the relational base for the appeal. Devices: epistolary greeting, eulogy/thanksgiving, pathos via shared faith."},
-        {"scene_number": 2, "scene_name": "Appeal Framed as Love, Not Authority", "reference": "1:8-1:14", "why_start_end_and_devices": "Though able to command, Paul appeals for love’s sake; introduces Onesimus and returns him so Philemon’s goodness be voluntary. Devices: ethos→pathos pivot, paronomasia on ‘useful’, voluntariness motif."},
-        {"scene_number": 3, "scene_name": "Brotherhood as the Basis and Paul’s Guarantee", "reference": "1:15-1:20", "why_start_end_and_devices": "Providential reframing: more than a slave—a beloved brother; receive him as Paul; charge any debt to Paul; ‘refresh my heart’. Devices: providence argument, koinōnia reciprocity, legal promissory note, heart‑refresh inclusio."},
-        {"scene_number": 4, "scene_name": "Confidence, Lodging Hint, and Final Greetings", "reference": "1:21-1:25", "why_start_end_and_devices": "Confidence Philemon will do even more; request lodging; greetings and grace. Devices: confident assurance, implied compliance pressure, epistolary farewell."}
+        {
+          "scene_number": 1,
+          "scene_name": "Salutation to Philemon and the House Church",
+          "reference": "1:1-3",
+          "why_start_end_and_devices": "Paul the prisoner and Timothy greet Philemon, Apphia, Archippus, and the church meeting in his home."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Thanksgiving for Philemon's Love and Faith",
+          "reference": "1:4-7",
+          "why_start_end_and_devices": "Paul's prayerful gratitude for the faith and love that refresh the saints — laying the relational groundwork."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "An Appeal on the Basis of Love",
+          "reference": "1:8-11",
+          "why_start_end_and_devices": "The aged prisoner declines to command, appealing instead for Onesimus, once useless, now useful."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Sending Back My Very Heart",
+          "reference": "1:12-14",
+          "why_start_end_and_devices": "Onesimus returned, kept only with Philemon's free consent, not by compulsion."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "No Longer a Slave but a Brother",
+          "reference": "1:15-16",
+          "why_start_end_and_devices": "The providential reading of the separation: received back forever as a beloved brother."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Charge It to My Account",
+          "reference": "1:17-20",
+          "why_start_end_and_devices": "Paul's guarantee in his own hand, and the gentle reminder that Philemon owes him his very self."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Confidence, a Guest Room, and Farewell",
+          "reference": "1:21-25",
+          "why_start_end_and_devices": "Confidence of obedience, the lodging hint, greetings from his fellow workers, and the grace-blessing."
+        }
       ]
     }
   ]
 }
-

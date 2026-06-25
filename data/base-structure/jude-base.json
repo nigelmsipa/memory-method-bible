@@ -10,15 +10,55 @@
       "why_start_end_and_literary_glue": "Start (1:1) epistolary opening marks the beginning; end (1:25) doxology completes the letter. Glue: recurring triplets, historical typology proving judgment, and ‘kept/keep’ inclusio framing the call to contend and God’s preserving power.",
       "reference": "1:1 - 1:25",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Salutation and Stated Purpose", "reference": "1:1-1:4", "why_start_end_and_devices": "Opening greeting to the kept/called; sudden shift to necessity—contend for the faith; certain ungodly intruders identified. Devices: vocative blessing, thesis/purpose turn, problem‑solution setup."},
-        {"scene_number": 2, "scene_name": "Three Historical Warnings of Judgment", "reference": "1:5-1:7", "why_start_end_and_devices": "Remind: Israel, angels, Sodom—triad of precedents. Devices: typology, hendiatris, ‘likewise’ linkage to present case."},
-        {"scene_number": 3, "scene_name": "False Teachers and Michael’s Example", "reference": "1:8-1:10", "why_start_end_and_devices": "‘In like manner’ these defile/reject/blaspheme; Michael’s restrained dispute vs their ignorant reviling. Devices: crime triplet, contrast with angelic restraint, summary condemnation."},
-        {"scene_number": 4, "scene_name": "Threefold Woe and Prophetic Analogies", "reference": "1:11-1:13", "why_start_end_and_devices": "Woe! They walked in Cain’s way, rushed to Balaam’s error, perished in Korah’s rebellion; then negative nature images (clouds/trees/waves/stars). Devices: triple transgressors, vivid similes for barrenness and instability."},
-        {"scene_number": 5, "scene_name": "Enoch’s Prophecy and the Grumblers", "reference": "1:14-1:16", "why_start_end_and_devices": "Enoch prophesied the Lord’s coming to convict all; concludes with a vice catalog: grumblers, faultfinders, boastful flatterers. Devices: prophetic quotation, comprehensive character summary closing the polemic."},
-        {"scene_number": 6, "scene_name": "Apostolic Command: Build Up and Rescue", "reference": "1:17-1:23", "why_start_end_and_devices": "‘But you, beloved…’ remember apostles’ words; triple duties (build/pray/keep) and triple responses (have mercy/save with fear). Devices: hortatory turn, double triplets, pastoral strategy for perseverance and rescue."},
-        {"scene_number": 7, "scene_name": "Concluding Doxology", "reference": "1:24-1:25", "why_start_end_and_devices": "To the One able to keep and present you—glory, majesty, dominion, authority—Amen. Devices: preservation inclusio, doxological ascription quartet, formal epistolary close."}
+        {
+          "scene_number": 1,
+          "scene_name": "Salutation and the Call to Contend",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Jude greets the called and beloved, urging them to contend for the faith against intruders marked for condemnation."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Three Historical Warnings of Judgment",
+          "reference": "1:5-7",
+          "why_start_end_and_devices": "Unbelieving Israel, the fallen angels, and Sodom — three proofs that God judges the ungodly."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "These Dreamers Slander Glorious Beings",
+          "reference": "1:8-10",
+          "why_start_end_and_devices": "The false teachers defile and revile, unlike even Michael, who left judgment to the Lord."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Threefold Woe and Vivid Analogies",
+          "reference": "1:11-13",
+          "why_start_end_and_devices": "Cain, Balaam, and Korah; hidden reefs, waterless clouds, fruitless trees, wandering stars."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Enoch's Prophecy and the Grumblers",
+          "reference": "1:14-16",
+          "why_start_end_and_devices": "The seventh from Adam foretold the Lord's coming judgment on these discontented flatterers."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Remember the Apostles' Warning of Scoffers",
+          "reference": "1:17-19",
+          "why_start_end_and_devices": "The foretold last-times scoffers, worldly and devoid of the Spirit, who cause divisions."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Build Yourselves Up and Snatch Others from the Fire",
+          "reference": "1:20-23",
+          "why_start_end_and_devices": "Keep in God's love; have mercy on doubters and rescue others, hating the flesh-stained garment."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Concluding Doxology",
+          "reference": "1:24-25",
+          "why_start_end_and_devices": "To Him able to keep them from stumbling — glory, majesty, dominion, and authority forever."
+        }
       ]
     }
   ]
 }
-

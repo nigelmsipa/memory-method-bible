@@ -10,9 +10,24 @@
       "why_start_end_and_literary_glue": "Start (1:1) standard salutation inaugurates the proem; end (1:12) completes the doxological prayer that frames suffering within God’s righteous judgment. Glue: affliction/persecution repeated, and justice/righteousness theme binding commendation (1:3–4) to judgment (1:5–10) and petition (1:11–12).",
       "reference": "1:1 - 1:12",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Salutation and Thanksgiving for Faith", "reference": "1:1-1:4", "why_start_end_and_devices": "Epistolary address and eucharistia; ends with boasting in steadfast endurance under persecutions. Devices: hyperbole (faith growing abundantly), parallel growth of faith/love."},
-        {"scene_number": 2, "scene_name": "The Judgment as Divine Justice", "reference": "1:5-1:10", "why_start_end_and_devices": "‘This is evidence of God’s righteous judgment…’; concludes with the Lord’s revelatory coming to be glorified in his saints. Devices: antithesis (tribulation vs rest), apocalyptic imagery, parallel repayment."},
-        {"scene_number": 3, "scene_name": "Prayer for the Church’s Worthiness", "reference": "1:11-1:12", "why_start_end_and_devices": "‘To this end we always pray…’ ends with doxological purpose (‘that the name… be glorified’). Devices: inclusio on worthiness, glory motif, concise petition."}
+        {
+          "scene_number": 1,
+          "scene_name": "Salutation and Thanksgiving for Faith",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Paul, Silvanus, and Timothy boast of the Thessalonians' growing faith and love amid persecution."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Judgment as Divine Justice",
+          "reference": "1:5-10",
+          "why_start_end_and_devices": "God's righteous repayment: relief for the afflicted and eternal destruction for those who reject the gospel."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Prayer for the Church's Worthiness",
+          "reference": "1:11-12",
+          "why_start_end_and_devices": "Prayer that God count them worthy and glorify Christ's name in them by grace."
+        }
       ]
     },
     {
@@ -21,9 +36,30 @@
       "why_start_end_and_literary_glue": "Start (2:1) ‘Now concerning…’ introduces the corrective body; end (2:17) closes with benedictory encouragement to stand firm. Glue: Parousia terminology, Man/Mystery of Lawlessness anaphora, and chronological sequencing (apostasy → lawless one → the Lord’s defeat).",
       "reference": "2:1 - 2:17",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Correcting False Prophecy on the Day of the Lord", "reference": "2:1-2:5", "why_start_end_and_devices": "‘Now concerning… we ask you…’ not to be quickly shaken; ends ‘Do you not remember…?’ Devices: hortatory plea, peri‑de style transition, appeal to prior catechesis."},
-        {"scene_number": 2, "scene_name": "Revelation of the Man of Lawlessness", "reference": "2:6-2:12", "why_start_end_and_devices": "What restrains revealed; lawless one slain by the Lord’s breath; ends with reason for judgment. Devices: mystery language (restrainer), narrative contrast, signs and lying wonders vs truth‑belief."},
-        {"scene_number": 3, "scene_name": "Thanksgiving and Exhortation to Stand Firm", "reference": "2:13-2:17", "why_start_end_and_devices": "Shift to gratitude for the beloved, called to glory; closes with prayer to comfort and establish. Devices: contrast ‘we/you’ vs ‘they’, election/calling lexicon, benedictory close."}
+        {
+          "scene_number": 1,
+          "scene_name": "Correcting False Prophecy on the Day of the Lord",
+          "reference": "2:1-5",
+          "why_start_end_and_devices": "Do not be alarmed: that Day will not come until the rebellion and the man of lawlessness appear."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Restrainer and the Lawless One Revealed",
+          "reference": "2:6-8",
+          "why_start_end_and_devices": "The mystery of lawlessness held back until the restrainer is removed and the lawless one is slain."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Working of Satan and the Powerful Delusion",
+          "reference": "2:9-12",
+          "why_start_end_and_devices": "Counterfeit signs and a sent delusion condemning those who refused the love of the truth."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Thanksgiving and Exhortation to Stand Firm",
+          "reference": "2:13-17",
+          "why_start_end_and_devices": "Chosen for salvation, called to glory — stand firm and hold to the traditions, hearts encouraged."
+        }
       ]
     },
     {
@@ -32,11 +68,31 @@
       "why_start_end_and_literary_glue": "Start (3:1) ‘Finally, brothers’ begins paraenesis and requests prayer; end (3:18) autograph and grace benediction. Glue: repeated ‘brothers,’ orderliness vs disorderliness (ataktōs), apostolic example/command linkage, and authentication (3:17).",
       "reference": "3:1 - 3:18",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Request for Prayer and Mutual Confidence", "reference": "3:1-3:5", "why_start_end_and_devices": "Pray for the word’s advance and deliverance; confidence in their obedience; prayer for directed hearts. Devices: double petition, confidence formula, wish‑prayer (optative)."},
-        {"scene_number": 2, "scene_name": "Command to Shun Idleness", "reference": "3:6-3:12", "why_start_end_and_devices": "In the Lord’s name, keep away from the idle; imitate apostolic work ethic; ‘if anyone will not work, neither let him eat.’ Devices: command formula, exemplar argument, aphorism rule."},
-        {"scene_number": 3, "scene_name": "Final Encouragement, Authentication, and Blessing", "reference": "3:13-3:18", "why_start_end_and_devices": "Do not grow weary; note the disobedient; peace wish; autograph sign; grace with all. Devices: peroratio blend (discipline + peace), autograph inclusio, benediction formula."}
+        {
+          "scene_number": 1,
+          "scene_name": "Request for Prayer and Mutual Confidence",
+          "reference": "3:1-5",
+          "why_start_end_and_devices": "Pray that the word spreads; the faithful Lord will guard them from the evil one."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Keep Away from the Idle; Imitate Our Example",
+          "reference": "3:6-9",
+          "why_start_end_and_devices": "Shun the undisciplined; Paul worked night and day as a model rather than a burden."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "If Anyone Will Not Work, He Shall Not Eat",
+          "reference": "3:10-12",
+          "why_start_end_and_devices": "The command against busybody idleness: work quietly and earn your own living."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Final Encouragement, Authentication, and Blessing",
+          "reference": "3:13-18",
+          "why_start_end_and_devices": "Do not grow weary in well-doing; the Lord of peace, Paul's own-hand mark, and the grace."
+        }
       ]
     }
   ]
 }
-

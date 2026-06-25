@@ -10,9 +10,30 @@
       "why_start_end_and_literary_glue": "Start (1:1) epistolary salutation opens; end (1:16) closes with the summary verdict on the opponents (‘they profess… deny by works’). Glue: commission→conflict motif linking Paul’s authority (1:1–4) to Titus’s task (1:5), bridged by elder qualifications (1:6–9) as antidote to false teachers (1:10–16).",
       "reference": "1:1 - 1:16",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Salutation and Theological Foundation", "reference": "1:1-1:4", "why_start_end_and_devices": "Paul’s servant/apostle identity; hope of eternal life; grace and peace to Titus. Devices: appositional clauses, faith/knowledge/hope triad, epistolary form."},
-        {"scene_number": 2, "scene_name": "The Task and Elder’s Character", "reference": "1:5-1:9", "why_start_end_and_devices": "Left in Crete to set what remains and appoint elders; qualification list ends with ability to exhort in sound doctrine and refute gainsayers. Devices: positive/negative enumerations, purpose‑driven list."},
-        {"scene_number": 3, "scene_name": "The Problem: False Teachers", "reference": "1:10-1:16", "why_start_end_and_devices": "Many insubordinate, empty talkers; rebuke sharply; Cretan proverb cited; verdict: profess but deny by works. Devices: polemic, quotation, contrast of profession vs practice."}
+        {
+          "scene_number": 1,
+          "scene_name": "Salutation and Theological Foundation",
+          "reference": "1:1-4",
+          "why_start_end_and_devices": "Paul, servant and apostle for the faith and hope of eternal life, greets Titus his true child."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Task and the Elder's Character",
+          "reference": "1:5-9",
+          "why_start_end_and_devices": "Why Titus was left in Crete: appoint blameless elders who hold firmly to sound teaching."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Rebellious Talkers of the Circumcision",
+          "reference": "1:10-12",
+          "why_start_end_and_devices": "Many empty deceivers who upset households for gain — even a Cretan prophet condemned them."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Rebuke Them Sharply; They Deny God by Their Deeds",
+          "reference": "1:13-16",
+          "why_start_end_and_devices": "A stern rebuke for the defiled who profess to know God but are unfit for any good work."
+        }
       ]
     },
     {
@@ -21,10 +42,54 @@
       "why_start_end_and_literary_glue": "Start (2:1) ‘But you—teach what accords with sound doctrine’ shifts to positive instruction; end (3:11) definitive handling of the divisive person. Glue: repeated ‘good works’ motif and didactic flow: household ethics → grace epiphany rationale → civic virtues → insistence and warning.",
       "reference": "2:1 - 3:11",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Instructions for the Various Groups", "reference": "2:1-2:10", "why_start_end_and_devices": "Addresses older men/women, younger women/men, Titus, slaves; purpose: adorn the doctrine of God our Savior. Devices: parallel addresses, propriety/self‑control emphasis, adornment telos."},
-        {"scene_number": 2, "scene_name": "Grace Appeared: The Theological Rationale", "reference": "2:11-2:15", "why_start_end_and_devices": "For the grace of God appeared… training us as we await the blessed hope; concludes ‘declare these things… with all authority’. Devices: past‑present‑future salvation arc, trusted‑saying feel, authority frame."},
-        {"scene_number": 3, "scene_name": "Civic Duty and Salvation’s Mercy", "reference": "3:1-3:7", "why_start_end_and_devices": "Remind to submit, be gentle; once foolish, now saved by God’s kindness—renewal by the Spirit → heirs. Devices: vice‑then‑mercy contrast, soteriological summary (washing/renewal), heir motif."},
-        {"scene_number": 4, "scene_name": "Insist on Good Works; Avoid Factions", "reference": "3:8-3:11", "why_start_end_and_devices": "Trustworthy saying—insist on these for good works; avoid foolish controversies; warn a divisive person—self‑condemned. Devices: pedagogical insistence, controversy avoidance, disciplinary resolution."}
+        {
+          "scene_number": 1,
+          "scene_name": "Sound Doctrine for Older Men and Women",
+          "reference": "2:1-3",
+          "why_start_end_and_devices": "Titus to teach the older men temperance and the older women reverence as teachers of good."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Train the Young Women and Young Men",
+          "reference": "2:4-6",
+          "why_start_end_and_devices": "The older women training the young in love and self-control; the young men urged to self-control."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Be a Model of Good Works",
+          "reference": "2:7-8",
+          "why_start_end_and_devices": "Titus himself an example of integrity and wholesome speech, leaving opponents nothing to fault."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Slaves Adorning the Doctrine of God",
+          "reference": "2:9-10",
+          "why_start_end_and_devices": "Submissive, honest servants who make the teaching about God our Savior attractive."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Grace Appeared: The Theological Rationale",
+          "reference": "2:11-15",
+          "why_start_end_and_devices": "Saving grace trains us to await the blessed hope of our great God and Savior Jesus Christ."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Submit to Authorities; We Too Were Once Foolish",
+          "reference": "3:1-3",
+          "why_start_end_and_devices": "Be peaceable and ready for good work, remembering our own former enslavement to passions."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Saved by Mercy Through the Washing of Rebirth",
+          "reference": "3:4-7",
+          "why_start_end_and_devices": "Not by works but by His mercy and the renewing Spirit, justified as heirs of eternal life."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Insist on Good Works; Reject the Divisive",
+          "reference": "3:8-11",
+          "why_start_end_and_devices": "Devote to good deeds, avoid pointless controversies, and reject a divisive man after two warnings."
+        }
       ]
     },
     {
@@ -33,9 +98,13 @@
       "why_start_end_and_literary_glue": "Start (3:12) travel logistics and personal plans signal the close; end (3:15) final grace benediction. Glue: named coworkers, travel/greeting notes, and a last nudge toward good works in practical support.",
       "reference": "3:12 - 3:15",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Travel Plans and Final Exhortations", "reference": "3:12-3:15", "why_start_end_and_devices": "Send Artemas/Tychicus; come to Nicopolis; speed Zenas and Apollos; learn to devote to good works; grace to all. Devices: logistical imperatives, good‑works refrain, epistolary benediction."}
+        {
+          "scene_number": 1,
+          "scene_name": "Travel Plans and Final Greetings",
+          "reference": "3:12-15",
+          "why_start_end_and_devices": "Come to Nicopolis, equip Zenas and Apollos, learn good works — and grace be with all."
+        }
       ]
     }
   ]
 }
-
