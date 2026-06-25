@@ -2294,39 +2294,471 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "House of Prayer for All Peoples",
-          "reference": "56:1-8",
-          "why_start_end_and_devices": "Sabbath‑keeping foreigners and eunuchs joined to the LORD; inclusio with 'my house… for all peoples.'"
+          "scene_name": "Maintain Justice; My Salvation Is Near",
+          "reference": "56:1-2",
+          "why_start_end_and_devices": "Trito-Isaiah opens with the call to do right and keep the Sabbath as salvation draws near."
         },
         {
           "scene_number": 2,
-          "scene_name": "True Fasting and Repairers of the Breach",
-          "reference": "58:1-12",
-          "why_start_end_and_devices": "Expose faux religion; loose bonds of wickedness; then light breaks forth; ancient ruins rebuilt."
+          "scene_name": "A Name Better Than Sons and Daughters",
+          "reference": "56:3-5",
+          "why_start_end_and_devices": "The eunuch who keeps God's covenant given an everlasting name in His house."
         },
         {
           "scene_number": 3,
-          "scene_name": "Arise, Shine; Zion's Light",
-          "reference": "60:1-3",
-          "why_start_end_and_devices": "Imperatives to Zion; nations and kings drawn to dawn—beginning of Zion glory triad (60–62)."
+          "scene_name": "A House of Prayer for All Nations",
+          "reference": "56:6-8",
+          "why_start_end_and_devices": "The foreigners joined to the LORD welcomed to His holy mountain and altar."
         },
         {
           "scene_number": 4,
-          "scene_name": "The Anointed to Proclaim Good News",
-          "reference": "61:1-3",
-          "why_start_end_and_devices": "Spirit‑anointed herald announces liberty, comfort, and planting of the LORD's oaks of righteousness."
+          "scene_name": "Israel's Blind Watchmen",
+          "reference": "56:9-12",
+          "why_start_end_and_devices": "The mute-dog shepherds without discernment, each seeking his own gain and drink."
         },
         {
           "scene_number": 5,
-          "scene_name": "New Heavens and New Earth",
-          "reference": "65:17-25",
-          "why_start_end_and_devices": "Former things not remembered; joy in Jerusalem; wolf/lamb peace; death and curse undone in the city."
+          "scene_name": "The Righteous Perish Unnoticed",
+          "reference": "57:1-2",
+          "why_start_end_and_devices": "The devout taken away from evil, entering into peace in death."
         },
         {
           "scene_number": 6,
-          "scene_name": "Final Vision and Undying Worm",
+          "scene_name": "You Sons of a Sorceress",
+          "reference": "57:3-5",
+          "why_start_end_and_devices": "The indictment of idolaters who burn with lust and slaughter their children."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Your Bed on a Lofty Hill",
+          "reference": "57:6-8",
+          "why_start_end_and_devices": "The smooth-stone idols and the bed of spiritual adultery set up behind the door."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "You Went to Molech with Oil",
+          "reference": "57:9-10",
+          "why_start_end_and_devices": "The wearying journeys of idolatry descending even to Sheol."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "He Who Seeks Refuge in Me Will Inherit the Land",
+          "reference": "57:11-13",
+          "why_start_end_and_devices": "The long-silent God exposing their worthless idols, against the one who takes refuge in Him."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "I Dwell with the Contrite",
+          "reference": "57:14-16",
+          "why_start_end_and_devices": "The high and holy One who inhabits eternity yet revives the heart of the lowly."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Peace to Those Far and Near",
+          "reference": "57:17-19",
+          "why_start_end_and_devices": "God striking the greedy yet promising to heal and restore comfort to the mourners."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "No Peace for the Wicked",
+          "reference": "57:20-21",
+          "why_start_end_and_devices": "The wicked like the storm-tossed sea that cannot be still."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Declare to My People Their Sin",
+          "reference": "58:1-2",
+          "why_start_end_and_devices": "The trumpet-cry against a people who seek God daily yet do injustice."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Fast That God Has Not Chosen",
+          "reference": "58:3-5",
+          "why_start_end_and_devices": "Fasting paired with oppression and strife, a mere bowing of the head."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Fast I Have Chosen",
+          "reference": "58:6-7",
+          "why_start_end_and_devices": "To loose the chains of wickedness, feed the hungry, and shelter the homeless."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Then Your Light Will Break Forth",
+          "reference": "58:8-9",
+          "why_start_end_and_devices": "The promise of light, healing, and answered prayer for those who remove the yoke."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Repairer of the Breach",
+          "reference": "58:10-12",
+          "why_start_end_and_devices": "The well-watered garden and the rebuilt ancient ruins for those who give themselves to the afflicted."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "If You Call the Sabbath a Delight",
+          "reference": "58:13-14",
+          "why_start_end_and_devices": "The promise of riding on the heights for those who honor the LORD's holy day."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Your Iniquities Have Separated You",
+          "reference": "59:1-3",
+          "why_start_end_and_devices": "The arm of the LORD not too short, but sin has hidden His face."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "They Hatch the Eggs of Vipers",
+          "reference": "59:4-6",
+          "why_start_end_and_devices": "The portrait of pervasive deceit and violence that can clothe no one."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Way of Peace They Have Not Known",
+          "reference": "59:7-8",
+          "why_start_end_and_devices": "Feet swift to shed blood, leaving ruin in their crooked paths."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "We Grope Like the Blind",
+          "reference": "59:9-11",
+          "why_start_end_and_devices": "The communal confession: hoping for light but walking in gloom."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Our Sins Testify Against Us",
+          "reference": "59:12-14",
+          "why_start_end_and_devices": "The acknowledged transgressions that turn justice away and let truth stumble."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "His Own Arm Brought Salvation",
+          "reference": "59:15-17",
+          "why_start_end_and_devices": "God amazed that no one intercedes, putting on the breastplate of righteousness and helmet of salvation."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "He Will Repay His Foes",
+          "reference": "59:18-19",
+          "why_start_end_and_devices": "Recompense to His enemies, that all may fear His name from east to west."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Redeemer Will Come to Zion",
+          "reference": "59:20-21",
+          "why_start_end_and_devices": "The covenant promise that His Spirit and words will never depart from His people."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Arise, Shine, for Your Light Has Come",
+          "reference": "60:1-3",
+          "why_start_end_and_devices": "The glory of the LORD rising on Zion, nations and kings coming to her dawn."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Wealth of Nations Will Come to You",
+          "reference": "60:4-5",
+          "why_start_end_and_devices": "Sons and daughters returning, the riches of the sea brought to a radiant Zion."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Gold and Frankincense from Sheba",
+          "reference": "60:6-7",
+          "why_start_end_and_devices": "The caravans of camels and flocks of Kedar adorning God's glorious house."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Ships of Tarshish in the Lead",
+          "reference": "60:8-9",
+          "why_start_end_and_devices": "The islands bringing Zion's children from afar with silver and gold."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Your Gates Will Always Stand Open",
+          "reference": "60:10-12",
+          "why_start_end_and_devices": "Foreigners rebuilding her walls, the wealth of nations led in through ever-open gates."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The City of the LORD",
+          "reference": "60:13-14",
+          "why_start_end_and_devices": "The glory of Lebanon adorning the sanctuary, oppressors' sons bowing at Zion's feet."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "An Everlasting Pride",
+          "reference": "60:15-16",
+          "why_start_end_and_devices": "The once-forsaken city made a joy from age to age, knowing the LORD as Savior."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Walls Called Salvation, Gates Called Praise",
+          "reference": "60:17-18",
+          "why_start_end_and_devices": "Gold for bronze, peace as governor, violence heard no more in the land."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The LORD Your Everlasting Light",
+          "reference": "60:19-20",
+          "why_start_end_and_devices": "No more sun or moon needed, for the LORD is Zion's unsetting light."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The Branch of My Planting",
+          "reference": "60:21-22",
+          "why_start_end_and_devices": "A wholly righteous people, the least becoming a mighty nation in its time."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "The Spirit of the Lord GOD Is on Me",
+          "reference": "61:1-3",
+          "why_start_end_and_devices": "The anointed One (read by Jesus in Nazareth) preaching good news and giving a crown of beauty for ashes."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "They Will Rebuild the Ancient Ruins",
+          "reference": "61:4-5",
+          "why_start_end_and_devices": "The renewed cities and strangers tending the flocks of God's people."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Priests of the LORD",
+          "reference": "61:6-7",
+          "why_start_end_and_devices": "God's people named His priests, receiving a double portion for their shame."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "An Everlasting Covenant",
+          "reference": "61:8-9",
+          "why_start_end_and_devices": "The LORD who loves justice blessing their descendants among the nations."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Garments of Salvation",
+          "reference": "61:10-11",
+          "why_start_end_and_devices": "The joyful soul clothed like a bride, as righteousness springs up before all nations."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "A New Name the LORD Will Bestow",
+          "reference": "62:1-3",
+          "why_start_end_and_devices": "For Zion's sake the unsilenced cry until her righteousness shines like a torch."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Hephzibah and Beulah",
+          "reference": "62:4-5",
+          "why_start_end_and_devices": "No longer Forsaken or Desolate, but God's delight and bride."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Watchmen on Your Walls",
+          "reference": "62:6-7",
+          "why_start_end_and_devices": "The intercessors giving God no rest until He makes Jerusalem the praise of the earth."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Never Again Given to Your Enemies",
+          "reference": "62:8-9",
+          "why_start_end_and_devices": "The sworn promise that the harvesters will eat and drink in His holy courts."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Your Savior Comes",
+          "reference": "62:10-12",
+          "why_start_end_and_devices": "The highway prepared and the banner raised — Zion called the Redeemed of the LORD."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Who Is This from Edom?",
+          "reference": "63:1-3",
+          "why_start_end_and_devices": "The crimson-robed Warrior treading the winepress of vengeance alone."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "The Day of Vengeance in My Heart",
+          "reference": "63:4-6",
+          "why_start_end_and_devices": "God's own arm bringing salvation when no one was found to help."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "The Angel of His Presence Saved Them",
+          "reference": "63:7-9",
+          "why_start_end_and_devices": "The recital of God's compassion, afflicted in His people's affliction, carrying them of old."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "They Grieved His Holy Spirit",
+          "reference": "63:10-11",
+          "why_start_end_and_devices": "The rebellion that turned God to enemy, and the remembering of the days of Moses."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Who Divided the Waters",
+          "reference": "63:12-14",
+          "why_start_end_and_devices": "The glorious arm leading Israel through the depths to win Himself an everlasting name."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "You Are Our Father",
+          "reference": "63:15-16",
+          "why_start_end_and_devices": "The plea for God to look down — 'our Redeemer from Everlasting is Your name.'"
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Our Enemies Have Trampled Your Sanctuary",
+          "reference": "63:17-19",
+          "why_start_end_and_devices": "The lament that God's holy place is profaned, His people like those never His."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Oh, That You Would Rend the Heavens",
+          "reference": "64:1-3",
+          "why_start_end_and_devices": "The cry for God to come down so the mountains quake at His presence."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "No Eye Has Seen Any God Besides You",
+          "reference": "64:4-5",
+          "why_start_end_and_devices": "The God who acts for those who wait, against whom they have sinned."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "All Our Righteous Acts Are Like Filthy Rags",
+          "reference": "64:6-7",
+          "why_start_end_and_devices": "The confession of withering corruption and a hidden divine face."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "We Are the Clay, You the Potter",
+          "reference": "64:8-9",
+          "why_start_end_and_devices": "The appeal to the Father-Potter not to remember iniquity forever."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Zion Has Become a Wasteland",
+          "reference": "64:10-12",
+          "why_start_end_and_devices": "The ruined temple and cities, with the cry, 'Will You keep silent?'"
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "I Held Out My Hands All Day Long",
+          "reference": "65:1-2",
+          "why_start_end_and_devices": "God found by those who did not seek Him, His hands stretched to an obstinate people."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Smoke in My Nostrils",
+          "reference": "65:3-5",
+          "why_start_end_and_devices": "The provoking idolaters who say 'I am holier than you,' a fire burning all day."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "I Will Repay into Their Laps",
+          "reference": "65:6-7",
+          "why_start_end_and_devices": "The written record of judgment for their sins and their fathers'."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Do Not Destroy It; There Is a Blessing",
+          "reference": "65:8-10",
+          "why_start_end_and_devices": "The new wine in the cluster — God preserving His servants to possess His mountains."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "Destined for the Sword",
+          "reference": "65:11-12",
+          "why_start_end_and_devices": "Judgment on those who forsake the LORD to set a table for Fortune and Destiny."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "My Servants Will Eat, but You Will Hunger",
+          "reference": "65:13-14",
+          "why_start_end_and_devices": "The great divide between the rejoicing servants and the shamed rebels."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "The God of Truth",
+          "reference": "65:15-16",
+          "why_start_end_and_devices": "A new name for the servants and the forgetting of the former troubles."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "New Heavens and a New Earth",
+          "reference": "65:17-19",
+          "why_start_end_and_devices": "The creation of a Jerusalem of joy where weeping is heard no more."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "They Will Build and Inhabit",
+          "reference": "65:20-22",
+          "why_start_end_and_devices": "Long life like a tree's, fully enjoying the work of their own hands."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "Before They Call, I Will Answer",
+          "reference": "65:23-25",
+          "why_start_end_and_devices": "The peaceable kingdom where the wolf and lamb feed together on God's holy mountain."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "Heaven Is My Throne",
+          "reference": "66:1-2",
+          "why_start_end_and_devices": "The God no house can contain, who esteems the humble and contrite who tremble at His word."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "I Will Choose Their Punishment",
+          "reference": "66:3-4",
+          "why_start_end_and_devices": "Hollow sacrifices likened to abominations, judgment chosen for those who would not answer."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "The Voice of the LORD Repaying His Enemies",
+          "reference": "66:5-6",
+          "why_start_end_and_devices": "Comfort to the persecuted who tremble at His word, and the temple-voice of recompense."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "Can a Nation Be Born in a Day?",
+          "reference": "66:7-9",
+          "why_start_end_and_devices": "Zion giving birth before labor — the sudden delivery of her children."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "Rejoice with Jerusalem",
+          "reference": "66:10-11",
+          "why_start_end_and_devices": "The call to nurse and be satisfied at her comforting breasts."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "As a Mother Comforts Her Son",
+          "reference": "66:12-13",
+          "why_start_end_and_devices": "Peace extended to Zion like a river — 'so will I comfort you.'"
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "The LORD Will Come with Fire",
+          "reference": "66:14-16",
+          "why_start_end_and_devices": "Joy to His servants but fiery judgment on all flesh by His sword."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "I Will Send Survivors to the Nations",
+          "reference": "66:17-19",
+          "why_start_end_and_devices": "Judgment on the idolaters and the gathering of all nations to see His glory."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "Brought as an Offering to the LORD",
+          "reference": "66:20-21",
+          "why_start_end_and_devices": "The nations bringing Israel's scattered home, some chosen as priests and Levites."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "The New Heavens and the New Earth",
           "reference": "66:22-24",
-          "why_start_end_and_devices": "End frame: enduring seed and name; perpetual abhorrence of rebels outside the renewed creation—solemn close."
+          "why_start_end_and_devices": "The enduring new creation where all flesh worships — and the solemn final image of the rebels' unquenched fire."
         }
       ]
     }
