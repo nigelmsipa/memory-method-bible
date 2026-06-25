@@ -1584,45 +1584,705 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Prologue of Comfort and Highway",
-          "reference": "40:1-5",
-          "why_start_end_and_devices": "Double imperative 'Comfort'; voice of one preparing the way; glory revelation—new‑exodus highway through wilderness."
+          "scene_name": "Comfort, Comfort My People",
+          "reference": "40:1-2",
+          "why_start_end_and_devices": "The Book of Comfort opens: Jerusalem's warfare ended and her iniquity pardoned."
         },
         {
           "scene_number": 2,
-          "scene_name": "Servant Song I: Justice to the Nations",
-          "reference": "42:1-9",
-          "why_start_end_and_devices": "Behold my Servant—gentle yet steadfast, covenant to the people, light to the nations; new things declared."
+          "scene_name": "Prepare the Way for the LORD",
+          "reference": "40:3-5",
+          "why_start_end_and_devices": "The wilderness voice leveling every valley and mountain so the glory of the LORD is revealed."
         },
         {
           "scene_number": 3,
-          "scene_name": "Servant Song II: Called from the Womb",
-          "reference": "49:1-7",
-          "why_start_end_and_devices": "Servant as sharpened arrow; too small to restore Jacob only—light to the ends of the earth."
+          "scene_name": "The Word of Our God Stands Forever",
+          "reference": "40:6-8",
+          "why_start_end_and_devices": "All flesh is grass that withers, but God's word endures."
         },
         {
           "scene_number": 4,
-          "scene_name": "Servant Song III: The Taught Tongue",
-          "reference": "50:4-11",
-          "why_start_end_and_devices": "Obedient, suffering Servant; set face like flint; trust in the name of the LORD vs walking by own fire."
+          "scene_name": "He Tends His Flock Like a Shepherd",
+          "reference": "40:9-11",
+          "why_start_end_and_devices": "Zion the herald — 'Here is your God!' — coming with might yet carrying the lambs close to His heart."
         },
         {
           "scene_number": 5,
-          "scene_name": "Servant Song IV: Exaltation Through Suffering",
-          "reference": "52:13 - 53:12",
-          "why_start_end_and_devices": "'Behold, my Servant'—pierced for our transgressions; vicarious suffering, burial with the rich; will see his offspring."
+          "scene_name": "Who Has Measured the Waters?",
+          "reference": "40:12-14",
+          "why_start_end_and_devices": "The incomparable Creator who needs no counselor."
         },
         {
           "scene_number": 6,
-          "scene_name": "Invitation to the Waters",
-          "reference": "55:1-3",
-          "why_start_end_and_devices": "'Come, buy without money'—everlasting covenant (sure mercies of David)—core new‑exodus invitation."
+          "scene_name": "The Nations Are a Drop in a Bucket",
+          "reference": "40:15-17",
+          "why_start_end_and_devices": "All nations as nothing before Him, the islands like fine dust."
         },
         {
           "scene_number": 7,
-          "scene_name": "Joyful Exit and Everlasting Sign",
+          "scene_name": "To Whom Will You Liken God?",
+          "reference": "40:18-20",
+          "why_start_end_and_devices": "The folly of comparing the LORD to a craftsman's gold-overlaid idol."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Enthroned Above the Circle of the Earth",
+          "reference": "40:21-24",
+          "why_start_end_and_devices": "The Creator who stretches the heavens like a tent and brings princes to nothing."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "He Calls Each Star by Name",
+          "reference": "40:25-26",
+          "why_start_end_and_devices": "The Holy One leading forth the starry host, not one missing."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Everlasting God Does Not Grow Weary",
+          "reference": "40:27-28",
+          "why_start_end_and_devices": "The answer to Jacob's complaint that his way is hidden — the tireless Creator of the ends of the earth."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "They Will Mount Up with Wings Like Eagles",
+          "reference": "40:29-31",
+          "why_start_end_and_devices": "The promise that those who wait on the LORD renew their strength."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "I, the First and the Last",
+          "reference": "41:1-4",
+          "why_start_end_and_devices": "The trial of the nations: who roused the conqueror from the east? — 'I, the LORD… I am He.'"
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Craftsman Encourages the Goldsmith",
+          "reference": "41:5-7",
+          "why_start_end_and_devices": "The trembling islands propping up their idols against the coming judgment."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Do Not Fear, for I Am with You",
+          "reference": "41:8-10",
+          "why_start_end_and_devices": "Israel the chosen servant, upheld by God's righteous right hand."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "All Who Rage Against You Will Be Ashamed",
+          "reference": "41:11-13",
+          "why_start_end_and_devices": "The vanishing of Israel's foes and the hand that takes hold of her right hand."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "You Worm Jacob, I Will Help You",
+          "reference": "41:14-16",
+          "why_start_end_and_devices": "The Redeemer making lowly Israel a sharp threshing sledge to crush the mountains."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Rivers on the Barren Heights",
+          "reference": "41:17-20",
+          "why_start_end_and_devices": "The poor given water, the desert planted, that all may know the Holy One has done it."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Present Your Case",
+          "reference": "41:21-24",
+          "why_start_end_and_devices": "The challenge to the idols to foretell — 'you are nothing and your work is of no value.'"
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "A Herald of Good News to Zion",
+          "reference": "41:25-27",
+          "why_start_end_and_devices": "The one raised from the north, and the LORD the first to announce it to Jerusalem."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "They Are All a Delusion",
+          "reference": "41:28-29",
+          "why_start_end_and_devices": "No counselor among the idols, whose works are empty as the wind."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Here Is My Servant",
+          "reference": "42:1-4",
+          "why_start_end_and_devices": "The first Servant Song: the Spirit-endowed One who brings justice to the nations — 'a bruised reed He will not break.'"
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "A Light to the Nations",
+          "reference": "42:5-7",
+          "why_start_end_and_devices": "The Creator appointing the Servant as a covenant to open blind eyes and free prisoners."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "I Will Not Yield My Glory",
+          "reference": "42:8-9",
+          "why_start_end_and_devices": "The LORD declaring new things before they spring forth."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Sing to the LORD a New Song",
+          "reference": "42:10-12",
+          "why_start_end_and_devices": "The summons to the ends of the earth, the desert, and the islands to praise."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Like a Woman in Labor",
+          "reference": "42:13-15",
+          "why_start_end_and_devices": "The long-silent LORD now crying out as a warrior to lay waste His enemies."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "I Will Lead the Blind",
+          "reference": "42:16-17",
+          "why_start_end_and_devices": "Guiding the blind on unfamiliar paths, turning darkness to light, while idolaters are shamed."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Who Is Blind but My Servant?",
+          "reference": "42:18-20",
+          "why_start_end_and_devices": "The rebuke of the deaf and blind servant who sees much yet keeps no watch."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "A People Plundered and Looted",
+          "reference": "42:21-22",
+          "why_start_end_and_devices": "The magnified law against a trapped, imprisoned people with none to rescue them."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "He Poured Out His Furious Anger",
+          "reference": "42:23-25",
+          "why_start_end_and_devices": "Israel handed over for spoil because of sin, consumed by flames it would not understand."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "I Have Redeemed You; You Are Mine",
+          "reference": "43:1-2",
+          "why_start_end_and_devices": "'When you pass through the waters, I will be with you' — preserved through flood and fire."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "I Give Egypt for Your Ransom",
+          "reference": "43:3-4",
+          "why_start_end_and_devices": "Israel precious and honored, nations given in exchange for her life."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Gathered from the Ends of the Earth",
+          "reference": "43:5-7",
+          "why_start_end_and_devices": "The sons and daughters called by His name brought from every direction."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "You Are My Witnesses",
+          "reference": "43:8-10",
+          "why_start_end_and_devices": "The blind-and-deaf people summoned to testify that before God no other was formed."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "There Is No Savior but Me",
+          "reference": "43:11-13",
+          "why_start_end_and_devices": "The eternal LORD from whose hand none can deliver, whose acts none can reverse."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "I Will Send to Babylon",
+          "reference": "43:14-15",
+          "why_start_end_and_devices": "The Redeemer and King bringing down the Chaldeans for His people's sake."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Behold, I Am Doing a New Thing",
+          "reference": "43:16-19",
+          "why_start_end_and_devices": "The God of the Red Sea now making a way in the wilderness and streams in the desert."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "The People I Formed for Myself",
+          "reference": "43:20-21",
+          "why_start_end_and_devices": "Water in the desert for His chosen, who will declare His praise."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "You Have Burdened Me with Your Sins",
+          "reference": "43:22-24",
+          "why_start_end_and_devices": "Israel weary of God, bringing not sacrifices but iniquities."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "I Blot Out Your Transgressions",
+          "reference": "43:25-28",
+          "why_start_end_and_devices": "The God who erases sins for His own sake, against a people whose first father sinned."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "I Will Pour Out My Spirit",
+          "reference": "44:1-5",
+          "why_start_end_and_devices": "Comfort to Jeshurun: the Spirit poured on offspring who will claim the LORD's name."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "There Is No Other Rock",
+          "reference": "44:6-8",
+          "why_start_end_and_devices": "'I am the first and the last' — the only God, with His people as witnesses."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "All Makers of Idols Are Nothing",
+          "reference": "44:9-11",
+          "why_start_end_and_devices": "The worthless idols and their makers brought to shame."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "The Blacksmith and the Woodworker",
+          "reference": "44:12-14",
+          "why_start_end_and_devices": "The labor of forging and carving a god from a tree."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "He Worships a Block of Wood",
+          "reference": "44:15-17",
+          "why_start_end_and_devices": "Half the wood burned for warmth and bread, the rest made into a god — 'Save me!'"
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "He Feeds on Ashes",
+          "reference": "44:18-20",
+          "why_start_end_and_devices": "The blinded idolater who cannot see the lie in his right hand."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "I Have Blotted Out Your Transgressions",
+          "reference": "44:21-23",
+          "why_start_end_and_devices": "The call to return to the Redeemer, with heaven and earth bidden to sing for joy."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Jerusalem Shall Be Inhabited",
+          "reference": "44:24-26",
+          "why_start_end_and_devices": "The Maker who confounds diviners and confirms His servant's word of restoration."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Cyrus, My Shepherd",
+          "reference": "44:27-28",
+          "why_start_end_and_devices": "The naming of Cyrus, who will say of Jerusalem and the temple, 'Be rebuilt.'"
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "To Cyrus His Anointed",
+          "reference": "45:1-3",
+          "why_start_end_and_devices": "The LORD grasping Cyrus's hand to subdue nations and open gates, giving him the treasures of darkness."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "I Form Light and Create Darkness",
+          "reference": "45:4-7",
+          "why_start_end_and_devices": "The naming of the unknowing Cyrus for Jacob's sake, that all may know the LORD does all things."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Woe to Him Who Quarrels with His Maker",
+          "reference": "45:8-10",
+          "why_start_end_and_devices": "Heavens raining righteousness, and the folly of the clay arguing with the potter."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "I Will Raise Up Cyrus in Righteousness",
+          "reference": "45:11-13",
+          "why_start_end_and_devices": "The Maker of earth and man raising Cyrus to rebuild His city and free the exiles."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "A God Who Hides Himself",
+          "reference": "45:14-17",
+          "why_start_end_and_devices": "The nations bowing in confession, idol-makers shamed, but Israel saved everlastingly."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "I Did Not Create It to Be Empty",
+          "reference": "45:18-19",
+          "why_start_end_and_devices": "The Creator who formed the earth to be inhabited and speaks not in secret."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Turn to Me and Be Saved",
+          "reference": "45:20-22",
+          "why_start_end_and_devices": "The summons to the fugitive nations: 'Turn to Me and be saved, all the ends of the earth.'"
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Every Knee Will Bow",
+          "reference": "45:23-25",
+          "why_start_end_and_devices": "The sworn word (quoted by Paul) that every knee will bow and every tongue swear allegiance."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "Bel Crouches, Nebo Cowers",
+          "reference": "46:1-2",
+          "why_start_end_and_devices": "The Babylonian gods carted off as burdens, going into captivity themselves."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "I Will Carry You When You Turn Gray",
+          "reference": "46:3-4",
+          "why_start_end_and_devices": "The LORD who has borne Israel from the womb and will sustain her to old age."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "They Carry a God That Cannot Answer",
+          "reference": "46:5-7",
+          "why_start_end_and_devices": "The contrast of the incomparable LORD with the silent, immovable idol."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "I Declare the End from the Beginning",
+          "reference": "46:8-10",
+          "why_start_end_and_devices": "The God whose purpose stands and whose good pleasure is always accomplished."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "I Am Bringing My Righteousness Near",
+          "reference": "46:11-13",
+          "why_start_end_and_devices": "The bird of prey summoned from the east, salvation granted to Zion."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Sit in the Dust, O Daughter of Babylon",
+          "reference": "47:1-3",
+          "why_start_end_and_devices": "The proud queen-city humbled to grind flour, her nakedness exposed in vengeance."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "No Longer Queen of Kingdoms",
+          "reference": "47:4-6",
+          "why_start_end_and_devices": "Babylon, who showed God's people no mercy, sent into silent darkness."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "Loss of Children and Widowhood in a Day",
+          "reference": "47:7-9",
+          "why_start_end_and_devices": "The self-secure boaster — 'I am, and there is none besides me' — overtaken in a moment."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "No One Sees Me",
+          "reference": "47:10-11",
+          "why_start_end_and_devices": "Disaster she cannot charm away falling suddenly on her wicked confidence."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "Your Astrologers Like Stubble",
+          "reference": "47:12-15",
+          "why_start_end_and_devices": "The star-gazing counselors who cannot save themselves from the flame."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "You Swear by the LORD, but Not in Truth",
+          "reference": "48:1-2",
+          "why_start_end_and_devices": "The hollow piety of the house of Jacob who lean on God in name only."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "I Foretold It, Lest You Credit Your Idols",
+          "reference": "48:3-5",
+          "why_start_end_and_devices": "The former things announced in advance because Israel is stubborn as iron and bronze."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "New Things, Hidden and Unknown",
+          "reference": "48:6-8",
+          "why_start_end_and_devices": "God revealing fresh things to a people deceitful and called a rebel from birth."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "The Furnace of Affliction",
+          "reference": "48:9-11",
+          "why_start_end_and_devices": "God restraining wrath for His name's sake, refining Israel for His own glory."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "My Hand Founded the Earth",
+          "reference": "48:12-13",
+          "why_start_end_and_devices": "'I am the first and I am the last' — the Creator at whose summons all things stand."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "The LORD's Chosen Ally Against Babylon",
+          "reference": "48:14-16",
+          "why_start_end_and_devices": "The called conqueror who will succeed, with the Servant sent by the Lord GOD and His Spirit."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "Your Peace Would Have Been Like a River",
+          "reference": "48:17-19",
+          "why_start_end_and_devices": "The Redeemer-Teacher's lament for the peace forfeited by disobedience."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Leave Babylon!",
+          "reference": "48:20-22",
+          "why_start_end_and_devices": "The shout of redemption and water from the rock — 'no peace for the wicked.'"
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "Called from the Womb",
+          "reference": "49:1-3",
+          "why_start_end_and_devices": "The second Servant Song: a mouth like a sharp sword, hidden in God's quiver — 'You are My Servant.'"
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "A Light to the Ends of the Earth",
+          "reference": "49:4-6",
+          "why_start_end_and_devices": "Labor seemingly in vain, yet the Servant given to bring salvation to all nations."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "Kings Will Rise Before You",
+          "reference": "49:7-9",
+          "why_start_end_and_devices": "The despised Servant honored by kings, appointed a covenant to free the prisoners."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "They Will Not Hunger or Thirst",
+          "reference": "49:10-12",
+          "why_start_end_and_devices": "The compassionate Shepherd guiding the returning exiles beside springs of water."
+        },
+        {
+          "scene_number": 79,
+          "scene_name": "Can a Woman Forget Her Nursing Child?",
+          "reference": "49:13-15",
+          "why_start_end_and_devices": "Heaven's song of comfort answering Zion's 'the LORD has forgotten me' — 'I will not forget you.'"
+        },
+        {
+          "scene_number": 80,
+          "scene_name": "Inscribed on the Palms of My Hands",
+          "reference": "49:16-18",
+          "why_start_end_and_devices": "Zion's walls ever before God, her builders returning, her children worn like jewels."
+        },
+        {
+          "scene_number": 81,
+          "scene_name": "Who Has Borne Me These?",
+          "reference": "49:19-21",
+          "why_start_end_and_devices": "The once-bereaved Zion astonished at her crowding children."
+        },
+        {
+          "scene_number": 82,
+          "scene_name": "Kings Will Be Your Foster Fathers",
+          "reference": "49:22-23",
+          "why_start_end_and_devices": "The nations bringing Zion's sons and daughters, bowing before her — none who hope in Him are shamed."
+        },
+        {
+          "scene_number": 83,
+          "scene_name": "I Will Contend with Those Who Contend with You",
+          "reference": "49:24-26",
+          "why_start_end_and_devices": "The captives reclaimed from the tyrant, that all may know the LORD is Savior and Redeemer."
+        },
+        {
+          "scene_number": 84,
+          "scene_name": "Where Is Your Mother's Certificate of Divorce?",
+          "reference": "50:1-3",
+          "why_start_end_and_devices": "Israel sold for her own sins, not cast off — and God's hand is not too short to redeem."
+        },
+        {
+          "scene_number": 85,
+          "scene_name": "I Offered My Back to Those Who Struck Me",
+          "reference": "50:4-6",
+          "why_start_end_and_devices": "The Servant with the disciple's tongue, unrebellious under scorn and spitting."
+        },
+        {
+          "scene_number": 86,
+          "scene_name": "I Have Set My Face Like Flint",
+          "reference": "50:7-9",
+          "why_start_end_and_devices": "The vindicated Servant who fears no accuser, for the Lord GOD helps Him."
+        },
+        {
+          "scene_number": 87,
+          "scene_name": "Trust in the Name of the LORD",
+          "reference": "50:10-11",
+          "why_start_end_and_devices": "The call to the God-fearer to lean on God in darkness, against those who walk by their own firebrands."
+        },
+        {
+          "scene_number": 88,
+          "scene_name": "Look to the Rock from Which You Were Cut",
+          "reference": "51:1-3",
+          "why_start_end_and_devices": "The pursuers of righteousness pointed to Abraham and Sarah, and to the comfort of Zion's ruins made like Eden."
+        },
+        {
+          "scene_number": 89,
+          "scene_name": "My Salvation Will Last Forever",
+          "reference": "51:4-6",
+          "why_start_end_and_devices": "A law and justice going out as a light to the nations, outlasting the wearing-out heavens."
+        },
+        {
+          "scene_number": 90,
+          "scene_name": "Do Not Fear the Scorn of Men",
+          "reference": "51:7-8",
+          "why_start_end_and_devices": "Those with God's law in their hearts told not to dread insults that the moth will devour."
+        },
+        {
+          "scene_number": 91,
+          "scene_name": "Awake, O Arm of the LORD",
+          "reference": "51:9-11",
+          "why_start_end_and_devices": "The plea to the arm that cut Rahab and dried the sea, that the redeemed return to Zion with singing."
+        },
+        {
+          "scene_number": 92,
+          "scene_name": "I Am He Who Comforts You",
+          "reference": "51:12-13",
+          "why_start_end_and_devices": "Why fear mortal man and forget the LORD your Maker who stretched out the heavens?"
+        },
+        {
+          "scene_number": 93,
+          "scene_name": "I Have Put My Words in Your Mouth",
+          "reference": "51:14-16",
+          "why_start_end_and_devices": "The captive soon freed, sheltered in the shadow of God's hand — 'You are My people.'"
+        },
+        {
+          "scene_number": 94,
+          "scene_name": "The Cup of Staggering",
+          "reference": "51:17-20",
+          "why_start_end_and_devices": "Jerusalem rousing from the cup of God's fury, her fainting sons lying in the streets."
+        },
+        {
+          "scene_number": 95,
+          "scene_name": "I Have Removed the Cup from Your Hand",
+          "reference": "51:21-23",
+          "why_start_end_and_devices": "The cup of staggering taken from Zion and placed in the hands of her tormentors."
+        },
+        {
+          "scene_number": 96,
+          "scene_name": "Awake, Clothe Yourself with Strength, O Zion",
+          "reference": "52:1-2",
+          "why_start_end_and_devices": "The captive Daughter of Zion called to shake off her dust and put on garments of splendor."
+        },
+        {
+          "scene_number": 97,
+          "scene_name": "Sold for Nothing, Redeemed Without Money",
+          "reference": "52:3-6",
+          "why_start_end_and_devices": "Israel's oppression in Egypt and Assyria, leading to the day she knows His name."
+        },
+        {
+          "scene_number": 98,
+          "scene_name": "How Beautiful Are the Feet",
+          "reference": "52:7-8",
+          "why_start_end_and_devices": "The herald on the mountains proclaiming 'Your God reigns!' as the watchmen shout for joy."
+        },
+        {
+          "scene_number": 99,
+          "scene_name": "The LORD Has Bared His Holy Arm",
+          "reference": "52:9-10",
+          "why_start_end_and_devices": "The ruins of Jerusalem breaking into song as all the earth sees God's salvation."
+        },
+        {
+          "scene_number": 100,
+          "scene_name": "Depart, Depart, Go Out",
+          "reference": "52:11-12",
+          "why_start_end_and_devices": "The summons to leave Babylon in purity, the LORD as both vanguard and rear guard."
+        },
+        {
+          "scene_number": 101,
+          "scene_name": "My Servant Will Be Exalted",
+          "reference": "52:13-15",
+          "why_start_end_and_devices": "The fourth Servant Song opens: the marred Servant raised high, sprinkling many nations and silencing kings."
+        },
+        {
+          "scene_number": 102,
+          "scene_name": "Despised and Rejected by Men",
+          "reference": "53:1-3",
+          "why_start_end_and_devices": "Who has believed the message? — the Servant without majesty, a man of sorrows acquainted with grief."
+        },
+        {
+          "scene_number": 103,
+          "scene_name": "Pierced for Our Transgressions",
+          "reference": "53:4-6",
+          "why_start_end_and_devices": "The heart of the gospel: He bore our sorrows, crushed for our iniquities — 'by His stripes we are healed.'"
+        },
+        {
+          "scene_number": 104,
+          "scene_name": "Led Like a Lamb to the Slaughter",
+          "reference": "53:7-9",
+          "why_start_end_and_devices": "The silent, oppressed Servant cut off from the living, assigned a grave with the wicked though sinless."
+        },
+        {
+          "scene_number": 105,
+          "scene_name": "He Will Justify Many",
+          "reference": "53:10-12",
+          "why_start_end_and_devices": "The LORD's will to crush Him as a guilt offering, who then sees His offspring and bears the sin of many."
+        },
+        {
+          "scene_number": 106,
+          "scene_name": "Shout for Joy, O Barren Woman",
+          "reference": "54:1-3",
+          "why_start_end_and_devices": "The desolate woman with more children than the married, called to enlarge her tent."
+        },
+        {
+          "scene_number": 107,
+          "scene_name": "Your Maker Is Your Husband",
+          "reference": "54:4-6",
+          "why_start_end_and_devices": "The shame of widowhood forgotten as the Redeemer calls back His wounded wife."
+        },
+        {
+          "scene_number": 108,
+          "scene_name": "With Everlasting Kindness I Will Gather You",
+          "reference": "54:7-8",
+          "why_start_end_and_devices": "A brief forsaking swallowed up by everlasting compassion."
+        },
+        {
+          "scene_number": 109,
+          "scene_name": "My Covenant of Peace Will Not Be Broken",
+          "reference": "54:9-10",
+          "why_start_end_and_devices": "As sure as the oath to Noah: though mountains depart, God's devotion will not."
+        },
+        {
+          "scene_number": 110,
+          "scene_name": "Foundations of Sapphires",
+          "reference": "54:11-13",
+          "why_start_end_and_devices": "The storm-lashed city rebuilt in jewels, all her sons taught by the LORD."
+        },
+        {
+          "scene_number": 111,
+          "scene_name": "No Weapon Formed Against You Will Prosper",
+          "reference": "54:14-17",
+          "why_start_end_and_devices": "Established in righteousness, far from terror — the heritage of the servants of the LORD."
+        },
+        {
+          "scene_number": 112,
+          "scene_name": "Come, All You Who Are Thirsty",
+          "reference": "55:1-3",
+          "why_start_end_and_devices": "The free invitation to the waters and to the everlasting covenant of devotion promised to David."
+        },
+        {
+          "scene_number": 113,
+          "scene_name": "A Witness to the Nations",
+          "reference": "55:4-5",
+          "why_start_end_and_devices": "Nations unknown running to Israel because the Holy One has bestowed glory on her."
+        },
+        {
+          "scene_number": 114,
+          "scene_name": "Seek the LORD While He May Be Found",
+          "reference": "55:6-7",
+          "why_start_end_and_devices": "The call to the wicked to forsake his way and return for free pardon."
+        },
+        {
+          "scene_number": 115,
+          "scene_name": "My Thoughts Are Not Your Thoughts",
+          "reference": "55:8-9",
+          "why_start_end_and_devices": "God's ways as high above ours as the heavens above the earth."
+        },
+        {
+          "scene_number": 116,
+          "scene_name": "My Word Will Not Return Empty",
+          "reference": "55:10-11",
+          "why_start_end_and_devices": "Like rain and snow, God's word accomplishes what He pleases."
+        },
+        {
+          "scene_number": 117,
+          "scene_name": "You Will Go Out with Joy",
           "reference": "55:12-13",
-          "why_start_end_and_devices": "Go out with joy; mountains/symbolic creation applaud; thorn → cypress, brier → myrtle—permanent memorial."
+          "why_start_end_and_devices": "The closing inclusio: mountains singing, the cypress for the thorn, an everlasting sign for the LORD."
         }
       ]
     },
