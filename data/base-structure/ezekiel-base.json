@@ -1417,7 +1417,452 @@
       "story_title": "Oracles Against the Nations",
       "reference": "25:1 - 32:32",
       "why_start_end_and_literary_glue": "The transitional judgments on the surrounding nations — Ammon, Moab, Edom, Philistia (25), Tyre (26-28), and Egypt (29-32) — demonstrating the LORD's universal sovereignty. Glue: the nation-by-nation oracle formula and the recurring recognition formula.",
-      "scenes": []
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Against Ammon: Rabbah a Pasture",
+          "reference": "25:1-5",
+          "why_start_end_and_devices": "Judgment for gloating 'Aha!' over the fall of the sanctuary — Ammon given to the people of the East."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "You Clapped and Stomped",
+          "reference": "25:6-7",
+          "why_start_end_and_devices": "Plunder for rejoicing over the land of Israel with contempt."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Against Moab",
+          "reference": "25:8-11",
+          "why_start_end_and_devices": "Moab's flank exposed for saying Judah is like all the nations."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Against Edom",
+          "reference": "25:12-14",
+          "why_start_end_and_devices": "Vengeance on Edom by the hand of Israel for acting vengefully against Judah."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Against the Philistines",
+          "reference": "25:15-17",
+          "why_start_end_and_devices": "Great vengeance on the Cherethites for their ancient hostility."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Tyre's 'Aha!' Over Jerusalem",
+          "reference": "26:1-2",
+          "why_start_end_and_devices": "The mercantile city gloating that Jerusalem's fall opens the gate to her gain."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Scraped to a Bare Rock",
+          "reference": "26:3-6",
+          "why_start_end_and_devices": "Many nations brought like waves to make Tyre a place to spread nets."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Nebuchadnezzar from the North",
+          "reference": "26:7-9",
+          "why_start_end_and_devices": "The king of kings bringing siege works and battering rams against her."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Your Pillars Will Fall",
+          "reference": "26:10-12",
+          "why_start_end_and_devices": "The trampling cavalry, the plundered wealth, the stones cast into the sea."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Never to Be Rebuilt",
+          "reference": "26:13-14",
+          "why_start_end_and_devices": "The silenced songs and the bare rock for fishing nets."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Princes of the Sea Lament",
+          "reference": "26:15-18",
+          "why_start_end_and_devices": "The trembling coastlands and the dirge over the fallen city of renown."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Down to the Pit",
+          "reference": "26:19-21",
+          "why_start_end_and_devices": "Tyre covered by the deep, an object of horror, sought but never found."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "A Lament for Tyre",
+          "reference": "27:1-3",
+          "why_start_end_and_devices": "The ship-city's boast: 'I am perfect in beauty.'"
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Cypress, Cedar, and Oak",
+          "reference": "27:4-6",
+          "why_start_end_and_devices": "The fine materials of the ship from Senir, Lebanon, and Bashan."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Sidon's Oarsmen, Gebal's Shipwrights",
+          "reference": "27:7-9",
+          "why_start_end_and_devices": "The skilled crew and craftsmen who manned and repaired her."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "They Perfected Your Beauty",
+          "reference": "27:10-11",
+          "why_start_end_and_devices": "The warriors of Persia, Lydia, and Put hanging their shields on her walls."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Tarshish, Javan, Togarmah",
+          "reference": "27:12-14",
+          "why_start_end_and_devices": "The trading partners exchanging metals, slaves, and horses."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Dedan, Aram, Judah and Israel",
+          "reference": "27:15-17",
+          "why_start_end_and_devices": "The wide network supplying ivory, turquoise, wheat, and balm."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Damascus and Dedan",
+          "reference": "27:18-20",
+          "why_start_end_and_devices": "Wine of Helbon, wool, wrought iron, and saddlecloths."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Arabia, Sheba, and Eden",
+          "reference": "27:21-24",
+          "why_start_end_and_devices": "The eastern merchants trading lambs, gold, spices, and fine garments."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The East Wind Will Shatter You",
+          "reference": "27:25-27",
+          "why_start_end_and_devices": "The heavy-laden ship sinking into the heart of the sea."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Dust on Their Heads",
+          "reference": "27:28-30",
+          "why_start_end_and_devices": "The sailors crying out and mourning over the wreck."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Who Was Ever Like Tyre?",
+          "reference": "27:31-33",
+          "why_start_end_and_devices": "The lament of the seafarers over the city that enriched the kings of the earth."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "A Horrible End",
+          "reference": "27:34-36",
+          "why_start_end_and_devices": "Tyre shattered in the depths, the nations hissing at her demise."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "You Are a Man, Not a God",
+          "reference": "28:1-2",
+          "why_start_end_and_devices": "The proud ruler of Tyre claiming divinity in the heart of the sea."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Wiser Than Daniel",
+          "reference": "28:3-5",
+          "why_start_end_and_devices": "The trader whose wisdom amassed wealth and bred pride."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Brought Down to the Pit",
+          "reference": "28:6-8",
+          "why_start_end_and_devices": "Ruthless foreigners brought to defile his splendor with the sword."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Will You Still Say 'I Am a God'?",
+          "reference": "28:9-10",
+          "why_start_end_and_devices": "The death of the uncircumcised at the hands of his slayers."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Seal of Perfection in Eden",
+          "reference": "28:11-13",
+          "why_start_end_and_devices": "The lament for the king of Tyre, adorned with every precious stone in God's garden."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Anointed Guardian Cherub",
+          "reference": "28:14-15",
+          "why_start_end_and_devices": "Blameless on the holy mountain until wickedness was found in him."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Cast from the Mountain of God",
+          "reference": "28:16-17",
+          "why_start_end_and_devices": "Pride and trade-violence bringing his fall to the earth."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Reduced to Ashes",
+          "reference": "28:18-19",
+          "why_start_end_and_devices": "Fire from within consuming the one who profaned his sanctuaries."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Against Sidon",
+          "reference": "28:20-22",
+          "why_start_end_and_devices": "God to be glorified and shown holy in judgment on the city."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "No More a Pricking Brier",
+          "reference": "28:23-24",
+          "why_start_end_and_devices": "Plague and sword on Sidon, removing Israel's contemptuous neighbors."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Israel Will Dwell Securely",
+          "reference": "28:25-26",
+          "why_start_end_and_devices": "The gathered house of Jacob planting vineyards in safety in their own land."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "The Great Monster of the Nile",
+          "reference": "29:1-3",
+          "why_start_end_and_devices": "Pharaoh's boast 'the Nile is mine; I made it.'"
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Hooks in Your Jaws",
+          "reference": "29:4-5",
+          "why_start_end_and_devices": "The river-monster hauled to the desert as food for beasts and birds."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "A Staff of Reeds",
+          "reference": "29:6-7",
+          "why_start_end_and_devices": "Egypt the splintering reed on which Israel leaned and was wounded."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "A Sword Against You",
+          "reference": "29:8-9",
+          "why_start_end_and_devices": "Egypt made a desolation for the boast 'the Nile is mine.'"
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Desolate for Forty Years",
+          "reference": "29:10-12",
+          "why_start_end_and_devices": "Egypt scattered and emptied from Migdol to Cush."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "A Lowly Kingdom Restored",
+          "reference": "29:13-14",
+          "why_start_end_and_devices": "Egypt regathered after forty years to the land of Pathros."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Never Again an Object of Trust",
+          "reference": "29:15-16",
+          "why_start_end_and_devices": "Diminished Egypt a reminder to Israel of its sin in trusting her."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "No Wages from Tyre",
+          "reference": "29:17-18",
+          "why_start_end_and_devices": "Nebuchadnezzar's hard, unrewarded labor against Tyre."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Egypt as His Wages",
+          "reference": "29:19-21",
+          "why_start_end_and_devices": "The land of Egypt given to Babylon, and a horn sprouting for Israel."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Wail, for the Day Is Near",
+          "reference": "30:1-3",
+          "why_start_end_and_devices": "The Day of the LORD coming as clouds and doom on the nations."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Cush, Put, and Lud Will Fall",
+          "reference": "30:4-5",
+          "why_start_end_and_devices": "Egypt's allied peoples falling with her by the sword."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Her Proud Strength Will Collapse",
+          "reference": "30:6-8",
+          "why_start_end_and_devices": "The allies shattered when God sets fire to Egypt."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Messengers to Frighten Cush",
+          "reference": "30:9-10",
+          "why_start_end_and_devices": "An end to Egypt's hordes by the hand of Nebuchadnezzar."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "The Streams Dried Up",
+          "reference": "30:11-12",
+          "why_start_end_and_devices": "The most ruthless nation filling the land with the slain."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "The Idols of Memphis Destroyed",
+          "reference": "30:13-15",
+          "why_start_end_and_devices": "No more prince in Egypt; fire on Zoan and judgment on Thebes."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Thebes Split Open",
+          "reference": "30:16-17",
+          "why_start_end_and_devices": "The cities falling to the sword and going into captivity."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "I Break the Yoke of Egypt",
+          "reference": "30:18-19",
+          "why_start_end_and_devices": "Darkness over Tahpanhes as Egypt's proud strength ends."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "The Broken Arm of Pharaoh",
+          "reference": "30:20-22",
+          "why_start_end_and_devices": "Pharaoh's unhealed arm, both arms to be broken by God."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "The Sword in Babylon's Hand",
+          "reference": "30:23-26",
+          "why_start_end_and_devices": "Pharaoh's arms falling limp as God strengthens the king of Babylon, scattering Egypt."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Assyria, a Cedar in Lebanon",
+          "reference": "31:1-4",
+          "why_start_end_and_devices": "The towering cedar nourished by the deep, image of Egypt's greatness."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "All the Great Nations in Its Shade",
+          "reference": "31:5-7",
+          "why_start_end_and_devices": "The cedar surpassing every tree, sheltering the birds and beasts."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "The Envy of Eden",
+          "reference": "31:8-9",
+          "why_start_end_and_devices": "No tree in the garden of God could rival its God-given beauty."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Delivered for Its Pride",
+          "reference": "31:10-11",
+          "why_start_end_and_devices": "The cedar handed to the ruler of nations for growing proud of its height."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Cut Down by the Ruthless",
+          "reference": "31:12-14",
+          "why_start_end_and_devices": "The felled cedar abandoned on the mountains — a warning to all proud trees."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Mourning at Its Fall to Sheol",
+          "reference": "31:15-16",
+          "why_start_end_and_devices": "Lebanon and the trees of Eden grieving as it descends to the Pit."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "This Is Pharaoh",
+          "reference": "31:17-18",
+          "why_start_end_and_devices": "The allies descending with it — 'you also will be brought down… among the uncircumcised.'"
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "A Monster in the Seas",
+          "reference": "32:1-2",
+          "why_start_end_and_devices": "The lament for Pharaoh, the lion and river-monster churning the waters."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "I Will Spread My Net",
+          "reference": "32:3-5",
+          "why_start_end_and_devices": "Pharaoh hauled onto the land, flesh strewn on the mountains."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "The Stars Darkened Over You",
+          "reference": "32:6-8",
+          "why_start_end_and_devices": "The land drenched with blood and the heavens shrouded at his fall."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Kings Will Shudder",
+          "reference": "32:9-10",
+          "why_start_end_and_devices": "Many peoples appalled, trembling for their lives at Egypt's downfall."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "The Sword of the King of Babylon",
+          "reference": "32:11-12",
+          "why_start_end_and_devices": "The most ruthless nations ravaging the pride of Egypt."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Her Rivers Like Oil",
+          "reference": "32:13-16",
+          "why_start_end_and_devices": "Egypt's cattle slaughtered, the land emptied — the lament the nations will chant."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "Go Down with the Uncircumcised",
+          "reference": "32:17-19",
+          "why_start_end_and_devices": "Egypt's multitudes consigned to the depths of the earth."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "The Mighty Chiefs Speak from Sheol",
+          "reference": "32:20-21",
+          "why_start_end_and_devices": "The slain greeting Egypt's descent among the sword-slain."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "Assyria Is There",
+          "reference": "32:22-23",
+          "why_start_end_and_devices": "The fallen empire with her company in the depths of the Pit."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "Elam Is There",
+          "reference": "32:24-25",
+          "why_start_end_and_devices": "The terror-spreaders bearing their disgrace among the slain."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "Meshech and Tubal",
+          "reference": "32:26-27",
+          "why_start_end_and_devices": "The uncircumcised who do not lie with the honored warriors of old."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "Edom and the Leaders of the North",
+          "reference": "32:28-30",
+          "why_start_end_and_devices": "The kings and Sidonians laid in shame among the sword-slain."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Pharaoh Will Be Comforted",
+          "reference": "32:31-32",
+          "why_start_end_and_devices": "Pharaoh seeing the fallen nations, laid to rest among the uncircumcised — the close of the nation-oracles."
+        }
+      ]
     },
     {
       "story_letter": "G",
