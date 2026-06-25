@@ -10,17 +10,114 @@
       "why_start_end_and_literary_glue": "Start (1:1) title/prologue; end (3:22) the seventh ‘hear what the Spirit says’ closes the church oracles. Glue: sevenfold pattern (churches/spirits/lampstands), repeated oracle formulas (‘to the angel… write…’, ‘he who has an ear…’), and the commission ‘write what you have seen…’ (1:19).",
       "reference": "1:1 - 3:22",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Title, Purpose, and Blessing", "reference": "1:1-1:3", "why_start_end_and_devices": "Apocalypse superscription; blessing on reader/hearers. Devices: prologue benediction, prophecy self‑designation."},
-        {"scene_number": 2, "scene_name": "Epistolary Salutation and Divine Authority", "reference": "1:4-1:8", "why_start_end_and_devices": "‘John to the seven churches…’; Alpha/Omega declaration closes. Devices: tricolon of Christ’s titles, doxology, coming‑with‑clouds oracle, inclusio title."},
-        {"scene_number": 3, "scene_name": "John’s Setting and the Son of Man Vision", "reference": "1:9-1:16", "why_start_end_and_devices": "Patmos, in the Spirit; lampstands/Son of Man described. Devices: Danielic imagery, similes (eyes flame, feet bronze), trumpet‑voice."},
-        {"scene_number": 4, "scene_name": "Commission and Interpretation Key", "reference": "1:17-1:20", "why_start_end_and_devices": "‘Do not fear; I am First and Last’; write the seen/now/later; stars/lampstands explained. Devices: theophany speech, interpretive gloss."},
-        {"scene_number": 5, "scene_name": "Oracle to Ephesus — Lost First Love", "reference": "2:1-2:7", "why_start_end_and_devices": "Angel‑address, commend/complaint/call/promise; tree of life. Devices: structured oracle, Eden allusion."},
-        {"scene_number": 6, "scene_name": "Oracle to Smyrna — Crown of Life", "reference": "2:8-2:11", "why_start_end_and_devices": "Poverty yet rich; testing; second death immunity. Devices: irony, synagogue of Satan, victor’s crown."},
-        {"scene_number": 7, "scene_name": "Oracle to Pergamum — Hidden Manna & White Stone", "reference": "2:12-2:17", "why_start_end_and_devices": "Where Satan’s throne; Balaam/Balak; promise of manna/stone. Devices: typology with Numbers, symbolic gifts."},
-        {"scene_number": 8, "scene_name": "Oracle to Thyatira — Jezebel and Iron Rod", "reference": "2:18-2:29", "why_start_end_and_devices": "Tolerance of ‘Jezebel’; judgment; rule with iron rod; morning star. Devices: OT Jezebel echo, Psalm 2 allusion."},
-        {"scene_number": 9, "scene_name": "Oracle to Sardis — Wake Up; White Garments", "reference": "3:1-3:6", "why_start_end_and_devices": "Name of life yet dead; watchfulness; book of life. Devices: thief‑coming simile, vesture imagery."},
-        {"scene_number": 10, "scene_name": "Oracle to Philadelphia — Open Door", "reference": "3:7-3:13", "why_start_end_and_devices": "Key of David; little power yet faithful; pillar in temple; new names. Devices: Isaiah key imagery, New Jerusalem inscription."},
-        {"scene_number": 11, "scene_name": "Oracle to Laodicea — Lukewarm and Supper", "reference": "3:14-3:22", "why_start_end_and_devices": "Rich yet poor/blind; buy refined gold/eye salve; I stand at the door and knock. Devices: irony, intimate meal invitation, throne promise."}
+        {
+          "scene_number": 1,
+          "scene_name": "Title, Purpose, and Blessing",
+          "reference": "1:1-1:3",
+          "why_start_end_and_devices": "Apocalypse superscription; blessing on reader/hearers. Devices: prologue benediction, prophecy self‑designation."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Epistolary Salutation and Divine Authority",
+          "reference": "1:4-1:8",
+          "why_start_end_and_devices": "‘John to the seven churches…’; Alpha/Omega declaration closes. Devices: tricolon of Christ’s titles, doxology, coming‑with‑clouds oracle, inclusio title."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "John on Patmos: Write to the Seven Churches",
+          "reference": "1:9-1:11",
+          "why_start_end_and_devices": "John, brother and partner in tribulation, on Patmos for God's word; in the Spirit on the Lord's Day, a trumpet voice says: write what you see to the seven churches."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Son of Man Among the Lampstands",
+          "reference": "1:12-1:16",
+          "why_start_end_and_devices": "Turning, he saw seven golden lampstands and One like the Son of Man in a long robe with golden sash; hair white as snow, eyes like fire, feet like bronze, voice like many waters; seven stars in His right hand, a double-edged sword from His mouth, face like the sun."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Commission and Interpretation Key",
+          "reference": "1:17-1:20",
+          "why_start_end_and_devices": "‘Do not fear; I am First and Last’; write the seen/now/later; stars/lampstands explained. Devices: theophany speech, interpretive gloss."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Ephesus: Labor and Perseverance",
+          "reference": "2:1-2:3",
+          "why_start_end_and_devices": "To Ephesus: the One holding seven stars and walking among lampstands; I know your deeds, labor, perseverance, and that you tested false apostles and exposed them as liars; you endured without growing weary."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Ephesus: Abandoned First Love; Tree of Life",
+          "reference": "2:4-2:7",
+          "why_start_end_and_devices": "I have this against you: you abandoned your first love; repent and do the deeds you did at first, or I will remove your lampstand; you hate the Nicolaitans' works; to the overcomer I will grant the tree of life in God's paradise."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Oracle to Smyrna — Crown of Life",
+          "reference": "2:8-2:11",
+          "why_start_end_and_devices": "Poverty yet rich; testing; second death immunity. Devices: irony, synagogue of Satan, victor’s crown."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Oracle to Pergamum — Hidden Manna & White Stone",
+          "reference": "2:12-2:17",
+          "why_start_end_and_devices": "Where Satan’s throne; Balaam/Balak; promise of manna/stone. Devices: typology with Numbers, symbolic gifts."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Thyatira: Deeds Greater Than First; Jezebel Tolerated",
+          "reference": "2:18-2:20",
+          "why_start_end_and_devices": "To Thyatira: the Son of God with eyes like fire and feet like bronze; I know your deeds — your latest greater than your first; but you tolerate Jezebel, who calls herself prophetess and misleads My servants into immorality and idol food."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Jezebel's Sickness Bed and the Search of Hearts",
+          "reference": "2:21-2:23",
+          "why_start_end_and_devices": "I gave her time to repent but she is unwilling; I will cast her on a bed of sickness and strike her children dead; all churches will know I search minds and hearts and repay each according to deeds."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Thyatira: Hold Fast; Morning Star to the Overcomer",
+          "reference": "2:24-2:29",
+          "why_start_end_and_devices": "To the rest who do not hold Jezebel's teaching: no further burden, only hold fast until I come; the overcomer who continues My work I will give authority over nations with an iron scepter, and the morning star; hear what the Spirit says."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Oracle to Sardis — Wake Up; White Garments",
+          "reference": "3:1-3:6",
+          "why_start_end_and_devices": "Name of life yet dead; watchfulness; book of life. Devices: thief‑coming simile, vesture imagery."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Philadelphia: Open Door; Synagogue of Satan Will Bow",
+          "reference": "3:7-3:9",
+          "why_start_end_and_devices": "To Philadelphia: the Holy and True One holding the key of David; I have placed an open door no one can shut; you have little strength yet kept My word; I will make the synagogue of Satan bow at your feet and know I love you."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Philadelphia: Kept From Trial; a Pillar in God's Temple",
+          "reference": "3:10-3:13",
+          "why_start_end_and_devices": "Because you kept My command to persevere, I will keep you from the hour of testing; I am coming soon — hold fast so no one takes your crown; the overcomer I will make a pillar in God's temple, writing on him God's name, the new Jerusalem, and My new name; hear what the Spirit says."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Laodicea: Lukewarm — About to Be Vomited Out",
+          "reference": "3:14-3:16",
+          "why_start_end_and_devices": "To Laodicea: the Amen, the faithful and true Witness, the Originator of God's creation; you are neither cold nor hot — I wish you were one or the other! Because you are lukewarm, I am about to vomit you out of My mouth."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Laodicea: Wretched, Poor, Blind, Naked — Buy From Me",
+          "reference": "3:17-3:19",
+          "why_start_end_and_devices": "You say 'I am rich and need nothing,' but you are wretched, pitiful, poor, blind, and naked; buy from Me gold refined by fire, white garments, and eye salve; those I love I rebuke and discipline — be earnest and repent."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Laodicea: I Stand at the Door; Sit With Me on My Throne",
+          "reference": "3:20-3:22",
+          "why_start_end_and_devices": "I stand at the door and knock; if anyone hears and opens, I will come in and dine with him; to the overcomer I will grant the right to sit with Me on My throne, as I overcame and sat with My Father; hear what the Spirit says."
+        }
       ]
     },
     {
@@ -29,15 +126,114 @@
       "why_start_end_and_literary_glue": "Start (4:1) ‘Come up here’ moves to the heavenly vision; end (8:1) silence at seventh seal closes the first septet. Glue: throne‑scene doxologies, the Lamb and the sealed scroll, rhythmic ‘Come!’ of the first four seals, and interlude protection of the saints.",
       "reference": "4:1 - 8:1",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Throne and Worship of the Creator", "reference": "4:1-4:11", "why_start_end_and_devices": "Open door; four living beings and elders; crowns cast; ‘worthy are you’ hymn. Devices: Ezekiel/Isaiah echoes, liturgical refrain."},
-        {"scene_number": 2, "scene_name": "Sealed Scroll and John’s Weeping", "reference": "5:1-5:4", "why_start_end_and_devices": "No one worthy; John weeps. Devices: narrative tension around sealed book, strong angel proclamation."},
-        {"scene_number": 3, "scene_name": "Lion‑Lamb Revealed; New Song", "reference": "5:5-5:14", "why_start_end_and_devices": "Elder: lion has conquered; seen as slain lamb; cascading doxologies to the Lamb. Devices: Christological irony, three‑tier chorus."},
-        {"scene_number": 4, "scene_name": "First Four Seals — The Horsemen", "reference": "6:1-6:8", "why_start_end_and_devices": "‘Come!’; white/red/black/pale horses; a fourth of earth affected. Devices: color‑symbolism, repetitive summons, parallel judgments."},
-        {"scene_number": 5, "scene_name": "Fifth Seal — Cry of the Martyrs", "reference": "6:9-6:11", "why_start_end_and_devices": "Souls under altar ask ‘how long?’; given white robes, told to rest. Devices: altar imagery, oracle of delay."},
-        {"scene_number": 6, "scene_name": "Sixth Seal — Cosmic Upheaval", "reference": "6:12-6:17", "why_start_end_and_devices": "Quake, darkened sun, blood‑moon, falling stars; ‘who can stand?’ Devices: catastrophe similes, day‑of‑wrath question."},
-        {"scene_number": 7, "scene_name": "Interlude: Sealing the 144,000", "reference": "7:1-7:8", "why_start_end_and_devices": "Winds restrained; servants sealed from tribes; numbered census. Devices: pause motif, twelve‑thousand refrain."},
-        {"scene_number": 8, "scene_name": "Interlude: Great Multitude in White", "reference": "7:9-7:17", "why_start_end_and_devices": "Innume­rable worshipers; elder interprets; shepherding/Lamb wipes tears. Devices: liturgy, interpretive dialogue, Exodus‑tabernacle echo."},
-        {"scene_number": 9, "scene_name": "Seventh Seal — Silence", "reference": "8:1-8:1", "why_start_end_and_devices": "Opened; half‑hour silence in heaven. Devices: dramatic pause, septet closure."}
+        {
+          "scene_number": 1,
+          "scene_name": "A Throne in Heaven: Jasper, Carnelian, Emerald Rainbow",
+          "reference": "4:1-4:3",
+          "why_start_end_and_devices": "After this a door stood open in heaven; the trumpet voice said 'Come up here'; at once in the Spirit, John saw a throne in heaven with One seated on it, looking like jasper and carnelian, an emerald rainbow encircling the throne."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Twenty-Four Elders and Four Living Creatures",
+          "reference": "4:4-4:6",
+          "why_start_end_and_devices": "Twenty-four thrones with twenty-four elders in white garments and golden crowns; from the throne came lightning, thunder, and seven torches of fire; before the throne was a sea of glass like crystal, and four living creatures covered with eyes."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Holy, Holy, Holy: the Creator Is Worthy",
+          "reference": "4:7-4:11",
+          "why_start_end_and_devices": "The four living creatures: lion, calf, man's face, eagle — each with six wings, never ceasing: 'Holy, Holy, Holy is the Lord God Almighty'; the elders fall down, casting crowns, worshiping: 'Worthy are You to receive glory and honor and power, for You created all things.'"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Sealed Scroll and John’s Weeping",
+          "reference": "5:1-5:4",
+          "why_start_end_and_devices": "No one worthy; John weeps. Devices: narrative tension around sealed book, strong angel proclamation."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Lion-Lamb Takes the Scroll",
+          "reference": "5:5-5:7",
+          "why_start_end_and_devices": "An elder says: do not weep — the Lion of Judah, the Root of David, has triumphed; John saw a Lamb standing as though slain, with seven horns and seven eyes, the seven spirits sent into all the earth; He came and took the scroll from the right hand of the One seated on the throne."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "New Song: Purchased by Your Blood",
+          "reference": "5:8-5:10",
+          "why_start_end_and_devices": "The four living creatures and twenty-four elders fell before the Lamb, each with a harp and golden bowls of incense — the prayers of the saints; they sang a new song: 'Worthy to take the scroll, for You were slain and purchased for God people from every tribe and tongue and nation; You made them a kingdom and priests.'"
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Myriads of Angels: Worthy Is the Lamb",
+          "reference": "5:11-5:14",
+          "why_start_end_and_devices": "John heard myriads of myriads of angels encircling the throne, saying with a loud voice: 'Worthy is the Lamb to receive power, riches, wisdom, strength, honor, glory, and blessing'; every creature in heaven and earth joined: 'To Him who sits on the throne and to the Lamb be praise forever!' The elders fell down and worshiped."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "First Seal: the White Horse",
+          "reference": "6:1-6:2",
+          "why_start_end_and_devices": "The Lamb opened the first seal; one of the four living creatures said 'Come!' A white horse appeared; its rider held a bow, was given a crown, and rode out to conquer."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Second Seal: the Red Horse",
+          "reference": "6:3-6:4",
+          "why_start_end_and_devices": "The second seal: a bright red horse; its rider was permitted to take peace from the earth so men would slay one another; a great sword was given to him."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Third Seal: the Black Horse",
+          "reference": "6:5-6:6",
+          "why_start_end_and_devices": "The third seal: a black horse with a pair of scales; a voice among the living creatures: 'A quart of wheat for a denarius, three quarts of barley for a denarius; do not harm the oil and wine.'"
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Fourth Seal: the Pale Horse",
+          "reference": "6:7-6:8",
+          "why_start_end_and_devices": "The fourth seal: a pale green horse; its rider's name was Death, and Hades followed; they were given authority over a fourth of the earth to kill by sword, famine, plague, and wild beasts."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Fifth Seal — Cry of the Martyrs",
+          "reference": "6:9-6:11",
+          "why_start_end_and_devices": "Souls under altar ask ‘how long?’; given white robes, told to rest. Devices: altar imagery, oracle of delay."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Sixth Seal — Cosmic Upheaval",
+          "reference": "6:12-6:17",
+          "why_start_end_and_devices": "Quake, darkened sun, blood‑moon, falling stars; ‘who can stand?’ Devices: catastrophe similes, day‑of‑wrath question."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Holding Back the Winds; Sealing the Servants",
+          "reference": "7:1-7:4",
+          "why_start_end_and_devices": "Four angels at the four corners holding back the four winds; another angel ascending from the east with the seal of the living God: 'Do not harm the land, sea, or trees until we seal the servants of God on their foreheads'; John heard the number: 144,000 from all the tribes of Israel."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The 144,000 Sealed by Tribe",
+          "reference": "7:5-7:8",
+          "why_start_end_and_devices": "Judah 12,000, Reuben 12,000, Gad 12,000, Asher 12,000, Naphtali 12,000, Manasseh 12,000, Simeon 12,000, Levi 12,000, Issachar 12,000, Zebulun 12,000, Joseph 12,000, Benjamin 12,000."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Great Multitude in White Robes",
+          "reference": "7:9-7:12",
+          "why_start_end_and_devices": "A multitude too large to count from every nation, tribe, people, and tongue, standing before the throne and the Lamb in white robes with palm branches; crying: 'Salvation to our God and to the Lamb!' All the angels, elders, and living creatures fell facedown: 'Blessing, glory, wisdom, thanks, honor, power, and strength to our God forever!'"
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Washed in the Lamb's Blood; the Shepherd Wipes Tears",
+          "reference": "7:13-7:17",
+          "why_start_end_and_devices": "An elder asked who these are; 'They came out of the great tribulation and washed their robes white in the Lamb's blood'; therefore they serve God day and night in His temple; never hunger or thirst; the Lamb shepherds them to living water; God wipes away every tear."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Seventh Seal — Silence",
+          "reference": "8:1-8:1",
+          "why_start_end_and_devices": "Opened; half‑hour silence in heaven. Devices: dramatic pause, septet closure."
+        }
       ]
     },
     {
@@ -46,14 +242,108 @@
       "why_start_end_and_literary_glue": "Start (8:2) seven angels with trumpets and incense; end (11:19) seventh trumpet and opened temple/ark. Glue: trumpet sequence with interposed visions (little scroll, two witnesses), and ‘woe’ eagle marking last three trumpets.",
       "reference": "8:2 - 11:19",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Incense and Trumpet Commission", "reference": "8:2-8:6", "why_start_end_and_devices": "Seven angels receive trumpets; incense with prayers; censer cast to earth. Devices: altar/prayer linkage, thunder/lightning prelude."},
-        {"scene_number": 2, "scene_name": "Trumpets 1–4 — Earth/Sea/Rivers/Heaven", "reference": "8:7-8:12", "why_start_end_and_devices": "Hail‑fire, burning mountain, Wormwood, darkened lights. Devices: Exodus plagues echo, fourfold natural spheres."},
-        {"scene_number": 3, "scene_name": "Eagle’s Three Woes", "reference": "8:13-8:13", "why_start_end_and_devices": "‘Woe, woe, woe’ to earth‑dwellers for remaining blasts. Devices: solitary herald scene, transition marker."},
-        {"scene_number": 4, "scene_name": "Fifth Trumpet — Locust Torment", "reference": "9:1-9:11", "why_start_end_and_devices": "Abyss opened; locusts torment five months; king Abaddon. Devices: abyss imagery, constrained judgment, name wordplay."},
-        {"scene_number": 5, "scene_name": "Sixth Trumpet — Horsemen and No Repentance", "reference": "9:13-9:21", "why_start_end_and_devices": "Four angels released at Euphrates; myriad horsemen; mankind does not repent. Devices: numeric hyperbole, idolatry catalog."},
-        {"scene_number": 6, "scene_name": "Mighty Angel and Little Scroll", "reference": "10:1-10:11", "why_start_end_and_devices": "Colossal angel; seven thunders sealed; scroll sweet/bitter; John to prophesy again. Devices: oath stance, sealed utterance, recommissioning."},
-        {"scene_number": 7, "scene_name": "Measured Temple and Two Witnesses", "reference": "11:1-11:13", "why_start_end_and_devices": "Temple measured; two witnesses prophesy, are slain, raised; quake strikes city. Devices: Zechariah echoes, prophetic pattern death→vindication."},
-        {"scene_number": 8, "scene_name": "Seventh Trumpet — Kingdom Proclaimed", "reference": "11:14-11:19", "why_start_end_and_devices": "‘The kingdom… has become the Lord’s and his Christ’; worship; temple opened and ark seen. Devices: royal proclamation, doxology, covenant‑ark epiphany."}
+        {
+          "scene_number": 1,
+          "scene_name": "Incense and Trumpet Commission",
+          "reference": "8:2-8:6",
+          "why_start_end_and_devices": "Seven angels receive trumpets; incense with prayers; censer cast to earth. Devices: altar/prayer linkage, thunder/lightning prelude."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Trumpets 1–4 — Earth/Sea/Rivers/Heaven",
+          "reference": "8:7-8:12",
+          "why_start_end_and_devices": "Hail‑fire, burning mountain, Wormwood, darkened lights. Devices: Exodus plagues echo, fourfold natural spheres."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Eagle’s Three Woes",
+          "reference": "8:13-8:13",
+          "why_start_end_and_devices": "‘Woe, woe, woe’ to earth‑dwellers for remaining blasts. Devices: solitary herald scene, transition marker."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Star Opens the Abyss; Locusts Like Scorpions",
+          "reference": "9:1-9:3",
+          "why_start_end_and_devices": "The fifth trumpet: a star fallen from heaven was given the key to the Abyss; he opened it and smoke like a great furnace darkened the sun and air; locusts came out with power like scorpions."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Torment Five Months; Men Seek Death but Cannot Find It",
+          "reference": "9:4-9:6",
+          "why_start_end_and_devices": "They were told not to harm grass, plants, or trees, only those without God's seal; not permitted to kill but to torment five months; in those days men will seek death but not find it — death will escape them."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Locusts Like War Horses; King Abaddon; First Woe Passed",
+          "reference": "9:7-9:12",
+          "why_start_end_and_devices": "The locusts looked like horses prepared for battle, with gold crowns, human faces, women's hair, lions' teeth, iron breastplates; wings like chariots rushing to battle; tails with scorpion stingers; their king is the angel of the Abyss — Abaddon in Hebrew, Apollyon in Greek. The first woe has passed; two woes still follow."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Sixth Trumpet: Four Angels Released at the Euphrates",
+          "reference": "9:13-9:16",
+          "why_start_end_and_devices": "A voice from the four horns of the golden altar: release the four angels bound at the Euphrates; they were prepared for the hour, day, month, and year to kill a third of mankind; the mounted troops numbered two hundred million."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Horses With Lions' Heads: Fire, Smoke, Sulfur",
+          "reference": "9:17-9:19",
+          "why_start_end_and_devices": "The riders had breastplates of fire, sapphire, and sulfur; the horses' heads were like lions', and from their mouths proceeded fire, smoke, and sulfur — a third of mankind killed by these three plagues; their tails like snakes with heads to inflict harm."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "No Repentance: Still Worshiping Demons and Idols",
+          "reference": "9:20-9:21",
+          "why_start_end_and_devices": "The rest of mankind not killed did not repent of the works of their hands — worshiping demons and idols of gold, silver, bronze, stone, and wood that cannot see, hear, or walk; nor did they repent of murder, sorcery, immorality, and theft."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Mighty Angel and the Seven Thunders Sealed",
+          "reference": "10:1-10:4",
+          "why_start_end_and_devices": "Another mighty angel descending from heaven, wrapped in a cloud, rainbow above his head, face like the sun, legs like pillars of fire; right foot on the sea, left on the land; he cried out and seven thunders sounded; John was about to write but a voice said: seal up what the seven thunders said, do not write it."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "No More Delay: the Mystery of God Fulfilled",
+          "reference": "10:5-10:7",
+          "why_start_end_and_devices": "The angel swore by the eternal Creator: 'There will be no more delay! In the days of the seventh angel's trumpet, the mystery of God will be fulfilled, as He proclaimed to His servants the prophets.'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Eat the Little Scroll: Sweet and Bitter",
+          "reference": "10:8-10:11",
+          "why_start_end_and_devices": "The voice told John: take the scroll from the angel's hand; he said: eat it — sweet as honey in your mouth but bitter in your stomach; John ate it, sweet in mouth, stomach turned bitter; they told him: 'You must prophesy about many peoples, nations, tongues, and kings.'"
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Measure the Temple; the Nations Trample 42 Months",
+          "reference": "11:1-11:2",
+          "why_start_end_and_devices": "John was given a measuring rod: measure God's temple and altar and count the worshipers; exclude the outer court — it has been given to the nations, who will trample the holy city for 42 months."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Two Witnesses in Sackcloth: Fire and Plagues",
+          "reference": "11:3-11:6",
+          "why_start_end_and_devices": "I will empower My two witnesses to prophesy 1,260 days in sackcloth; they are the two olive trees and lampstands before the Lord; if anyone harms them, fire devours their enemies; they have power to shut the sky, turn waters to blood, and strike the earth with plagues."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Beast Kills Them; the World Gloats for Three Days",
+          "reference": "11:7-11:10",
+          "why_start_end_and_devices": "When they finish their testimony, the beast from the Abyss wages war, overpowers, and kills them; their bodies lie in the street of the great city called Sodom and Egypt; for three and a half days all peoples view the bodies and refuse burial, gloating and exchanging gifts — these prophets tormented them."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Resurrected and Ascended; a Tenth of the City Falls",
+          "reference": "11:11-11:13",
+          "why_start_end_and_devices": "After three and a half days the breath of life entered them; they stood on their feet and great fear fell on all; a loud voice said 'Come up here' and they ascended to heaven in a cloud; in that hour a great earthquake collapsed a tenth of the city and killed seven thousand; the rest gave glory to God."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Seventh Trumpet — Kingdom Proclaimed",
+          "reference": "11:14-11:19",
+          "why_start_end_and_devices": "‘The kingdom… has become the Lord’s and his Christ’; worship; temple opened and ark seen. Devices: royal proclamation, doxology, covenant‑ark epiphany."
+        }
       ]
     },
     {
@@ -62,14 +352,96 @@
       "why_start_end_and_literary_glue": "Start (12:1) great sign in heaven; end (14:20) double harvest completes conflict‑cycle contrast with the Lamb’s company and messages. Glue: woman/dragon war, sea/earth beasts (authority/propaganda), then Lamb/144,000 and three‑angel gospel and warnings.",
       "reference": "12:1 - 14:20",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Woman, Child, and Dragon", "reference": "12:1-12:6", "why_start_end_and_devices": "Pregnant woman; dragon seeks child; child caught up; woman flees. Devices: sign imagery, wilderness motif."},
-        {"scene_number": 2, "scene_name": "War in Heaven; Woe to Earth", "reference": "12:7-12:12", "why_start_end_and_devices": "Michael defeats dragon; accuser cast down; saints conquer by blood/word. Devices: victory hymn, timing (‘short time’)."},
-        {"scene_number": 3, "scene_name": "Dragon Pursues the Woman’s Seed", "reference": "12:13-12:17", "why_start_end_and_devices": "Serpent pursues; earth helps; war on her offspring. Devices: Exodus echo (flood/earth), remnant identification."},
-        {"scene_number": 4, "scene_name": "Beast from the Sea", "reference": "13:1-13:10", "why_start_end_and_devices": "Composite beast empowered; mortal wound healed; worship; saints’ endurance call. Devices: Daniel 7 allusions, captivity/sword saying."},
-        {"scene_number": 5, "scene_name": "Beast from the Earth (False Prophet)", "reference": "13:11-13:18", "why_start_end_and_devices": "Signs deceive; image of the beast; mark and number 666. Devices: counterfeit signs, economic coercion, wisdom riddle."},
-        {"scene_number": 6, "scene_name": "Lamb and 144,000 on Mount Zion", "reference": "14:1-14:5", "why_start_end_and_devices": "New song, spotless company; firstfruits to God and Lamb. Devices: purity motif, name/seal contrast with mark."},
-        {"scene_number": 7, "scene_name": "Three Angels’ Messages", "reference": "14:6-14:13", "why_start_end_and_devices": "Eternal gospel, Babylon fallen, warning against worshiping the beast; blessed the dead in the Lord. Devices: triadic proclamations, endurance/faith of saints."},
-        {"scene_number": 8, "scene_name": "Harvest of Earth — Grain and Grapes", "reference": "14:14-14:20", "why_start_end_and_devices": "Son of Man reaps; angel harvests grapes to winepress. Devices: double harvest imagery, judgment blood‑flow vision."}
+        {
+          "scene_number": 1,
+          "scene_name": "Woman, Child, and Dragon",
+          "reference": "12:1-12:6",
+          "why_start_end_and_devices": "Pregnant woman; dragon seeks child; child caught up; woman flees. Devices: sign imagery, wilderness motif."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "War in Heaven; Woe to Earth",
+          "reference": "12:7-12:12",
+          "why_start_end_and_devices": "Michael defeats dragon; accuser cast down; saints conquer by blood/word. Devices: victory hymn, timing (‘short time’)."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Dragon Pursues the Woman’s Seed",
+          "reference": "12:13-12:17",
+          "why_start_end_and_devices": "Serpent pursues; earth helps; war on her offspring. Devices: Exodus echo (flood/earth), remnant identification."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Beast From the Sea: the Dragon's Authority",
+          "reference": "13:1-13:4",
+          "why_start_end_and_devices": "A beast with ten horns and seven heads rising from the sea, with blasphemous names; like a leopard, feet of a bear, mouth of a lion; the dragon gave it power, throne, and authority; one head seemed mortally wounded but was healed; the world marveled and worshiped the dragon and the beast: 'Who is like the beast?'"
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Blasphemy and Authority for 42 Months",
+          "reference": "13:5-13:8",
+          "why_start_end_and_devices": "The beast was given a mouth for arrogant blasphemy and authority for 42 months; it blasphemed God, His name, and His tabernacle; it waged war against the saints and conquered them; all earth dwellers worshiped it — all whose names were not written in the Book of Life of the slain Lamb from the foundation of the world."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "A Call for Perseverance: Captivity and the Sword",
+          "reference": "13:9-13:10",
+          "why_start_end_and_devices": "He who has an ear, let him hear: if anyone is destined for captivity, into captivity he goes; if anyone is to die by the sword, by the sword he must be killed. Here is a call for the perseverance and faith of the saints."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Beast From the Earth: Fire From Heaven",
+          "reference": "13:11-13:13",
+          "why_start_end_and_devices": "Another beast rising from the earth with two horns like a lamb but speaking like a dragon; it exercised the first beast's authority and made the earth worship the first beast; it performed great signs, even causing fire to come down from heaven to earth in people's presence."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Image Given Breath; the Mark of the Beast",
+          "reference": "13:14-13:16",
+          "why_start_end_and_devices": "It deceived the earth dwellers, telling them to make an image of the wounded beast; it was permitted to give breath to the image so it could speak and kill those who refused to worship; it required all — small and great, rich and poor, free and slave — to receive a mark on the right hand or forehead."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "No Buying or Selling Without the Mark: 666",
+          "reference": "13:17-13:18",
+          "why_start_end_and_devices": "No one could buy or sell without the mark — the beast's name or the number of its name; here is wisdom: let the one with insight calculate the number of the beast, for it is the number of a man — 666."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Lamb and 144,000 on Mount Zion",
+          "reference": "14:1-14:5",
+          "why_start_end_and_devices": "New song, spotless company; firstfruits to God and Lamb. Devices: purity motif, name/seal contrast with mark."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Three Angels: Eternal Gospel, Babylon Fallen",
+          "reference": "14:6-14:8",
+          "why_start_end_and_devices": "An angel flying overhead with the eternal gospel: 'Fear God and give Him glory, for the hour of His judgment has come; worship the Creator'; a second angel: 'Fallen, fallen is Babylon the great, who made all nations drink the wine of her immorality.'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Third Angel: the Mark and the Wine of God's Wrath",
+          "reference": "14:9-14:11",
+          "why_start_end_and_devices": "A third angel: if anyone worships the beast and receives its mark, he will drink God's wrath undiluted; tormented with fire and sulfur before the holy angels and the Lamb; the smoke of their torment rises forever — no rest day or night for those who worship the beast."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Blessed Are the Dead Who Die in the Lord",
+          "reference": "14:12-14:13",
+          "why_start_end_and_devices": "Here is a call for the perseverance of the saints who keep God's commandments and the faith of Jesus; a voice from heaven: 'Write — blessed are the dead who die in the Lord from now on'; the Spirit: 'they will rest from their labors, for their deeds follow them.'"
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Harvest of the Earth: the Son of Man's Sickle",
+          "reference": "14:14-14:16",
+          "why_start_end_and_devices": "A white cloud, One like the Son of Man with a golden crown and sharp sickle; an angel from the temple cried: 'Swing Your sickle and reap, for the harvest is ripe'; He swung His sickle and the earth was harvested."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Grapes of Wrath: the Great Winepress",
+          "reference": "14:17-14:20",
+          "why_start_end_and_devices": "Another angel with a sharp sickle; an angel from the altar cried to him: 'Gather the clusters from the vine of the earth, for its grapes are ripe'; he gathered and threw them into the great winepress of God's wrath; blood flowed as high as horses' bridles for 1,600 stadia outside the city."
+        }
       ]
     },
     {
@@ -78,9 +450,48 @@
       "why_start_end_and_literary_glue": "Start (15:1) sign: seven angels with seven last plagues; end (16:21) seventh bowl ‘It is done’ with quake/hail. Glue: preparatory sanctuary vision (song of Moses/Lamb), then rapid bowls 1–6 and Armageddon, culminating in final bowl.",
       "reference": "15:1 - 16:21",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Preparation: Song and Sanctuary Opened", "reference": "15:1-15:8", "why_start_end_and_devices": "Victors sing; temple of tent opens; angels receive bowls. Devices: Exodus song reprise, smoke‑filled sanctuary."},
-        {"scene_number": 2, "scene_name": "Bowls 1–6 and Armageddon", "reference": "16:1-16:16", "why_start_end_and_devices": "Sores, sea/blood, rivers blood, sun scorch, darkness, Euphrates dried; spirits gather kings to Armageddon. Devices: plague parallels, parenthetical warning ‘I come like a thief’."},
-        {"scene_number": 3, "scene_name": "Seventh Bowl — ‘It Is Done’", "reference": "16:17-16:21", "why_start_end_and_devices": "Bowl on air; lightning, quake; great hail; Babylon remembered. Devices: theophanic storm, consummation formula, city‑split image."}
+        {
+          "scene_number": 1,
+          "scene_name": "Sea of Glass Mixed With Fire: the Song of Moses and the Lamb",
+          "reference": "15:1-15:4",
+          "why_start_end_and_devices": "Seven angels with the seven final plagues completing God's wrath; those who conquered the beast stood on a sea of glass mixed with fire, holding harps; they sang the song of Moses and the Lamb: 'Great and wonderful are Your works, O Lord God Almighty; just and true are Your ways, O King of the nations.'"
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Seven Golden Bowls: the Temple Filled With Smoke",
+          "reference": "15:5-15:8",
+          "why_start_end_and_devices": "The tabernacle of the Testimony in heaven was opened; the seven angels in bright linen with golden sashes came out; one of the four living creatures gave them seven golden bowls full of God's wrath; the temple filled with smoke from God's glory and power — no one could enter until the seven plagues were completed."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Bowls 1-2: Sores and the Sea Turns to Blood",
+          "reference": "16:1-16:3",
+          "why_start_end_and_devices": "A loud voice from the temple: 'Go, pour out the seven bowls of God's wrath'; the first angel poured on the earth — loathsome sores on those with the mark of the beast; the second poured on the sea — it turned to blood like a corpse, and every living thing in the sea died."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Bowls 3-4: Rivers to Blood and the Sun Scorches",
+          "reference": "16:4-16:7",
+          "why_start_end_and_devices": "The third angel poured on the rivers and springs — they turned to blood; the angel of the waters: 'Righteous are You — they spilled the blood of saints and prophets, so You gave them blood to drink'; the altar replied: 'True and just are Your judgments'; the fourth angel poured on the sun — it scorched people with fire."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Bowls 5-6: Beast's Throne Darkened; Euphrates Dried",
+          "reference": "16:8-16:11",
+          "why_start_end_and_devices": "The fifth angel poured on the beast's throne — its kingdom plunged into darkness; men gnawed their tongues and cursed God but did not repent; the sixth angel poured on the Euphrates — its water dried up to prepare the way for the kings of the East."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Frog Spirits and Armageddon",
+          "reference": "16:12-16:16",
+          "why_start_end_and_devices": "Three unclean spirits like frogs from the mouths of the dragon, beast, and false prophet; demonic spirits performing signs, gathering the kings of the earth for battle at Armageddon; 'Behold, I am coming like a thief — blessed is the one who stays awake and clothed.'"
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Seventh Bowl — ‘It Is Done’",
+          "reference": "16:17-16:21",
+          "why_start_end_and_devices": "Bowl on air; lightning, quake; great hail; Babylon remembered. Devices: theophanic storm, consummation formula, city‑split image."
+        }
       ]
     },
     {
@@ -89,12 +500,102 @@
       "why_start_end_and_literary_glue": "Start (17:1) angel shows judgment of the great prostitute; end (19:10) hallelujahs and marriage supper; John admonished not to worship angel. Glue: vision + interpretation (17), laments over Babylon (18), and heaven’s rejoicing and bride made ready (19:1–10).",
       "reference": "17:1 - 19:10",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Woman on the Beast", "reference": "17:1-17:6", "why_start_end_and_devices": "Carried to wilderness; woman on scarlet beast; drunk with saints’ blood. Devices: wilderness sign, luxury/abomination contrast."},
-        {"scene_number": 2, "scene_name": "Angel’s Interpretation of Beast and Woman", "reference": "17:7-17:14", "why_start_end_and_devices": "Seven heads/ten horns explained; war on the Lamb, the Lamb conquers. Devices: riddling exegesis, paradox ‘was/is not/is to come’."},
-        {"scene_number": 3, "scene_name": "The Woman’s Doom by the Beast’s Allies", "reference": "17:15-17:18", "why_start_end_and_devices": "Waters = peoples; horns hate the prostitute; God’s purpose fulfilled. Devices: symbol key, sovereignty motif."},
-        {"scene_number": 4, "scene_name": "Babylon Fallen and ‘Come Out’", "reference": "18:1-18:8", "why_start_end_and_devices": "Another angel illumines; fallen is Babylon; call to depart; double repayment. Devices: prophetic oracle style, merchant/city imagery."},
-        {"scene_number": 5, "scene_name": "Laments of Kings, Merchants, Mariners", "reference": "18:9-18:24", "why_start_end_and_devices": "Threefold lament; sudden desolation; found no more. Devices: repetitive ‘in one hour’, trade catalog, millstone simile."},
-        {"scene_number": 6, "scene_name": "Heaven’s Hallelujah and the Bride", "reference": "19:1-19:10", "why_start_end_and_devices": "Great multitude praises; marriage of the Lamb; blessed are invited; ‘worship God’ correction. Devices: liturgical crescendo, beatitude, testimony of Jesus definition."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Woman on the Beast",
+          "reference": "17:1-17:6",
+          "why_start_end_and_devices": "Carried to wilderness; woman on scarlet beast; drunk with saints’ blood. Devices: wilderness sign, luxury/abomination contrast."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Beast That Was, Is Not, and Will Be",
+          "reference": "17:7-17:9",
+          "why_start_end_and_devices": "The angel said: I will tell you the mystery of the woman and the beast with seven heads and ten horns that carries her; the beast was, is no more, and will come up from the Abyss to destruction; earth dwellers whose names are not in the Book of Life will marvel; the seven heads are seven mountains."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Seven Kings: Five Fallen, One Is, One to Come",
+          "reference": "17:10-17:12",
+          "why_start_end_and_devices": "Five kings have fallen, one is, the other has not yet come but will remain only a little while; the beast that was and is not is an eighth king belonging to the seven, going to destruction; the ten horns are ten kings who have not yet received a kingdom."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Ten Kings Yield to the Beast; the Lamb Triumphs",
+          "reference": "17:13-17:14",
+          "why_start_end_and_devices": "The ten kings have one purpose: to yield their power and authority to the beast; they will make war against the Lamb, and the Lamb will triumph — for He is Lord of lords and King of kings — accompanied by His called, chosen, and faithful ones."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Woman’s Doom by the Beast’s Allies",
+          "reference": "17:15-17:18",
+          "why_start_end_and_devices": "Waters = peoples; horns hate the prostitute; God’s purpose fulfilled. Devices: symbol key, sovereignty motif."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Fallen Is Babylon: a Lair of Demons",
+          "reference": "18:1-18:3",
+          "why_start_end_and_devices": "An angel descending from heaven with great authority, illuminating the earth; he cried: 'Fallen, fallen is Babylon the great! She has become a lair of demons, a haunt of every unclean spirit; all nations drank the wine of her immorality; the merchants grew wealthy from her luxury.'"
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Come Out of Her, My People; Pay Her Back Double",
+          "reference": "18:4-18:6",
+          "why_start_end_and_devices": "Another voice from heaven: 'Come out of her, My people, so you do not share her sins or plagues; her sins are piled to heaven, and God has remembered her iniquities; pay her back double for her deeds; mix her a double portion in her own cup.'"
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Queen No More: Plagues in One Day",
+          "reference": "18:7-18:8",
+          "why_start_end_and_devices": "As she glorified herself and lived in luxury, give her equal torment and grief; she says in her heart: 'I sit as queen, I am no widow, I will never see grief'; therefore her plagues will come in one day — death, grief, and famine — and she will be consumed by fire, for mighty is the Lord who judges her."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Kings and Merchants Weep Over Babylon",
+          "reference": "18:9-18:11",
+          "why_start_end_and_devices": "The kings of the earth who committed immorality with her will weep and wail at the sight of her smoke; 'Woe, woe to the great city — in a single hour your judgment has come'; the merchants weep and mourn because no one buys their cargo anymore."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Cargo of Gold and Souls: All Vanished",
+          "reference": "18:12-18:14",
+          "why_start_end_and_devices": "The cargo list: gold, silver, precious stones, pearls, fine linen, purple, silk, scarlet, citron wood, ivory, bronze, iron, marble, cinnamon, spice, incense, myrrh, frankincense, wine, oil, flour, wheat, cattle, sheep, horses, carriages — and bodies and souls of men; 'The fruit your soul desired has departed, never to be seen again.'"
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Merchants Stand at a Distance in Fear",
+          "reference": "18:15-18:17",
+          "why_start_end_and_devices": "The merchants who sold these things and gained wealth from her will stand at a distance in fear of her torment, weeping and mourning: 'Woe, woe to the great city, clothed in fine linen and purple and scarlet, adorned with gold and precious stones and pearls — in a single hour such wealth has been destroyed!' Every shipmaster, passenger, and sailor will stand at a distance."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Mariners Cry: What City Was Like This?",
+          "reference": "18:18-18:19",
+          "why_start_end_and_devices": "They will cry out at the sight of the smoke: 'What city was ever like this great city?' They will throw dust on their heads and weep and mourn: 'Woe, woe to the great city — in a single hour she has been destroyed'; all who had ships on the sea were enriched by her wealth."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Rejoice, Heaven and Saints; the Millstone Cast",
+          "reference": "18:20-18:24",
+          "why_start_end_and_devices": "Rejoice over her, O heaven, saints, apostles, and prophets — God has judged her for you; a mighty angel cast a millstone into the sea: 'With such violence Babylon will be cast down, never to be seen again'; no harpists, craftsmen, lamp, or bridegroom's voice; in her was found the blood of prophets and saints and all slain on earth."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Hallelujah! Salvation and Glory and Power",
+          "reference": "19:1-19:3",
+          "why_start_end_and_devices": "A great multitude in heaven: 'Hallelujah! Salvation and glory and power belong to our God, for His judgments are true and just; He has judged the great prostitute and avenged the blood of His servants'; a second time: 'Hallelujah! Her smoke rises forever and ever.'"
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Elders and Living Creatures: Amen, Hallelujah! the Lord Reigns",
+          "reference": "19:4-19:6",
+          "why_start_end_and_devices": "The twenty-four elders and four living creatures fell down and worshiped: 'Amen, Hallelujah!' A voice from the throne: 'Praise our God, all you who serve Him'; a multitude like many waters and thunder: 'Hallelujah! For the Lord our God the Almighty reigns.'"
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Marriage of the Lamb; Worship God Alone",
+          "reference": "19:7-19:10",
+          "why_start_end_and_devices": "'Let us rejoice, for the marriage of the Lamb has come, and His bride has made herself ready — fine linen is the righteous acts of the saints'; blessed are those invited to the marriage supper; John fell to worship the angel, who said: 'Do not do that — I am a fellow servant; worship God, for the testimony of Jesus is the spirit of prophecy.'"
+        }
       ]
     },
     {
@@ -103,11 +604,36 @@
       "why_start_end_and_literary_glue": "Start (19:11) rider on white horse appears; end (20:15) great white throne judgment concludes present order. Glue: defeat of beast/false prophet, binding/release of Satan, and judgment of the dead from the books.",
       "reference": "19:11 - 20:15",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Rider on the White Horse", "reference": "19:11-19:16", "why_start_end_and_devices": "Faithful and True judges/wages war; robe dipped in blood; King of kings. Devices: warfare theophany, name/titles cascade."},
-        {"scene_number": 2, "scene_name": "Beast and False Prophet Defeated", "reference": "19:17-19:21", "why_start_end_and_devices": "Birds’ supper; beast captured; false prophet cast into lake of fire. Devices: banquet reversal (contrast with wedding), swift judgment."},
-        {"scene_number": 3, "scene_name": "The Millennium and First Resurrection", "reference": "20:1-20:6", "why_start_end_and_devices": "Satan bound; saints reign thousand years; blessed holy participants. Devices: chaining motif, reign/rest imagery."},
-        {"scene_number": 4, "scene_name": "Satan’s Final Rebellion and Doom", "reference": "20:7-20:10", "why_start_end_and_devices": "Released deceives nations; fire from heaven; devil cast into lake of fire. Devices: brief recapitulative battle, eternal torment note."},
-        {"scene_number": 5, "scene_name": "Great White Throne Judgment", "reference": "20:11-20:15", "why_start_end_and_devices": "Earth/sky flee; books opened; death and Hades thrown into lake of fire; anyone not in book of life cast in. Devices: courtroom imagery, book‑of‑life antithesis."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Rider on the White Horse",
+          "reference": "19:11-19:16",
+          "why_start_end_and_devices": "Faithful and True judges/wages war; robe dipped in blood; King of kings. Devices: warfare theophany, name/titles cascade."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Beast and False Prophet Defeated",
+          "reference": "19:17-19:21",
+          "why_start_end_and_devices": "Birds’ supper; beast captured; false prophet cast into lake of fire. Devices: banquet reversal (contrast with wedding), swift judgment."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Millennium and First Resurrection",
+          "reference": "20:1-20:6",
+          "why_start_end_and_devices": "Satan bound; saints reign thousand years; blessed holy participants. Devices: chaining motif, reign/rest imagery."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Satan’s Final Rebellion and Doom",
+          "reference": "20:7-20:10",
+          "why_start_end_and_devices": "Released deceives nations; fire from heaven; devil cast into lake of fire. Devices: brief recapitulative battle, eternal torment note."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Great White Throne Judgment",
+          "reference": "20:11-20:15",
+          "why_start_end_and_devices": "Earth/sky flee; books opened; death and Hades thrown into lake of fire; anyone not in book of life cast in. Devices: courtroom imagery, book‑of‑life antithesis."
+        }
       ]
     },
     {
@@ -116,14 +642,91 @@
       "why_start_end_and_literary_glue": "Start (21:1) new heaven and new earth; end (22:21) final grace blessing. Glue: bride‑city vision, throne/river/tree, repeated ‘I am coming soon’, blessings and warnings, and Alpha/Omega inclusio.",
       "reference": "21:1 - 22:21",
       "scenes": [
-        {"scene_number": 1, "scene_name": "New Heaven and New Earth; Overcomers’ Promise", "reference": "21:1-21:8", "why_start_end_and_devices": "No sea; God dwells with them; all things new; overcomer vs cowardly. Devices: creation reversal, ‘It is done’ echo, inheritance language."},
-        {"scene_number": 2, "scene_name": "The Bride, the Holy City", "reference": "21:9-21:21", "why_start_end_and_devices": "Carried to a great mountain; city/bride shown; measures, foundations, jewels, gates. Devices: angelic tour, symbolic geometry and gem‑catalog."},
-        {"scene_number": 3, "scene_name": "Glory of God as Its Light", "reference": "21:22-21:27", "why_start_end_and_devices": "No temple; nations walk by its light; nothing unclean enters. Devices: templelessness motif, nations/kingdoms inclusion."},
-        {"scene_number": 4, "scene_name": "River and Tree of Life; Reign Forever", "reference": "22:1-22:5", "why_start_end_and_devices": "River from the throne; tree of life heals nations; they see his face and reign. Devices: Eden restored, beatific vision, servant‑reign."},
-        {"scene_number": 5, "scene_name": "‘I Am Coming Soon’ — Final Exhortations", "reference": "22:6-22:13", "why_start_end_and_devices": "Faithful/true words; keep prophecy; do not seal; coming soon; Alpha and Omega. Devices: angel/Jesus speeches, urgency refrains."},
-        {"scene_number": 6, "scene_name": "Invitation, Warning, and Benediction", "reference": "22:14-22:21", "why_start_end_and_devices": "Blessed who wash robes; Spirit and bride say ‘Come’; warning against adding/removing; grace be with all. Devices: open invitation, canonical warning, epistolary grace close."}
+        {
+          "scene_number": 1,
+          "scene_name": "New Heaven and New Earth; God Dwells With Men",
+          "reference": "21:1-21:4",
+          "why_start_end_and_devices": "A new heaven and new earth — the first had passed away, the sea was no more; the holy city, new Jerusalem, coming down as a bride adorned; a loud voice: 'Behold, the dwelling of God is with men; He will dwell with them; they will be His people; He will wipe away every tear — no more death, mourning, crying, or pain; the former things have passed away.'"
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "It Is Done: the Thirsty and the Overcomers; the Cowardly's Doom",
+          "reference": "21:5-21:8",
+          "why_start_end_and_devices": "The One on the throne: 'Behold, I make all things new — write, for these words are faithful and true; it is done! I am the Alpha and the Omega; to the thirsty I will give the spring of the water of life; the overcomer will inherit all things — I will be his God and he will be My son; but the cowardly, unbelieving, abominable, murderers, sexually immoral, sorcerers, idolaters, and liars will have their place in the lake of fire — the second death.'"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Show Me the Bride: the Holy City's Radiance",
+          "reference": "21:9-21:11",
+          "why_start_end_and_devices": "One of the seven bowl angels: 'Come, I will show you the bride, the wife of the Lamb'; he carried John to a great mountain and showed him the holy city Jerusalem descending from heaven, shining with God's glory, radiance like jasper, clear as crystal."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Twelve Gates, Twelve Foundations",
+          "reference": "21:12-21:14",
+          "why_start_end_and_devices": "A great and high wall with twelve gates inscribed with the twelve tribes' names, twelve angels at the gates; three gates on each side; the wall's twelve foundations bore the twelve apostles' names of the Lamb."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Measuring the City: 12,000 Stadia, 144 Cubits",
+          "reference": "21:15-21:17",
+          "why_start_end_and_devices": "An angel with a golden measuring rod measured the city, its gates, and walls; the city lies foursquare — length, width, and height equal at 12,000 stadia; the wall was 144 cubits by human measure."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Jasper Walls, Gold Streets, Pearl Gates",
+          "reference": "21:18-21:21",
+          "why_start_end_and_devices": "The wall was jasper, the city pure gold like glass; the foundations adorned with every precious stone — jasper, sapphire, chalcedony, emerald, sardonyx, carnelian, chrysolite, beryl, topaz, chrysoprase, jacinth, amethyst; the twelve gates were twelve pearls; the main street was pure gold, clear as glass."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Glory of God as Its Light",
+          "reference": "21:22-21:27",
+          "why_start_end_and_devices": "No temple; nations walk by its light; nothing unclean enters. Devices: templelessness motif, nations/kingdoms inclusion."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "River and Tree of Life; Reign Forever",
+          "reference": "22:1-22:5",
+          "why_start_end_and_devices": "River from the throne; tree of life heals nations; they see his face and reign. Devices: Eden restored, beatific vision, servant‑reign."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "These Words Are Faithful and True; I Am Coming Soon",
+          "reference": "22:6-22:8",
+          "why_start_end_and_devices": "The angel said: 'These words are faithful and true; the Lord, the God of the spirits of the prophets, has sent His angel to show His servants what must soon take place'; 'Behold, I am coming soon — blessed is the one who keeps the words of prophecy in this book'; John fell to worship at the angel's feet."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Do Not Seal the Prophecy; Let the Righteous Continue",
+          "reference": "22:9-22:11",
+          "why_start_end_and_devices": "The angel said: 'Do not do that — I am a fellow servant with you and your brothers the prophets; worship God!'; 'Do not seal up the words of prophecy in this book, for the time is near; let the unrighteous continue in unrighteousness and the holy in holiness.'"
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "My Reward Is With Me; Alpha and Omega",
+          "reference": "22:12-22:13",
+          "why_start_end_and_devices": "'Behold, I am coming soon, and My reward is with Me, to give to each one according to what he has done; I am the Alpha and the Omega, the First and the Last, the Beginning and the End.'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Blessed Are Those Who Wash Their Robes; the Morning Star",
+          "reference": "22:14-22:16",
+          "why_start_end_and_devices": "Blessed are those who wash their robes, that they may have the right to the tree of life and enter the city by its gates; outside are the dogs, sorcerers, sexually immoral, murderers, idolaters, and all who love falsehood; 'I, Jesus, have sent My angel to testify to you for the churches; I am the Root and Offspring of David, the bright Morning Star.'"
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Spirit and Bride Say Come; Do Not Add or Take Away",
+          "reference": "22:17-22:19",
+          "why_start_end_and_devices": "The Spirit and the bride say: 'Come!' Let the one who hears say: 'Come!' Let the thirsty come and drink the water of life freely; if anyone adds to the words of this book, God will add the plagues described in it; if anyone takes away, God will take away his share in the tree of life and the holy city."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Yes, I Am Coming Soon. Amen. Come, Lord Jesus!",
+          "reference": "22:20-22:21",
+          "why_start_end_and_devices": "He who testifies to these things says: 'Yes, I am coming soon'; Amen. Come, Lord Jesus! The grace of the Lord Jesus be with all the saints. Amen."
+        }
       ]
     }
   ]
 }
-
