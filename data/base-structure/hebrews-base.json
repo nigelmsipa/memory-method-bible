@@ -10,11 +10,66 @@
       "why_start_end_and_literary_glue": "Start (1:1) God’s former vs. final speech in the Son opens the revelation contrast; end (2:18) concludes the incarnation/suffering rationale, qualifying the Son as merciful High Priest. Glue: comparison Son/prophets/angels, septenary quote chain (1:5–14), and suffering/temptation inclusio (2:10, 2:18).",
       "reference": "1:1 - 2:18",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Son’s Final and Full Revelation", "reference": "1:1-1:4", "why_start_end_and_devices": "Ancient many‑ways speech vs ‘in these last days’ in a Son; enthronement concludes. Devices: antithesis, densely stacked predicates, enthronement resolution."},
-        {"scene_number": 2, "scene_name": "The Son’s Superior Name: OT Proofs", "reference": "1:5-1:14", "why_start_end_and_devices": "‘To which of the angels…?’ launches quote chain; ends setting angels as ministering spirits. Devices: rhetorical questions, septenary citation chain, worship/perpetual throne contrast."},
-        {"scene_number": 3, "scene_name": "Warning to Heed the Greater Word", "reference": "2:1-2:4", "why_start_end_and_devices": "Therefore‑turn to exhortation; confirmed by witnesses and signs. Devices: a fortiori warning (‘how shall we escape’), drift metaphor, attestation triad."},
-        {"scene_number": 4, "scene_name": "The Son Humbled and Exalted", "reference": "2:5-2:9", "why_start_end_and_devices": "Not to angels—the world to come; Ps 8 exposition; crowned because of suffering. Devices: paradox of humiliation→glory, midrashic handling of Ps 8."},
-        {"scene_number": 5, "scene_name": "The Merciful and Faithful High Priest", "reference": "2:10-2:18", "why_start_end_and_devices": "‘It was fitting…’ necessity of likeness; able to help the tempted. Devices: argument from fitness, priestly title introduction, fraternity language."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Son’s Final and Full Revelation",
+          "reference": "1:1-1:4",
+          "why_start_end_and_devices": "Ancient many‑ways speech vs ‘in these last days’ in a Son; enthronement concludes. Devices: antithesis, densely stacked predicates, enthronement resolution."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Which Angel Did He Call Son?",
+          "reference": "1:5-1:7",
+          "why_start_end_and_devices": "The Son/Father oracle no angel received, and the angels made winds and flames."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Your Throne, O God",
+          "reference": "1:8-1:9",
+          "why_start_end_and_devices": "The Father addressing the Son as God, anointed with joy above His companions."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "You Laid the Foundations",
+          "reference": "1:10-1:12",
+          "why_start_end_and_devices": "The Son as eternal Creator while the heavens wear out like a garment."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Sit at My Right Hand",
+          "reference": "1:13-1:14",
+          "why_start_end_and_devices": "The enthroned Son contrasted with the ministering-spirit angels."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Warning to Heed the Greater Word",
+          "reference": "2:1-2:4",
+          "why_start_end_and_devices": "Therefore‑turn to exhortation; confirmed by witnesses and signs. Devices: a fortiori warning (‘how shall we escape’), drift metaphor, attestation triad."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Son Humbled and Exalted",
+          "reference": "2:5-2:9",
+          "why_start_end_and_devices": "Not to angels—the world to come; Ps 8 exposition; crowned because of suffering. Devices: paradox of humiliation→glory, midrashic handling of Ps 8."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Bringing Many Sons to Glory",
+          "reference": "2:10-2:13",
+          "why_start_end_and_devices": "The author of salvation perfected through suffering, not ashamed to call them brothers."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Sharing Flesh and Blood",
+          "reference": "2:14-2:16",
+          "why_start_end_and_devices": "Through death destroying the devil and freeing those enslaved by fear of death."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "A Merciful High Priest",
+          "reference": "2:17-2:18",
+          "why_start_end_and_devices": "Made like His brothers to make atonement and help the tempted."
+        }
       ]
     },
     {
@@ -23,11 +78,66 @@
       "why_start_end_and_literary_glue": "Start (3:1) hortatory ‘consider Jesus’ introduces Moses comparison; end (4:16) throne‑of‑grace exhortation caps the rest discourse and bridges to priestly exposition. Glue: ‘house’, ‘today’, and ‘rest’ motifs, Psalm 95 exposition, and alternating warning/comfort moves.",
       "reference": "3:1 - 4:16",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Christ Greater than Moses", "reference": "3:1-3:6", "why_start_end_and_devices": "Servant‑in house vs Son‑over house completes comparison. Devices: builder/house analogy, faithful servant/Son contrast."},
-        {"scene_number": 2, "scene_name": "The Warning of the Wilderness", "reference": "3:7-3:19", "why_start_end_and_devices": "‘As the Holy Spirit says’—Ps 95 cited; ends with unbelief verdict. Devices: extended quotation, ‘today’ anaphora, harden‑not refrain."},
-        {"scene_number": 3, "scene_name": "The Promise of God’s Rest", "reference": "4:1-4:10", "why_start_end_and_devices": "Therefore fear lest any fail; ‘there remains a sabbath‑rest’. Devices: argument by exhaustion (Moses/David not final), rest‑lexeme repetition."},
-        {"scene_number": 4, "scene_name": "The Discerning Word", "reference": "4:11-4:13", "why_start_end_and_devices": "Strive to enter; Word pierces and exposes. Devices: living Word personification, sword/eye metaphors validating warning."},
-        {"scene_number": 5, "scene_name": "A Call to Hold Fast", "reference": "4:14-4:16", "why_start_end_and_devices": "Since we have a great High Priest… draw near confidently. Devices: exhortation bridge, throne‑of‑grace invitation."}
+        {
+          "scene_number": 1,
+          "scene_name": "Christ Greater than Moses",
+          "reference": "3:1-3:6",
+          "why_start_end_and_devices": "Servant‑in house vs Son‑over house completes comparison. Devices: builder/house analogy, faithful servant/Son contrast."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Today, If You Hear His Voice",
+          "reference": "3:7-3:11",
+          "why_start_end_and_devices": "The Spirit's quotation of Psalm 95 and the wilderness oath of no rest."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "An Evil Heart of Unbelief",
+          "reference": "3:12-3:14",
+          "why_start_end_and_devices": "The exhortation to daily encouragement lest sin's deceit harden the heart."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Whose Bodies Fell in the Wilderness",
+          "reference": "3:15-3:17",
+          "why_start_end_and_devices": "Who heard and rebelled, with whom God was angry forty years."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Unable to Enter for Unbelief",
+          "reference": "3:18-3:19",
+          "why_start_end_and_devices": "The conclusion that unbelief barred them from God's rest."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Lest You Fall Short of It",
+          "reference": "4:1-4:3",
+          "why_start_end_and_devices": "The standing promise of rest entered by faith, not by the unbelieving."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "God Rested on the Seventh Day",
+          "reference": "4:4-4:7",
+          "why_start_end_and_devices": "The seventh-day rest and the renewed 'Today' spoken through David."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "A Sabbath Rest Remains",
+          "reference": "4:8-4:10",
+          "why_start_end_and_devices": "Joshua's incomplete rest and the abiding Sabbath rest for God's people."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Discerning Word",
+          "reference": "4:11-4:13",
+          "why_start_end_and_devices": "Strive to enter; Word pierces and exposes. Devices: living Word personification, sword/eye metaphors validating warning."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "A Call to Hold Fast",
+          "reference": "4:14-4:16",
+          "why_start_end_and_devices": "Since we have a great High Priest… draw near confidently. Devices: exhortation bridge, throne‑of‑grace invitation."
+        }
       ]
     },
     {
@@ -36,14 +146,114 @@
       "why_start_end_and_literary_glue": "Start (5:1) formal priesthood definition; end (7:28) oath‑appointed Son perfected forever. Glue: Psalm 110:4 backbone, ‘perfect’ motif, digression on immaturity (5:11–6:12) then oath/anchor (6:13–20) before Melchizedek exposition (7).",
       "reference": "5:1 - 7:28",
       "scenes": [
-        {"scene_number": 1, "scene_name": "High Priest Defined and Christ’s Appointment", "reference": "5:1-5:10", "why_start_end_and_devices": "Priest acts for men; Christ designated by God ‘after the order of Melchizedek’. Devices: definition/qualification, dual citation (Ps 2; Ps 110)."},
-        {"scene_number": 2, "scene_name": "Warning Against Immaturity (Digression)", "reference": "5:11-6:3", "why_start_end_and_devices": "Dull of hearing; milk vs solid food; ‘this we will do if God permits’. Devices: rebuke via nourishment metaphor, transition close."},
-        {"scene_number": 3, "scene_name": "The Danger of Falling Away", "reference": "6:4-6:8", "why_start_end_and_devices": "‘It is impossible…’ severe warning; thorns and thistles analogy. Devices: impossibility proposition, agricultural parable."},
-        {"scene_number": 4, "scene_name": "Confidence and Imitation", "reference": "6:9-6:12", "why_start_end_and_devices": "Assurance of better things; imitate the inheritors. Devices: pivot to comfort, hortatory imitation."},
-        {"scene_number": 5, "scene_name": "The Anchor of God’s Oath", "reference": "6:13-6:20", "why_start_end_and_devices": "God swore to Abraham; hope as anchor within the veil; forerunner Jesus. Devices: oath confirmation, anchor/veil metaphors."},
-        {"scene_number": 6, "scene_name": "Melchizedek Introduced and Shown Greater", "reference": "7:1-7:10", "why_start_end_and_devices": "Blessing/tithes show Melchizedek’s precedence; Levi pays through Abraham. Devices: a fortiori (greater blesses lesser), typological reading of Gen 14."},
-        {"scene_number": 7, "scene_name": "Indestructible Life and Better Hope", "reference": "7:11-7:19", "why_start_end_and_devices": "Change of priesthood→change of law; commandment’s weakness vs indestructible life; better hope. Devices: logical necessity, contrastive argumentation."},
-        {"scene_number": 8, "scene_name": "The Permanent and Perfect Priest", "reference": "7:20-7:28", "why_start_end_and_devices": "Oath‑made priest; many vs one; able to save to the uttermost; perfected Son forever. Devices: oath contrast, many/once, climactic close."}
+        {
+          "scene_number": 1,
+          "scene_name": "Every High Priest Appointed for Men",
+          "reference": "5:1-5:4",
+          "why_start_end_and_devices": "Taken from among men, dealing gently, called by God as Aaron was."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "You Are My Son, a Priest Forever",
+          "reference": "5:5-5:7",
+          "why_start_end_and_devices": "Christ called, not self-appointed; His loud cries and tears heard for His reverence."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Perfected Through Suffering",
+          "reference": "5:8-5:10",
+          "why_start_end_and_devices": "Learning obedience, becoming the source of eternal salvation in Melchizedek's order."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Warning Against Immaturity (Digression)",
+          "reference": "5:11-6:3",
+          "why_start_end_and_devices": "Dull of hearing; milk vs solid food; ‘this we will do if God permits’. Devices: rebuke via nourishment metaphor, transition close."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Danger of Falling Away",
+          "reference": "6:4-6:8",
+          "why_start_end_and_devices": "‘It is impossible…’ severe warning; thorns and thistles analogy. Devices: impossibility proposition, agricultural parable."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Confidence and Imitation",
+          "reference": "6:9-6:12",
+          "why_start_end_and_devices": "Assurance of better things; imitate the inheritors. Devices: pivot to comfort, hortatory imitation."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "God's Oath to Abraham",
+          "reference": "6:13-6:15",
+          "why_start_end_and_devices": "Swearing by Himself, Abraham obtaining the promise after patient waiting."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Two Unchangeable Things",
+          "reference": "6:16-6:18",
+          "why_start_end_and_devices": "The oath confirming God's purpose, strong encouragement for those who flee for refuge."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "An Anchor Behind the Curtain",
+          "reference": "6:19-6:20",
+          "why_start_end_and_devices": "The hope as anchor entering the inner sanctuary where Jesus the forerunner went."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "King of Righteousness and Peace",
+          "reference": "7:1-7:3",
+          "why_start_end_and_devices": "Melchizedek without genealogy, resembling the Son, a priest for all time."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Abraham Gave Him a Tenth",
+          "reference": "7:4-7:7",
+          "why_start_end_and_devices": "His greatness shown by tithe and blessing — the lesser blessed by the greater."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Levi Paid Tithes Through Abraham",
+          "reference": "7:8-7:10",
+          "why_start_end_and_devices": "The priest of whom it is affirmed he lives, and Levi still in his ancestor's loins."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "A Change of Priesthood and Law",
+          "reference": "7:11-7:14",
+          "why_start_end_and_devices": "Levitical imperfection requiring another priest from the tribe of Judah."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Power of an Indestructible Life",
+          "reference": "7:15-7:17",
+          "why_start_end_and_devices": "The priest like Melchizedek by the power of an endless life."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "A Better Hope Introduced",
+          "reference": "7:18-7:19",
+          "why_start_end_and_devices": "The weak former commandment set aside, by which we draw near to God."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Confirmed with an Oath",
+          "reference": "7:20-7:22",
+          "why_start_end_and_devices": "The divine oath making Jesus the guarantee of a better covenant."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "A Permanent Priesthood",
+          "reference": "7:23-7:25",
+          "why_start_end_and_devices": "He who lives forever, able to save completely and always interceding."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Holy, Innocent, Once for All",
+          "reference": "7:26-7:28",
+          "why_start_end_and_devices": "The fitting high priest who offered Himself, the Son made perfect forever."
+        }
       ]
     },
     {
@@ -52,16 +262,138 @@
       "why_start_end_and_literary_glue": "Start (8:1) thesis: we have such a High Priest seated in heaven; end (10:39) bridge: not shrinking back but of faith. Glue: old/new contrasts (shadow vs reality), covenant/sanctuary lexemes, single‑sacrifice finality leading to exhortation and warning.",
       "reference": "8:1 - 10:39",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Heavenly Ministry and Better Covenant", "reference": "8:1-8:6", "why_start_end_and_devices": "Seated priest in true tabernacle; mediator of better covenant on better promises. Devices: copy/shadow vs reality, thesis framing."},
-        {"scene_number": 2, "scene_name": "Jeremiah’s New Covenant", "reference": "8:7-8:13", "why_start_end_and_devices": "If first covenant faultless… extended Jer 31 citation; obsolete first covenant. Devices: argument by citation, obsolescence conclusion."},
-        {"scene_number": 3, "scene_name": "Earthly Sanctuary: Arrangement and Limits", "reference": "9:1-9:10", "why_start_end_and_devices": "Tabernacle described; way not yet opened; conscience not perfected. Devices: descriptive symbolism, limitation statement."},
-        {"scene_number": 4, "scene_name": "Christ’s Superior Blood and Cleansing", "reference": "9:11-9:14", "why_start_end_and_devices": "‘But when Christ appeared…’ how much more purify the conscience. Devices: a fortiori contrast, eternal Spirit offering."},
-        {"scene_number": 5, "scene_name": "Death, Covenant, and Inheritance", "reference": "9:15-9:22", "why_start_end_and_devices": "Mediator of new covenant; diathēkē as will/testament; without blood no forgiveness. Devices: analogy (covenant/will), necessity of blood."},
-        {"scene_number": 6, "scene_name": "Once for All and Second Appearing", "reference": "9:23-9:28", "why_start_end_and_devices": "Copies purified vs heavenly reality; appears once, will appear again to save. Devices: copy/reality contrast, eschatological anticipation."},
-        {"scene_number": 7, "scene_name": "Shadow’s Inefficacy; Finality of Christ’s Offering", "reference": "10:1-10:18", "why_start_end_and_devices": "Law’s shadow cannot perfect; Psalm 40 fulfilled; where forgiven, no more offering. Devices: argument by weakness, extended citation, definitive conclusion."},
-        {"scene_number": 8, "scene_name": "Approach with Confidence: Three Let‑Us", "reference": "10:19-10:25", "why_start_end_and_devices": "Therefore draw near/hold fast/consider one another; Day drawing near. Devices: curtain/way metaphor, triple hortatory anaphora."},
-        {"scene_number": 9, "scene_name": "Severe Warning of Judgment", "reference": "10:26-10:31", "why_start_end_and_devices": "If we go on sinning deliberately… fearful expectation. Devices: intensification, Deut citation, consuming‑fire close."},
-        {"scene_number": 10, "scene_name": "Remember Former Endurance; Do Not Shrink Back", "reference": "10:32-10:39", "why_start_end_and_devices": "Recall early sufferings; we are of faith, not shrink‑back. Devices: historical recall, endurance vs apostasy contrast, bridge to faith theme."}
+        {
+          "scene_number": 1,
+          "scene_name": "Heavenly Ministry and Better Covenant",
+          "reference": "8:1-8:6",
+          "why_start_end_and_devices": "Seated priest in true tabernacle; mediator of better covenant on better promises. Devices: copy/shadow vs reality, thesis framing."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Fault with the First Covenant",
+          "reference": "8:7-8:9",
+          "why_start_end_and_devices": "The promised new covenant, unlike the one broken after the Exodus."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Laws Written on Hearts",
+          "reference": "8:10-8:13",
+          "why_start_end_and_devices": "The law inscribed within, sins remembered no more, the first made obsolete."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Earthly Sanctuary Described",
+          "reference": "9:1-9:5",
+          "why_start_end_and_devices": "The Holy Place and Most Holy Place with their furnishings and the cherubim."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Once a Year, Not Without Blood",
+          "reference": "9:6-9:7",
+          "why_start_end_and_devices": "The priests' regular duties and the high priest's annual blood-entry."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Way Not Yet Disclosed",
+          "reference": "9:8-9:10",
+          "why_start_end_and_devices": "The Spirit's lesson that the gifts could not cleanse the worshiper's conscience."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Christ’s Superior Blood and Cleansing",
+          "reference": "9:11-9:14",
+          "why_start_end_and_devices": "‘But when Christ appeared…’ how much more purify the conscience. Devices: a fortiori contrast, eternal Spirit offering."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Mediator of a New Covenant",
+          "reference": "9:15-9:17",
+          "why_start_end_and_devices": "The death securing the inheritance, as a will requires the maker's death."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Not Without Blood",
+          "reference": "9:18-9:20",
+          "why_start_end_and_devices": "The first covenant inaugurated with the blood of calves and goats."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Without Blood No Forgiveness",
+          "reference": "9:21-9:22",
+          "why_start_end_and_devices": "Nearly everything purified by blood under the law."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Once for All and Second Appearing",
+          "reference": "9:23-9:28",
+          "why_start_end_and_devices": "Copies purified vs heavenly reality; appears once, will appear again to save. Devices: copy/reality contrast, eschatological anticipation."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Only a Shadow of Good Things",
+          "reference": "10:1-10:4",
+          "why_start_end_and_devices": "Repeated sacrifices that can never perfect or take away sins."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "A Body You Prepared for Me",
+          "reference": "10:5-10:7",
+          "why_start_end_and_devices": "Christ's entrance, coming to do God's will rather than offer sacrifice."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Sanctified Once for All",
+          "reference": "10:8-10:10",
+          "why_start_end_and_devices": "The first set aside to establish the second, sanctifying through Christ's body."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "One Sacrifice, Then Seated",
+          "reference": "10:11-10:14",
+          "why_start_end_and_devices": "The Priest who offered once and sat down, perfecting forever the sanctified."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Sins Remembered No More",
+          "reference": "10:15-10:18",
+          "why_start_end_and_devices": "The Spirit's witness; where forgiven, no further offering is needed."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Let Us Draw Near",
+          "reference": "10:19-10:22",
+          "why_start_end_and_devices": "Confidence to enter by Jesus' blood, drawing near with a sincere heart."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Let Us Hold Fast and Spur One Another",
+          "reference": "10:23-10:25",
+          "why_start_end_and_devices": "Holding the confession and meeting together as the Day approaches."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Severe Warning of Judgment",
+          "reference": "10:26-10:31",
+          "why_start_end_and_devices": "If we go on sinning deliberately… fearful expectation. Devices: intensification, Deut citation, consuming‑fire close."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Recall the Former Days",
+          "reference": "10:32-10:34",
+          "why_start_end_and_devices": "The earlier endurance of suffering, ridicule, and joyful loss of property."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Do Not Throw Away Your Confidence",
+          "reference": "10:35-10:36",
+          "why_start_end_and_devices": "The great reward that calls for perseverance in God's will."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "My Righteous One Will Live by Faith",
+          "reference": "10:37-10:39",
+          "why_start_end_and_devices": "The coming One, and the faith that preserves the soul against shrinking back."
+        }
       ]
     },
     {
@@ -70,18 +402,175 @@
       "why_start_end_and_literary_glue": "Start (11:1) definition of faith opens the final paranesis; end (13:25) grace benediction closes the epistle. Glue: ‘by faith’ anaphora in ch. 11; ch. 12–13 sustained exhortations culminating in prayer and greetings.",
       "reference": "11:1 - 13:25",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Definition and Early Exemplars", "reference": "11:1-11:7", "why_start_end_and_devices": "Faith defined; Abel, Enoch, Noah conclude pre‑Abrahamic exempla. Devices: rhetorical definition, ‘by faith’ anaphora."},
-        {"scene_number": 2, "scene_name": "Abraham and the Homeland", "reference": "11:8-11:16", "why_start_end_and_devices": "Abraham/Sarah pilgrim faith; seeking a better city. Devices: inclusio on city/homeland, obedience motif."},
-        {"scene_number": 3, "scene_name": "Patriarchs to Exodus and Conquest", "reference": "11:17-11:31", "why_start_end_and_devices": "Isaac→Joseph; Moses→Rahab; continuous ‘by faith’ acts. Devices: genealogical/historical progression, rapid catalog style."},
-        {"scene_number": 4, "scene_name": "Summary Flourish and Perfection Together", "reference": "11:32-11:40", "why_start_end_and_devices": "‘What more shall I say?’ summary catalog; apart from us they are not perfected. Devices: rhetorical flourish, better‑for‑us eschatology."},
-        {"scene_number": 5, "scene_name": "Run with Endurance; Fatherly Discipline", "reference": "12:1-12:11", "why_start_end_and_devices": "Surrounded by witnesses, run the race; discipline yields peaceable fruit. Devices: race metaphor, father/discipline analogy."},
-        {"scene_number": 6, "scene_name": "Pursue Peace and Holiness; Esau Warning", "reference": "12:12-12:17", "why_start_end_and_devices": "Lift drooping hands; see to it no one fails of grace; Esau’s folly. Devices: communal vigilance imperatives, negative exemplar."},
-        {"scene_number": 7, "scene_name": "Sinai and Zion Contrasted", "reference": "12:18-12:24", "why_start_end_and_devices": "Not to Sinai but to Zion and Jesus the mediator. Devices: vivid contrast list, climactic heavenly assembly."},
-        {"scene_number": 8, "scene_name": "The Unshakable Kingdom", "reference": "12:25-12:29", "why_start_end_and_devices": "Do not refuse the speaker; shaken vs unshakable; consuming fire. Devices: Haggai citation, kingdom contrast, doxological awe."},
-        {"scene_number": 9, "scene_name": "Practical Ethical Commands and Prayer Request", "reference": "13:1-13:19", "why_start_end_and_devices": "Let love continue… varied exhortations; ‘pray for us’. Devices: paranetic catalog, leadership/altar motifs, prayer appeal."},
-        {"scene_number": 10, "scene_name": "Final Prayer, Greetings, and Grace", "reference": "13:20-13:25", "why_start_end_and_devices": "God of peace benediction; brief greetings; ‘Grace be with all of you.’ Devices: summary benediction, epistolary close."}
+        {
+          "scene_number": 1,
+          "scene_name": "Faith Is the Assurance",
+          "reference": "11:1-11:3",
+          "why_start_end_and_devices": "The definition, the ancients commended, the universe formed by God's word."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Abel, Enoch, and Noah",
+          "reference": "11:4-11:7",
+          "why_start_end_and_devices": "The early exemplars: better sacrifice, taken up, the ark built in godly fear."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "By Faith Abraham Obeyed",
+          "reference": "11:8-11:10",
+          "why_start_end_and_devices": "Going out not knowing where, dwelling in tents, awaiting the city with foundations."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Sarah and the Countless Offspring",
+          "reference": "11:11-11:12",
+          "why_start_end_and_devices": "The barren one enabled, descendants like the stars and the sand."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Strangers Seeking a Homeland",
+          "reference": "11:13-11:16",
+          "why_start_end_and_devices": "Dying in faith, longing for the better, heavenly country God prepared."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Abraham Offered Up Isaac",
+          "reference": "11:17-11:19",
+          "why_start_end_and_devices": "The test endured, reasoning that God could raise the dead."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Isaac, Jacob, and Joseph Bless",
+          "reference": "11:20-11:22",
+          "why_start_end_and_devices": "The dying patriarchs blessing the future and the bones of the exodus."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "By Faith Moses Refused",
+          "reference": "11:23-11:26",
+          "why_start_end_and_devices": "Hidden as a child, choosing disgrace for Christ over Egypt's treasures."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Kept the Passover",
+          "reference": "11:27-11:28",
+          "why_start_end_and_devices": "Leaving Egypt unafraid, the sprinkled blood sparing the firstborn."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Red Sea, Jericho, and Rahab",
+          "reference": "11:29-11:31",
+          "why_start_end_and_devices": "The sea crossed, the walls fallen, the prostitute spared for welcoming the spies."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Time Will Not Allow Me",
+          "reference": "11:32-11:34",
+          "why_start_end_and_devices": "The roll of judges, kings, and prophets who through faith conquered."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Tortured, Stoned, Sawn in Two",
+          "reference": "11:35-11:38",
+          "why_start_end_and_devices": "The suffering faithful of whom the world was not worthy."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Made Perfect Together with Us",
+          "reference": "11:39-11:40",
+          "why_start_end_and_devices": "The commended who awaited the something better God had planned."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "A Great Cloud of Witnesses",
+          "reference": "12:1-12:3",
+          "why_start_end_and_devices": "Throwing off the sin that entangles, fixing eyes on Jesus the author and perfecter."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Discipline of the Lord",
+          "reference": "12:4-12:6",
+          "why_start_end_and_devices": "The forgotten exhortation: the Lord disciplines the one He loves."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Endure as Sons",
+          "reference": "12:7-12:8",
+          "why_start_end_and_devices": "God treating them as sons; the undisciplined are illegitimate children."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "A Harvest of Righteousness",
+          "reference": "12:9-12:11",
+          "why_start_end_and_devices": "Submitting to the Father of spirits, discipline yielding peace to the trained."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Pursue Peace and Holiness; Esau Warning",
+          "reference": "12:12-12:17",
+          "why_start_end_and_devices": "Lift drooping hands; see to it no one fails of grace; Esau’s folly. Devices: communal vigilance imperatives, negative exemplar."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Not to a Mountain of Fire",
+          "reference": "12:18-12:21",
+          "why_start_end_and_devices": "The terror of Sinai's blazing mountain that even Moses feared."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "But to Mount Zion",
+          "reference": "12:22-12:24",
+          "why_start_end_and_devices": "The heavenly Jerusalem, angels, the firstborn, and Jesus' sprinkled blood."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Unshakable Kingdom",
+          "reference": "12:25-12:29",
+          "why_start_end_and_devices": "Do not refuse the speaker; shaken vs unshakable; consuming fire. Devices: Haggai citation, kingdom contrast, doxological awe."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Brotherly Love and Hospitality",
+          "reference": "13:1-13:3",
+          "why_start_end_and_devices": "Loving strangers, remembering prisoners and the mistreated as bound with them."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Marriage, Money, Contentment",
+          "reference": "13:4-13:6",
+          "why_start_end_and_devices": "The honored marriage bed, freedom from love of money, the Lord my helper."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Remember Your Leaders",
+          "reference": "13:7-13:9",
+          "why_start_end_and_devices": "Imitating their faith, Christ the same forever, not carried off by strange teachings."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Outside the Camp",
+          "reference": "13:10-13:14",
+          "why_start_end_and_devices": "The altar and Jesus suffering outside the gate, bearing His disgrace toward the city to come."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "A Sacrifice of Praise",
+          "reference": "13:15-13:17",
+          "why_start_end_and_devices": "Continual praise, doing good, and obeying the leaders who watch over souls."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Pray for Us",
+          "reference": "13:18-13:19",
+          "why_start_end_and_devices": "The request for prayer and for a swift restoration to them."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Final Prayer, Greetings, and Grace",
+          "reference": "13:20-13:25",
+          "why_start_end_and_devices": "God of peace benediction; brief greetings; ‘Grace be with all of you.’ Devices: summary benediction, epistolary close."
+        }
       ]
     }
   ]
 }
-

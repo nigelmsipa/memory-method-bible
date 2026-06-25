@@ -10,9 +10,30 @@
       "why_start_end_and_literary_glue": "Start (1:1) formal salutation inaugurates the letter; end (1:17) states the thesis (‘the righteous shall live by faith’) that governs the argument. Glue: repeated ‘gospel’ emphasis, Paul’s apostolic self‑presentation, obligation to all nations.",
       "reference": "1:1 - 1:17",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Apostolic Greeting and Identity", "reference": "1:1-1:7", "why_start_end_and_devices": "Epistolary opening with compressed Christology and mission; concludes with grace‑peace benediction. Devices: densely subordinated syntax, title cascade."},
-        {"scene_number": 2, "scene_name": "Prayer Report and Mutual Desire", "reference": "1:8-1:12", "why_start_end_and_devices": "Thanksgiving and intercession climax in mutual encouragement. Devices: inclusio around faith, rapport‑building."},
-        {"scene_number": 3, "scene_name": "Apostolic Obligation and Thesis", "reference": "1:13-1:17", "why_start_end_and_devices": "Travel intent and debtor language lead to thesis: gospel reveals God’s righteousness by faith. Devices: diatribal anticipation, Hab 2:4 citation."}
+        {
+          "scene_number": 1,
+          "scene_name": "Called as Apostle for the Gospel of God",
+          "reference": "1:1-1:4",
+          "why_start_end_and_devices": "Servant of Christ Jesus, set apart; the gospel of God promised through the prophets, concerning the Son declared Lord by resurrection."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Grace, Apostleship, and Rome's Call",
+          "reference": "1:5-1:7",
+          "why_start_end_and_devices": "Through Him grace and apostleship for Gentile obedience-of-faith; including the called in Rome; grace and peace from God and the Lord Jesus Christ."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Prayer Report and Mutual Desire",
+          "reference": "1:8-1:12",
+          "why_start_end_and_devices": "Thanksgiving and intercession climax in mutual encouragement. Devices: inclusio around faith, rapport‑building."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Apostolic Obligation and Thesis",
+          "reference": "1:13-1:17",
+          "why_start_end_and_devices": "Travel intent and debtor language lead to thesis: gospel reveals God’s righteousness by faith. Devices: diatribal anticipation, Hab 2:4 citation."
+        }
       ]
     },
     {
@@ -21,16 +42,90 @@
       "why_start_end_and_literary_glue": "Start (1:18) introduces revealed wrath contrasting 1:17’s righteousness; end (3:20) concludes no flesh justified by law—law gives knowledge of sin. Glue: diatribe addressing moralist/Jew, ‘God gave them up’ refrain, sin/unrighteousness vocabulary culminating in catena proof.",
       "reference": "1:18 - 3:20",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Wrath on Gentile Unrighteousness", "reference": "1:18-1:23", "why_start_end_and_devices": "From revelation of wrath to exchange of glory for images. Devices: cause→effect logic, general revelation culpability."},
-        {"scene_number": 2, "scene_name": "The Degradation of Idolatry", "reference": "1:24-1:27", "why_start_end_and_devices": "First ‘God gave them up’; dishonor of bodies and passions detailed. Devices: refrain as structural marker, antithetical contrasts."},
-        {"scene_number": 3, "scene_name": "Reprobate Mind and Vice List", "reference": "1:28-1:32", "why_start_end_and_devices": "Final ‘gave them up’ to depraved mind; catalog of vices; approval of evil. Devices: vice list, paradox of consent."},
-        {"scene_number": 4, "scene_name": "Judgment of the Hypocritical Moralist", "reference": "2:1-2:5", "why_start_end_and_devices": "Apostrophe to the judging ‘O man’; storing up wrath. Devices: diatribe turn, reversal of judgment."},
-        {"scene_number": 5, "scene_name": "Impartial Judgment", "reference": "2:6-2:11", "why_start_end_and_devices": "Render to each; Jew first and Greek; no partiality. Devices: parallelism, inclusio by 2:11."},
-        {"scene_number": 6, "scene_name": "Law and Conscience", "reference": "2:12-2:16", "why_start_end_and_devices": "Perish with/without law; conscience as witness; day when God judges secrets. Devices: thesis‑explanation unit, inner law motif."},
-        {"scene_number": 7, "scene_name": "Jewish Privilege vs Practice", "reference": "2:17-2:24", "why_start_end_and_devices": "‘You who…’ participles expose hypocrisy; Scripture indicts blasphemy among nations. Devices: anaphoric charge, OT citation."},
-        {"scene_number": 8, "scene_name": "True Circumcision", "reference": "2:25-2:29", "why_start_end_and_devices": "Outward vs inward; letter vs Spirit; praise from God. Devices: antithesis, identity redefinition."},
-        {"scene_number": 9, "scene_name": "Dialogue on Advantage and Faithfulness", "reference": "3:1-3:8", "why_start_end_and_devices": "Advantages of Jew; God’s truth vs human falsehood; slander refuted. Devices: diatribal Q&A, ethical clarification."},
-        {"scene_number": 10, "scene_name": "All Under Sin: Catena and Verdict", "reference": "3:9-3:20", "why_start_end_and_devices": "Charge of universal sin; OT catena as evidence; law silences mouths. Devices: chain citation, forensic conclusion."}
+        {
+          "scene_number": 1,
+          "scene_name": "Wrath on Gentile Unrighteousness",
+          "reference": "1:18-1:23",
+          "why_start_end_and_devices": "From revelation of wrath to exchange of glory for images. Devices: cause→effect logic, general revelation culpability."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Degradation of Idolatry",
+          "reference": "1:24-1:27",
+          "why_start_end_and_devices": "First ‘God gave them up’; dishonor of bodies and passions detailed. Devices: refrain as structural marker, antithetical contrasts."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Reprobate Mind and Vice List",
+          "reference": "1:28-1:32",
+          "why_start_end_and_devices": "Final ‘gave them up’ to depraved mind; catalog of vices; approval of evil. Devices: vice list, paradox of consent."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Judgment of the Hypocritical Moralist",
+          "reference": "2:1-2:5",
+          "why_start_end_and_devices": "Apostrophe to the judging ‘O man’; storing up wrath. Devices: diatribe turn, reversal of judgment."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Impartial Judgment",
+          "reference": "2:6-2:11",
+          "why_start_end_and_devices": "Render to each; Jew first and Greek; no partiality. Devices: parallelism, inclusio by 2:11."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Law and Conscience",
+          "reference": "2:12-2:16",
+          "why_start_end_and_devices": "Perish with/without law; conscience as witness; day when God judges secrets. Devices: thesis‑explanation unit, inner law motif."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Jew's Boast in the Law",
+          "reference": "2:17-2:20",
+          "why_start_end_and_devices": "You call yourself a Jew and rest in the law; you're a guide to the blind, a teacher of children, having in the law the form of knowledge and truth."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Practice What You Preach",
+          "reference": "2:21-2:24",
+          "why_start_end_and_devices": "You who teach another do not teach yourself; you who preach against stealing steal; because of you the name of God is blasphemed among the Gentiles."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "True Circumcision",
+          "reference": "2:25-2:29",
+          "why_start_end_and_devices": "Outward vs inward; letter vs Spirit; praise from God. Devices: antithesis, identity redefinition."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "God's Faithfulness Despite Israel's Unfaithfulness",
+          "reference": "3:1-3:4",
+          "why_start_end_and_devices": "The Jew's advantage is entrusted with the oracles of God; if some were unfaithful, God remains true — let God be true though every man a liar."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Does God's Justice Stand Despite Our Sin?",
+          "reference": "3:5-3:8",
+          "why_start_end_and_devices": "If our unrighteousness showcases God's righteousness, is He unjust to inflict wrath? Shall we do evil that good may come? Their condemnation is just."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "All, Both Jews and Greeks, Are Under Sin",
+          "reference": "3:9-3:12",
+          "why_start_end_and_devices": "No, not at all — all are under sin; none righteous, not even one; none who understands; none who seeks God; all have turned aside."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Catena: Throat, Tongue, Feet, Eyes",
+          "reference": "3:13-3:18",
+          "why_start_end_and_devices": "Their throat is an open grave; they use their tongues to deceive; lips full of curses; feet swift to shed blood; no fear of God before their eyes."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Every Mouth Stopped by the Law's Verdict",
+          "reference": "3:19-3:20",
+          "why_start_end_and_devices": "The law speaks to silence every mouth; the whole world becomes accountable to God; no one will be justified before Him by works of the law."
+        }
       ]
     },
     {
@@ -39,17 +134,78 @@
       "why_start_end_and_literary_glue": "Start (3:21) ‘But now’ introduces God’s righteousness apart from law; end (5:21) closes Adam–Christ contrast with grace reigning to life. Glue: righteousness/faith terminology, Abraham/David witnesses, and typological Adam–Christ parallel.",
       "reference": "3:21 - 5:21",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Essence of Justification", "reference": "3:21-3:26", "why_start_end_and_devices": "Manifest righteousness through Christ’s propitiation; God just and justifier. Devices: dense soteriological lexicon (hilastērion, redemption)."},
-        {"scene_number": 2, "scene_name": "Boasting Excluded; Law Upheld", "reference": "3:27-3:31", "why_start_end_and_devices": "Where then boasting? By law of faith; law established. Devices: diatribal objections, paradox resolution."},
-        {"scene_number": 3, "scene_name": "Abraham as Model; David’s Witness", "reference": "4:1-4:8", "why_start_end_and_devices": "Gen 15:6 and Ps 32 ground justification apart from works. Devices: exegetical proof, dual witness."},
-        {"scene_number": 4, "scene_name": "Circumcision Follows Faith", "reference": "4:9-4:12", "why_start_end_and_devices": "Timing proves universality; father of circumcised/uncircumcised. Devices: logical sequencing, boundary marker argument."},
-        {"scene_number": 5, "scene_name": "Promise Through Faith, Not Law", "reference": "4:13-4:17", "why_start_end_and_devices": "Heir of the world via faith; God who gives life to dead. Devices: promise–law antithesis, divine causation."},
-        {"scene_number": 6, "scene_name": "Abraham’s Triumphant Faith", "reference": "4:18-4:22", "why_start_end_and_devices": "Against hope he believed; faith credited as righteousness. Devices: paradox, narrative commendation."},
-        {"scene_number": 7, "scene_name": "For Our Sake; Fruits of Justification", "reference": "4:23-5:5", "why_start_end_and_devices": "Crediting written for us; peace, access, hope; suffering chain to hope by Spirit’s love. Devices: application bridge, experiential sequence."},
-        {"scene_number": 8, "scene_name": "God’s Love and Reconciliation", "reference": "5:6-5:11", "why_start_end_and_devices": "Christ died for the ungodly; much‑more logic; reconciliation joy. Devices: a fortiori reasoning, assurance."},
-        {"scene_number": 9, "scene_name": "Adam and the Entrance of Sin", "reference": "5:12-5:14", "why_start_end_and_devices": "Sin/death through one; Adam a type. Devices: typology introduction, problem setup."},
-        {"scene_number": 10, "scene_name": "Superabounding Grace", "reference": "5:15-5:17", "why_start_end_and_devices": "Gift not like trespass; grace reigns in life. Devices: antithesis, contrast amplification."},
-        {"scene_number": 11, "scene_name": "Final Contrast and Grace’s Reign", "reference": "5:18-5:21", "why_start_end_and_devices": "As–so summary; law enters to increase trespass; grace reigns to life. Devices: parallelism, climactic summary."}
+        {
+          "scene_number": 1,
+          "scene_name": "Essence of Justification",
+          "reference": "3:21-3:26",
+          "why_start_end_and_devices": "Manifest righteousness through Christ’s propitiation; God just and justifier. Devices: dense soteriological lexicon (hilastērion, redemption)."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Boasting Excluded; Law Upheld",
+          "reference": "3:27-3:31",
+          "why_start_end_and_devices": "Where then boasting? By law of faith; law established. Devices: diatribal objections, paradox resolution."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Abraham Believed God and It Was Credited",
+          "reference": "4:1-4:5",
+          "why_start_end_and_devices": "If Abraham was justified by works he has a boast, but not before God; he believed God and it was credited as righteousness — not wages but gift to the one who trusts."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "David's Witness: Blessed Is the Forgiven",
+          "reference": "4:6-4:8",
+          "why_start_end_and_devices": "David speaks of blessedness of the man God credits righteousness apart from works: blessed are those whose lawless deeds are forgiven and whose sins are covered."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Circumcision Follows Faith",
+          "reference": "4:9-4:12",
+          "why_start_end_and_devices": "Timing proves universality; father of circumcised/uncircumcised. Devices: logical sequencing, boundary marker argument."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Promise Through Faith, Not Law",
+          "reference": "4:13-4:17",
+          "why_start_end_and_devices": "Heir of the world via faith; God who gives life to dead. Devices: promise–law antithesis, divine causation."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Abraham’s Triumphant Faith",
+          "reference": "4:18-4:22",
+          "why_start_end_and_devices": "Against hope he believed; faith credited as righteousness. Devices: paradox, narrative commendation."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "For Our Sake; Fruits of Justification",
+          "reference": "4:23-5:5",
+          "why_start_end_and_devices": "Crediting written for us; peace, access, hope; suffering chain to hope by Spirit’s love. Devices: application bridge, experiential sequence."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "God’s Love and Reconciliation",
+          "reference": "5:6-5:11",
+          "why_start_end_and_devices": "Christ died for the ungodly; much‑more logic; reconciliation joy. Devices: a fortiori reasoning, assurance."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Adam and the Entrance of Sin",
+          "reference": "5:12-5:14",
+          "why_start_end_and_devices": "Sin/death through one; Adam a type. Devices: typology introduction, problem setup."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Superabounding Grace",
+          "reference": "5:15-5:17",
+          "why_start_end_and_devices": "Gift not like trespass; grace reigns in life. Devices: antithesis, contrast amplification."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Final Contrast and Grace’s Reign",
+          "reference": "5:18-5:21",
+          "why_start_end_and_devices": "As–so summary; law enters to increase trespass; grace reigns to life. Devices: parallelism, climactic summary."
+        }
       ]
     },
     {
@@ -58,17 +214,126 @@
       "why_start_end_and_literary_glue": "Shifts from declared righteousness (3–5) to lived holiness (6–8). Glue: diatribal questions (6:1, 15; 7:7, 13), law‑sin analysis, and Spirit’s saturating presence culminating in assurance and love in ch. 8.",
       "reference": "6:1 - 8:39",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Death to Sin Through Baptism", "reference": "6:1-6:5", "why_start_end_and_devices": "‘Shall we continue in sin?’ By no means; united to Christ’s death/raising. Devices: diatribe, baptismal union analogy."},
-        {"scene_number": 2, "scene_name": "Know, Reckon, Yield", "reference": "6:6-6:14", "why_start_end_and_devices": "Know old self crucified; reckon dead to sin; yield to God. Devices: threefold imperative rhythm, dominion contrast."},
-        {"scene_number": 3, "scene_name": "Slaves of Righteousness", "reference": "6:15-6:23", "why_start_end_and_devices": "‘Shall we sin?’ Not under law but grace; wages vs gift. Devices: diatribe, slavery metaphor, antithetical close."},
-        {"scene_number": 4, "scene_name": "Released from the Law (Analogy)", "reference": "7:1-7:6", "why_start_end_and_devices": "Marriage death analogy; serve in newness of Spirit. Devices: legal analogy, new‑covenant contrast."},
-        {"scene_number": 5, "scene_name": "The Law and Sin", "reference": "7:7-7:13", "why_start_end_and_devices": "Is the law sin? By no means; law exposes and occasions sin. Devices: diatribe, experiential ‘I’ explanation."},
-        {"scene_number": 6, "scene_name": "The Inner Conflict", "reference": "7:14-7:25", "why_start_end_and_devices": "I do not do the good I will; who will deliver me? Devices: lament climax, thanksgiving turn to Jesus Christ."},
-        {"scene_number": 7, "scene_name": "No Condemnation; Life in the Spirit", "reference": "8:1-8:11", "why_start_end_and_devices": "Law of Spirit of life; Spirit indwells and gives life. Devices: forensic declaration→indwelling motif."},
-        {"scene_number": 8, "scene_name": "Children and Heirs", "reference": "8:12-8:17", "why_start_end_and_devices": "Led by Spirit; Abba cry; co‑heirs with Christ. Devices: adoption imagery, suffering‑with to glory‑with."},
-        {"scene_number": 9, "scene_name": "Suffering, Hope, and the Spirit’s Help", "reference": "8:18-8:27", "why_start_end_and_devices": "Creation’s groaning; hope’s patience; Spirit intercedes. Devices: triadic groaning, eschatological tension."},
-        {"scene_number": 10, "scene_name": "Purpose and Destiny", "reference": "8:28-8:30", "why_start_end_and_devices": "All things for good; foreknew→predestined→called→justified→glorified. Devices: golden chain, aorist sweep."},
-        {"scene_number": 11, "scene_name": "Triumph of God’s Love", "reference": "8:31-8:39", "why_start_end_and_devices": "If God is for us… nothing separates us from love in Christ. Devices: rhetorical barrage, victory crescendo."}
+        {
+          "scene_number": 1,
+          "scene_name": "Death to Sin Through Baptism",
+          "reference": "6:1-6:5",
+          "why_start_end_and_devices": "‘Shall we continue in sin?’ By no means; united to Christ’s death/raising. Devices: diatribe, baptismal union analogy."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Our Old Self Crucified with Him",
+          "reference": "6:6-6:10",
+          "why_start_end_and_devices": "The body of sin done away so we no longer serve sin; dead to sin, we shall also live with Him; death has no more dominion over Him — alive to God."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Reckon Yourself Dead; Offer Your Members",
+          "reference": "6:11-6:14",
+          "why_start_end_and_devices": "Count yourselves dead to sin but alive to God in Christ; do not let sin reign; offer yourselves to God as instruments of righteousness — sin will not have dominion over you."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Obedience of the Heart to Righteousness",
+          "reference": "6:15-6:18",
+          "why_start_end_and_devices": "Shall we sin because we're not under law? No! You present yourselves as slaves to whom you obey — sin leading to death or obedience leading to righteousness; freed from sin, enslaved to righteousness."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Wage of Sin; the Gift of Eternal Life",
+          "reference": "6:19-6:23",
+          "why_start_end_and_devices": "Speaking in human terms: you once offered members to impurity; now offer them to righteousness for sanctification; the wage of sin is death but the free gift of God is eternal life in Christ."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Released from the Law (Analogy)",
+          "reference": "7:1-7:6",
+          "why_start_end_and_devices": "Marriage death analogy; serve in newness of Spirit. Devices: legal analogy, new‑covenant contrast."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Sin Used the Commandment to Produce Covetousness",
+          "reference": "7:7-7:11",
+          "why_start_end_and_devices": "The law is not sin; I wouldn't have known covetousness without 'you shall not covet'; sin seized the opportunity and produced all covetousness in me; sin killed me."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Commandment Holy; Sin Exposed Through the Good",
+          "reference": "7:12-7:13",
+          "why_start_end_and_devices": "The law is holy; the commandment holy, righteous and good; not the good that brought death but sin — so that sin might be shown as sin, through the good, exceedingly sinful."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Sold Under Sin: I Do What I Hate",
+          "reference": "7:14-7:17",
+          "why_start_end_and_devices": "The law is spiritual but I am fleshly, sold under sin; I do not understand my own actions; I do what I hate — it is no longer I who do it but sin dwelling in me."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "I Want Good But Evil Is Right There",
+          "reference": "7:18-7:21",
+          "why_start_end_and_devices": "Nothing good dwells in me, that is, in my flesh; I have the desire to do right but not the ability to carry it out; I do the very evil I do not want — evil lies close at hand."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Wretched Man — Delivered Through Christ",
+          "reference": "7:22-7:25",
+          "why_start_end_and_devices": "I delight in God's law in my inner being; but I see another law waging war and making me captive to sin; wretched man that I am — thanks be to God through Jesus Christ our Lord!"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "No Condemnation; the Spirit of Life",
+          "reference": "8:1-8:4",
+          "why_start_end_and_devices": "No condemnation for those in Christ; the law of the Spirit of life set me free from sin and death; God condemned sin in the flesh so the law's requirement is fulfilled in us who walk by the Spirit."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Mind on Flesh or Spirit: Death or Life",
+          "reference": "8:5-8:8",
+          "why_start_end_and_devices": "Those of the flesh set their mind on the flesh; to set the mind on flesh is death; to set it on the Spirit is life and peace; the mind set on flesh is hostile to God."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "If the Spirit of Christ Dwells in You",
+          "reference": "8:9-8:11",
+          "why_start_end_and_devices": "You are not in the flesh but in the Spirit, if the Spirit of God dwells in you; if Christ is in you, the body is dead but the spirit is life; He who raised Christ will also give life to your mortal bodies."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Children and Heirs",
+          "reference": "8:12-8:17",
+          "why_start_end_and_devices": "Led by Spirit; Abba cry; co‑heirs with Christ. Devices: adoption imagery, suffering‑with to glory‑with."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Creation Groans for the Revealing of the Sons",
+          "reference": "8:18-8:22",
+          "why_start_end_and_devices": "Present sufferings not worth comparing to the glory; creation waits with eager longing; it was subjected to futility in hope; creation will be freed from its bondage to corruption — it groans together."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "We Groan; the Spirit Intercedes for Us",
+          "reference": "8:23-8:27",
+          "why_start_end_and_devices": "We who have the firstfruits of the Spirit groan for adoption and redemption of our bodies; we were saved in hope; the Spirit helps us in weakness, interceding with groanings too deep for words."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Purpose and Destiny",
+          "reference": "8:28-8:30",
+          "why_start_end_and_devices": "All things for good; foreknew→predestined→called→justified→glorified. Devices: golden chain, aorist sweep."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "If God Is for Us, Who Can Be Against Us?",
+          "reference": "8:31-8:34",
+          "why_start_end_and_devices": "God did not spare His own Son but gave Him for us all; who will bring charges? God justifies; who is to condemn? Christ Jesus died and was raised and is at the right hand interceding."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Nothing Can Separate Us from the Love of Christ",
+          "reference": "8:35-8:39",
+          "why_start_end_and_devices": "Who shall separate us from Christ's love? Tribulation, distress, sword? In all these we are more than conquerors through Him. Nothing in all creation can separate us from the love of God."
+        }
       ]
     },
     {
@@ -77,18 +342,126 @@
       "why_start_end_and_literary_glue": "Addresses Israel’s status under the gospel: sovereign purpose (9), human responsibility (10), and future mercy (11). Glue: heavy OT citation, remnant motif, olive tree metaphor, and closing doxology.",
       "reference": "9:1 - 11:36",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Paul’s Sorrow and Israel’s Privileges", "reference": "9:1-9:5", "why_start_end_and_devices": "Great sorrow; adoption, covenants, promises; Christ according to flesh. Devices: oath emphasis, privilege list."},
-        {"scene_number": 2, "scene_name": "God’s Purpose of Election", "reference": "9:6-9:13", "why_start_end_and_devices": "Not all Israel are Israel; Isaac/Jacob over Ishmael/Esau. Devices: identity redefinition, prenatal oracle citations."},
-        {"scene_number": 3, "scene_name": "Mercy and Hardening", "reference": "9:14-9:18", "why_start_end_and_devices": "Is God unjust? By no means; mercy on whom he wills; Pharaoh. Devices: diatribe, Exodus citation."},
-        {"scene_number": 4, "scene_name": "Potter and Clay; Vessels", "reference": "9:19-9:24", "why_start_end_and_devices": "Who resists his will? Potter’s right; vessels of mercy. Devices: rhetorical rebuke, metaphor argument."},
-        {"scene_number": 5, "scene_name": "Hosea and Isaiah on the Remnant", "reference": "9:25-9:29", "why_start_end_and_devices": "Called ‘not my people’; only a remnant saved. Devices: catena citations, remnant theme."},
-        {"scene_number": 6, "scene_name": "Stumbling over the Stone", "reference": "9:30-10:4", "why_start_end_and_devices": "Gentiles by faith; Israel pursuing law stumbled at Christ. Devices: pursuit metaphor, stone citations."},
-        {"scene_number": 7, "scene_name": "Word Near You: Confess and Believe", "reference": "10:5-10:13", "why_start_end_and_devices": "Righteousness by faith speaks; heart‑believe/mouth‑confess; ‘everyone who calls’. Devices: Deut citation, universal call."},
-        {"scene_number": 8, "scene_name": "Preaching and Israel’s Hearing", "reference": "10:14-10:21", "why_start_end_and_devices": "How will they hear without a preacher? Israel disobeyed. Devices: stepwise logic, Isaiah echo."},
-        {"scene_number": 9, "scene_name": "Remnant by Grace", "reference": "11:1-11:10", "why_start_end_and_devices": "Has God rejected his people? By no means; Elijah remnant; grace not works. Devices: diatribe, remnant proof."},
-        {"scene_number": 10, "scene_name": "Salvation to Gentiles; Israel Provoked", "reference": "11:11-11:24", "why_start_end_and_devices": "Their trespass riches for Gentiles; olive tree grafting; warning to Gentile pride. Devices: metaphor admonition, purpose reversal."},
-        {"scene_number": 11, "scene_name": "Mystery: All Israel Will Be Saved", "reference": "11:25-11:32", "why_start_end_and_devices": "Partial hardening until fullness; irrevocable calling; all imprisoned to show mercy. Devices: revealed mystery, mercy inclusio."},
-        {"scene_number": 12, "scene_name": "Doxology", "reference": "11:33-11:36", "why_start_end_and_devices": "Depth of wisdom; from, through, to him are all things. Devices: hymnic doxology, rhetorical seal."}
+        {
+          "scene_number": 1,
+          "scene_name": "Paul’s Sorrow and Israel’s Privileges",
+          "reference": "9:1-9:5",
+          "why_start_end_and_devices": "Great sorrow; adoption, covenants, promises; Christ according to flesh. Devices: oath emphasis, privilege list."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Not All from Israel Are Israel",
+          "reference": "9:6-9:9",
+          "why_start_end_and_devices": "The word of God has not failed; not all descended from Israel are Israel; children of the flesh are not children of God — the children of the promise are counted as offspring; through Isaac shall your offspring be named."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Jacob Loved, Esau Hated Before Birth",
+          "reference": "9:10-9:13",
+          "why_start_end_and_devices": "Rebecca's children by one man Isaac; before born or having done anything, the older will serve the younger — not by works but by Him who calls; Jacob I loved, Esau I hated."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Mercy and Hardening",
+          "reference": "9:14-9:18",
+          "why_start_end_and_devices": "Is God unjust? By no means; mercy on whom he wills; Pharaoh. Devices: diatribe, Exodus citation."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Potter and Clay; Vessels",
+          "reference": "9:19-9:24",
+          "why_start_end_and_devices": "Who resists his will? Potter’s right; vessels of mercy. Devices: rhetorical rebuke, metaphor argument."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Hosea and Isaiah on the Remnant",
+          "reference": "9:25-9:29",
+          "why_start_end_and_devices": "Called ‘not my people’; only a remnant saved. Devices: catena citations, remnant theme."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Gentiles Attained; Israel Stumbled",
+          "reference": "9:30-9:33",
+          "why_start_end_and_devices": "Gentiles who did not pursue righteousness attained it by faith; Israel pursuing a law of righteousness did not attain it — they stumbled over the stumbling stone; whoever believes will not be put to shame."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Zeal Without Knowledge; Christ the Goal",
+          "reference": "10:1-10:4",
+          "why_start_end_and_devices": "Paul's heart's desire for Israel's salvation; they have zeal but not according to knowledge; seeking to establish their own righteousness; Christ is the goal of the law for righteousness to all who believe."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Word of Faith Is Near You",
+          "reference": "10:5-10:8",
+          "why_start_end_and_devices": "Moses writes of righteousness by law; the righteousness by faith says: do not say 'who will ascend?' or 'descend?' — the word is near you, in your mouth and heart."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Confess and Believe — All Who Call Will Be Saved",
+          "reference": "10:9-10:13",
+          "why_start_end_and_devices": "If you confess Jesus as Lord and believe God raised Him you will be saved; Scripture says no one who believes will be put to shame; all who call on the name of the Lord will be saved."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "How Shall They Believe Without Hearing?",
+          "reference": "10:14-10:17",
+          "why_start_end_and_devices": "They cannot call on one they have not believed; cannot believe without hearing; cannot hear without preaching; faith comes from hearing the message, and the message through the word of Christ."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Israel Did Hear and Did Not Obey",
+          "reference": "10:18-10:21",
+          "why_start_end_and_devices": "Their voice has gone into all the earth; Moses says God will make Israel jealous; Isaiah says He was found by those who did not seek Him; to Israel He stretched out His hands to a disobedient people."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "God Has Not Rejected His People — Remnant by Grace",
+          "reference": "11:1-11:6",
+          "why_start_end_and_devices": "Has God rejected His people? By no means — Paul himself an Israelite; God foreknew them; Elijah's complaint and the seven thousand; so too there is a remnant at this time chosen by grace, not works."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Elect Obtained It; the Rest Were Hardened",
+          "reference": "11:7-11:10",
+          "why_start_end_and_devices": "Israel failed to obtain what it was seeking; the elect obtained it; the rest were hardened; God gave them a spirit of stupor, eyes that would not see; let their backs be bent forever."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Their Transgression Brings Riches to Gentiles",
+          "reference": "11:11-11:15",
+          "why_start_end_and_devices": "Did they stumble to fall? By no means! Their transgression brought riches to the world; their rejection brought reconciliation; if their acceptance means life from the dead, how much more?"
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Natural Branches Broken Off; Wild Branch Grafted",
+          "reference": "11:16-11:21",
+          "why_start_end_and_devices": "The root is holy; natural branches broken off for unbelief; you a wild olive shoot grafted in through faith; do not be arrogant but fear — if God did not spare the natural branches, neither will He spare you."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "God's Kindness and Severity; Israel Grafted Back",
+          "reference": "11:22-11:24",
+          "why_start_end_and_devices": "See the kindness and severity of God; they will be grafted back in if they do not continue in unbelief; how much more will the natural branches be grafted back into their own olive tree?"
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Mystery: Partial Hardening Until the Full Number",
+          "reference": "11:25-11:28",
+          "why_start_end_and_devices": "A partial hardening has come until the fullness of the Gentiles has come in, and so all Israel will be saved; the Deliverer from Zion; they are enemies for your sake but beloved for the patriarchs."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Irrevocable Gifts; Mercy on All",
+          "reference": "11:29-11:32",
+          "why_start_end_and_devices": "The gifts and calling of God are irrevocable; as you were disobedient but have received mercy, so they have now been disobedient in order that they also may receive mercy — God has consigned all to disobedience to have mercy on all."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Doxology",
+          "reference": "11:33-11:36",
+          "why_start_end_and_devices": "Depth of wisdom; from, through, to him are all things. Devices: hymnic doxology, rhetorical seal."
+        }
       ]
     },
     {
@@ -97,15 +470,114 @@
       "why_start_end_and_literary_glue": "Paraenetic turn signaled by ‘therefore’ (12:1); doctrine becomes practice—worship, gifts, love, authorities, and mutual forbearance, culminating in Jew–Gentile harmony. Glue: imperative chains, love fulfillment of law, weak/strong dynamics.",
       "reference": "12:1 - 15:13",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Living Sacrifice and Renewed Mind", "reference": "12:1-12:2", "why_start_end_and_devices": "Present bodies; non‑conformity; transformation by mind renewal. Devices: cultic metaphor, hinge ‘therefore’."},
-        {"scene_number": 2, "scene_name": "Humble Service and Gifts", "reference": "12:3-12:8", "why_start_end_and_devices": "Think soberly; one body, many members; exercise gifts. Devices: body metaphor, gift list."},
-        {"scene_number": 3, "scene_name": "Love Ethic", "reference": "12:9-12:21", "why_start_end_and_devices": "Sincere love; bless persecutors; overcome evil with good. Devices: staccato imperatives, antithesis."},
-        {"scene_number": 4, "scene_name": "Be Subject to Authorities", "reference": "13:1-13:7", "why_start_end_and_devices": "No authority except from God; pay dues. Devices: theological ground for civil obedience."},
-        {"scene_number": 5, "scene_name": "Love Fulfills the Law; Put on Christ", "reference": "13:8-13:14", "why_start_end_and_devices": "Owe no one anything but love; salvation nearer; put on the Lord Jesus Christ. Devices: day/night contrast, clothing metaphor."},
-        {"scene_number": 6, "scene_name": "Welcome the Weak in Faith", "reference": "14:1-14:12", "why_start_end_and_devices": "Do not despise/judge; each stands before his own master. Devices: paired exhortations, lordship rationale."},
-        {"scene_number": 7, "scene_name": "Do Not Stumble Your Brother", "reference": "14:13-14:23", "why_start_end_and_devices": "Pursue peace; kingdom is righteousness, peace, joy; whatever is not of faith is sin. Devices: conscience ethic, kingdom focus."},
-        {"scene_number": 8, "scene_name": "Please Others; Scripture’s Encouragement", "reference": "15:1-15:7", "why_start_end_and_devices": "Christ did not please himself; harmony to glorify God. Devices: example of Christ, unity telos."},
-        {"scene_number": 9, "scene_name": "Hope for Jew and Gentile", "reference": "15:8-15:13", "why_start_end_and_devices": "Christ a servant to circumcision; Gentiles glorify God; hope by the Spirit. Devices: citation cluster, benedictory wish."}
+        {
+          "scene_number": 1,
+          "scene_name": "Living Sacrifice and Renewed Mind",
+          "reference": "12:1-12:2",
+          "why_start_end_and_devices": "Present bodies; non‑conformity; transformation by mind renewal. Devices: cultic metaphor, hinge ‘therefore’."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Humble Service and Gifts",
+          "reference": "12:3-12:8",
+          "why_start_end_and_devices": "Think soberly; one body, many members; exercise gifts. Devices: body metaphor, gift list."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Love Without Hypocrisy: Fervent and Generous",
+          "reference": "12:9-12:13",
+          "why_start_end_and_devices": "Let love be genuine; abhor evil, cling to good; devoted to one another in brotherly love; fervent in spirit, serving the Lord; patient in tribulation; contributing to the needs of the saints."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Bless Persecutors; Empathize; Associate with the Lowly",
+          "reference": "12:14-12:16",
+          "why_start_end_and_devices": "Bless those who persecute you; rejoice with those who rejoice; weep with those who weep; live in harmony with one another; do not be haughty; associate with the lowly; never be wise in your own sight."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Overcome Evil with Good",
+          "reference": "12:17-12:21",
+          "why_start_end_and_devices": "Repay no one evil for evil; live peaceably with all; never avenge yourselves; if your enemy is hungry, feed him; do not be overcome by evil but overcome evil with good."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Governing Authorities Are God's Servants",
+          "reference": "13:1-13:4",
+          "why_start_end_and_devices": "Every person subject to governing authorities, for God has instituted them; rulers are not a terror to good conduct; the authority is God's servant for your good and an avenger for the wrongdoer."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Pay Taxes, Revenue, Respect, and Honor",
+          "reference": "13:5-13:7",
+          "why_start_end_and_devices": "Necessary to be subject not only because of wrath but also for conscience sake; pay taxes to whom taxes are owed, revenue, respect and honor to whom honor is owed."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Love Fulfills the Law",
+          "reference": "13:8-13:10",
+          "why_start_end_and_devices": "Owe no one anything except to love one another; the commandments are summed up in 'love your neighbor as yourself'; love does no wrong to a neighbor; therefore love is the fulfilling of the law."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Hour Has Come; Put on Christ",
+          "reference": "13:11-13:14",
+          "why_start_end_and_devices": "It is full time to wake from sleep; salvation nearer than when we first believed; the night is far gone; put on the armor of light; put on the Lord Jesus Christ; make no provision for the flesh."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Welcome the Weak; God Sustains Them",
+          "reference": "14:1-14:4",
+          "why_start_end_and_devices": "Welcome the one weak in faith; God has welcomed him; who are you to pass judgment on someone else's servant? He will be upheld, for the Lord is able to make him stand."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Each to His Own Lord — Living and Dying",
+          "reference": "14:5-14:9",
+          "why_start_end_and_devices": "One person esteems one day above another; each one be fully convinced in his own mind; whoever observes the day observes it to the Lord; if we live or die we are the Lord's."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "We All Stand Before God's Judgment Seat",
+          "reference": "14:10-14:12",
+          "why_start_end_and_devices": "Why do you pass judgment on your brother? We will all stand before God's judgment seat; every knee shall bow and every tongue confess; each of us will give an account of himself to God."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Do Not Cause Your Brother to Stumble",
+          "reference": "14:13-14:16",
+          "why_start_end_and_devices": "Decide never to put a stumbling block before a brother; nothing unclean in itself but unclean to the one who thinks it so; if your brother is grieved by what you eat, you are no longer walking in love."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Kingdom Is Righteousness, Peace, and Joy",
+          "reference": "14:17-14:20",
+          "why_start_end_and_devices": "The kingdom of God is not eating and drinking but righteousness and peace and joy in the Holy Spirit; do not destroy the work of God for food — do not destroy with your food the one for whom Christ died."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Whatever Is Not from Faith Is Sin",
+          "reference": "14:21-14:23",
+          "why_start_end_and_devices": "It is good not to eat meat or drink wine or do anything that causes your brother to stumble; whatever does not proceed from faith is sin."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Bear the Weak; Scripture Gives Hope",
+          "reference": "15:1-15:4",
+          "why_start_end_and_devices": "The strong ought to bear the weaknesses of the weak; please your neighbor for his good and edification; Christ did not please Himself; whatever was written was for our instruction that we might have hope."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "May God Grant Harmony; Welcome One Another",
+          "reference": "15:5-15:7",
+          "why_start_end_and_devices": "May the God of endurance and encouragement grant you to live in harmony; glorify God with one voice; welcome one another as Christ has welcomed you, for the glory of God."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Hope for Jew and Gentile",
+          "reference": "15:8-15:13",
+          "why_start_end_and_devices": "Christ a servant to circumcision; Gentiles glorify God; hope by the Spirit. Devices: citation cluster, benedictory wish."
+        }
       ]
     },
     {
@@ -114,15 +586,79 @@
       "why_start_end_and_literary_glue": "Returns to epistolary mode: Paul’s ministry rationale, Spain/collection plans, commendations, greetings, a warning, and doxology. Glue: repeated ‘greet’/‘commend,’ travel logistics, and final praise that seals the letter.",
       "reference": "15:14 - 16:27",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Paul’s Ministry Rationale", "reference": "15:14-15:21", "why_start_end_and_devices": "Bold writing to remind; priestly service of the gospel; aim where Christ not named. Devices: ethos appeal, ambition motif."},
-        {"scene_number": 2, "scene_name": "Plans for Jerusalem and Rome/Spain", "reference": "15:22-15:33", "why_start_end_and_devices": "Hindered until now; collection for saints; prayer for deliverance and joy. Devices: travel plan, intercession request."},
-        {"scene_number": 3, "scene_name": "Commendation of Phoebe", "reference": "16:1-16:2", "why_start_end_and_devices": "Diakonos and prostatis; receive her worthily. Devices: commendation formula, honorifics."},
-        {"scene_number": 4, "scene_name": "Greetings to Many Co‑Workers", "reference": "16:3-16:16", "why_start_end_and_devices": "Greet list of coworkers/households; holy kiss. Devices: name‑chain, communal tapestry."},
-        {"scene_number": 5, "scene_name": "Final Warning and Blessing", "reference": "16:17-16:20", "why_start_end_and_devices": "Watch for dividers; be wise to good; the God of peace will soon crush Satan. Devices: paraenesis, Genesis echo."},
-        {"scene_number": 6, "scene_name": "Greetings from Paul’s Companions", "reference": "16:21-16:23", "why_start_end_and_devices": "Tertius writes; others greet. Devices: scribe note, hospitality mention."},
-        {"scene_number": 7, "scene_name": "Doxology", "reference": "16:25-16:27", "why_start_end_and_devices": "Now to him who is able… revelation of the mystery… everlasting glory. Devices: doxological seal, gospel‑mystery summary."}
+        {
+          "scene_number": 1,
+          "scene_name": "Paul's Priestly Ministry to the Gentiles",
+          "reference": "15:14-15:17",
+          "why_start_end_and_devices": "Paul is confident you are full of goodness; he writes boldly because of the grace given to be a minister of Christ Jesus to the Gentiles, offering the Gentiles as an acceptable offering."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "From Jerusalem to Illyricum",
+          "reference": "15:18-15:21",
+          "why_start_end_and_devices": "Only what Christ accomplished through him, by word and deed, signs and wonders; he has fully proclaimed the gospel from Jerusalem to Illyricum; his ambition to preach where Christ has not been named."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Travel Plans: Spain by Way of Rome",
+          "reference": "15:22-15:25",
+          "why_start_end_and_devices": "Often hindered from coming; now no more room for work in these regions; going to Spain, hoping to see you and be helped on my way; but first to Jerusalem to deliver the contribution of the saints."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Collection and the Fullness of Christ's Blessing",
+          "reference": "15:26-15:29",
+          "why_start_end_and_devices": "Macedonia and Achaia pleased to share with the poor among Jerusalem's saints; they owe it to them; I will depart for Spain by way of you with the fullness of the blessing of Christ."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "An Appeal for Prayer and the God of Peace",
+          "reference": "15:30-15:33",
+          "why_start_end_and_devices": "Strive together with me in prayers to God; that I may be delivered from unbelievers in Judea and my service there accepted; come to you with joy and be refreshed; the God of peace be with you all."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Commendation of Phoebe",
+          "reference": "16:1-16:2",
+          "why_start_end_and_devices": "Diakonos and prostatis; receive her worthily. Devices: commendation formula, honorifics."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Priscilla, Aquila, and the First Beloved",
+          "reference": "16:3-16:7",
+          "why_start_end_and_devices": "Greet Priscilla and Aquila who risked their necks; the church in their house; the firstfruits of Asia; greet Andronicus and Junia, relatives and fellow prisoners, well known to the apostles, in Christ before me."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Many Co-Workers in the Lord",
+          "reference": "16:8-16:12",
+          "why_start_end_and_devices": "Greet Ampliatus my beloved, Urbanus our fellow worker, Stachys my beloved; Apelles approved in Christ; those of Aristobulus and Narcissus; Tryphaena and Tryphosa; beloved Persis who worked hard in the Lord."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Final Individual Greetings; Holy Kiss",
+          "reference": "16:13-16:16",
+          "why_start_end_and_devices": "Greet Rufus, chosen in the Lord, and his mother; Asyncritus, Phlegon, Hermes, Patrobas, Hermas; Philologus, Julia, Nereus and his sister, Olympas; greet one another with a holy kiss."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Final Warning and Blessing",
+          "reference": "16:17-16:20",
+          "why_start_end_and_devices": "Watch for dividers; be wise to good; the God of peace will soon crush Satan. Devices: paraenesis, Genesis echo."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Greetings from Paul's Companions",
+          "reference": "16:21-16:24",
+          "why_start_end_and_devices": "Timothy, Lucius, Jason, Sosipater send greetings; Tertius who wrote the letter; Gaius, Erastus the city treasurer, and Quartus greet you. [v24 text absent in critical MSS]"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Doxology",
+          "reference": "16:25-16:27",
+          "why_start_end_and_devices": "Now to him who is able… revelation of the mystery… everlasting glory. Devices: doxological seal, gospel‑mystery summary."
+        }
       ]
     }
   ]
 }
-

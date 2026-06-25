@@ -10,15 +10,174 @@
       "why_start_end_and_literary_glue": "Start (1:1) formal salutation; end (6:20) closes the reported issues with the body‑as‑temple ethic before the perì de turn at 7:1. Glue: schismata vs. Christ’s unity, wisdom vs. cross, temple/body parallel (3:16–17; 6:19–20).",
       "reference": "1:1 - 6:20",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Salutation, Thanksgiving, and Grace", "reference": "1:1-1:9", "why_start_end_and_devices": "Epistolary opening and eucharistia conclude; gifts/knowledge preview misuse. Devices: authority assertion, thanksgiving irony."},
-        {"scene_number": 2, "scene_name": "Divisions and Factionalism", "reference": "1:10-1:17", "why_start_end_and_devices": "Appeal for unity, report from Chloe, purpose of Paul’s mission. Devices: rhetorical questions, slogan citation."},
-        {"scene_number": 3, "scene_name": "Paradox of the Cross vs. Wisdom", "reference": "1:18-2:5", "why_start_end_and_devices": "Cross as power/‘folly’; preaching in weakness for faith’s grounding in God. Devices: antithesis, Isa 29:14 citation, exemplum."},
-        {"scene_number": 4, "scene_name": "Spiritual vs. Natural; Infant Status", "reference": "2:6-3:4", "why_start_end_and_devices": "Spirit‑revealed wisdom; natural man cannot receive; infant nourishment. Devices: definitional contrast, milk/solid food metaphor."},
-        {"scene_number": 5, "scene_name": "God’s Field and Building; Temple Warning", "reference": "3:5-3:23", "why_start_end_and_devices": "Ministers as co‑workers; Christ foundation; test by fire; temple judgment. Devices: agriculture/construction master metaphors, inclusio ‘you are Christ’s’."},
-        {"scene_number": 6, "scene_name": "Stewards and Apostolic Suffering", "reference": "4:1-4:13", "why_start_end_and_devices": "Steward criterion: faithfulness; irony of ‘kings’ vs. suffering apostles. Devices: apologia, afflictions list, contrast."},
-        {"scene_number": 7, "scene_name": "Paternal Warning; Incest Judgment", "reference": "4:14-5:5", "why_start_end_and_devices": "Fatherly admonition; severe sentence on immoral man. Devices: ethos appeal, judgment formula (‘deliver to Satan’)."},
-        {"scene_number": 8, "scene_name": "Purge the Leaven; Lawsuits Among Believers", "reference": "5:6-6:8", "why_start_end_and_devices": "Leaven metaphor for communal purity; shame of civil courts. Devices: Passover imagery, internal adjudication ethic."},
-        {"scene_number": 9, "scene_name": "Inheritance Warning and Body as Temple", "reference": "6:9-6:20", "why_start_end_and_devices": "Vice list vs. ‘you were washed’; union with Christ; glorify God in body. Devices: status reversal, temple/body argument, inclusio closure."}
+        {
+          "scene_number": 1,
+          "scene_name": "Called as Apostle; Grace and Peace",
+          "reference": "1:1-1:3",
+          "why_start_end_and_devices": "Paul called as apostle by God's will, to the church of God in Corinth, sanctified and called holy, with all who call on the Lord Jesus Christ; grace and peace from God our Father."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Enriched and Sustained by a Faithful God",
+          "reference": "1:4-1:9",
+          "why_start_end_and_devices": "Thanking God for the grace given in Christ, enriched in every way, not lacking any gift, sustained blameless to the end; God who called you into fellowship is faithful."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "No Divisions: Is Christ Divided?",
+          "reference": "1:10-1:13",
+          "why_start_end_and_devices": "Paul's appeal that all agree with no divisions; Chloe's household reports quarrels; 'I follow Paul, Apollos, Cephas, Christ' — was Paul crucified for you? Were you baptized into Paul's name?"
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Christ Sent Me to Preach the Gospel",
+          "reference": "1:14-1:17",
+          "why_start_end_and_devices": "Thankful he baptized only Crispus, Gaius, and Stephanas's household; Christ did not send him to baptize but to preach the gospel — not with wisdom's words, lest the cross be emptied of power."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Cross: God's Power and World's Folly",
+          "reference": "1:18-1:21",
+          "why_start_end_and_devices": "The message of the cross is foolishness to the perishing but God's power to the saved; God destroying the wisdom of the wise; the world through its wisdom did not know God."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Stumbling Block and Foolishness",
+          "reference": "1:22-1:25",
+          "why_start_end_and_devices": "Jews demand signs, Greeks seek wisdom; we preach Christ crucified — stumbling block to Jews, foolishness to Gentiles, but to the called, God's power and wisdom; God's foolishness wiser than man's."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Consider Your Calling: God Chose the Lowly",
+          "reference": "1:26-1:31",
+          "why_start_end_and_devices": "Not many wise, powerful, or noble; God chose the foolish, weak, lowly, and despised to shame the strong and nullify boasting; Christ became our wisdom, righteousness, holiness, and redemption — boast in the Lord."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Christ Crucified in Weakness and Power",
+          "reference": "2:1-2:5",
+          "why_start_end_and_devices": "Paul came not with eloquence but resolved to know Christ crucified, in weakness, fear, and trembling; preaching not with persuasive wisdom but the Spirit's power, so faith rests on God's power."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Hidden Wisdom for the Mature",
+          "reference": "2:6-2:10",
+          "why_start_end_and_devices": "Among the mature we speak God's hidden wisdom destined for glory before time; none of the rulers understood, or they would not have crucified the Lord of glory; eye has not seen what God prepared — God revealed it by the Spirit."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Spirit's Revelation and the Mind of Christ",
+          "reference": "2:11-2:16",
+          "why_start_end_and_devices": "The Spirit searches God's depths; we received God's Spirit to understand freely given things, expressing spiritual truths in spiritual words; the natural man cannot discern them; the spiritual man judges all; we have the mind of Christ."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Infants in Christ: Jealousy and Strife",
+          "reference": "3:1-3:4",
+          "why_start_end_and_devices": "Paul could not address them as spiritual but as infants, fed milk not solid food; still worldly with jealousy and strife; when one says 'I follow Paul' and another 'I follow Apollos,' are you not mere men?"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Servants: God Gives the Growth",
+          "reference": "3:5-3:9",
+          "why_start_end_and_devices": "What is Apollos? What is Paul? Servants through whom you believed; one planted, another watered, but God gave the growth; neither planter nor waterer is anything; you are God's field, God's building."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Foundation and the Fire Test",
+          "reference": "3:10-3:15",
+          "why_start_end_and_devices": "By God's grace Paul laid the foundation as an expert builder; no other foundation than Jesus Christ; gold, silver, stones, wood, hay, straw — the Day will test each one's work; if it survives, reward; if burned, saved but only as through flames."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "You Are God's Temple",
+          "reference": "3:16-3:17",
+          "why_start_end_and_devices": "Do you not know you are God's temple and God's Spirit dwells in you? If anyone destroys God's temple, God will destroy him; the temple is holy, and you are that temple."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Become a Fool to Be Wise; All Things Are Yours",
+          "reference": "3:18-3:23",
+          "why_start_end_and_devices": "Let no one deceive himself; become a fool to become wise; the wisdom of this world is foolishness to God; stop boasting in men — all things are yours, whether Paul, Apollos, Cephas, life, death, present, future; you belong to Christ, and Christ to God."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Stewards of God's Mysteries; Judge Nothing Before Time",
+          "reference": "4:1-4:5",
+          "why_start_end_and_devices": "Regard us as servants of Christ and stewards of God's mysteries; stewards must be faithful; Paul cares little for human judgment or even self-judgment; the Lord judges; judge nothing before the appointed time — He will bring motives to light."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Not Beyond What Is Written; Already Kings?",
+          "reference": "4:6-4:8",
+          "why_start_end_and_devices": "Applied to self and Apollos so you learn not to go beyond what is written, not taking pride in one over another; who makes you superior? What do you have you did not receive? You are already full, rich, kings — Paul wishes they really were kings."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Apostles as the Scum of the Earth",
+          "reference": "4:9-4:13",
+          "why_start_end_and_devices": "God displayed apostles last, like prisoners sentenced to death, a spectacle to the world; fools for Christ, weak, dishonored; hungry, thirsty, poorly clothed, homeless, working with own hands; when vilified, blessing; the scum of the earth, the refuse of the world."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Warned as Beloved Children; Imitate Me",
+          "reference": "4:14-4:17",
+          "why_start_end_and_devices": "Not writing to shame but to warn as beloved children; though you have many guardians, not many fathers — Paul became their father through the gospel; urging them to imitate him; sending Timothy to remind them of his ways in Christ."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Arrogance: Coming With a Rod or in Love?",
+          "reference": "4:18-4:21",
+          "why_start_end_and_devices": "Some have become arrogant as if Paul were not coming; he will come soon if the Lord wills, and find not only talk but power; the kingdom of God is not talk but power; shall I come with a rod or in love and a gentle spirit?"
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Incest: Hand This Man Over to Satan",
+          "reference": "5:1-5:5",
+          "why_start_end_and_devices": "Sexual immorality of a kind intolerable even among pagans — a man with his father's wife; and you are proud! Paul has already judged in spirit; assembled in the Lord's name, deliver this man to Satan for the flesh's destruction so his spirit may be saved."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Purge the Old Leaven; Christ Our Passover",
+          "reference": "5:6-5:8",
+          "why_start_end_and_devices": "Your boasting is not good; a little leaven works through the whole batch; get rid of the old leaven to be a new unleavened batch — Christ our Passover has been sacrificed; keep the feast with sincerity and truth, not malice and wickedness."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Do Not Associate With Immoral Brothers",
+          "reference": "5:9-5:13",
+          "why_start_end_and_devices": "Earlier letter: not to associate with the sexually immoral — not the world's immoral but any brother who is immoral, greedy, idolater, verbal abuser, drunkard, swindler; do not even eat with such; judge those inside; expel the wicked man."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Lawsuits Before Unbelievers",
+          "reference": "6:1-6:5",
+          "why_start_end_and_devices": "How dare you go to law before the unrighteous instead of the saints! The saints will judge the world and angels; are you not competent for trivial cases? Is there no one wise enough to arbitrate between brothers?"
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Wronged Rather Than Cheating Brothers",
+          "reference": "6:6-6:8",
+          "why_start_end_and_devices": "Brother goes to law against brother before unbelievers; the very fact of lawsuits means you are thoroughly defeated; why not rather be wronged? Why not rather be cheated? Instead, you cheat and wrong your own brothers."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Wicked Will Not Inherit; Washed and Justified",
+          "reference": "6:9-6:11",
+          "why_start_end_and_devices": "Do not be deceived: the sexually immoral, idolaters, adulterers, homosexual offenders, thieves, greedy, drunkards, verbal abusers, swindlers will not inherit God's kingdom; and that is what some of you were — but you were washed, sanctified, justified in the Lord's name."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Body for the Lord; One Spirit With Him",
+          "reference": "6:12-6:17",
+          "why_start_end_and_devices": "Everything permissible but not beneficial or mastering; the body is for the Lord and the Lord for the body; God will raise both; your bodies are Christ's members — shall I unite them with a prostitute? Never! The one joined to the Lord is one spirit with Him."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Flee Immorality; Glorify God With Your Body",
+          "reference": "6:18-6:20",
+          "why_start_end_and_devices": "Flee sexual immorality — every other sin is outside the body, but the sexually immoral sins against his own body; your body is the temple of the Holy Spirit; you are not your own, you were bought at a price — glorify God with your body."
+        }
       ]
     },
     {
@@ -27,14 +186,168 @@
       "why_start_end_and_literary_glue": "Start (7:1) perì de shift to written questions; end (11:1) imitators of Paul/Christ seals the liberty ethic. Glue: recurring perì de (7:1, 7:25, 8:1), rights vs. edification, love’s priority over knowledge.",
       "reference": "7:1 - 11:1",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Marriage and Mutual Duty", "reference": "7:1-7:7", "why_start_end_and_devices": "Now concerning…; reciprocal marital obligations; Paul’s preference yet gift diversity. Devices: antithesis, concession for prayer."},
-        {"scene_number": 2, "scene_name": "Unmarried, Mixed Marriages, and Callings", "reference": "7:8-7:24", "why_start_end_and_devices": "Grouped instructions end with remain in calling. Devices: audience shifts, ‘the Lord says/I say’ oracle distinctions."},
-        {"scene_number": 3, "scene_name": "Virgins/Betrothed and Present Distress", "reference": "7:25-7:40", "why_start_end_and_devices": "Perì de virgins; world passing; freedom to marry ‘in the Lord’. Devices: eschatological frame, anxiety motif."},
-        {"scene_number": 4, "scene_name": "Knowledge vs. Love: Food Offered to Idols", "reference": "8:1-8:13", "why_start_end_and_devices": "‘Knowledge puffs up, love builds up’; resolve to avoid stumbling. Devices: ontological admission→ethical restraint, conscience care."},
-        {"scene_number": 5, "scene_name": "Apostolic Rights and Renunciation", "reference": "9:1-9:18", "why_start_end_and_devices": "Right to support proved then waived to offer gospel free. Devices: diatribe questions, legal/scriptural proofs, contrast."},
-        {"scene_number": 6, "scene_name": "Servant to All; Race Metaphor; Israel as Warning", "reference": "9:19-10:5", "why_start_end_and_devices": "All things to all; athletic discipline; most fell in the wilderness. Devices: mission parallelism, athletic imagery, typology bridge."},
-        {"scene_number": 7, "scene_name": "Examples and Idolatry Warning", "reference": "10:6-10:22", "why_start_end_and_devices": "Written for our admonition; flee idolatry; incompatible tables/cups. Devices: enumerated sins, antithetical conclusion."},
-        {"scene_number": 8, "scene_name": "Liberty, Edification, and God’s Glory", "reference": "10:23-11:1", "why_start_end_and_devices": "Not all beneficial; seek neighbor’s good; imitate Paul as he imitates Christ. Devices: proverbial maxims, case guidance, exemplum closure."}
+        {
+          "scene_number": 1,
+          "scene_name": "Mutual Marital Duty",
+          "reference": "7:1-7:4",
+          "why_start_end_and_devices": "It is good to abstain, but because of immorality each should have his own wife; the husband should fulfill his duty to the wife and likewise; the wife does not have authority over her own body but the husband, and likewise the husband — the wife's body."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Do Not Deprive; a Concession, Not a Command",
+          "reference": "7:5-7:7",
+          "why_start_end_and_devices": "Do not deprive each other except by mutual consent for prayer, then come together lest Satan tempt; this is a concession, not a command; Paul wishes all were as he is, but each has his own gift from God."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Unmarried and Widows; Married Must Not Separate",
+          "reference": "7:8-7:11",
+          "why_start_end_and_devices": "To the unmarried and widows: it is good to remain as Paul is, but if they cannot control themselves, let them marry — better to marry than burn; to the married: a wife must not separate, but if she does, remain unmarried or be reconciled; a husband must not divorce."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Unequally Yoked: The Sanctified Spouse",
+          "reference": "7:12-7:16",
+          "why_start_end_and_devices": "If a brother has an unbelieving wife willing to live, do not divorce; the unbelieving husband is sanctified through the believing wife; if the unbeliever leaves, let him go — the believer is not bound; God has called you to peace; how do you know you will save your spouse?"
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Lead the Life the Lord Assigned",
+          "reference": "7:17-7:20",
+          "why_start_end_and_devices": "Each should lead the life the Lord assigned; this is what Paul prescribes in all the churches; was one circumcised when called? Do not become uncircumcised; circumcision is nothing — keeping God's commandments is what counts; each remain in the situation when called."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Slave or Free: Bought at a Price",
+          "reference": "7:21-7:24",
+          "why_start_end_and_devices": "Were you a slave when called? Do not let it concern you — but if you can gain freedom, take the opportunity; the slave is the Lord's freedman, the free man is Christ's slave; you were bought at a price, do not become slaves of men; each remain with God in the situation when called."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Virgins and the Present Crisis",
+          "reference": "7:25-7:28",
+          "why_start_end_and_devices": "About virgins, no command from the Lord but a trustworthy judgment; because of the present crisis, it is good to remain as one is; committed to a wife — do not seek release; free — do not seek a wife; if you marry, you have not sinned, but those who marry face troubles."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Time Is Short; This World Passing Away",
+          "reference": "7:29-7:31",
+          "why_start_end_and_devices": "The time is short: those with wives should live as if none; those who weep as if not; those who buy as if not possessing; those using the world as not dependent on it — this world in its present form is passing away."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Undivided Devotion to the Lord",
+          "reference": "7:32-7:35",
+          "why_start_end_and_devices": "Paul wants them free from concern: the unmarried is concerned with the Lord's affairs, the married with the world's affairs and pleasing a spouse — interests are divided; this is for your own good, not to restrict but to promote undivided devotion."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Betrothed and Widows: Free to Marry in the Lord",
+          "reference": "7:36-7:40",
+          "why_start_end_and_devices": "If one acts inappropriately toward his betrothed, let them marry — it is no sin; one firmly established in heart not to marry does better; a wife is bound as long as her husband lives, then free to marry in the Lord; Paul thinks she is happier to remain as she is."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "One God, One Lord; Knowledge vs. Love",
+          "reference": "8:1-8:6",
+          "why_start_end_and_devices": "Knowledge puffs up but love builds up; the one who loves God is known by God; an idol is nothing, there is no God but one — for us one God the Father, and one Lord Jesus Christ, through whom all things came."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Weak Conscience Defiled",
+          "reference": "8:7-8:10",
+          "why_start_end_and_devices": "Not everyone has this knowledge; some accustomed to idols eat food as if sacrificed to an idol, and their weak conscience is defiled; food does not bring us closer to God; but your freedom may become a stumbling block to the weak."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Sin Against Christ; Never Eat Meat Again",
+          "reference": "8:11-8:13",
+          "why_start_end_and_devices": "The weak brother for whom Christ died is destroyed by your knowledge; sinning against brothers and wounding their conscience is sinning against Christ; if food causes a brother to stumble, Paul will never eat meat again."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Am I Not an Apostle? The Seal of My Apostleship",
+          "reference": "9:1-9:6",
+          "why_start_end_and_devices": "Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not my workmanship? If I am not an apostle to others, surely I am to you — you are the seal of my apostleship; this is my defense: have we no right to food and drink?"
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Ox, the Soldier, the Sower",
+          "reference": "9:7-9:11",
+          "why_start_end_and_devices": "Who serves as a soldier at his own expense? Who plants a vineyard and does not eat its fruit? The Law says: do not muzzle the ox treading grain — written for us, the plowman and thresher share the harvest; if we sowed spiritual seed, is it too much to reap material harvest?"
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Not Using Rights; Those Who Preach Deserve Support",
+          "reference": "9:12-9:14",
+          "why_start_end_and_devices": "If others have this right, shouldn't we? But we did not use it, rather enduring anything than hindering the gospel; those who serve at the altar partake of the offerings; the Lord prescribed that those who preach the gospel should receive their living from it."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "I Would Rather Die Than Void My Boast",
+          "reference": "9:15-9:18",
+          "why_start_end_and_devices": "Paul has not used these rights and is not writing to get them — he would rather die than let anyone nullify his boast; when he preaches, he has no reason to boast, for he is obligated — woe if he does not preach! His reward: offering the gospel free of charge."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Slave to All to Win Some",
+          "reference": "9:19-9:23",
+          "why_start_end_and_devices": "Though free, Paul makes himself a slave to all to win as many as possible; to the Jews like a Jew, to those under the law like one under the law, to those without the law like one without it; to the weak he became weak — all things to all people that he might save some."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Run to Win: Discipline the Body",
+          "reference": "9:24-9:27",
+          "why_start_end_and_devices": "In a race all run but one receives the prize — run to win; everyone who competes trains with discipline for a perishable crown, but we for an imperishable; Paul does not run aimlessly or beat the air, but disciplines his body lest after preaching he himself be disqualified."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Our Forefathers Under the Cloud",
+          "reference": "10:1-10:5",
+          "why_start_end_and_devices": "The forefathers were all under the cloud and passed through the sea; baptized into Moses, ate spiritual food, drank spiritual drink from the spiritual rock that was Christ; nevertheless God was not pleased with most of them — they were struck down in the wilderness."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Examples: Do Not Crave Evil",
+          "reference": "10:6-10:11",
+          "why_start_end_and_devices": "These things are examples: do not be idolaters, do not commit sexual immorality (twenty-three thousand fell in one day), do not test Christ (killed by snakes), do not complain (killed by the destroyer); written as warnings for us on whom the ages' fulfillment has come."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Let Him Who Thinks He Stands Take Heed",
+          "reference": "10:12-10:13",
+          "why_start_end_and_devices": "The one who thinks he is standing firm should be careful not to fall; no temptation has seized you except what is common to man — God is faithful, He will not let you be tempted beyond what you can bear, but will provide an escape."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Flee Idolatry; the Cup and the Bread",
+          "reference": "10:14-10:18",
+          "why_start_end_and_devices": "Therefore flee from idolatry; the cup of blessing is participation in Christ's blood, the bread in Christ's body; one loaf, one body; consider Israel — those who eat the sacrifices are fellow partakers in the altar."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Not Participants With Demons",
+          "reference": "10:19-10:22",
+          "why_start_end_and_devices": "The idol is nothing, but what pagans sacrifice they offer to demons, not God; Paul does not want you participants with demons; you cannot drink the Lord's cup and demons' cup; are we trying to provoke the Lord to jealousy? Are we stronger than He?"
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "All Permissible but Not All Edifying",
+          "reference": "10:23-10:26",
+          "why_start_end_and_devices": "Everything is permissible but not everything is beneficial or edifying; no one should seek his own good but the good of others; eat anything sold in the market without raising questions — the earth is the Lord's and its fullness."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Unbeliever's Table and Conscience",
+          "reference": "10:27-10:30",
+          "why_start_end_and_devices": "If an unbeliever invites you, eat whatever is set before you without questions; but if someone says it was offered to idols, do not eat for the sake of the one who told you and for conscience — why should Paul's freedom be determined by another's conscience?"
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Do All to God's Glory; Imitate Me",
+          "reference": "10:31-11:1",
+          "why_start_end_and_devices": "Whether you eat or drink or whatever you do, do it all to the glory of God; do not become a stumbling block to Jews, Greeks, or the church; try to please everyone, not seeking your own good but the good of many that they may be saved — imitate me as I imitate Christ."
+        }
       ]
     },
     {
@@ -43,14 +356,168 @@
       "why_start_end_and_literary_glue": "Start (11:2) commendation regarding traditions; end (14:40) decency and order. Glue: ‘when you come together’ refrain, assembly focus, and pursuit of intelligibility and edification in gifts.",
       "reference": "11:2 - 14:40",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Head Coverings and Order of Creation", "reference": "11:2-11:16", "why_start_end_and_devices": "Commendation, kephalē chain, appeal to universal practice. Devices: creation allusion, rhetorical questions, custom appeal."},
-        {"scene_number": 2, "scene_name": "Divisions and the Lord’s Supper", "reference": "11:17-11:34", "why_start_end_and_devices": "Not for better but worse; tradition of the Supper; discern the body. Devices: instituted tradition, contrast judgment/discernment, pragmatic fix."},
-        {"scene_number": 3, "scene_name": "Varieties of Gifts, One Spirit", "reference": "12:1-12:11", "why_start_end_and_devices": "Perì de gifts; same Spirit/Lord/God; distribution as He wills. Devices: negative past→confession ‘Jesus is Lord’, parallel triads."},
-        {"scene_number": 4, "scene_name": "One Body, Many Members", "reference": "12:12-12:31", "why_start_end_and_devices": "Body metaphor extended; weaker parts honored; desire higher gifts. Devices: rhetorical questions, interdependence analogy, transition to love."},
-        {"scene_number": 5, "scene_name": "The More Excellent Way: Love", "reference": "13:1-13:13", "why_start_end_and_devices": "Without love gifts are nothing; love abides. Devices: hyperbole, contrast temporary/permanent, triad faith‑hope‑love."},
-        {"scene_number": 6, "scene_name": "Prophecy over Tongues for Edification", "reference": "14:1-14:19", "why_start_end_and_devices": "Pursue love, desire prophecy; intelligibility prioritized. Devices: musical and language metaphors, personal practice close."},
-        {"scene_number": 7, "scene_name": "Maturity, Signs, and Peace in the Churches", "reference": "14:20-14:33a", "why_start_end_and_devices": "Be adults in thinking; tongues sign to unbelievers; God of peace. Devices: law citation, outsider effect contrast, theological rationale."},
-        {"scene_number": 8, "scene_name": "Silencing, Submission, and Order", "reference": "14:33b-14:40", "why_start_end_and_devices": "Commands on silence and recognition of apostolic authority; all in order. Devices: hortatory imperatives, tradition appeal, final order command."}
+        {
+          "scene_number": 1,
+          "scene_name": "Head Coverings: Christ, Man, and Woman",
+          "reference": "11:2-11:6",
+          "why_start_end_and_devices": "Commended for maintaining traditions; the head of every man is Christ, the head of woman is man, the head of Christ is God; a man praying with head covered dishonors his head; a woman praying uncovered dishonors her head — it is as if she were shaved."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Image and Glory: Interdependence in the Lord",
+          "reference": "11:7-11:12",
+          "why_start_end_and_devices": "Man is God's image and glory, woman is man's glory; woman came from man, man is born of woman — everything from God; a woman ought to have a sign of authority on her head because of the angels; in the Lord, neither is independent of the other."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Judge Yourselves: No Other Practice",
+          "reference": "11:13-11:16",
+          "why_start_end_and_devices": "Is it proper for a woman to pray uncovered? Nature itself teaches that long hair is a man's disgrace but a woman's glory — her covering; if anyone disputes this, we have no other practice, nor do the churches of God."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Divisions That Do More Harm Than Good",
+          "reference": "11:17-11:22",
+          "why_start_end_and_devices": "No praise — gatherings do more harm than good; divisions must occur to show who is approved; when you come together it is not the Lord's Supper you eat — one goes ahead hungry, another drunk; do you despise God's church and humiliate the poor?"
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Lord's Supper: Do This in Remembrance",
+          "reference": "11:23-11:26",
+          "why_start_end_and_devices": "Paul received from the Lord: on the night He was betrayed, Jesus took bread, gave thanks, broke it — 'This is My body for you; do this in remembrance of Me'; the cup is the new covenant in His blood; as often as you eat and drink, you proclaim the Lord's death until He comes."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Examine Yourself Lest You Drink Judgment",
+          "reference": "11:27-11:32",
+          "why_start_end_and_devices": "Whoever eats and drinks unworthily is guilty of the body and blood; each must examine himself; without discerning the body, one eats and drinks judgment — that is why many are weak, sick, and have died; if we judged ourselves we would not be judged; the Lord disciplines us so we are not condemned."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Wait for One Another; Eat at Home",
+          "reference": "11:33-11:34",
+          "why_start_end_and_devices": "When you come together to eat, wait for one another; if anyone is hungry, let him eat at home, so your gathering does not result in judgment; Paul will give instructions about the rest when he comes."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "No One Cursing Jesus Speaks by the Spirit",
+          "reference": "12:1-12:6",
+          "why_start_end_and_devices": "Paul does not want them uninformed about spiritual gifts; when they were pagans they were led astray to mute idols; no one speaking by the Spirit says 'Jesus be cursed,' and no one can say 'Jesus is Lord' except by the Holy Spirit; varieties of gifts, ministries, workings — the same God works all."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Varieties of Gifts for the Common Good",
+          "reference": "12:7-12:11",
+          "why_start_end_and_devices": "To each is given the manifestation of the Spirit for the common good: wisdom, knowledge, faith, healing, miracles, prophecy, distinguishing spirits, tongues, interpretation — all the work of one and the same Spirit, who apportions to each as He determines."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "One Body, Many Members",
+          "reference": "12:12-12:14",
+          "why_start_end_and_devices": "The body is a unit though composed of many parts; so it is with Christ — in one Spirit we were all baptized into one body, whether Jews or Greeks, slave or free; the body does not consist of one part but of many."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Foot and the Ear: God Arranged the Members",
+          "reference": "12:15-12:18",
+          "why_start_end_and_devices": "If the foot says 'I am not a hand, I do not belong,' it still belongs; if the ear says 'I am not an eye,' it still belongs; if the whole body were an eye, where would hearing be? God has arranged every member according to His design."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Many Parts, One Body: Needing Each Other",
+          "reference": "12:19-12:21",
+          "why_start_end_and_devices": "If all were one part, where would the body be? As it is, there are many parts but one body; the eye cannot say to the hand 'I do not need you,' nor the head to the feet."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Weaker Parts Indispensable; Suffer and Rejoice Together",
+          "reference": "12:22-12:26",
+          "why_start_end_and_devices": "The parts that seem weaker are indispensable; less honorable parts treated with greater honor; God composed the body giving greater honor to what lacked it, so there should be no division — if one part suffers, every part suffers; if one is honored, every part rejoices."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "You Are Christ's Body; Desire the Greater Gifts",
+          "reference": "12:27-12:31",
+          "why_start_end_and_devices": "You are the body of Christ, each a member; God appointed apostles, prophets, teachers, miracles, healing, helping, administration, tongues; are all apostles? Do all speak in tongues? Eagerly desire the greater gifts — and now the most excellent way."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Without Love: a Clanging Gong and Nothing",
+          "reference": "13:1-13:3",
+          "why_start_end_and_devices": "If I speak in tongues of men and angels but have not love, I am a ringing gong; if I have prophecy, fathom all mysteries, have faith to move mountains but no love, I am nothing; if I give all to the poor and surrender my body but have not love, I gain nothing."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Love Is Patient and Kind; Bears All Things",
+          "reference": "13:4-13:7",
+          "why_start_end_and_devices": "Love is patient, kind; does not envy, boast, is not proud, rude, self-seeking, easily angered; keeps no account of wrongs; takes no pleasure in evil but rejoices in truth; bears, believes, hopes, endures all things."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Love Never Fails; the Greatest of These",
+          "reference": "13:8-13:13",
+          "why_start_end_and_devices": "Love never fails; prophecies cease, tongues are restrained, knowledge passes — we know in part and prophesy in part, but when the perfect comes the partial passes; now a dim reflection, then face to face; now these three remain: faith, hope, and love — the greatest is love."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Pursue Love; Prophecy Edifies the Church",
+          "reference": "14:1-14:5",
+          "why_start_end_and_devices": "Pursue love and desire spiritual gifts, especially prophecy; one speaking in a tongue speaks to God, not men — no one understands; one prophesying speaks to men for edification, encouragement, comfort; prophecy is greater than tongues unless interpreted, so the church is edified."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Instruments and Unintelligible Tongues",
+          "reference": "14:6-14:9",
+          "why_start_end_and_devices": "If Paul comes speaking tongues, how does it benefit without revelation, knowledge, prophecy, or teaching? Lifeless instruments — flute or harp — must have distinct notes; a muffled trumpet cannot prepare for battle; so unless you speak intelligible words, you speak into the air."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Strive to Excel in Gifts That Build Up",
+          "reference": "14:10-14:12",
+          "why_start_end_and_devices": "There are many languages, none without meaning; if Paul does not know the meaning, he is a foreigner to the speaker; since you are eager for gifts, strive to excel in gifts that build up the church."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Pray and Sing With Mind and Spirit",
+          "reference": "14:13-14:15",
+          "why_start_end_and_devices": "The one who speaks in a tongue should pray for interpretation; if Paul prays in a tongue, his spirit prays but his mind is unfruitful — he will pray with spirit and with mind, sing with spirit and with mind."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Five Words That Instruct Over Ten Thousand in a Tongue",
+          "reference": "14:16-14:19",
+          "why_start_end_and_devices": "If you bless in spirit, how can the uninstructed say Amen? You may be giving thanks well, but the other is not edified; Paul thanks God he speaks in tongues more than all, but in the church he would rather speak five coherent words to instruct than ten thousand in a tongue."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Tongues for Unbelievers; Prophecy Convicts",
+          "reference": "14:20-14:25",
+          "why_start_end_and_devices": "Stop thinking like children — be infants in evil but mature in thinking; in the Law, by strange tongues God will speak, yet they will not listen; tongues are a sign for unbelievers, prophecy for believers; if all speak tongues and unbelievers enter, they say you are mad; if all prophesy, an unbeliever is convicted and worships."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "When You Come Together: All for Edification",
+          "reference": "14:26-14:31",
+          "why_start_end_and_devices": "When you come together, each has a psalm, teaching, revelation, tongue, interpretation — all must be for building up; tongues: two or three at most, in turn, with interpretation; prophets: two or three, others weigh; if a revelation comes, the first stops; you can all prophesy in turn so all learn and are encouraged."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Spirits Subject to Prophets; God of Peace",
+          "reference": "14:32-14:33",
+          "why_start_end_and_devices": "The spirits of prophets are subject to prophets, for God is not a God of disorder but of peace — as in all the churches of the saints."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Women Silent in the Churches; the Lord's Command",
+          "reference": "14:34-14:38",
+          "why_start_end_and_devices": "Women are to be silent in the churches, not permitted to speak but in submission, as the law says; if they wish to inquire, let them ask their husbands at home — it is dishonorable for a woman to speak in the church; did the word of God originate with you? If anyone considers himself spiritual, let him acknowledge this is the Lord's command."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Eager to Prophesy; All in Proper Order",
+          "reference": "14:39-14:40",
+          "why_start_end_and_devices": "So, my brothers, be eager to prophesy and do not forbid speaking in tongues; but everything must be done in a proper and orderly manner."
+        }
       ]
     },
     {
@@ -59,10 +526,90 @@
       "why_start_end_and_literary_glue": "A single, unified doctrinal argument on Christ’s resurrection and ours: kerygma, consequences of denial, nature of the body, and final victory. Glue: repeated ‘resurrection’ focus, Adam–Christ antithesis, and climactic exhortation.",
       "reference": "15:1 - 15:58",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Kerygma and Eyewitnesses", "reference": "15:1-15:11", "why_start_end_and_devices": "Remind of gospel received; creedal core; witnesses list; grace in Paul. Devices: tradition formula, catalog, ethos humility."},
-        {"scene_number": 2, "scene_name": "If No Resurrection… and Christ’s Reign", "reference": "15:12-15:28", "why_start_end_and_devices": "Consequences of denial; firstfruits; subjection until God all in all. Devices: reductio chain, Adam–Christ, eschatological sequence."},
-        {"scene_number": 3, "scene_name": "Practical Absurdities and Nature Analogies", "reference": "15:29-15:41", "why_start_end_and_devices": "Baptism for the dead question; dying daily; seed/body diversity. Devices: rhetorical questions, metaphor/analogy suite."},
-        {"scene_number": 4, "scene_name": "Spiritual Body and Final Victory", "reference": "15:42-15:58", "why_start_end_and_devices": "Sown/raised contrasts; last Adam; death swallowed; steadfast exhortation. Devices: antithesis triad, Isaiah/Hosea citations, hortatory close."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Gospel: Christ Died and Was Raised",
+          "reference": "15:1-15:4",
+          "why_start_end_and_devices": "Paul reminds them of the gospel received and in which they stand — by it they are saved if they hold firmly; of first importance: Christ died for our sins according to the Scriptures, was buried, and was raised on the third day according to the Scriptures."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "He Appeared to Cephas, the Twelve, and Paul",
+          "reference": "15:5-15:8",
+          "why_start_end_and_devices": "He appeared to Cephas, then the Twelve, then more than five hundred brothers at once — most still living, though some have fallen asleep; then to James, then all the apostles; last of all to Paul, as to one untimely born."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Least of the Apostles; Grace Not in Vain",
+          "reference": "15:9-15:11",
+          "why_start_end_and_devices": "Paul is the least of the apostles, unworthy because he persecuted the church; by God's grace he is what he is, and His grace was not in vain — he worked harder than all, yet not he but God's grace; whether Paul or they, this is what we preach and what you believed."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "If No Resurrection, Christ Not Raised",
+          "reference": "15:12-15:16",
+          "why_start_end_and_devices": "If Christ is preached as raised, how can some say there is no resurrection? If no resurrection of the dead, not even Christ has been raised; if Christ is not raised, preaching is worthless and faith is futile — false witnesses about God; if the dead are not raised, Christ is not raised."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Faith Futile and Pitied Without Resurrection",
+          "reference": "15:17-15:19",
+          "why_start_end_and_devices": "If Christ is not raised, your faith is futile, you are still in your sins; those fallen asleep in Christ have perished; if our hope is for this life alone, we are to be pitied more than all men."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Christ the Firstfruits of Those Asleep",
+          "reference": "15:20-15:23",
+          "why_start_end_and_devices": "Christ has indeed been raised, the firstfruits of those who have fallen asleep; since death came through a man, the resurrection of the dead comes through a man; in Adam all die, in Christ all will be made alive — each in his own turn: Christ the firstfruits, then those who belong to Him at His coming."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The End: All Subjected; God All in All",
+          "reference": "15:24-15:28",
+          "why_start_end_and_devices": "Then the end comes when He hands the kingdom to God the Father after destroying all dominion, authority, and power; He must reign until all enemies are under His feet; the last enemy to be destroyed is death; when all is subjected to Him, the Son Himself will be subjected to the One who subjected all — so God may be all in all."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Baptized for the Dead; Bad Company Corrupts",
+          "reference": "15:29-15:34",
+          "why_start_end_and_devices": "If the dead are not raised, why are people baptized for them? Why does Paul endanger himself every hour? If the dead are not raised, 'Let us eat and drink, for tomorrow we die'; do not be deceived — bad company corrupts good character; sober up and stop sinning."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "How Are the Dead Raised? the Seed Must Die",
+          "reference": "15:35-15:38",
+          "why_start_end_and_devices": "Someone will ask: how are the dead raised? With what body? You fool — what you sow does not come to life unless it dies; what you sow is not the body that will be, but a seed; God gives it a body as He has designed."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Different Flesh, Different Splendor",
+          "reference": "15:39-15:41",
+          "why_start_end_and_devices": "Not all flesh is the same: men, animals, birds, fish; there are heavenly bodies and earthly bodies, each with its own splendor; the sun, moon, and stars each differ in splendor — and star differs from star."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Sown Perishable, Raised Imperishable",
+          "reference": "15:42-15:44",
+          "why_start_end_and_devices": "So it is with the resurrection: sown perishable, raised imperishable; sown in dishonor, raised in glory; sown in weakness, raised in power; sown a natural body, raised a spiritual body — if there is a natural body, there is also a spiritual."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Last Adam, a Life-Giving Spirit",
+          "reference": "15:45-15:49",
+          "why_start_end_and_devices": "The first man Adam became a living being; the last Adam a life-giving spirit; the spiritual was not first but the natural; the first man was dust, the second from heaven; as was the earthly man, so are the earthly; as is the heavenly, so shall we bear the heavenly man's likeness."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "A Mystery: Changed in a Twinkling",
+          "reference": "15:50-15:54",
+          "why_start_end_and_devices": "Flesh and blood cannot inherit God's kingdom; the perishable cannot inherit the imperishable; a mystery — not all will sleep but all will be changed, in an instant, in the twinkling of an eye at the last trumpet; the perishable clothed with the imperishable, the mortal with immortality; then 'Death has been swallowed up in victory.'"
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Where, O Death, Is Your Sting? Be Steadfast",
+          "reference": "15:55-15:58",
+          "why_start_end_and_devices": "Where, O Death, is your victory? Where is your sting? The sting of death is sin, and the power of sin is the law; thanks be to God who gives the victory through our Lord Jesus Christ; therefore be steadfast and immovable, always excelling in the Lord's work — your labor is not in vain."
+        }
       ]
     },
     {
@@ -71,9 +618,37 @@
       "why_start_end_and_literary_glue": "Start (16:1) perì de on collection opens the epistolary conclusion; end (16:24) benediction closes. Glue: logistics (collection/travel), greetings, warning, signature.",
       "reference": "16:1 - 16:24",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Collection and Travel Plans", "reference": "16:1-16:12", "why_start_end_and_devices": "Perì de collection; itinerary; Timothy and Apollos notes. Devices: comparative instruction, travel logistics, personnel coordination."},
-        {"scene_number": 2, "scene_name": "Final Exhortations, Greetings, Benediction", "reference": "16:13-16:24", "why_start_end_and_devices": "Watch, stand firm, be strong; greetings; anathema and grace; love benediction. Devices: staccato imperatives, name list, signature."}
-      ]}
+        {
+          "scene_number": 1,
+          "scene_name": "The Collection for the Saints",
+          "reference": "16:1-16:4",
+          "why_start_end_and_devices": "About the collection for the saints: do as Paul directed the Galatian churches — on the first day of every week, each sets aside a portion; when Paul arrives, send those they recommend with the gift to Jerusalem; if advisable for him to go, they can travel with him."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Through Macedonia; a Great Door in Ephesus",
+          "reference": "16:5-16:9",
+          "why_start_end_and_devices": "After going through Macedonia, Paul will come to them and perhaps stay or spend the winter; he does not want to see them only in passing but hopes to spend time if the Lord permits; he will stay in Ephesus until Pentecost — a great door for effective work has opened, though many oppose him."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Timothy and Apollos: Send Them in Peace",
+          "reference": "16:10-16:12",
+          "why_start_end_and_devices": "If Timothy comes, see that he has nothing to fear — he is doing the Lord's work; do not treat him with contempt, send him in peace; about Apollos, Paul strongly urged him to go, but he was not inclined now — he will go when he has opportunity."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Be Alert; the Household of Stephanas",
+          "reference": "16:13-16:18",
+          "why_start_end_and_devices": "Be alert, stand firm in the faith, be courageous, be strong; do everything in love; Stephanas and his household were the first converts in Achaia and devoted themselves to the saints — submit to such workers; Paul is glad Stephanas, Fortunatus, and Achaicus arrived, refreshing his spirit; show appreciation to such men."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Greetings, the Holy Kiss, and the Final Amen",
+          "reference": "16:19-16:24",
+          "why_start_end_and_devices": "The churches of Asia greet you; Aquila and Prisca greet warmly, and the church in their house; all the brothers greet you — greet one another with a holy kiss; this greeting is in Paul's own hand; if anyone does not love the Lord, let him be cursed — come, O Lord! The grace of the Lord Jesus be with you; Paul's love with all of you in Christ Jesus. Amen."
+        }
+      ]
+    }
   ]
 }
-
