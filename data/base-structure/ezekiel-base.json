@@ -1869,7 +1869,476 @@
       "story_title": "Watchman Renewed: Shepherds, Dry Bones, and Gog",
       "reference": "33:1 - 39:29",
       "why_start_end_and_literary_glue": "The hinge to restoration: the watchman recommissioned and the fall of Jerusalem reported (33), the worthless shepherds and the true Shepherd (34), judgment on Edom (35), the renewed land and new heart (36), the valley of dry bones and the two sticks (37), and the defeat of Gog of Magog (38-39). Glue: the turn from death to resurrection and from scattering to regathering.",
-      "scenes": []
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "The Watchman and the Ram's Horn",
+          "reference": "33:1-5",
+          "why_start_end_and_devices": "The renewed watchman parable: whoever hears the warning yet ignores it bears his own blood."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Watchman Held Accountable",
+          "reference": "33:6-7",
+          "why_start_end_and_devices": "Ezekiel made a watchman for Israel, answerable for the unwarned."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Warn the Wicked",
+          "reference": "33:8-9",
+          "why_start_end_and_devices": "The duty to warn — saving one's own life by speaking out."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Turn, and Live!",
+          "reference": "33:10-11",
+          "why_start_end_and_devices": "'I take no pleasure in the death of the wicked' — the call to turn from evil and live."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Righteousness Will Not Deliver in Transgression",
+          "reference": "33:12-13",
+          "why_start_end_and_devices": "The righteous who sins forfeits his remembered righteousness."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Wicked Who Turns Will Live",
+          "reference": "33:14-16",
+          "why_start_end_and_devices": "Restitution and right conduct erasing the repentant sinner's guilt."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Way of the Lord Is Just",
+          "reference": "33:17-20",
+          "why_start_end_and_devices": "God judging each according to his own ways, against the people's complaint."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The City Has Been Taken!",
+          "reference": "33:21-22",
+          "why_start_end_and_devices": "The fugitive's report and the opening of Ezekiel's mouth — his muteness ended."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Abraham Was Only One Man",
+          "reference": "33:23-24",
+          "why_start_end_and_devices": "The ruin-dwellers' false claim to the land by their numbers."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Should You Then Possess the Land?",
+          "reference": "33:25-27",
+          "why_start_end_and_devices": "Their bloodshed and idolatry answered by sword, beasts, and plague."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "A Desolate Waste",
+          "reference": "33:28-29",
+          "why_start_end_and_devices": "The pride of the land's strength brought to an end."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "They Hear but Do Not Practice",
+          "reference": "33:30-31",
+          "why_start_end_and_devices": "The crowds who come to listen yet pursue dishonest gain."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "A Singer of Love Songs",
+          "reference": "33:32-33",
+          "why_start_end_and_devices": "Ezekiel heard as entertainment — until the word comes to pass."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Woe to the Shepherds Who Feed Themselves",
+          "reference": "34:1-4",
+          "why_start_end_and_devices": "The indictment of leaders who fleece the flock and neglect the weak."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Scattered for Lack of a Shepherd",
+          "reference": "34:5-6",
+          "why_start_end_and_devices": "The flock become prey, straying over every mountain."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "I Am Against the Shepherds",
+          "reference": "34:7-10",
+          "why_start_end_and_devices": "God removing the false shepherds and reclaiming His flock from their mouths."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "I Myself Will Search for My Flock",
+          "reference": "34:11-12",
+          "why_start_end_and_devices": "The Shepherd-God rescuing His sheep from the day of clouds and darkness."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Good Pasture on the Mountains of Israel",
+          "reference": "34:13-14",
+          "why_start_end_and_devices": "The regathered flock fed and resting in rich grazing land."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "I Will Shepherd Them with Justice",
+          "reference": "34:15-16",
+          "why_start_end_and_devices": "Seeking the lost and binding the broken, but destroying the sleek and strong."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "I Will Judge Between the Sheep",
+          "reference": "34:17-19",
+          "why_start_end_and_devices": "The rebuke of the strong who trample the pasture and muddy the water."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Between the Fat and the Lean",
+          "reference": "34:20-22",
+          "why_start_end_and_devices": "The bullying sheep judged and the weak saved from being prey."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "One Shepherd, My Servant David",
+          "reference": "34:23-24",
+          "why_start_end_and_devices": "The promised Davidic shepherd-prince set over the flock."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "A Covenant of Peace",
+          "reference": "34:25-26",
+          "why_start_end_and_devices": "Showers of blessing and a land freed from wild beasts."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "They Will Dwell Securely",
+          "reference": "34:27-28",
+          "why_start_end_and_devices": "The yoke broken, the land yielding fruit, no longer prey for the nations."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "You Are My Flock",
+          "reference": "34:29-31",
+          "why_start_end_and_devices": "A garden of renown and the covenant bond — 'I am your God.'"
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Against Mount Seir",
+          "reference": "35:1-4",
+          "why_start_end_and_devices": "Edom made a desolate waste for her ancient enmity."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "An Ancient Hatred",
+          "reference": "35:5-6",
+          "why_start_end_and_devices": "Bloodshed to pursue those who delivered Israel to the sword."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "A Perpetual Desolation",
+          "reference": "35:7-9",
+          "why_start_end_and_devices": "The mountains of Seir filled with the slain."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "These Two Nations Will Be Ours",
+          "reference": "35:10-12",
+          "why_start_end_and_devices": "Edom's covetous boast against Israel, which God heard."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "While the Whole Earth Rejoices",
+          "reference": "35:13-15",
+          "why_start_end_and_devices": "Edom made desolate for rejoicing over Israel's ruin."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "O Mountains of Israel, Hear",
+          "reference": "36:1-3",
+          "why_start_end_and_devices": "The enemy's 'Aha! the ancient heights are ours' against the trampled land."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "My Burning Zeal Against Edom",
+          "reference": "36:4-5",
+          "why_start_end_and_devices": "God's jealous word against the nations who plundered His land with contempt."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Nations Will Endure Reproach",
+          "reference": "36:6-7",
+          "why_start_end_and_devices": "The sworn promise that Israel's mockers will bear their own shame."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "You Will Bear Fruit for My People",
+          "reference": "36:8-9",
+          "why_start_end_and_devices": "The mountains tilled and sown, for the exiles will soon come home."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The Ruins Rebuilt",
+          "reference": "36:10-11",
+          "why_start_end_and_devices": "The multiplied people and rebuilt cities, prospered more than before."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "You Will No Longer Devour Men",
+          "reference": "36:12-15",
+          "why_start_end_and_devices": "The land that bereaved its nation now made fruitful and unreproached."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "They Defiled the Land",
+          "reference": "36:16-18",
+          "why_start_end_and_devices": "Israel's idolatry and bloodshed that brought God's poured-out wrath."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "They Profaned My Holy Name",
+          "reference": "36:19-21",
+          "why_start_end_and_devices": "The scattered exiles whose plight disgraced God's name among the nations."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "For the Sake of My Holy Name",
+          "reference": "36:22-23",
+          "why_start_end_and_devices": "Not for Israel's sake but to vindicate His great name before the nations."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "I Will Sprinkle Clean Water on You",
+          "reference": "36:24-25",
+          "why_start_end_and_devices": "Gathered from the nations and cleansed from all impurities and idols."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "A New Heart and a New Spirit",
+          "reference": "36:26-27",
+          "why_start_end_and_devices": "The heart of stone removed and God's Spirit put within to obey His statutes."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "You Will Be My People",
+          "reference": "36:28-30",
+          "why_start_end_and_devices": "Living in the land, saved from uncleanness, the famine reproach lifted."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Be Ashamed of Your Ways",
+          "reference": "36:31-32",
+          "why_start_end_and_devices": "The remembered evil and self-loathing — 'not for your sake.'"
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Like the Garden of Eden",
+          "reference": "36:33-35",
+          "why_start_end_and_devices": "The desolate land cultivated and the ruined cities rebuilt and fortified."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Like Flocks of People",
+          "reference": "36:36-38",
+          "why_start_end_and_devices": "The nations knowing the LORD rebuilt it, the cities filled like festival flocks."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Can These Bones Live?",
+          "reference": "37:1-3",
+          "why_start_end_and_devices": "The valley of very dry bones and the prophet's answer, 'O Lord GOD, only You know.'"
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Dry Bones, Hear the Word",
+          "reference": "37:4-6",
+          "why_start_end_and_devices": "The command to prophesy breath, tendons, flesh, and skin upon them."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Bone to Bone",
+          "reference": "37:7-8",
+          "why_start_end_and_devices": "The rattling as the bones join, sinews and flesh forming — yet no breath."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Breath from the Four Winds",
+          "reference": "37:9-10",
+          "why_start_end_and_devices": "The breath entering the slain, who rise as a vast army."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "These Bones Are the House of Israel",
+          "reference": "37:11-12",
+          "why_start_end_and_devices": "The hopeless 'we are cut off' answered: 'I will open your graves.'"
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "I Will Put My Spirit in You",
+          "reference": "37:13-14",
+          "why_start_end_and_devices": "The promise of resurrection-life and settlement in the land."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "The Two Sticks Joined",
+          "reference": "37:15-17",
+          "why_start_end_and_devices": "The sign of Judah's and Joseph's sticks made one in the prophet's hand."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "One in My Hand",
+          "reference": "37:18-19",
+          "why_start_end_and_devices": "The meaning: the divided tribes reunited by God."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "One Nation, One King",
+          "reference": "37:20-22",
+          "why_start_end_and_devices": "The regathered people made a single nation under one king on the mountains of Israel."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "My Servant David Will Be King",
+          "reference": "37:23-24",
+          "why_start_end_and_devices": "The cleansed people following God's ordinances under the one Shepherd."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "An Everlasting Covenant of Peace",
+          "reference": "37:25-26",
+          "why_start_end_and_devices": "David their prince forever, God's sanctuary set among them."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "My Dwelling Place Will Be with Them",
+          "reference": "37:27-28",
+          "why_start_end_and_devices": "The covenant formula sealed by God's eternal sanctuary in their midst."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Against Gog of Magog",
+          "reference": "38:1-3",
+          "why_start_end_and_devices": "The oracle against the chief prince of Meshech and Tubal."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Hooks in Your Jaws",
+          "reference": "38:4-6",
+          "why_start_end_and_devices": "Gog drawn out with his vast allied army from Persia to Togarmah."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Summoned in the Latter Years",
+          "reference": "38:7-9",
+          "why_start_end_and_devices": "The advance like a storm-cloud against a land restored from war."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "An Evil Plan to Seize the Spoil",
+          "reference": "38:10-13",
+          "why_start_end_and_devices": "Gog's scheme against the unwalled, secure people gathered from the nations."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "I Will Bring You Against My Land",
+          "reference": "38:14-16",
+          "why_start_end_and_devices": "God drawing Gog so the nations may know His holiness in him."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "My Wrath Will Flare Up",
+          "reference": "38:17-18",
+          "why_start_end_and_devices": "Gog the foretold foe whose coming kindles God's fury."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "A Great Earthquake",
+          "reference": "38:19-20",
+          "why_start_end_and_devices": "All creation trembling, the mountains thrown down at God's presence."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "I Will Magnify and Sanctify Myself",
+          "reference": "38:21-23",
+          "why_start_end_and_devices": "Sword, plague, and fire on Gog so the nations know the LORD."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "I Will Strike the Bow from Your Hand",
+          "reference": "39:1-3",
+          "why_start_end_and_devices": "The renewed oracle disarming Gog on the mountains of Israel."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Food for the Birds and Beasts",
+          "reference": "39:4-6",
+          "why_start_end_and_devices": "Gog and his hordes fallen, fire sent on Magog and the coastlands."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "My Holy Name Made Known",
+          "reference": "39:7-8",
+          "why_start_end_and_devices": "God's name no longer profaned — 'this is the day of which I have spoken.'"
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "Burning the Weapons Seven Years",
+          "reference": "39:9-10",
+          "why_start_end_and_devices": "The weapons of Gog used as fuel, the looters looted."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "The Valley of Hamon-gog",
+          "reference": "39:11-12",
+          "why_start_end_and_devices": "Gog and his hordes buried for seven months to cleanse the land."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "Cleansing the Land",
+          "reference": "39:13-14",
+          "why_start_end_and_devices": "The people burying the dead, gravediggers employed to purify the land."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "The City Named Hamonah",
+          "reference": "39:15-16",
+          "why_start_end_and_devices": "Bone-markers set up until every invader is buried."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "A Sacrificial Feast for the Birds",
+          "reference": "39:17-18",
+          "why_start_end_and_devices": "The summons to the carrion-creatures to eat the flesh of the mighty."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Gorged at My Table",
+          "reference": "39:19-20",
+          "why_start_end_and_devices": "The birds and beasts drunk on the blood of horses and warriors."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "I Will Display My Glory",
+          "reference": "39:21-22",
+          "why_start_end_and_devices": "Israel knowing the LORD from that day forward."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "They Went into Exile for Their Iniquity",
+          "reference": "39:23-24",
+          "why_start_end_and_devices": "The nations learning that exile came from Israel's unfaithfulness."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "Now I Will Restore Jacob",
+          "reference": "39:25-26",
+          "why_start_end_and_devices": "God's compassion and jealousy for His holy name, the disgrace forgotten."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "I Will Pour Out My Spirit",
+          "reference": "39:27-29",
+          "why_start_end_and_devices": "The full regathering with none left behind — 'I will no longer hide My face.'"
+        }
+      ]
     },
     {
       "story_letter": "H",
