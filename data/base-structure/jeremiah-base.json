@@ -2464,63 +2464,537 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Against Egypt I",
-          "reference": "46:2-12",
-          "why_start_end_and_devices": "Defeat at the Euphrates; flee, O mighty ones—complete battle oracle."
+          "scene_name": "Egypt Defeated at Carchemish",
+          "reference": "46:1-2",
+          "why_start_end_and_devices": "The oracles against the nations open with Pharaoh Neco's defeat by Babylon."
         },
         {
           "scene_number": 2,
-          "scene_name": "Against Egypt II",
-          "reference": "46:13-28",
-          "why_start_end_and_devices": "Nebuchadnezzar strikes Egypt; Israel reassured—paired oracle unit."
+          "scene_name": "Harness the Horses!",
+          "reference": "46:3-4",
+          "why_start_end_and_devices": "The mustering of Egypt's army for battle."
         },
         {
           "scene_number": 3,
-          "scene_name": "Against Philistia",
-          "reference": "47:1-7",
-          "why_start_end_and_devices": "Waters rising from the north; sword of the LORD—short nation oracle."
+          "scene_name": "Terror on Every Side",
+          "reference": "46:5-6",
+          "why_start_end_and_devices": "The rout: the warriors fleeing and stumbling by the Euphrates."
         },
         {
           "scene_number": 4,
-          "scene_name": "Against Moab",
-          "reference": "48:1-47",
-          "why_start_end_and_devices": "Extensive dirge and taunt with restoration note—long composite oracle."
+          "scene_name": "Egypt Rises Like the Nile",
+          "reference": "46:7-9",
+          "why_start_end_and_devices": "Egypt's boast to cover the earth, summoning Cush, Put, and Lydia."
         },
         {
           "scene_number": 5,
-          "scene_name": "Against Ammon",
-          "reference": "49:1-6",
-          "why_start_end_and_devices": "Rhetorical questions about Milcom; restoration in latter days—compact unit."
+          "scene_name": "A Day of Vengeance",
+          "reference": "46:10-12",
+          "why_start_end_and_devices": "The sword's sacrifice in the north; balm sought from Gilead in vain."
         },
         {
           "scene_number": 6,
-          "scene_name": "Against Edom",
-          "reference": "49:7-22",
-          "why_start_end_and_devices": "Wisdom failed in Teman; eagle soars—complete oracle."
+          "scene_name": "Nebuchadnezzar Comes Against Egypt",
+          "reference": "46:13-14",
+          "why_start_end_and_devices": "The proclamation in Migdol and Memphis as the sword devours."
         },
         {
           "scene_number": 7,
-          "scene_name": "Against Damascus",
-          "reference": "49:23-27",
-          "why_start_end_and_devices": "Hamath and Arpad dismayed; palace consumed by fire—short unit."
+          "scene_name": "Pharaoh Was All Noise",
+          "reference": "46:15-17",
+          "why_start_end_and_devices": "The fallen warriors and the taunt that Pharaoh let his moment pass."
         },
         {
           "scene_number": 8,
-          "scene_name": "Against Kedar and Hazor",
-          "reference": "49:28-33",
-          "why_start_end_and_devices": "Plundered nomads; dwell in the deep—brief oracle."
+          "scene_name": "Pack Your Bags for Exile",
+          "reference": "46:18-19",
+          "why_start_end_and_devices": "The coming conqueror like Tabor and Carmel; Memphis to be laid waste."
         },
         {
           "scene_number": 9,
-          "scene_name": "Against Elam",
-          "reference": "49:34-39",
-          "why_start_end_and_devices": "Bow of Elam broken; latter‑day restoration—compact verdict."
+          "scene_name": "A Gadfly from the North",
+          "reference": "46:20-21",
+          "why_start_end_and_devices": "Egypt the beautiful heifer and her fleeing mercenaries."
         },
         {
           "scene_number": 10,
-          "scene_name": "Against Babylon + Sign‑Act",
-          "reference": "50:1 - 51:64",
-          "why_start_end_and_devices": "Massive anti‑Babylon corpus culminating with scroll sinking at Euphrates—collection capstone with colophon."
+          "scene_name": "Like Woodsmen Cutting Trees",
+          "reference": "46:22-24",
+          "why_start_end_and_devices": "The enemy more numerous than locusts, the Daughter of Egypt shamed."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Egypt Will Be Inhabited Again",
+          "reference": "46:25-26",
+          "why_start_end_and_devices": "Judgment on Amon of Thebes, yet the promise of Egypt's later restoration."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Do Not Be Afraid, O Jacob",
+          "reference": "46:27-28",
+          "why_start_end_and_devices": "The word of comfort to Israel amid the nation-judgments."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Waters Rising from the North",
+          "reference": "47:1-3",
+          "why_start_end_and_devices": "The oracle against the Philistines: an overflowing torrent of invasion."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Gaza Will Shave Her Head",
+          "reference": "47:4-5",
+          "why_start_end_and_devices": "The day to cut off the Philistines and their Phoenician allies."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "O Sword of the LORD, How Long?",
+          "reference": "47:6-7",
+          "why_start_end_and_devices": "The sword that cannot rest, appointed against Ashkelon and the coast."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Woe to Nebo",
+          "reference": "48:1-2",
+          "why_start_end_and_devices": "The oracle against Moab opens: her towns shattered and disgraced."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Devastation and Great Destruction",
+          "reference": "48:3-5",
+          "why_start_end_and_devices": "The weeping on the roads of Luhith and Horonaim."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Chemosh Goes into Exile",
+          "reference": "48:6-8",
+          "why_start_end_and_devices": "The flight for life as the destroyer moves against every city."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Put Salt on Moab",
+          "reference": "48:9-10",
+          "why_start_end_and_devices": "The wasteland decree and the curse on the slack instrument of judgment."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Settled on His Dregs",
+          "reference": "48:11-13",
+          "why_start_end_and_devices": "Moab undisturbed from youth, now to be poured out and shamed of Chemosh."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "How Can You Say, 'We Are Warriors'?",
+          "reference": "48:14-16",
+          "why_start_end_and_devices": "Moab's vaunted strength shattered, his calamity rushing near."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Mighty Scepter Is Shattered",
+          "reference": "48:17-19",
+          "why_start_end_and_devices": "The call to mourn and to come down from glory, O Dibon and Aroer."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Judgment on the Towns of Moab",
+          "reference": "48:20-24",
+          "why_start_end_and_devices": "The roll of Moab's cities, far and near, fallen into shame."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Make Him Drunk",
+          "reference": "48:25-27",
+          "why_start_end_and_devices": "Moab's horn cut off, wallowing in vomit for magnifying himself against the LORD."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Moab's Empty Boasting",
+          "reference": "48:28-30",
+          "why_start_end_and_devices": "The call to nest in the rocks; his proud insolence proven futile."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "I Will Wail for Moab",
+          "reference": "48:31-33",
+          "why_start_end_and_devices": "The lament for the vine of Sibmah and the joy removed from the orchard."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "My Heart Laments Like a Flute",
+          "reference": "48:34-36",
+          "why_start_end_and_devices": "The cry from Heshbon to Elealeh over Moab's perished wealth."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Shattered Like an Unwanted Jar",
+          "reference": "48:37-39",
+          "why_start_end_and_devices": "Universal mourning as Moab is broken and turns his back in shame."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "An Eagle Swoops Down",
+          "reference": "48:40-42",
+          "why_start_end_and_devices": "Moab destroyed as a nation for vaunting himself against the LORD."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Terror and Pit and Snare",
+          "reference": "48:43-44",
+          "why_start_end_and_devices": "The inescapable judgment in the year of Moab's punishment."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Yet I Will Restore Moab",
+          "reference": "48:45-47",
+          "why_start_end_and_devices": "Fire from Heshbon and exile, sealed by a promise of latter-day restoration."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Rabbah a Heap of Ruins",
+          "reference": "49:1-2",
+          "why_start_end_and_devices": "The oracle against Ammon for seizing Gad's inheritance."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Milcom Goes into Exile",
+          "reference": "49:3-6",
+          "why_start_end_and_devices": "Wailing Heshbon and the faithless daughter, with a promise to restore Ammon."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Is There No Wisdom in Teman?",
+          "reference": "49:7-8",
+          "why_start_end_and_devices": "The oracle against Edom: flight from the coming disaster on Esau."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "I Will Strip Esau Bare",
+          "reference": "49:9-11",
+          "why_start_end_and_devices": "Edom's hiding places uncovered, his line destroyed — 'let your widows trust in Me.'"
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "You Must Drink the Cup",
+          "reference": "49:12-13",
+          "why_start_end_and_devices": "The sworn desolation of Bozrah and all Edom's cities."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Though You Nest Like the Eagle",
+          "reference": "49:14-16",
+          "why_start_end_and_devices": "The summons to battle and the bringing-down of proud, cliff-dwelling Edom."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Like a Lion from the Jordan",
+          "reference": "49:17-19",
+          "why_start_end_and_devices": "Edom an object of horror, chased from her land by the incomparable LORD."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "An Eagle Over Bozrah",
+          "reference": "49:20-22",
+          "why_start_end_and_devices": "The LORD's plans against Teman, the warriors' hearts like a woman in labor."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Damascus Has Become Feeble",
+          "reference": "49:23-24",
+          "why_start_end_and_devices": "The oracle against Damascus: Hamath and Arpad shamed, panic gripping the city."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Fire on the Walls of Damascus",
+          "reference": "49:25-27",
+          "why_start_end_and_devices": "The city of praise forsaken, her warriors silenced, Ben-hadad's fortresses consumed."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Rise Up Against Kedar",
+          "reference": "49:28-30",
+          "why_start_end_and_devices": "The oracle against the desert tribes Nebuchadnezzar defeated — 'terror on every side.'"
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Hazor a Haunt for Jackals",
+          "reference": "49:31-33",
+          "why_start_end_and_devices": "The secure, gateless nation plundered and made a desolation forever."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "I Will Shatter Elam's Bow",
+          "reference": "49:34-36",
+          "why_start_end_and_devices": "The oracle against Elam: the four winds scattering them everywhere."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "I Will Set My Throne in Elam",
+          "reference": "49:37-39",
+          "why_start_end_and_devices": "Elam shattered before her foes, yet promised restoration in the last days."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Babylon Is Captured; Bel Is Shamed",
+          "reference": "50:1-3",
+          "why_start_end_and_devices": "The great oracle against Babylon opens: a nation from the north makes her a desolation."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "An Everlasting Covenant",
+          "reference": "50:4-5",
+          "why_start_end_and_devices": "Israel and Judah coming weeping to seek the LORD and the way to Zion."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "My People Are Lost Sheep",
+          "reference": "50:6-7",
+          "why_start_end_and_devices": "The flock led astray by shepherds, devoured by enemies who claim no guilt."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Flee from the Midst of Babylon",
+          "reference": "50:8-10",
+          "why_start_end_and_devices": "The assembly of northern nations summoned to plunder Chaldea."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Your Mother Will Be Ashamed",
+          "reference": "50:11-13",
+          "why_start_end_and_devices": "Babylon the plundering heifer made the least of nations, a desert."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Take Out Your Vengeance on Her",
+          "reference": "50:14-16",
+          "why_start_end_and_devices": "The archers summoned against the city whose walls are torn down."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "I Will Punish the King of Babylon",
+          "reference": "50:17-18",
+          "why_start_end_and_devices": "Israel the lion-chased flock, Babylon judged as Assyria was."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Her Guilt Will Not Be Found",
+          "reference": "50:19-20",
+          "why_start_end_and_devices": "Israel restored to pasture, the remnant's sins forgiven and unsought."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "The Hammer of the Whole Earth Broken",
+          "reference": "50:21-23",
+          "why_start_end_and_devices": "The summons against Merathaim and Pekod, Babylon become a horror."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "I Laid a Snare for You, O Babylon",
+          "reference": "50:24-25",
+          "why_start_end_and_devices": "The city caught for challenging the LORD, whose armory is opened."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Vengeance for His Temple",
+          "reference": "50:26-28",
+          "why_start_end_and_devices": "Babylon devoted to destruction, the fugitives declaring it in Zion."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "Repay Her According to Her Deeds",
+          "reference": "50:29-30",
+          "why_start_end_and_devices": "The archers encamped around the city that defied the Holy One of Israel."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "I Am Against You, O Arrogant One",
+          "reference": "50:31-32",
+          "why_start_end_and_devices": "The proud one to stumble and fall, fire kindled in his cities."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Their Redeemer Is Strong",
+          "reference": "50:33-34",
+          "why_start_end_and_devices": "The oppressed Israel whose strong Redeemer will plead their case."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "A Sword Against the Chaldeans",
+          "reference": "50:35-37",
+          "why_start_end_and_devices": "The fivefold sword against Babylon's wise men, warriors, and treasures."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "A Land of Idols Gone Mad",
+          "reference": "50:38-40",
+          "why_start_end_and_devices": "The drought and Sodom-like overthrow of the never-again-inhabited city."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "An Army from the North",
+          "reference": "50:41-43",
+          "why_start_end_and_devices": "The great nation against the Daughter of Babylon, whose king's hands hang limp."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "Like a Lion from the Jordan",
+          "reference": "50:44-46",
+          "why_start_end_and_devices": "The incomparable LORD chasing Babylon; the earth quaking at her capture."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "A Destroyer Against Babylon",
+          "reference": "51:1-3",
+          "why_start_end_and_devices": "The spirit of a destroyer stirred up to winnow and empty her land."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Israel Has Not Been Abandoned",
+          "reference": "51:4-5",
+          "why_start_end_and_devices": "Though their land is full of guilt, the LORD of Hosts has not forsaken His people."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "A Gold Cup in the LORD's Hand",
+          "reference": "51:6-7",
+          "why_start_end_and_devices": "Flee from Babylon, the cup that made the whole earth drunk and mad."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "She Could Not Be Healed",
+          "reference": "51:8-9",
+          "why_start_end_and_devices": "Babylon suddenly fallen, her judgment reaching to the clouds."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "Vengeance for His Temple",
+          "reference": "51:10-11",
+          "why_start_end_and_devices": "The LORD's vindication declared in Zion, the spirit of the Medes aroused."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "Your End Has Come",
+          "reference": "51:12-14",
+          "why_start_end_and_devices": "A banner raised against her walls; the city of many waters cut off."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "He Made the Earth by His Power",
+          "reference": "51:15-16",
+          "why_start_end_and_devices": "The Creator who stretched out the heavens (echoing 10:12-13)."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "The Portion of Jacob",
+          "reference": "51:17-19",
+          "why_start_end_and_devices": "The breathless idols against Jacob's Portion, the Maker of all."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "You Are My War Club",
+          "reference": "51:20-23",
+          "why_start_end_and_devices": "Babylon the LORD's hammer with which He shattered nations — now repaid."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "O Destroying Mountain",
+          "reference": "51:24-26",
+          "why_start_end_and_devices": "The repayment for evil done in Zion, the mountain rolled over the cliffs."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Prepare the Nations Against Her",
+          "reference": "51:27-28",
+          "why_start_end_and_devices": "The banner and ram's horn summoning Ararat, Minni, and the Medes."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "Her Warriors Have Stopped Fighting",
+          "reference": "51:29-30",
+          "why_start_end_and_devices": "The quaking earth and the exhausted defenders sitting in their strongholds."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "Captured from End to End",
+          "reference": "51:31-33",
+          "why_start_end_and_devices": "The couriers racing to tell the king his city has fallen like a threshing floor."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "May My Blood Be on Chaldea",
+          "reference": "51:34-35",
+          "why_start_end_and_devices": "Zion's cry against Nebuchadnezzar who devoured her like a monster."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "I Will Plead Your Case",
+          "reference": "51:36-37",
+          "why_start_end_and_devices": "God drying up Babylon's springs, making her a heap of rubble."
+        },
+        {
+          "scene_number": 79,
+          "scene_name": "I Will Bring Them Down Like Lambs",
+          "reference": "51:38-40",
+          "why_start_end_and_devices": "The roaring lions served a drunken feast of everlasting sleep."
+        },
+        {
+          "scene_number": 80,
+          "scene_name": "How Sheshach Has Been Captured!",
+          "reference": "51:41-43",
+          "why_start_end_and_devices": "The praise of all the earth become a horror, covered by the sea."
+        },
+        {
+          "scene_number": 81,
+          "scene_name": "Come Out of Her, My People",
+          "reference": "51:44-45",
+          "why_start_end_and_devices": "Bel made to spew what he swallowed; the call to flee God's anger."
+        },
+        {
+          "scene_number": 82,
+          "scene_name": "Heaven and Earth Will Shout for Joy",
+          "reference": "51:46-48",
+          "why_start_end_and_devices": "Steady hearts amid rumors, and the joy of creation over Babylon's fall."
+        },
+        {
+          "scene_number": 83,
+          "scene_name": "Remember the LORD from Far Away",
+          "reference": "51:49-51",
+          "why_start_end_and_devices": "Babylon falling for Israel's slain; the shame of the desecrated temple."
+        },
+        {
+          "scene_number": 84,
+          "scene_name": "Even If Babylon Ascends to the Heavens",
+          "reference": "51:52-53",
+          "why_start_end_and_devices": "The destroyers will reach her however high she fortifies herself."
+        },
+        {
+          "scene_number": 85,
+          "scene_name": "The LORD Will Silence Her Voice",
+          "reference": "51:54-55",
+          "why_start_end_and_devices": "The cry of great destruction rising from the land of the Chaldeans."
+        },
+        {
+          "scene_number": 86,
+          "scene_name": "Her Thick Walls Leveled",
+          "reference": "51:56-58",
+          "why_start_end_and_devices": "The God of retribution repaying in full; the nations' labor become fuel for fire."
+        },
+        {
+          "scene_number": 87,
+          "scene_name": "The Scroll for Seraiah",
+          "reference": "51:59-60",
+          "why_start_end_and_devices": "Jeremiah's written oracle of Babylon's doom sent with the quartermaster."
+        },
+        {
+          "scene_number": 88,
+          "scene_name": "Read All These Words Aloud",
+          "reference": "51:61-62",
+          "why_start_end_and_devices": "The instruction to proclaim Babylon's everlasting desolation."
+        },
+        {
+          "scene_number": 89,
+          "scene_name": "Babylon Will Sink and Never Rise",
+          "reference": "51:63-64",
+          "why_start_end_and_devices": "The stone-bound scroll cast into the Euphrates — 'here end the words of Jeremiah.'"
         }
       ]
     },
@@ -2532,33 +3006,87 @@
       "scenes": [
         {
           "scene_number": 1,
-          "scene_name": "Zedekiah’s Reign and Rebellion",
+          "scene_name": "Zedekiah's Reign and Rebellion",
           "reference": "52:1-3",
-          "why_start_end_and_devices": "Standard regnal rubric ending in rebellion—introductory summary."
+          "why_start_end_and_devices": "The historical appendix opens: Zedekiah's evil reign and revolt against Babylon."
         },
         {
           "scene_number": 2,
-          "scene_name": "Siege and Fall of Jerusalem",
-          "reference": "52:4-16",
-          "why_start_end_and_devices": "Siege account through deportation and remnant—single fall narrative."
+          "scene_name": "The Siege of Jerusalem",
+          "reference": "52:4-5",
+          "why_start_end_and_devices": "Nebuchadnezzar's army encamping and building a siege wall around the city."
         },
         {
           "scene_number": 3,
-          "scene_name": "Plundering the Temple",
-          "reference": "52:17-23",
-          "why_start_end_and_devices": "Inventory of bronze pillars and vessels—loss catalog scene."
+          "scene_name": "The City Breached",
+          "reference": "52:6-7",
+          "why_start_end_and_devices": "The severe famine and the night flight of the men of war."
         },
         {
           "scene_number": 4,
-          "scene_name": "The Exiles Counted",
-          "reference": "52:24-30",
-          "why_start_end_and_devices": "Captives taken and tallied—human cost registry."
+          "scene_name": "Zedekiah Overtaken at Jericho",
+          "reference": "52:8-9",
+          "why_start_end_and_devices": "The king captured, deserted by his army, brought to Riblah for judgment."
         },
         {
           "scene_number": 5,
-          "scene_name": "Jehoiachin’s Release",
-          "reference": "52:31-34",
-          "why_start_end_and_devices": "Elevation in Babylon—final glimmer closing the book."
+          "scene_name": "His Eyes Put Out",
+          "reference": "52:10-11",
+          "why_start_end_and_devices": "His sons slaughtered before him, then blinded and taken to die in Babylon."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Temple Burned",
+          "reference": "52:12-14",
+          "why_start_end_and_devices": "Nebuzaradan burning the house of the LORD and breaking down the walls."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The People Carried into Exile",
+          "reference": "52:15-16",
+          "why_start_end_and_devices": "The remnant deported, the poorest left to tend the land."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Bronze and the Gold Carried Off",
+          "reference": "52:17-19",
+          "why_start_end_and_devices": "The plundering of the temple's pillars, Sea, and precious vessels."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Two Pillars",
+          "reference": "52:20-23",
+          "why_start_end_and_devices": "The inventory of Solomon's bronze pillars and their pomegranate capitals."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Seraiah the Chief Priest Taken",
+          "reference": "52:24-25",
+          "why_start_end_and_devices": "The priests and officials seized from the fallen city."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Judah Taken into Exile",
+          "reference": "52:26-27",
+          "why_start_end_and_devices": "The captives executed at Riblah — 'so Judah was taken into exile.'"
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Tally of the Exiles",
+          "reference": "52:28-30",
+          "why_start_end_and_devices": "The counted deportations: 4,600 people carried away in all."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Jehoiachin Released from Prison",
+          "reference": "52:31-32",
+          "why_start_end_and_devices": "The pardon of the exiled king, his throne set above the other kings."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "A Daily Portion for Life",
+          "reference": "52:33-34",
+          "why_start_end_and_devices": "The last words of the book: Jehoiachin dining at the king's table — a faint glimmer of hope."
         }
       ]
     }
