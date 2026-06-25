@@ -2345,7 +2345,584 @@
       "story_title": "The Vision of the New Temple",
       "reference": "40:1 - 48:35",
       "why_start_end_and_literary_glue": "The climactic vision of the restored temple: its measurements (40-42), the return of the glory of the LORD (43), the priestly and worship ordinances (44-46), the life-giving river from the temple (47), and the new allotment of the land, ending with the city's name 'The LORD Is There' (48:35). Glue: the merkabah returning, completing the book's inclusio.",
-      "scenes": []
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_name": "Set on a Very High Mountain",
+          "reference": "40:1-2",
+          "why_start_end_and_devices": "The twenty-fifth-year vision: carried to Israel, shown a structure like a city."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Man with the Measuring Rod",
+          "reference": "40:3-4",
+          "why_start_end_and_devices": "The bronze-like figure commissioned to show Ezekiel the temple to report to Israel."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Wall and the East Gate",
+          "reference": "40:5-7",
+          "why_start_end_and_devices": "The surrounding wall measured and the gate-chambers of the east gate."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Portico Facing the Temple",
+          "reference": "40:8-10",
+          "why_start_end_and_devices": "The gateway's portico and its three chambers on each side."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Measured Doorway to Doorway",
+          "reference": "40:11-13",
+          "why_start_end_and_devices": "The entrance width and the span across the gate chambers."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Windows and Palm Trees",
+          "reference": "40:14-16",
+          "why_start_end_and_devices": "The gateposts and the beveled windows decorated with palms."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Outer Court",
+          "reference": "40:17-19",
+          "why_start_end_and_devices": "The thirty chambers and the pavement, a hundred cubits to the inner court."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The North Gate",
+          "reference": "40:20-23",
+          "why_start_end_and_devices": "The outer north gate measured the same as the east."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The South Gate",
+          "reference": "40:24-27",
+          "why_start_end_and_devices": "The south gates of the outer and inner courts, a hundred cubits apart."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Into the Inner Court",
+          "reference": "40:28-31",
+          "why_start_end_and_devices": "The inner south gate with its eight steps."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Inner East Gate",
+          "reference": "40:32-34",
+          "why_start_end_and_devices": "The inner court's east gate with its palm-decorated pillars."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Inner North Gate",
+          "reference": "40:35-37",
+          "why_start_end_and_devices": "The inner north gate measured like the others."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Tables for the Sacrifices",
+          "reference": "40:38-41",
+          "why_start_end_and_devices": "The washing-chamber and the eight tables for slaughtering the offerings."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Tables of Dressed Stone",
+          "reference": "40:42-43",
+          "why_start_end_and_devices": "The stone tables and the hooks for the sacrificial flesh."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "The Chambers of the Sons of Zadok",
+          "reference": "40:44-46",
+          "why_start_end_and_devices": "The priests' chambers for those who keep charge of temple and altar."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Portico of the Temple",
+          "reference": "40:47-49",
+          "why_start_end_and_devices": "The square inner court, the altar before the temple, and the ten-step portico."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Outer Sanctuary",
+          "reference": "41:1-2",
+          "why_start_end_and_devices": "The Holy Place measured forty by twenty cubits."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Most Holy Place",
+          "reference": "41:3-4",
+          "why_start_end_and_devices": "The inner sanctuary, twenty cubits square — 'this is the Most Holy Place.'"
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "The Side Rooms",
+          "reference": "41:5-7",
+          "why_start_end_and_devices": "The three tiers of thirty rooms widening as they ascend."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Raised Base",
+          "reference": "41:8-11",
+          "why_start_end_and_devices": "The temple's foundation platform and the open area around it."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "A Hundred Cubits Square",
+          "reference": "41:12-14",
+          "why_start_end_and_devices": "The west building and the temple courtyard measurements."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Overlaid with Wood",
+          "reference": "41:15-16",
+          "why_start_end_and_devices": "The galleries and paneling of the sanctuary."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Cherubim and Palm Trees",
+          "reference": "41:17-19",
+          "why_start_end_and_devices": "The carved cherubim with human and lion faces between the palms."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Table Before the LORD",
+          "reference": "41:20-22",
+          "why_start_end_and_devices": "The wall-carvings and the wooden altar — 'the table that is before the LORD.'"
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Double Doors",
+          "reference": "41:23-26",
+          "why_start_end_and_devices": "The carved doors of the sanctuary and the portico's canopy."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The North Chambers",
+          "reference": "42:1-4",
+          "why_start_end_and_devices": "The three-tiered priestly chambers and the inner walkway."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Upper Chambers Set Back",
+          "reference": "42:5-6",
+          "why_start_end_and_devices": "The tapering galleries without pillars."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Outer Wall",
+          "reference": "42:7-9",
+          "why_start_end_and_devices": "The wall before the chambers and the eastern entrance."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The South Chambers",
+          "reference": "42:10-12",
+          "why_start_end_and_devices": "The matching chambers along the south wall."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Holy Chambers",
+          "reference": "42:13-14",
+          "why_start_end_and_devices": "Where the priests eat the most holy offerings and change their garments."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Five Hundred Cubits",
+          "reference": "42:15-17",
+          "why_start_end_and_devices": "The measuring of the east and north sides of the temple area."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "A Wall to Separate Holy from Common",
+          "reference": "42:18-20",
+          "why_start_end_and_devices": "The square enclosure measured on all four sides."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Glory Comes from the East",
+          "reference": "43:1-3",
+          "why_start_end_and_devices": "The glory of God returning with a voice like many waters — 'I fell facedown.'"
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "The Glory Fills the Temple",
+          "reference": "43:4-5",
+          "why_start_end_and_devices": "The kabod entering by the east gate and filling the house."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The Place of My Throne",
+          "reference": "43:6-7",
+          "why_start_end_and_devices": "God's promise to dwell among Israel forever, never again defiled."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Remove Your Prostitution",
+          "reference": "43:8-9",
+          "why_start_end_and_devices": "The threshold-abominations renounced so God will dwell among them."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "The Law of the Temple",
+          "reference": "43:10-12",
+          "why_start_end_and_devices": "Describe the temple that they may be ashamed — all the surrounding mountaintop most holy."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "The Measurements of the Altar",
+          "reference": "43:13-14",
+          "why_start_end_and_devices": "The altar's gutter and ledges in long cubits."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Four Horns and Steps Facing East",
+          "reference": "43:15-17",
+          "why_start_end_and_devices": "The altar hearth with its horns and the eastward-facing steps."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Cleansing the Altar",
+          "reference": "43:18-20",
+          "why_start_end_and_devices": "The sin-offering bull whose blood purifies the four horns."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "The Sin Offering Burned",
+          "reference": "43:21-22",
+          "why_start_end_and_devices": "The bull removed and a male goat presented on the second day."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Sprinkled with Salt",
+          "reference": "43:23-24",
+          "why_start_end_and_devices": "The unblemished bull and ram offered as a burnt offering."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Then I Will Accept You",
+          "reference": "43:25-27",
+          "why_start_end_and_devices": "Seven days of atonement, after which the offerings are accepted."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "The Gate That Remains Shut",
+          "reference": "44:1-3",
+          "why_start_end_and_devices": "The east gate sealed because the LORD entered through it; only the prince may eat there."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "The Glory Filling His Temple",
+          "reference": "44:4-5",
+          "why_start_end_and_devices": "The charge to mark carefully the statutes of the house."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "I Have Had Enough of Your Abominations",
+          "reference": "44:6-8",
+          "why_start_end_and_devices": "The rebuke for admitting uncircumcised foreigners into the sanctuary."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "The Levites Will Bear Their Iniquity",
+          "reference": "44:9-10",
+          "why_start_end_and_devices": "No uncircumcised may enter; the wayward Levites bear their guilt."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Ministers of the Gates",
+          "reference": "44:11-12",
+          "why_start_end_and_devices": "The Levites kept as temple-servants, not priests, for leading Israel into idolatry."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "They Will Bear Their Shame",
+          "reference": "44:13-14",
+          "why_start_end_and_devices": "Barred from priestly access, assigned the temple's labor."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "The Sons of Zadok",
+          "reference": "44:15-16",
+          "why_start_end_and_devices": "The faithful priestly line who alone draw near to minister."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Linen Garments",
+          "reference": "44:17-19",
+          "why_start_end_and_devices": "The priests' linen vestments, left behind so as not to transmit holiness."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Rules for the Priests",
+          "reference": "44:20-22",
+          "why_start_end_and_devices": "Trimmed hair, no wine before service, marriage only to a virgin or priest's widow."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Teach the Holy and the Common",
+          "reference": "44:23-24",
+          "why_start_end_and_devices": "The priests as teachers and judges keeping God's feasts and Sabbaths."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Defilement by the Dead",
+          "reference": "44:25-27",
+          "why_start_end_and_devices": "The limits on mourning and the sin offering after cleansing."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "I Am Their Inheritance",
+          "reference": "44:28-31",
+          "why_start_end_and_devices": "The priests given no land but God Himself, and the firstfruits of the offerings."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "A Holy Portion for the LORD",
+          "reference": "45:1-3",
+          "why_start_end_and_devices": "The sacred tract set aside, with the sanctuary at its heart."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "For the Priests and Levites",
+          "reference": "45:4-5",
+          "why_start_end_and_devices": "The allotments for those who minister at the sanctuary."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "The City and the Prince",
+          "reference": "45:6-7",
+          "why_start_end_and_devices": "The city's property and the prince's bordering land."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "Enough, O Princes of Israel!",
+          "reference": "45:8-9",
+          "why_start_end_and_devices": "The charge to cease oppression and do justice."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Honest Scales and Measures",
+          "reference": "45:10-12",
+          "why_start_end_and_devices": "The just ephah, bath, and shekel required."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "The Contribution",
+          "reference": "45:13-15",
+          "why_start_end_and_devices": "The grain, oil, and sheep offered to make atonement for the people."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "The Prince Provides the Offerings",
+          "reference": "45:16-17",
+          "why_start_end_and_devices": "The prince's duty to supply the sacrifices for all the appointed feasts."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "Purify the Sanctuary",
+          "reference": "45:18-20",
+          "why_start_end_and_devices": "The first-month atonement for the temple."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "The Passover",
+          "reference": "45:21-23",
+          "why_start_end_and_devices": "The seven-day feast with its bulls and rams."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "The Feast of the Seventh Month",
+          "reference": "45:24-25",
+          "why_start_end_and_devices": "The matching provisions for the autumn feast."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "The Sabbath and New Moon Gate",
+          "reference": "46:1-2",
+          "why_start_end_and_devices": "The east inner gate opened on Sabbaths, where the prince worships."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "The Sabbath Offerings",
+          "reference": "46:3-5",
+          "why_start_end_and_devices": "The people bowing and the prince's lambs and ram."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "The New Moon Offerings",
+          "reference": "46:6-7",
+          "why_start_end_and_devices": "The bull, lambs, and ram with their grain offerings."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "In One Gate, Out the Opposite",
+          "reference": "46:8-9",
+          "why_start_end_and_devices": "The worship-traffic rule for the appointed feasts."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "The Prince Among the People",
+          "reference": "46:10-11",
+          "why_start_end_and_devices": "Entering and leaving with them, with the festival grain offerings."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "The Daily Burnt Offering",
+          "reference": "46:12-13",
+          "why_start_end_and_devices": "Freewill offerings and the lamb offered every morning."
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "A Permanent Statute",
+          "reference": "46:14-15",
+          "why_start_end_and_devices": "The morning grain offering and oil as a regular ordinance."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "The Prince's Inheritance",
+          "reference": "46:16-18",
+          "why_start_end_and_devices": "Gifts to sons kept, gifts to servants reverting — no seizing the people's land."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Where the Priests Boil the Offerings",
+          "reference": "46:19-20",
+          "why_start_end_and_devices": "The place set apart so holiness is not transmitted to the people."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "The Kitchens in the Corners",
+          "reference": "46:21-24",
+          "why_start_end_and_devices": "The four corner courts where the temple-ministers cook the people's sacrifices."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "Water Flowing from the Temple",
+          "reference": "47:1-2",
+          "why_start_end_and_devices": "The stream issuing from under the threshold toward the east."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "Ankle, Knee, Waist, and Beyond",
+          "reference": "47:3-5",
+          "why_start_end_and_devices": "The rising river that becomes too deep to cross."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "The Dead Sea Made Fresh",
+          "reference": "47:6-8",
+          "why_start_end_and_devices": "The trees on the banks and the healed waters flowing to the Arabah."
+        },
+        {
+          "scene_number": 79,
+          "scene_name": "Everything Will Flourish",
+          "reference": "47:9-10",
+          "why_start_end_and_devices": "Swarms of life and fishermen from En-gedi to En-eglaim."
+        },
+        {
+          "scene_number": 80,
+          "scene_name": "Leaves for Healing",
+          "reference": "47:11-12",
+          "why_start_end_and_devices": "The salt marshes left, and the ever-fruitful trees for food and healing."
+        },
+        {
+          "scene_number": 81,
+          "scene_name": "Boundaries of the Inheritance",
+          "reference": "47:13-14",
+          "why_start_end_and_devices": "The land divided among the twelve tribes, Joseph receiving two portions."
+        },
+        {
+          "scene_number": 82,
+          "scene_name": "The Northern Boundary",
+          "reference": "47:15-17",
+          "why_start_end_and_devices": "The border from the Great Sea through Lebo-hamath to Hazar-enan."
+        },
+        {
+          "scene_number": 83,
+          "scene_name": "The East, South, and West Borders",
+          "reference": "47:18-20",
+          "why_start_end_and_devices": "The remaining boundaries to the Eastern Sea, Meribath-kadesh, and the Great Sea."
+        },
+        {
+          "scene_number": 84,
+          "scene_name": "Foreigners as Native-Born",
+          "reference": "47:21-23",
+          "why_start_end_and_devices": "The inheritance shared with the resident foreigners among the tribes."
+        },
+        {
+          "scene_number": 85,
+          "scene_name": "Dan, Asher, and Naphtali",
+          "reference": "48:1-3",
+          "why_start_end_and_devices": "The northern tribal portions running east to west."
+        },
+        {
+          "scene_number": 86,
+          "scene_name": "Manasseh to Judah",
+          "reference": "48:4-7",
+          "why_start_end_and_devices": "The portions of Manasseh, Ephraim, Reuben, and Judah."
+        },
+        {
+          "scene_number": 87,
+          "scene_name": "The Holy Portion Set Apart",
+          "reference": "48:8-10",
+          "why_start_end_and_devices": "The sacred district with the sanctuary at its center, for the priests."
+        },
+        {
+          "scene_number": 88,
+          "scene_name": "For the Sons of Zadok",
+          "reference": "48:11-12",
+          "why_start_end_and_devices": "The most holy portion for the faithful priestly line."
+        },
+        {
+          "scene_number": 89,
+          "scene_name": "The Levites' Portion",
+          "reference": "48:13-14",
+          "why_start_end_and_devices": "Their holy land that may not be sold or transferred."
+        },
+        {
+          "scene_number": 90,
+          "scene_name": "The City's Common Area",
+          "reference": "48:15-17",
+          "why_start_end_and_devices": "The city with its houses and pastureland in the center."
+        },
+        {
+          "scene_number": 91,
+          "scene_name": "Food for the City's Workers",
+          "reference": "48:18-20",
+          "why_start_end_and_devices": "The produce-land and the full square of the holy portion."
+        },
+        {
+          "scene_number": 92,
+          "scene_name": "The Prince's Land",
+          "reference": "48:21-22",
+          "why_start_end_and_devices": "The prince's portions flanking the holy district and city."
+        },
+        {
+          "scene_number": 93,
+          "scene_name": "Benjamin to Gad",
+          "reference": "48:23-27",
+          "why_start_end_and_devices": "The southern tribal portions running east to west."
+        },
+        {
+          "scene_number": 94,
+          "scene_name": "The Southern Border",
+          "reference": "48:28-29",
+          "why_start_end_and_devices": "The boundary of Gad and the close of the tribal allotments."
+        },
+        {
+          "scene_number": 95,
+          "scene_name": "The Twelve Gates of the City",
+          "reference": "48:30-34",
+          "why_start_end_and_devices": "The gates named for the tribes, three on each side."
+        },
+        {
+          "scene_number": 96,
+          "scene_name": "THE LORD IS THERE",
+          "reference": "48:35",
+          "why_start_end_and_devices": "The capstone of the whole book and the Old Testament: the city's new name, Yahweh Shammah."
+        }
+      ]
     }
   ]
 }
