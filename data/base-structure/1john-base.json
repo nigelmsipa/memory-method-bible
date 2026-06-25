@@ -10,14 +10,54 @@
       "why_start_end_and_literary_glue": "Start (1:1) apostolic ‘from the beginning’ witness sets authority; end (2:28) hortatory ‘abide in him’ closes the first cycle before the children‑of‑God focus. Glue: antithetical parallelism (three ‘if we say…’), ‘little children’ address, and abiding/anointing motifs.",
       "reference": "1:1 - 2:28",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Prologue: Witnessing the Word of Life", "reference": "1:1-1:4", "why_start_end_and_devices": "From the beginning, heard/seen/handled—koinonia aim so joy may be complete. Devices: eyewitness anaphora (sensory verbs), fellowship/purpose statement."},
-        {"scene_number": 2, "scene_name": "The Message of Light and Tests of Walking", "reference": "1:5-1:10", "why_start_end_and_devices": "‘God is light’ → triple antithesis (if we say…) resolved by confession and cleansing. Devices: alternating antithetical parallelism, confession/cleansing pair."},
-        {"scene_number": 3, "scene_name": "Advocate and Obedience as Proof", "reference": "2:1-2:6", "why_start_end_and_devices": "My little children—Christ our Advocate/propitiation; knowing shown by keeping commands; walk as he walked. Devices: legal metaphor (Paraclete), ‘know’ chain, abiding duty."},
-        {"scene_number": 4, "scene_name": "Old/New Command: Love the Brother", "reference": "2:7-2:11", "why_start_end_and_devices": "Not new yet new—love; hater in darkness, blinded. Devices: paradox (old/new), light/dark ethics, chiastic feel around brother love."},
-        {"scene_number": 5, "scene_name": "Reasons for Writing to God’s Family", "reference": "2:12-2:14", "why_start_end_and_devices": "I write to you… little children/fathers/young men—sins forgiven, know him, overcome the evil one. Devices: anaphora, tricolon audience with parallel reasons."},
-        {"scene_number": 6, "scene_name": "Do Not Love the World", "reference": "2:15-2:17", "why_start_end_and_devices": "Lust of flesh/eyes, pride of life—world passing; doing God’s will abides forever. Devices: vice triad vs abiding contrast, sharp antithesis."},
-        {"scene_number": 7, "scene_name": "Warning Against Antichrist", "reference": "2:18-2:23", "why_start_end_and_devices": "Last hour; they went out; deny the Son → have not the Father. Devices: eschatological time‑note, departure metaphor, doctrinal antithesis Son/Father."},
-        {"scene_number": 8, "scene_name": "Anointing and Abiding", "reference": "2:24-2:28", "why_start_end_and_devices": "Let what you heard abide; anointing teaches; abide to have confidence at his coming. Devices: anointing/abiding leitwörter, parousia motivation."}
+        {
+          "scene_number": 1,
+          "scene_name": "Prologue: Witnessing the Word of Life",
+          "reference": "1:1-1:4",
+          "why_start_end_and_devices": "From the beginning, heard/seen/handled—koinonia aim so joy may be complete. Devices: eyewitness anaphora (sensory verbs), fellowship/purpose statement."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Message of Light and Tests of Walking",
+          "reference": "1:5-1:10",
+          "why_start_end_and_devices": "‘God is light’ → triple antithesis (if we say…) resolved by confession and cleansing. Devices: alternating antithetical parallelism, confession/cleansing pair."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Advocate and Obedience as Proof",
+          "reference": "2:1-2:6",
+          "why_start_end_and_devices": "My little children—Christ our Advocate/propitiation; knowing shown by keeping commands; walk as he walked. Devices: legal metaphor (Paraclete), ‘know’ chain, abiding duty."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Old/New Command: Love the Brother",
+          "reference": "2:7-2:11",
+          "why_start_end_and_devices": "Not new yet new—love; hater in darkness, blinded. Devices: paradox (old/new), light/dark ethics, chiastic feel around brother love."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Reasons for Writing to God’s Family",
+          "reference": "2:12-2:14",
+          "why_start_end_and_devices": "I write to you… little children/fathers/young men—sins forgiven, know him, overcome the evil one. Devices: anaphora, tricolon audience with parallel reasons."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Do Not Love the World",
+          "reference": "2:15-2:17",
+          "why_start_end_and_devices": "Lust of flesh/eyes, pride of life—world passing; doing God’s will abides forever. Devices: vice triad vs abiding contrast, sharp antithesis."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Warning Against Antichrist",
+          "reference": "2:18-2:23",
+          "why_start_end_and_devices": "Last hour; they went out; deny the Son → have not the Father. Devices: eschatological time‑note, departure metaphor, doctrinal antithesis Son/Father."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Anointing and Abiding",
+          "reference": "2:24-2:28",
+          "why_start_end_and_devices": "Let what you heard abide; anointing teaches; abide to have confidence at his coming. Devices: anointing/abiding leitwörter, parousia motivation."
+        }
       ]
     },
     {
@@ -26,11 +66,36 @@
       "why_start_end_and_literary_glue": "Start (2:29) knowing the Righteous One → born of him grounds the moral cycle; end (4:6) test‑of‑spirits resolves with ‘from God’ vs ‘from the world’. Glue: born‑of‑God vs of‑the‑devil/world antitheses; practice language (doing sin vs righteousness); assurance ‘by this we know’.",
       "reference": "2:29 - 4:6",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Hope of God’s Children and Purification", "reference": "2:29-3:3", "why_start_end_and_devices": "Behold what love—now God’s children; when he appears we shall be like him; purify oneself as he is pure. Devices: behold exclamation, future likeness, purification motif."},
-        {"scene_number": 2, "scene_name": "Practice of Sin vs Abiding Righteousness", "reference": "3:4-3:10a", "why_start_end_and_devices": "Sin is lawlessness; practicing sin of the devil; born of God does not keep on sinning; doing righteousness of God. Devices: practice verb repetition, birth of God logic, stark antithesis."},
-        {"scene_number": 3, "scene_name": "The Brother‑Love Test", "reference": "3:10b-3:18", "why_start_end_and_devices": "Not loving brother ≠ of God; Cain as negative exemplar; love in deed and truth. Devices: exemplum (Cain/Abel), rhetorical question on God’s love abiding, practical charity demand."},
-        {"scene_number": 4, "scene_name": "Assurance, Command, and the Spirit", "reference": "3:19-3:24", "why_start_end_and_devices": "By this we know—hearts reassured; command: believe and love; Spirit given confirms abiding. Devices: assurance refrain, two‑command summary, indwelling witness."},
-        {"scene_number": 5, "scene_name": "Testing the Spirits", "reference": "4:1-4:6", "why_start_end_and_devices": "Do not believe every spirit; confess Jesus Christ come in the flesh; we are from God—spirit of truth vs error. Devices: confessional formula, ‘from God/world’ polarity, antichrist identification."}
+        {
+          "scene_number": 1,
+          "scene_name": "Hope of God’s Children and Purification",
+          "reference": "2:29-3:3",
+          "why_start_end_and_devices": "Behold what love—now God’s children; when he appears we shall be like him; purify oneself as he is pure. Devices: behold exclamation, future likeness, purification motif."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Practice of Sin vs Abiding Righteousness",
+          "reference": "3:4-3:10a",
+          "why_start_end_and_devices": "Sin is lawlessness; practicing sin of the devil; born of God does not keep on sinning; doing righteousness of God. Devices: practice verb repetition, birth of God logic, stark antithesis."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Brother‑Love Test",
+          "reference": "3:10b-3:18",
+          "why_start_end_and_devices": "Not loving brother ≠ of God; Cain as negative exemplar; love in deed and truth. Devices: exemplum (Cain/Abel), rhetorical question on God’s love abiding, practical charity demand."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Assurance, Command, and the Spirit",
+          "reference": "3:19-3:24",
+          "why_start_end_and_devices": "By this we know—hearts reassured; command: believe and love; Spirit given confirms abiding. Devices: assurance refrain, two‑command summary, indwelling witness."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Testing the Spirits",
+          "reference": "4:1-4:6",
+          "why_start_end_and_devices": "Do not believe every spirit; confess Jesus Christ come in the flesh; we are from God—spirit of truth vs error. Devices: confessional formula, ‘from God/world’ polarity, antichrist identification."
+        }
       ]
     },
     {
@@ -39,13 +104,55 @@
       "why_start_end_and_literary_glue": "Start (4:7) beloved—let us love one another begins the climactic love cycle; end (5:21) final imperative ‘guard yourselves from idols’ closes with fidelity to the true God. Glue: repeated ‘love’ and ‘abide’, internal/external witness (Spirit/water/blood), and epistolary ‘these things I write…’ assurance.",
       "reference": "4:7 - 5:21",
       "scenes": [
-        {"scene_number": 1, "scene_name": "God Is Love; Love Perfected Among Us", "reference": "4:7-4:12", "why_start_end_and_devices": "Love one another; God is love; he sent his Son—therefore we ought to love; his love perfected in us. Devices: theological definition, causal chain, perfection theme."},
-        {"scene_number": 2, "scene_name": "Spirit’s Indwelling, Confession, and Confidence", "reference": "4:13-4:17", "why_start_end_and_devices": "By this we know—Spirit given; confess the Son; as he is, so are we—confidence for the day. Devices: assurance marker, confession motif, judgment boldness."},
-        {"scene_number": 3, "scene_name": "No Fear in Perfect Love; Commands Not Burdensome", "reference": "4:18-5:3", "why_start_end_and_devices": "There is no fear in love; we love because he first loved; love God and brother; his commands are not burdensome. Devices: fear/love antithesis, liar exposure, obedience/love inclusio."},
-        {"scene_number": 4, "scene_name": "Victory of Faith and the Three Witnesses", "reference": "5:4-5:12", "why_start_end_and_devices": "Born of God overcomes the world; who believes Jesus is the Son; Spirit, water, blood testify; whoever has the Son has life. Devices: victory lexeme, testimony triad, life/son possession antithesis."},
-        {"scene_number": 5, "scene_name": "Epilogue: Confidence, Sin, and Final Warning", "reference": "5:13-5:21", "why_start_end_and_devices": "I write these things… that you may know you have life; confident prayer; sin to death vs not; three ‘we know’ declarations; guard yourselves from idols. Devices: purpose inclusio, tricolon ‘we know’, abrupt final imperative."}
+        {
+          "scene_number": 1,
+          "scene_name": "God Is Love; Love Perfected Among Us",
+          "reference": "4:7-4:12",
+          "why_start_end_and_devices": "Love one another; God is love; he sent his Son—therefore we ought to love; his love perfected in us. Devices: theological definition, causal chain, perfection theme."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Spirit’s Indwelling, Confession, and Confidence",
+          "reference": "4:13-4:17",
+          "why_start_end_and_devices": "By this we know—Spirit given; confess the Son; as he is, so are we—confidence for the day. Devices: assurance marker, confession motif, judgment boldness."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "No Fear in Perfect Love; Commands Not Burdensome",
+          "reference": "4:18-5:3",
+          "why_start_end_and_devices": "There is no fear in love; we love because he first loved; love God and brother; his commands are not burdensome. Devices: fear/love antithesis, liar exposure, obedience/love inclusio."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Victory of Faith; the Three That Testify",
+          "reference": "5:4-8",
+          "why_start_end_and_devices": "Faith overcomes the world; the Spirit, the water, and the blood testify together that Jesus is the Son."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "God's Testimony: Whoever Has the Son Has Life",
+          "reference": "5:9-12",
+          "why_start_end_and_devices": "God's testimony about His Son is greater than man's — whoever has the Son has life; without Him, none."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Confidence: Eternal Life and Answered Prayer",
+          "reference": "5:13-15",
+          "why_start_end_and_devices": "Written so believers may know they have eternal life and the confidence that He hears their requests."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Sin Leading to Death; the Born of God",
+          "reference": "5:16-18",
+          "why_start_end_and_devices": "Pray for a brother's sin not leading to death; the one born of God does not keep on sinning, kept safe."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "We Are of God; Keep Yourselves from Idols",
+          "reference": "5:19-21",
+          "why_start_end_and_devices": "We are of God in a world under the evil one; the Son has given understanding — keep from idols."
+        }
       ]
     }
   ]
 }
-

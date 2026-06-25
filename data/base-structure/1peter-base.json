@@ -10,10 +10,30 @@
       "why_start_end_and_literary_glue": "Start (1:1) superscription opens; end (1:12) completes the salvation‑history vista angels long to behold. Glue: inheritance/salvation/faith/rejoicing lexemes and a past→present→future movement anchoring hope in the resurrection.",
       "reference": "1:1 - 1:12",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Formal Salutation and Greeting", "reference": "1:1-1:2", "why_start_end_and_devices": "Author/audience naming; grace/peace multiplied. Devices: dispersion/exile framing, triadic election language."},
-        {"scene_number": 2, "scene_name": "Doxology of the Living Hope", "reference": "1:3-1:5", "why_start_end_and_devices": "Blessed be God; new birth to living hope; guarded for salvation. Devices: doxological sentence, imperishable inheritance motif."},
-        {"scene_number": 3, "scene_name": "Rejoicing in Tested Faith", "reference": "1:6-1:9", "why_start_end_and_devices": "Grief in trials yet rejoicing; tested faith → praise/honor/glory; unseen Christ loved. Devices: refining‑fire metaphor, paradox of joy in suffering."},
-        {"scene_number": 4, "scene_name": "Prophecy, Angels, and Fulfillment", "reference": "1:10-1:12", "why_start_end_and_devices": "Prophets sought this grace; Spirit revealed; angels long to look. Devices: salvation‑history continuity, laudatory elevation of the message."}
+        {
+          "scene_number": 1,
+          "scene_name": "Formal Salutation and Greeting",
+          "reference": "1:1-1:2",
+          "why_start_end_and_devices": "Author/audience naming; grace/peace multiplied. Devices: dispersion/exile framing, triadic election language."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Doxology of the Living Hope",
+          "reference": "1:3-1:5",
+          "why_start_end_and_devices": "Blessed be God; new birth to living hope; guarded for salvation. Devices: doxological sentence, imperishable inheritance motif."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Rejoicing in Tested Faith",
+          "reference": "1:6-1:9",
+          "why_start_end_and_devices": "Grief in trials yet rejoicing; tested faith → praise/honor/glory; unseen Christ loved. Devices: refining‑fire metaphor, paradox of joy in suffering."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Prophecy, Angels, and Fulfillment",
+          "reference": "1:10-1:12",
+          "why_start_end_and_devices": "Prophets sought this grace; Spirit revealed; angels long to look. Devices: salvation‑history continuity, laudatory elevation of the message."
+        }
       ]
     },
     {
@@ -22,11 +42,42 @@
       "why_start_end_and_literary_glue": "Start (1:13) ‘Therefore’ launches imperatives; end (2:10) Hosea‑framed identity caps the holiness→love→word→people sequence. Glue: holiness/purity and word/new‑birth motifs; costly redemption motivates conduct.",
       "reference": "1:13 - 2:10",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Imperative of Holiness", "reference": "1:13-1:16", "why_start_end_and_devices": "Gird minds, be sober, set hope; ‘Be holy for I am holy’. Devices: hortatory particle, Torah quotation, contrast with former desires."},
-        {"scene_number": 2, "scene_name": "Conduct Based on Costly Redemption", "reference": "1:17-1:21", "why_start_end_and_devices": "Call on the Father; ransomed not with silver/gold but Christ’s blood; faith/hope in God. Devices: corruptible vs incorruptible antithesis, reverent fear."},
-        {"scene_number": 3, "scene_name": "Love with a Pure Heart by the Word", "reference": "1:22-1:25", "why_start_end_and_devices": "Having purified—love one another fervently; all flesh is grass; the word endures. Devices: Isa 40 citation, new‑birth by living word, inclusio close."},
-        {"scene_number": 4, "scene_name": "Desire the Spiritual Milk", "reference": "2:1-2:3", "why_start_end_and_devices": "Lay aside vices; crave pure milk; ‘tasted the Lord is good’. Devices: infant growth metaphor, Psalm taste language."},
-        {"scene_number": 5, "scene_name": "The Living Stone and Spiritual Priesthood", "reference": "2:4-2:10", "why_start_end_and_devices": "Coming to the Living Stone; built a spiritual house; royal priesthood, holy nation—once not a people, now God’s people. Devices: cornerstone/stumbling citations, identity chain from Exodus/Isaiah/Hosea."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Imperative of Holiness",
+          "reference": "1:13-1:16",
+          "why_start_end_and_devices": "Gird minds, be sober, set hope; ‘Be holy for I am holy’. Devices: hortatory particle, Torah quotation, contrast with former desires."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Conduct Based on Costly Redemption",
+          "reference": "1:17-1:21",
+          "why_start_end_and_devices": "Call on the Father; ransomed not with silver/gold but Christ’s blood; faith/hope in God. Devices: corruptible vs incorruptible antithesis, reverent fear."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Love with a Pure Heart by the Word",
+          "reference": "1:22-1:25",
+          "why_start_end_and_devices": "Having purified—love one another fervently; all flesh is grass; the word endures. Devices: Isa 40 citation, new‑birth by living word, inclusio close."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Desire the Spiritual Milk",
+          "reference": "2:1-2:3",
+          "why_start_end_and_devices": "Lay aside vices; crave pure milk; ‘tasted the Lord is good’. Devices: infant growth metaphor, Psalm taste language."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Living Stone; a Chosen Cornerstone",
+          "reference": "2:4-6",
+          "why_start_end_and_devices": "Coming to the living Stone rejected by men but chosen by God; a precious cornerstone that will not disappoint."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "A Chosen People, a Royal Priesthood",
+          "reference": "2:7-10",
+          "why_start_end_and_devices": "The stone that builders rejected; you a chosen race and royal priesthood, once not a people, now God's own."
+        }
       ]
     },
     {
@@ -35,13 +86,48 @@
       "why_start_end_and_literary_glue": "Start (2:11) pilgrim address pivots to public conduct; end (3:12) Psalm 34 citation seals the communal ethic before persecution focus. Glue: repeated ‘submit’ and the central Christ‑suffering example justifying unjust‑suffering submission.",
       "reference": "2:11 - 3:12",
       "scenes": [
-        {"scene_number": 1, "scene_name": "General Exhortation to Good Conduct", "reference": "2:11-2:12", "why_start_end_and_devices": "Abstain as sojourners; keep honorable conduct so Gentiles glorify God. Devices: exile metaphor, missional purpose clause."},
-        {"scene_number": 2, "scene_name": "Submission to Government Authority", "reference": "2:13-2:17", "why_start_end_and_devices": "Submit to every human institution; fear God, honor the king. Devices: civic apologetic, four‑part motto close."},
-        {"scene_number": 3, "scene_name": "Servants to Unfair Masters", "reference": "2:18-2:20", "why_start_end_and_devices": "Be subject even to the unjust; gracious when mindful of God. Devices: unjust‑suffering commendation, transitional setup to Christ model."},
-        {"scene_number": 4, "scene_name": "Christ’s Suffering as the Ultimate Model", "reference": "2:21-2:25", "why_start_end_and_devices": "To this you were called—Christ suffered, leaving an example; Shepherd and Overseer. Devices: Isa 53 allusions, parallelism of non‑retaliation, pastoral metaphor."},
-        {"scene_number": 5, "scene_name": "Wives to Unbelieving Husbands", "reference": "3:1-3:6", "why_start_end_and_devices": "Be subject; win without a word; inner imperishable beauty; Sarah example. Devices: evangelistic conduct, adornment contrast, OT exemplar."},
-        {"scene_number": 6, "scene_name": "Husbands and Co‑Inheritance", "reference": "3:7-3:7", "why_start_end_and_devices": "Live considerately, honor the weaker vessel, co‑heirs of grace; prayers unhindered. Devices: concise charge with consequence."},
-        {"scene_number": 7, "scene_name": "Final Communal Exhortations for Peace", "reference": "3:8-3:12", "why_start_end_and_devices": "Be of one mind, tenderhearted; not repaying evil; Psalm 34 quotation. Devices: exhortation chain, OT warrant and promise."}
+        {
+          "scene_number": 1,
+          "scene_name": "General Exhortation to Good Conduct",
+          "reference": "2:11-2:12",
+          "why_start_end_and_devices": "Abstain as sojourners; keep honorable conduct so Gentiles glorify God. Devices: exile metaphor, missional purpose clause."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Submission to Government Authority",
+          "reference": "2:13-2:17",
+          "why_start_end_and_devices": "Submit to every human institution; fear God, honor the king. Devices: civic apologetic, four‑part motto close."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Servants to Unfair Masters",
+          "reference": "2:18-2:20",
+          "why_start_end_and_devices": "Be subject even to the unjust; gracious when mindful of God. Devices: unjust‑suffering commendation, transitional setup to Christ model."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Christ’s Suffering as the Ultimate Model",
+          "reference": "2:21-2:25",
+          "why_start_end_and_devices": "To this you were called—Christ suffered, leaving an example; Shepherd and Overseer. Devices: Isa 53 allusions, parallelism of non‑retaliation, pastoral metaphor."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Wives to Unbelieving Husbands",
+          "reference": "3:1-3:6",
+          "why_start_end_and_devices": "Be subject; win without a word; inner imperishable beauty; Sarah example. Devices: evangelistic conduct, adornment contrast, OT exemplar."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Husbands and Co‑Inheritance",
+          "reference": "3:7-3:7",
+          "why_start_end_and_devices": "Live considerately, honor the weaker vessel, co‑heirs of grace; prayers unhindered. Devices: concise charge with consequence."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Final Communal Exhortations for Peace",
+          "reference": "3:8-3:12",
+          "why_start_end_and_devices": "Be of one mind, tenderhearted; not repaying evil; Psalm 34 quotation. Devices: exhortation chain, OT warrant and promise."
+        }
       ]
     },
     {
@@ -50,12 +136,42 @@
       "why_start_end_and_literary_glue": "Start (3:13) rhetorical question opens suffering discourse; end (4:19) commit souls to the faithful Creator. Glue: páschō repetition, Christ’s passion pattern, end‑nearness and fiery‑trial markers.",
       "reference": "3:13 - 4:19",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Justification for Suffering Righteously", "reference": "3:13-3:17", "why_start_end_and_devices": "Who will harm you? Sanctify Christ; keep a good conscience; better to suffer for good. Devices: apologia instruction, proverbial wisdom."},
-        {"scene_number": 2, "scene_name": "Christ’s Work in the Spirit (Descent and Triumph)", "reference": "3:18-3:22", "why_start_end_and_devices": "Christ suffered once, made alive; Noah/baptism analogy; ascension with powers subject. Devices: typology, dense soteriological argument, triumph close."},
-        {"scene_number": 3, "scene_name": "Arm Yourselves; Cease from Sin", "reference": "4:1-4:6", "why_start_end_and_devices": "Since Christ suffered, arm yourselves; break with Gentile past; gospel preached even to the dead. Devices: vice catalog, paradoxical judgment/life statement."},
-        {"scene_number": 4, "scene_name": "Imminence of the End and Love", "reference": "4:7-4:11", "why_start_end_and_devices": "The end is near; be self‑controlled, love fervently, be hospitable, steward gifts; doxology. Devices: urgent paranesis, service lexicon, doxological aim."},
-        {"scene_number": 5, "scene_name": "The Fiery Trial", "reference": "4:12-4:16", "why_start_end_and_devices": "Do not be surprised at fiery trial; rejoice; if as a Christian, do not be ashamed but glorify God. Devices: trial fire metaphor, name ‘Christian’, shame→glory reversal."},
-        {"scene_number": 6, "scene_name": "Judgment and the Faithful Creator", "reference": "4:17-4:19", "why_start_end_and_devices": "Judgment begins at God’s house; the righteous scarcely saved—what of the ungodly? Commit souls while doing good. Devices: proverb citation (LXX), trust exhortation."}
+        {
+          "scene_number": 1,
+          "scene_name": "Justification for Suffering Righteously",
+          "reference": "3:13-3:17",
+          "why_start_end_and_devices": "Who will harm you? Sanctify Christ; keep a good conscience; better to suffer for good. Devices: apologia instruction, proverbial wisdom."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Christ’s Work in the Spirit (Descent and Triumph)",
+          "reference": "3:18-3:22",
+          "why_start_end_and_devices": "Christ suffered once, made alive; Noah/baptism analogy; ascension with powers subject. Devices: typology, dense soteriological argument, triumph close."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Arm Yourselves; Cease from Sin",
+          "reference": "4:1-4:6",
+          "why_start_end_and_devices": "Since Christ suffered, arm yourselves; break with Gentile past; gospel preached even to the dead. Devices: vice catalog, paradoxical judgment/life statement."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Imminence of the End and Love",
+          "reference": "4:7-4:11",
+          "why_start_end_and_devices": "The end is near; be self‑controlled, love fervently, be hospitable, steward gifts; doxology. Devices: urgent paranesis, service lexicon, doxological aim."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Fiery Trial",
+          "reference": "4:12-4:16",
+          "why_start_end_and_devices": "Do not be surprised at fiery trial; rejoice; if as a Christian, do not be ashamed but glorify God. Devices: trial fire metaphor, name ‘Christian’, shame→glory reversal."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Judgment and the Faithful Creator",
+          "reference": "4:17-4:19",
+          "why_start_end_and_devices": "Judgment begins at God’s house; the righteous scarcely saved—what of the ungodly? Commit souls while doing good. Devices: proverb citation (LXX), trust exhortation."
+        }
       ]
     },
     {
@@ -64,12 +180,31 @@
       "why_start_end_and_literary_glue": "Start (5:1) explicit address to elders opens peroratio; end (5:14) peace/amen benediction closes the letter. Glue: humility/resistance chain and closing prayer/greetings.",
       "reference": "5:1 - 5:14",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Charge to the Elders", "reference": "5:1-5:4", "why_start_end_and_devices": "Shepherd willingly, eagerly, as examples; receive unfading crown. Devices: triple contrasts, crown‑of‑glory promise."},
-        {"scene_number": 2, "scene_name": "Humility, Vigilance, and Resistance", "reference": "5:5-5:9", "why_start_end_and_devices": "All clothe in humility; cast cares; be sober; resist the roaring‑lion devil; brethren worldwide suffer. Devices: imperative chain, personification of the adversary."},
-        {"scene_number": 3, "scene_name": "Final Doxology and Comfort", "reference": "5:10-5:11", "why_start_end_and_devices": "After a little while, God perfects/establishes/strengthens/settles; doxology. Devices: four‑verb comfort, compact benediction."},
-        {"scene_number": 4, "scene_name": "Formal Closures and Greetings", "reference": "5:12-5:14", "why_start_end_and_devices": "By Silvanus…; greeting from ‘she in Babylon’; kiss of love; peace to all. Devices: letter‑carrier note, cryptic location, formulaic farewell."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Charge to the Elders",
+          "reference": "5:1-5:4",
+          "why_start_end_and_devices": "Shepherd willingly, eagerly, as examples; receive unfading crown. Devices: triple contrasts, crown‑of‑glory promise."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Humility, Vigilance, and Resistance",
+          "reference": "5:5-5:9",
+          "why_start_end_and_devices": "All clothe in humility; cast cares; be sober; resist the roaring‑lion devil; brethren worldwide suffer. Devices: imperative chain, personification of the adversary."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Final Doxology and Comfort",
+          "reference": "5:10-5:11",
+          "why_start_end_and_devices": "After a little while, God perfects/establishes/strengthens/settles; doxology. Devices: four‑verb comfort, compact benediction."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Formal Closures and Greetings",
+          "reference": "5:12-5:14",
+          "why_start_end_and_devices": "By Silvanus…; greeting from ‘she in Babylon’; kiss of love; peace to all. Devices: letter‑carrier note, cryptic location, formulaic farewell."
+        }
       ]
     }
   ]
 }
-

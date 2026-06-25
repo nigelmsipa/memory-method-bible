@@ -10,10 +10,36 @@
       "why_start_end_and_literary_glue": "Start (1:1) superscription opens; end (1:18) resolves trial/temptation by affirming God as giver who brings forth by the word of truth. Glue: peirasmos repetition (1:2, 1:12), rich/lowly contrast, and giver/gift theme culminating in the Father of lights (1:17).",
       "reference": "1:1 - 1:18",
       "scenes": [
-        {"scene_number": 1, "scene_name": "The Joy of Enduring the Test of Faith", "reference": "1:1-1:4", "why_start_end_and_devices": "Salutation; count it all joy; testing→steadfastness→complete. Devices: imperative thesis, logical chain, trial motif."},
-        {"scene_number": 2, "scene_name": "Praying for Wisdom Without Doubt", "reference": "1:5-1:8", "why_start_end_and_devices": "Ask for wisdom; doubter like sea‑wave; double‑minded unstable. Devices: conditional promise, simile of surf, dipsychos warning."},
-        {"scene_number": 3, "scene_name": "True Exaltation and the Rich Man’s Fading", "reference": "1:9-1:11", "why_start_end_and_devices": "Lowly boast; rich fade like flower scorched by sun. Devices: reversal contrast, withering flora simile."},
-        {"scene_number": 4, "scene_name": "The Source of Sin and the Perfect Father", "reference": "1:12-1:18", "why_start_end_and_devices": "Blessed the steadfast; God tempts no one; desire conceives sin; every good gift from unchanging Father; brought forth by word of truth. Devices: beatitude, contrast God vs temptation, creation/birth imagery."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Joy of Enduring the Test of Faith",
+          "reference": "1:1-1:4",
+          "why_start_end_and_devices": "Salutation; count it all joy; testing→steadfastness→complete. Devices: imperative thesis, logical chain, trial motif."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Praying for Wisdom Without Doubt",
+          "reference": "1:5-1:8",
+          "why_start_end_and_devices": "Ask for wisdom; doubter like sea‑wave; double‑minded unstable. Devices: conditional promise, simile of surf, dipsychos warning."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "True Exaltation and the Rich Man’s Fading",
+          "reference": "1:9-1:11",
+          "why_start_end_and_devices": "Lowly boast; rich fade like flower scorched by sun. Devices: reversal contrast, withering flora simile."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Blessed in Trial; Desire Gives Birth to Sin",
+          "reference": "1:12-15",
+          "why_start_end_and_devices": "The crown of life for endurance; temptation comes not from God but from one's own desire, breeding sin and death."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Every Good Gift from the Father of Lights",
+          "reference": "1:16-18",
+          "why_start_end_and_devices": "Do not be deceived — every perfect gift is from the unchanging Father, who birthed us by the word of truth."
+        }
       ]
     },
     {
@@ -22,14 +48,66 @@
       "why_start_end_and_literary_glue": "Start (1:19) ‘Know this…’ pivots to ethical reception of the word; end (2:26) clinches faith/works with body/spirit analogy. Glue: word/hear/do triad (1:21–25), impartiality vs royal law, and diatribe with exempla showing living faith.",
       "reference": "1:19 - 2:26",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Receive the Word; Put Away Filth", "reference": "1:19-1:21", "why_start_end_and_devices": "Quick to hear, slow to speak/anger; receive implanted word. Devices: triple imperative, moral preparation metaphor."},
-        {"scene_number": 2, "scene_name": "Hearers and Doers of the Word", "reference": "1:22-1:25", "why_start_end_and_devices": "Be doers not hearers; mirror forgetfulness vs perfect law perseverance. Devices: mirror simile, blessed doer conclusion."},
-        {"scene_number": 3, "scene_name": "The Requirements of True Religion", "reference": "1:26-1:27", "why_start_end_and_devices": "Bridle tongue; visit orphans/widows; keep unstained. Devices: concise merism of piety (social and personal)."},
-        {"scene_number": 4, "scene_name": "Partiality in the Assembly", "reference": "2:1-2:4", "why_start_end_and_devices": "No favoritism; rich vs poor seating test; have you not made distinctions? Devices: vivid hypothetical, probing question."},
-        {"scene_number": 5, "scene_name": "God’s Choice and Rich Oppressors", "reference": "2:5-2:7", "why_start_end_and_devices": "God chose the poor rich in faith; rich oppress and blaspheme. Devices: contrastive reproof, honor‑name theme."},
-        {"scene_number": 6, "scene_name": "Fulfilling the Royal Law", "reference": "2:8-2:13", "why_start_end_and_devices": "Love your neighbor; stumble in one law = guilty of all; mercy triumphs. Devices: legal logic, royal law, mercy/judgment aphorism."},
-        {"scene_number": 7, "scene_name": "Faith Without Action Is Dead", "reference": "2:14-2:17", "why_start_end_and_devices": "What good is faith without works? Naked/hungry example; faith alone is dead. Devices: diatribe Q, social illustration, dead‑faith verdict."},
-        {"scene_number": 8, "scene_name": "Show Me Your Faith: Exempla", "reference": "2:18-2:26", "why_start_end_and_devices": "Imaginary objector; Abraham and Rahab justify by works; body/spirit analogy. Devices: diatribe exchange, paired exempla, inclusio with 2:17."}
+        {
+          "scene_number": 1,
+          "scene_name": "Receive the Word; Put Away Filth",
+          "reference": "1:19-1:21",
+          "why_start_end_and_devices": "Quick to hear, slow to speak/anger; receive implanted word. Devices: triple imperative, moral preparation metaphor."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Hearers and Doers of the Word",
+          "reference": "1:22-1:25",
+          "why_start_end_and_devices": "Be doers not hearers; mirror forgetfulness vs perfect law perseverance. Devices: mirror simile, blessed doer conclusion."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Requirements of True Religion",
+          "reference": "1:26-1:27",
+          "why_start_end_and_devices": "Bridle tongue; visit orphans/widows; keep unstained. Devices: concise merism of piety (social and personal)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Partiality in the Assembly",
+          "reference": "2:1-2:4",
+          "why_start_end_and_devices": "No favoritism; rich vs poor seating test; have you not made distinctions? Devices: vivid hypothetical, probing question."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "God’s Choice and Rich Oppressors",
+          "reference": "2:5-2:7",
+          "why_start_end_and_devices": "God chose the poor rich in faith; rich oppress and blaspheme. Devices: contrastive reproof, honor‑name theme."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Fulfilling the Royal Law",
+          "reference": "2:8-2:13",
+          "why_start_end_and_devices": "Love your neighbor; stumble in one law = guilty of all; mercy triumphs. Devices: legal logic, royal law, mercy/judgment aphorism."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Faith Without Action Is Dead",
+          "reference": "2:14-2:17",
+          "why_start_end_and_devices": "What good is faith without works? Naked/hungry example; faith alone is dead. Devices: diatribe Q, social illustration, dead‑faith verdict."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Faith Without Works Is Useless",
+          "reference": "2:18-20",
+          "why_start_end_and_devices": "Show me your faith by your works; even the demons believe and shudder — faith without deeds is dead."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Abraham Justified by His Works",
+          "reference": "2:21-24",
+          "why_start_end_and_devices": "Abraham's offering of Isaac shows faith working with deeds, fulfilling the Scripture that he was justified."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Rahab, and Faith Without Works Is Dead",
+          "reference": "2:25-26",
+          "why_start_end_and_devices": "Even Rahab was justified by action; as the body without the spirit is dead, so is faith without works."
+        }
       ]
     },
     {
@@ -38,13 +116,48 @@
       "why_start_end_and_literary_glue": "Start (3:1) stricter judgment for teachers introduces tongue discourse; end (4:12) sole Lawgiver/Judge closes the judging/slander unit. Glue: glōssa references (3:2,5,6,8), power‑similes, and the heavenly vs earthly wisdom contrast feeding the conflict/resolution sequence.",
       "reference": "3:1 - 4:12",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Strict Standard for Teachers", "reference": "3:1-3:2", "why_start_end_and_devices": "Few should teach; we all stumble; perfect man controls whole body. Devices: concise admonition, speech‑control criterion."},
-        {"scene_number": 2, "scene_name": "Power and Indictment of the Tongue", "reference": "3:3-3:8", "why_start_end_and_devices": "Bit, rudder, fire—small organ great power; untamable, deadly. Devices: triple similes, escalating indictment."},
-        {"scene_number": 3, "scene_name": "Paradox of Inconsistent Speech", "reference": "3:9-3:12", "why_start_end_and_devices": "Blessing and cursing from same mouth; fountain/fig/grape analogies. Devices: rhetorical questions, nature analogies exposing inconsistency."},
-        {"scene_number": 4, "scene_name": "Heavenly vs Earthly Wisdom", "reference": "3:13-3:18", "why_start_end_and_devices": "Who is wise? Show by meekness; earthly envy vs heavenly purity/peace. Devices: contrast list, chiasm, sevenfold virtues, harvest of righteousness."},
-        {"scene_number": 5, "scene_name": "Source of War and Way to Grace", "reference": "4:1-4:6", "why_start_end_and_devices": "Quarrels arise from passions; you ask wrongly; God gives more grace—opposes proud, gives grace to humble. Devices: diatribe Q&A, proverb citation."},
-        {"scene_number": 6, "scene_name": "Ten Commands for Humble Submission", "reference": "4:7-4:10", "why_start_end_and_devices": "Submit, resist, draw near… lament—then He will exalt. Devices: rapid imperative chain, humility promise."},
-        {"scene_number": 7, "scene_name": "The Sin of Judging a Brother", "reference": "4:11-4:12", "why_start_end_and_devices": "Do not speak evil; one Lawgiver and Judge. Devices: concise prohibition, climactic rhetorical question."}
+        {
+          "scene_number": 1,
+          "scene_name": "Strict Standard for Teachers",
+          "reference": "3:1-3:2",
+          "why_start_end_and_devices": "Few should teach; we all stumble; perfect man controls whole body. Devices: concise admonition, speech‑control criterion."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Power and Indictment of the Tongue",
+          "reference": "3:3-3:8",
+          "why_start_end_and_devices": "Bit, rudder, fire—small organ great power; untamable, deadly. Devices: triple similes, escalating indictment."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Paradox of Inconsistent Speech",
+          "reference": "3:9-3:12",
+          "why_start_end_and_devices": "Blessing and cursing from same mouth; fountain/fig/grape analogies. Devices: rhetorical questions, nature analogies exposing inconsistency."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Heavenly vs Earthly Wisdom",
+          "reference": "3:13-3:18",
+          "why_start_end_and_devices": "Who is wise? Show by meekness; earthly envy vs heavenly purity/peace. Devices: contrast list, chiasm, sevenfold virtues, harvest of righteousness."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Source of War and Way to Grace",
+          "reference": "4:1-4:6",
+          "why_start_end_and_devices": "Quarrels arise from passions; you ask wrongly; God gives more grace—opposes proud, gives grace to humble. Devices: diatribe Q&A, proverb citation."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Ten Commands for Humble Submission",
+          "reference": "4:7-4:10",
+          "why_start_end_and_devices": "Submit, resist, draw near… lament—then He will exalt. Devices: rapid imperative chain, humility promise."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Sin of Judging a Brother",
+          "reference": "4:11-4:12",
+          "why_start_end_and_devices": "Do not speak evil; one Lawgiver and Judge. Devices: concise prohibition, climactic rhetorical question."
+        }
       ]
     },
     {
@@ -53,14 +166,43 @@
       "why_start_end_and_literary_glue": "Start (4:13) ‘Come now…’ oracle formula opens woes; end (5:20) restoration maxim seals the pastoral close. Glue: paired ‘Come now’ addresses (4:13; 5:1), patience to the Lord’s coming, prayer/healing practice, and communal restoration goal.",
       "reference": "4:13 - 5:20",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Arrogance of Temporal Planning", "reference": "4:13-4:17", "why_start_end_and_devices": "You who say ‘today/tomorrow’—life is a mist; to omit known good is sin. Devices: prophetic address, vapor metaphor, omission‑sin maxim."},
-        {"scene_number": 2, "scene_name": "Woe to the Corrupt Rich", "reference": "5:1-5:6", "why_start_end_and_devices": "Weep and howl; riches rot, rust testifies; you condemned the righteous. Devices: prophetic woe, decay imagery, hyperbolic judgment."},
-        {"scene_number": 3, "scene_name": "Patience and Perseverance", "reference": "5:7-5:11", "why_start_end_and_devices": "Be patient until the Lord comes; farmer, prophets, Job as models. Devices: agrarian analogy, repetition of patience, eschatological motive."},
-        {"scene_number": 4, "scene_name": "The Sanctity of Oaths", "reference": "5:12-5:12", "why_start_end_and_devices": "Above all do not swear; let yes be yes, no be no. Devices: absolute prohibition, concise maxim."},
-        {"scene_number": 5, "scene_name": "The Practice and Power of Prayer", "reference": "5:13-5:18", "why_start_end_and_devices": "Suffer? pray; cheerful? praise; sick? elders/prayer/anoint; Elijah’s effective prayer. Devices: condition‑response triad, communal rite, exemplum of Elijah."},
-        {"scene_number": 6, "scene_name": "Goal: Restore the Wanderer", "reference": "5:19-5:20", "why_start_end_and_devices": "If anyone wanders, bring him back; cover a multitude of sins. Devices: restoration inclusio with opening themes, salvation payoff."}
+        {
+          "scene_number": 1,
+          "scene_name": "Arrogance of Temporal Planning",
+          "reference": "4:13-4:17",
+          "why_start_end_and_devices": "You who say ‘today/tomorrow’—life is a mist; to omit known good is sin. Devices: prophetic address, vapor metaphor, omission‑sin maxim."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Woe to the Corrupt Rich",
+          "reference": "5:1-5:6",
+          "why_start_end_and_devices": "Weep and howl; riches rot, rust testifies; you condemned the righteous. Devices: prophetic woe, decay imagery, hyperbolic judgment."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Patience and Perseverance",
+          "reference": "5:7-5:11",
+          "why_start_end_and_devices": "Be patient until the Lord comes; farmer, prophets, Job as models. Devices: agrarian analogy, repetition of patience, eschatological motive."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Sanctity of Oaths",
+          "reference": "5:12-5:12",
+          "why_start_end_and_devices": "Above all do not swear; let yes be yes, no be no. Devices: absolute prohibition, concise maxim."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Practice and Power of Prayer",
+          "reference": "5:13-5:18",
+          "why_start_end_and_devices": "Suffer? pray; cheerful? praise; sick? elders/prayer/anoint; Elijah’s effective prayer. Devices: condition‑response triad, communal rite, exemplum of Elijah."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Goal: Restore the Wanderer",
+          "reference": "5:19-5:20",
+          "why_start_end_and_devices": "If anyone wanders, bring him back; cover a multitude of sins. Devices: restoration inclusio with opening themes, salvation payoff."
+        }
       ]
     }
   ]
 }
-
