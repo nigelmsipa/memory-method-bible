@@ -10,22 +10,198 @@
       "why_start_end_and_literary_glue": "Start (1:1) epistolary opening and blessing of comfort; end (7:16) resolves anxiety with joy and confidence, closing the reconciliation arc. Glue: comfort/encouragement repetition, weakness→power paradox, and developing defense of new‑covenant ministry (chs. 3–5).",
       "reference": "1:1 - 7:16",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Greeting and Blessing of Comfort", "reference": "1:1-1:7", "why_start_end_and_devices": "Salutation to Corinth; comfort repeated as thematic overture (‘so that we can comfort others’). Devices: benediction, repetition (paraklēsis)."},
-        {"scene_number": 2, "scene_name": "Integrity in Affliction", "reference": "1:8-1:11", "why_start_end_and_devices": "Asian affliction near‑death; deliverance elicits prayers and thanksgiving. Devices: narrative disclosure, purpose result (‘so that thanks may be given’)."},
-        {"scene_number": 3, "scene_name": "Defense of the Changed Plan", "reference": "1:12-1:20", "why_start_end_and_devices": "Conscience testimony; ‘Yes’ in Christ reframes reliability. Devices: apologia, wordplay on Yes/No, Christic faithfulness pivot."},
-        {"scene_number": 4, "scene_name": "Spirit as Seal and Pastoral Pain", "reference": "1:21-2:4", "why_start_end_and_devices": "God establishes, anoints, seals; delayed visit to spare sorrow; love motive. Devices: covenant seal/arrabōn, pastoral rationale."},
-        {"scene_number": 5, "scene_name": "Forgive the Offender", "reference": "2:5-2:11", "why_start_end_and_devices": "Cease excessive punishment; forgive and comfort lest Satan outwit. Devices: imperative counsel, conflict resolution unit."},
-        {"scene_number": 6, "scene_name": "Triumphal Procession and Sincerity", "reference": "2:12-2:17", "why_start_end_and_devices": "Troas narrative turns to triumph metaphor; not peddlers but commissioned. Devices: aroma of life/death, anti‑mercenary contrast."},
-        {"scene_number": 7, "scene_name": "Letter and Spirit; Sufficiency from God", "reference": "3:1-3:6", "why_start_end_and_devices": "Corinthians as letter; ministers of new covenant—letter kills, Spirit gives life. Devices: commendation question, letter/Spirit contrast."},
-        {"scene_number": 8, "scene_name": "Surpassing Glory of the New", "reference": "3:7-3:18", "why_start_end_and_devices": "Synkrisis of covenants: fading vs permanent glory; unveiled transformation. Devices: a fortiori argument, Moses veil motif, climactic transformation."},
-        {"scene_number": 9, "scene_name": "Transparent Ministry; Gospel Light", "reference": "4:1-4:6", "why_start_end_and_devices": "Renounce underhanded ways; God shines light (Gen 1:3) in hearts. Devices: negative self‑definition, creation allusion."},
-        {"scene_number": 10, "scene_name": "Treasure in Clay Jars", "reference": "4:7-4:15", "why_start_end_and_devices": "Power belongs to God; afflicted/not crushed quatrain; grace→thanksgiving. Devices: paradox, chiastic pairings, doxological aim."},
-        {"scene_number": 11, "scene_name": "Fixing Eyes on the Unseen", "reference": "4:16-5:5", "why_start_end_and_devices": "Outer decay/inner renewal; earthly tent vs heavenly building; Spirit as guarantee. Devices: contrast sets, eschatological metaphor, arrabōn."},
-        {"scene_number": 12, "scene_name": "Confidence, Ambassadorship, New Creation", "reference": "5:6-5:17", "why_start_end_and_devices": "Courage in exile; persuade; if in Christ—new creation. Devices: legal/political metaphors (ambassadors), new‑creation climax."},
-        {"scene_number": 13, "scene_name": "Appeal: Be Reconciled to God", "reference": "5:18-6:2", "why_start_end_and_devices": "God reconciles through Christ; implore: be reconciled; ‘now is the day of salvation’. Devices: embassy appeal, prophetic citation (Isa 49:8)."},
-        {"scene_number": 14, "scene_name": "Credentials in Suffering; Open Hearts", "reference": "6:3-6:13", "why_start_end_and_devices": "No stumbling block; peristasis catalog; call for reciprocal openness. Devices: trial catalog, ethos appeal, affectionate address."},
-        {"scene_number": 15, "scene_name": "Do Not Be Unequally Yoked", "reference": "6:14-7:1", "why_start_end_and_devices": "Imperative separation; five rhetorical questions; cleanse in holiness. Devices: incompatibility contrasts, promise‑based exhortation."},
-        {"scene_number": 16, "scene_name": "Godly Sorrow and Paul’s Joy", "reference": "7:2-7:16", "why_start_end_and_devices": "Make room for us; Titus’ report; worldly vs godly sorrow; confidence restored. Devices: sorrow/joy contrast, narrative resolution inclusio."}
+        {
+          "scene_number": 1,
+          "scene_name": "Salutation",
+          "reference": "1:1-2",
+          "why_start_end_and_devices": "Paul and Timothy greet the church in Corinth and all the saints in Achaia."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The God of All Comfort",
+          "reference": "1:3-7",
+          "why_start_end_and_devices": "Blessing the Father of compassion who comforts us in affliction so we can comfort others."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Integrity in Affliction",
+          "reference": "1:8-1:11",
+          "why_start_end_and_devices": "Asian affliction near‑death; deliverance elicits prayers and thanksgiving. Devices: narrative disclosure, purpose result (‘so that thanks may be given’)."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Our Boast: Sincerity, Not Worldly Wisdom",
+          "reference": "1:12-14",
+          "why_start_end_and_devices": "A clear conscience of holy, sincere conduct, that they may boast of one another in the day of the Lord."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Why the Travel Plan Changed",
+          "reference": "1:15-17",
+          "why_start_end_and_devices": "The intended double-visit, and Paul's denial that he plans by fickle human 'yes and no.'"
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "In Christ It Is Always Yes",
+          "reference": "1:18-20",
+          "why_start_end_and_devices": "God's faithfulness: every promise is 'Yes' in Christ, to whom we say 'Amen' to God's glory."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Spirit as Seal and Pastoral Pain",
+          "reference": "1:21-2:4",
+          "why_start_end_and_devices": "God establishes, anoints, seals; delayed visit to spare sorrow; love motive. Devices: covenant seal/arrabōn, pastoral rationale."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Forgive and Comfort the Offender",
+          "reference": "2:5-8",
+          "why_start_end_and_devices": "The majority's punishment is enough; now reaffirm love lest he be overwhelmed by sorrow."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Forgive, Lest Satan Outwit Us",
+          "reference": "2:9-11",
+          "why_start_end_and_devices": "Paul forgives in Christ's presence so that Satan, whose schemes are known, gains no advantage."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Triumphal Procession and Sincerity",
+          "reference": "2:12-2:17",
+          "why_start_end_and_devices": "Troas narrative turns to triumph metaphor; not peddlers but commissioned. Devices: aroma of life/death, anti‑mercenary contrast."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Letter and Spirit; Sufficiency from God",
+          "reference": "3:1-3:6",
+          "why_start_end_and_devices": "Corinthians as letter; ministers of new covenant—letter kills, Spirit gives life. Devices: commendation question, letter/Spirit contrast."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Greater Glory of the New Ministry",
+          "reference": "3:7-11",
+          "why_start_end_and_devices": "If the fading ministry of death came with glory, how much more the enduring ministry of the Spirit."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Veil Over Their Hearts",
+          "reference": "3:12-15",
+          "why_start_end_and_devices": "Unlike veiled Moses, we are bold; yet a veil remains over hearts at the reading of the old covenant."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Unveiled, Transformed into His Image",
+          "reference": "3:16-18",
+          "why_start_end_and_devices": "Turning to the Lord lifts the veil; with unveiled faces we are transformed from glory to glory."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Transparent Ministry; Gospel Light",
+          "reference": "4:1-4:6",
+          "why_start_end_and_devices": "Renounce underhanded ways; God shines light (Gen 1:3) in hearts. Devices: negative self‑definition, creation allusion."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Treasure in Jars of Clay",
+          "reference": "4:7-9",
+          "why_start_end_and_devices": "The surpassing power is God's, not ours — hard pressed but not crushed, struck down but not destroyed."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Carrying the Death of Jesus",
+          "reference": "4:10-12",
+          "why_start_end_and_devices": "Always bearing Jesus' death so His life is revealed; death at work in us, life in you."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Faith That Speaks; Raised with Jesus",
+          "reference": "4:13-15",
+          "why_start_end_and_devices": "The same spirit of faith believes and speaks, sure the One who raised Jesus will raise us too."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Fixing Eyes on the Unseen",
+          "reference": "4:16-5:5",
+          "why_start_end_and_devices": "Outer decay/inner renewal; earthly tent vs heavenly building; Spirit as guarantee. Devices: contrast sets, eschatological metaphor, arrabōn."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "We Walk by Faith; the Judgment Seat",
+          "reference": "5:6-10",
+          "why_start_end_and_devices": "Confident though absent from the Lord, aspiring to please Him, for all must appear before His judgment seat."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Persuading Men; Known to God",
+          "reference": "5:11-13",
+          "why_start_end_and_devices": "Knowing the fear of the Lord, Paul persuades men, giving the Corinthians cause to boast in the heart."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Christ's Love Compels; New Creation",
+          "reference": "5:14-17",
+          "why_start_end_and_devices": "One died for all, so all died; anyone in Christ is a new creation — the old has passed away."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Appeal: Be Reconciled to God",
+          "reference": "5:18-6:2",
+          "why_start_end_and_devices": "God reconciles through Christ; implore: be reconciled; ‘now is the day of salvation’. Devices: embassy appeal, prophetic citation (Isa 49:8)."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Commended as Servants of God in Endurance",
+          "reference": "6:3-7",
+          "why_start_end_and_devices": "No obstacle placed, but commendation through great endurance, purity, and the weapons of righteousness."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Through Glory and Dishonor",
+          "reference": "6:8-10",
+          "why_start_end_and_devices": "The paradoxes of true ministry: sorrowful yet rejoicing, poor yet making many rich, having nothing yet all."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Open Wide Your Hearts",
+          "reference": "6:11-13",
+          "why_start_end_and_devices": "Paul's heart open wide to the Corinthians, asking them in fair exchange to open theirs."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Do Not Be Unequally Yoked",
+          "reference": "6:14-7:1",
+          "why_start_end_and_devices": "Imperative separation; five rhetorical questions; cleanse in holiness. Devices: incompatibility contrasts, promise‑based exhortation."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Make Room in Your Hearts",
+          "reference": "7:2-4",
+          "why_start_end_and_devices": "Paul has wronged no one; his confidence and pride in them overflow with joy in all troubles."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Comforted by the Coming of Titus",
+          "reference": "7:5-7",
+          "why_start_end_and_devices": "Restless in Macedonia, God comforted the downcast by Titus's arrival and the Corinthians' longing."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Godly Sorrow Brings Repentance",
+          "reference": "7:8-10",
+          "why_start_end_and_devices": "No regret for the sorrowful letter, for godly sorrow leads to repentance and salvation, not death."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "What This Sorrow Produced",
+          "reference": "7:11-13",
+          "why_start_end_and_devices": "The earnestness and zeal it bred, proving them innocent — and refreshing the spirit of Titus."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Boasting of You Proved True",
+          "reference": "7:14-16",
+          "why_start_end_and_devices": "Paul's boasting to Titus was vindicated, and his complete confidence in them restored."
+        }
       ]
     },
     {
@@ -34,12 +210,60 @@
       "why_start_end_and_literary_glue": "Start (8:1) shifts to the grace of giving; end (9:15) doxology to God’s indescribable gift. Glue: grace/giving/service vocabulary, exemplum of Macedonians, Christological poverty‑riches principle, sowing/reaping metaphor.",
       "reference": "8:1 - 9:15",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Macedonian Generosity as Example", "reference": "8:1-8:7", "why_start_end_and_devices": "Severe test→abundant joy→rich generosity; excel in this grace also. Devices: exemplum, paradox of poverty→liberality."},
-        {"scene_number": 2, "scene_name": "Christ’s Example and Equality", "reference": "8:8-8:15", "why_start_end_and_devices": "Not command but proof of love; though rich, became poor; manna equality. Devices: Christological basis, Scripture citation (Ex 16:18)."},
-        {"scene_number": 3, "scene_name": "Titus and Delegates Commended", "reference": "8:16-8:24", "why_start_end_and_devices": "God’s work in Titus; reputable brothers; prove your love. Devices: commendation formula, integrity emphasis."},
-        {"scene_number": 4, "scene_name": "Readiness and Reputation", "reference": "9:1-9:5", "why_start_end_and_devices": "Superfluous to write yet necessary; ensure generosity, not grudging. Devices: gentle pressure, preparation logistics."},
-        {"scene_number": 5, "scene_name": "Sowing and Reaping; Cheerful Giving", "reference": "9:6-9:11", "why_start_end_and_devices": "Sow bountifully; God loves cheerful giver; supplier multiplies seed. Devices: agricultural metaphor, aphorisms, provision promise."},
-        {"scene_number": 6, "scene_name": "Thanksgiving to God", "reference": "9:12-9:15", "why_start_end_and_devices": "Service supplies needs, produces thanksgiving, proves obedience; doxology. Devices: threefold outcome, climactic thanksgiving."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Generosity of the Macedonians",
+          "reference": "8:1-5",
+          "why_start_end_and_devices": "In deep poverty their abundant joy overflowed in rich generosity, giving themselves first to the Lord."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Excel in This Grace of Giving",
+          "reference": "8:6-7",
+          "why_start_end_and_devices": "As Titus began, so let the Corinthians, excelling in everything, also excel in the grace of giving."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Christ Became Poor; Finish the Work",
+          "reference": "8:8-11",
+          "why_start_end_and_devices": "Testing love by Christ's example, who became poor to make us rich — now complete what you began."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Equality: Your Surplus Meets Their Need",
+          "reference": "8:12-15",
+          "why_start_end_and_devices": "The acceptable gift is according to what one has; present surplus meeting need, that there be equality."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Titus and the Brother Sent",
+          "reference": "8:16-19",
+          "why_start_end_and_devices": "Titus comes eagerly, with the brother praised by all the churches, chosen to carry the offering."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Avoiding Criticism; Proof of Your Love",
+          "reference": "8:20-24",
+          "why_start_end_and_devices": "Care taken to be honorable before God and men; show these messengers the proof of your love."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Readiness and Reputation",
+          "reference": "9:1-9:5",
+          "why_start_end_and_devices": "Superfluous to write yet necessary; ensure generosity, not grudging. Devices: gentle pressure, preparation logistics."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Sowing and Reaping; Cheerful Giving",
+          "reference": "9:6-9:11",
+          "why_start_end_and_devices": "Sow bountifully; God loves cheerful giver; supplier multiplies seed. Devices: agricultural metaphor, aphorisms, provision promise."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Thanksgiving to God",
+          "reference": "9:12-9:15",
+          "why_start_end_and_devices": "Service supplies needs, produces thanksgiving, proves obedience; doxology. Devices: threefold outcome, climactic thanksgiving."
+        }
       ]
     },
     {
@@ -48,18 +272,145 @@
       "why_start_end_and_literary_glue": "Start (10:1) abrupt tonal shift to direct polemic; end (13:14) trinitarian benediction. Glue: boasting redefined, weakness/power antithesis, legal ‘two or three witnesses’ framing for impending visit.",
       "reference": "10:1 - 13:14",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Spiritual Weapons and Consistency", "reference": "10:1-10:11", "why_start_end_and_devices": "Gentleness of Christ with warfare imagery; action will match letters. Devices: military metaphor, warning to opponents."},
-        {"scene_number": 2, "scene_name": "True Commendation and Proper Measure", "reference": "10:12-10:18", "why_start_end_and_devices": "Reject self‑comparison; boast only in the Lord; approval from God. Devices: irony, Jer 9:24 echo, rule/measure motif."},
-        {"scene_number": 3, "scene_name": "Jealousy for a Chaste Bride", "reference": "11:1-11:6", "why_start_end_and_devices": "Bear with ‘foolishness’; betrothal metaphor; not inferior to ‘super‑apostles’. Devices: paternal imagery, serpent deception warning."},
-        {"scene_number": 4, "scene_name": "Refusal of Support and Unmasked Deceivers", "reference": "11:7-11:15", "why_start_end_and_devices": "Free preaching to exalt them; opponents as servants of Satan masquerading. Devices: rhetorical questions, ad hominem exposure."},
-        {"scene_number": 5, "scene_name": "The Fool’s Speech: Sufferings Catalog", "reference": "11:16-11:33", "why_start_end_and_devices": "Forced ‘boast’ in weakness; exhaustive peristasis; basket escape finale. Devices: irony, catalog, climactic anecdote."},
-        {"scene_number": 6, "scene_name": "Visions, Thorn, and Strength in Weakness", "reference": "12:1-12:10", "why_start_end_and_devices": "Paradise vision restrained by thorn; grace suffices; when weak, then strong. Devices: mystical report, paradox thesis."},
-        {"scene_number": 7, "scene_name": "Signs of a True Apostle and Sincerity", "reference": "12:11-12:18", "why_start_end_and_devices": "Ought to be commended; signs among you; no exploitation. Devices: evidentiary appeal, rhetorical questions."},
-        {"scene_number": 8, "scene_name": "Final Warnings and Coming in Power", "reference": "12:19-13:4", "why_start_end_and_devices": "For building up; two or three witnesses; weakness/power pattern in Christ and in us. Devices: legal framing, Christological analogy."},
-        {"scene_number": 9, "scene_name": "Self‑Examination and Edification", "reference": "13:5-13:10", "why_start_end_and_devices": "Examine yourselves; Paul’s aim is not severity but building up. Devices: imperative focus shift, purpose statement."},
-        {"scene_number": 10, "scene_name": "Farewell and Benediction", "reference": "13:11-13:14", "why_start_end_and_devices": "Final imperatives for peace; holy kiss; grace–love–fellowship benediction. Devices: closing formulae, trinitarian blessing."}
+        {
+          "scene_number": 1,
+          "scene_name": "Weapons with Divine Power",
+          "reference": "10:1-4",
+          "why_start_end_and_devices": "Paul appeals in Christ's gentleness; we do not war by the flesh, but with weapons of divine power."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Taking Every Thought Captive",
+          "reference": "10:5-7",
+          "why_start_end_and_devices": "Demolishing arguments and taking every thought captive to obey Christ; belonging to Christ alike."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Authority for Building Up, Not Tearing Down",
+          "reference": "10:8-11",
+          "why_start_end_and_devices": "Not ashamed of his authority; what he is in letters when absent he will be in deed when present."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Not Boasting Beyond Our Limits",
+          "reference": "10:12-14",
+          "why_start_end_and_devices": "Refusing to compare himself with the self-commenders, boasting only within God's assigned field."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Let Him Who Boasts Boast in the Lord",
+          "reference": "10:15-18",
+          "why_start_end_and_devices": "Hope to preach beyond them as faith grows — for the approved is the one the Lord commends."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Jealousy for a Chaste Bride",
+          "reference": "11:1-11:6",
+          "why_start_end_and_devices": "Bear with ‘foolishness’; betrothal metaphor; not inferior to ‘super‑apostles’. Devices: paternal imagery, serpent deception warning."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Preaching Free of Charge",
+          "reference": "11:7-11",
+          "why_start_end_and_devices": "Paul humbled himself, taking no support but from other churches — not because he does not love them."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "False Apostles Masquerading",
+          "reference": "11:12-15",
+          "why_start_end_and_devices": "Undercutting the boasters: false apostles, like Satan as an angel of light, will meet their deserved end."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Bear with Me as a Fool",
+          "reference": "11:16-18",
+          "why_start_end_and_devices": "Paul asks to be received as a fool that he too may boast a little, as many boast in the flesh."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "You Tolerate Fools Gladly",
+          "reference": "11:19-21",
+          "why_start_end_and_devices": "The wise Corinthians endure those who enslave and exploit them — to his shame, he was 'too weak.'"
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Are They Servants of Christ? Far More",
+          "reference": "11:22-25",
+          "why_start_end_and_devices": "Hebrew, Israelite, Abraham's seed — yet far more in labors, imprisonments, beatings, lashes, and stoning."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Dangers and the Daily Pressure",
+          "reference": "11:26-28",
+          "why_start_end_and_devices": "Perils on every road and sea, hunger and cold, and the daily pressure of concern for all the churches."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Boasting in Weakness",
+          "reference": "11:29-31",
+          "why_start_end_and_devices": "Burning for the weak and the fallen; if he must boast, he boasts of his weakness before God."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Escape from Damascus",
+          "reference": "11:32-33",
+          "why_start_end_and_devices": "Lowered in a basket through a window to escape the governor under King Aretas."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Caught Up to the Third Heaven",
+          "reference": "12:1-4",
+          "why_start_end_and_devices": "Visions and revelations: a man caught up to Paradise, hearing inexpressible things."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Thorn in the Flesh",
+          "reference": "12:5-7",
+          "why_start_end_and_devices": "Boasting only in weakness; a thorn, a messenger of Satan, given to keep him from conceit."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "My Grace Is Sufficient for You",
+          "reference": "12:8-10",
+          "why_start_end_and_devices": "Three times he pleaded; the Lord's grace is enough, for power is perfected in weakness."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Signs of a True Apostle",
+          "reference": "12:11-13",
+          "why_start_end_and_devices": "Driven to foolish boasting; signs, wonders, and miracles marked him, though he was no burden to them."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Coming a Third Time, Not a Burden",
+          "reference": "12:14-15",
+          "why_start_end_and_devices": "Seeking not their possessions but them, gladly spending himself for their souls."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Did I Exploit You Through Anyone?",
+          "reference": "12:16-18",
+          "why_start_end_and_devices": "Refuting the charge of craftiness: neither Titus nor the brother took advantage of them."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Final Warnings and Coming in Power",
+          "reference": "12:19-13:4",
+          "why_start_end_and_devices": "For building up; two or three witnesses; weakness/power pattern in Christ and in us. Devices: legal framing, Christological analogy."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Self‑Examination and Edification",
+          "reference": "13:5-13:10",
+          "why_start_end_and_devices": "Examine yourselves; Paul’s aim is not severity but building up. Devices: imperative focus shift, purpose statement."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Farewell and Benediction",
+          "reference": "13:11-13:14",
+          "why_start_end_and_devices": "Final imperatives for peace; holy kiss; grace–love–fellowship benediction. Devices: closing formulae, trinitarian blessing."
+        }
       ]
     }
   ]
 }
-
