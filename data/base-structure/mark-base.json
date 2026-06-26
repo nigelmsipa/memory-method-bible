@@ -10,35 +10,426 @@
       "why_start_end_and_literary_glue": "Opens with title (1:1) and preparatory ministry, then rapid deeds/authority, reactions, and secrecy; closes with Bethsaida’s two‑stage sight (8:26) just before the hinge. Glue: ‘immediately’, secrecy, deed→reaction→instruction pattern.",
       "reference": "1:1 - 8:26",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Gospel Opening and Preparation", "reference": "1:1-1:8", "why_start_end_and_devices": "Title + prophetic citation; John’s lesser/greater baptism contrast sets expectation."},
-        {"scene_number": 2, "scene_name": "Divine Endorsement", "reference": "1:9-1:13", "why_start_end_and_devices": "Baptism theophany and wilderness testing establish Sonship and mission."},
-        {"scene_number": 3, "scene_name": "Mission Begins; First Four", "reference": "1:14-1:20", "why_start_end_and_devices": "Kingdom summary and immediate call/response shape discipleship pattern."},
-        {"scene_number": 4, "scene_name": "Capernaum Authority", "reference": "1:21-1:28", "why_start_end_and_devices": "Teaching with authority and exorcism prompt fame spread."},
-        {"scene_number": 5, "scene_name": "House Healings and Secrecy", "reference": "1:29-1:34", "why_start_end_and_devices": "Summary of healings; demons silenced for Messianic Secret."},
-        {"scene_number": 6, "scene_name": "Dawn Prayer and Tour", "reference": "1:35-1:39", "why_start_end_and_devices": "Solitary prayer then itinerant preaching defines mandate."},
-        {"scene_number": 7, "scene_name": "Cleansing the Leper", "reference": "1:40-1:45", "why_start_end_and_devices": "Touch cleanses; secrecy broken restricts movement—irony."},
-        {"scene_number": 8, "scene_name": "Paralytic and Authority to Forgive", "reference": "2:1-2:12", "why_start_end_and_devices": "Interlocking dialogue proves Son of Man’s authority via healing."},
-        {"scene_number": 9, "scene_name": "Levi and Table Fellowship", "reference": "2:13-2:17", "why_start_end_and_devices": "Call + physician proverb defends mission to sinners."},
-        {"scene_number": 10, "scene_name": "Three Conflict Questions", "reference": "2:18-3:6", "why_start_end_and_devices": "Fasting, Sabbath grain, healing—crescendo to plot to destroy."},
-        {"scene_number": 11, "scene_name": "Withdrawal and the Twelve", "reference": "3:7-3:19a", "why_start_end_and_devices": "Crowd summary; formal naming/commissioning of inner circle."},
-        {"scene_number": 12, "scene_name": "Family and Scribes ‘Sandwich’", "reference": "3:19b-3:35", "why_start_end_and_devices": "Intercalation: blasphemy charge clarifies true kin as doers."},
-        {"scene_number": 13, "scene_name": "Sower and Purpose of Parables", "reference": "4:1-4:20", "why_start_end_and_devices": "Public parable + private rationale and interpretation unit."},
-        {"scene_number": 14, "scene_name": "Lamp, Measure, Seeds", "reference": "4:21-4:34", "why_start_end_and_devices": "Parable cluster with summary: public parables, private explanations."},
-        {"scene_number": 15, "scene_name": "Calming the Storm", "reference": "4:35-4:41", "why_start_end_and_devices": "Nature obeys; ‘Who is this?’ bridges to greater power displays."},
-        {"scene_number": 16, "scene_name": "Gerasene Demoniac", "reference": "5:1-5:20", "why_start_end_and_devices": "Legion expelled; unique Gentile commissioning underscores reach."},
-        {"scene_number": 17, "scene_name": "Jairus/Woman Intercalation", "reference": "5:21-5:43", "why_start_end_and_devices": "Sandwiched healings (12 years) highlight faith and power."},
-        {"scene_number": 18, "scene_name": "Rejection at Nazareth", "reference": "6:1-6a", "why_start_end_and_devices": "Prophet without honor; unbelief limits mighty works."},
-        {"scene_number": 19, "scene_name": "Mission of the Twelve", "reference": "6:6b-6:13", "why_start_end_and_devices": "Commission + results; simple dependence ethic."},
-        {"scene_number": 20, "scene_name": "Death of John (Flashback)", "reference": "6:14-6:29", "why_start_end_and_devices": "Intercalated backstory foreshadows Jesus’ fate."},
-        {"scene_number": 21, "scene_name": "Feeding the Five Thousand", "reference": "6:30-6:44", "why_start_end_and_devices": "Shepherd compassion; abundance with numbered details."},
-        {"scene_number": 22, "scene_name": "Walking on Water; Healings", "reference": "6:45-6:56", "why_start_end_and_devices": "Sea epiphany then summary of widespread healings."},
-        {"scene_number": 23, "scene_name": "Tradition vs. True Defilement", "reference": "7:1-7:23", "why_start_end_and_devices": "Public dispute + private teaching redefine defilement."},
-        {"scene_number": 24, "scene_name": "Syrophoenician Woman", "reference": "7:24-7:30", "why_start_end_and_devices": "Clever faith secures Gentile daughter’s healing at distance."},
-        {"scene_number": 25, "scene_name": "Deaf Mute Healed", "reference": "7:31-7:37", "why_start_end_and_devices": "‘Ephphatha!’; secrecy command defied, praise spreads."},
-        {"scene_number": 26, "scene_name": "Feeding the Four Thousand", "reference": "8:1-8:10", "why_start_end_and_devices": "Parallel feeding underscores provision despite dullness."},
-        {"scene_number": 27, "scene_name": "Demand for a Sign", "reference": "8:11-8:13", "why_start_end_and_devices": "Brief refusal with definitive departure."},
-        {"scene_number": 28, "scene_name": "Leaven Warning; Blindness", "reference": "8:14-8:21", "why_start_end_and_devices": "Metaphor + rhetorical questions expose dull understanding."},
-        {"scene_number": 29, "scene_name": "Bethsaida: Partial Sight", "reference": "8:22-8:26", "why_start_end_and_devices": "Two‑stage healing as metaphor for disciples’ sight; secrecy."}
+        {
+          "scene_number": 1,
+          "scene_name": "Gospel Opening: The Messenger",
+          "reference": "1:1-1:3",
+          "why_start_end_and_devices": "The beginning of the gospel; Isaiah's herald preparing the way."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "John the Baptist Appears",
+          "reference": "1:4-1:8",
+          "why_start_end_and_devices": "A baptism of repentance; the mightier One who baptizes with the Spirit."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Baptism and Temptation",
+          "reference": "1:9-1:13",
+          "why_start_end_and_devices": "The beloved Son; the Spirit drives Him forty days into the wilderness."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Kingdom Near; Simon and Andrew",
+          "reference": "1:14-1:18",
+          "why_start_end_and_devices": "The time fulfilled; the first two called as fishers of men."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "James and John Called",
+          "reference": "1:19-1:20",
+          "why_start_end_and_devices": "Immediately leaving their father Zebedee in the boat."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Authority in the Synagogue",
+          "reference": "1:21-1:24",
+          "why_start_end_and_devices": "Astonished teaching; an unclean spirit cries out at Capernaum."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Unclean Spirit Cast Out",
+          "reference": "1:25-1:28",
+          "why_start_end_and_devices": "The rebuke and convulsion; news spreads through Galilee."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Peter's Mother-in-Law; Evening Healings",
+          "reference": "1:29-1:34",
+          "why_start_end_and_devices": "The fever leaves; the whole town gathers at the door."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Dawn Prayer and Preaching Tour",
+          "reference": "1:35-1:39",
+          "why_start_end_and_devices": "A solitary place; let us go on to the neighboring towns."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Cleansing the Leper",
+          "reference": "1:40-1:45",
+          "why_start_end_and_devices": "Moved with compassion; the cleansed man spreads the news."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Paralytic Lowered",
+          "reference": "2:1-2:5",
+          "why_start_end_and_devices": "Four men through the roof; Son, your sins are forgiven."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Who Can Forgive but God?",
+          "reference": "2:6-2:9",
+          "why_start_end_and_devices": "The scribes reasoning; which is easier to say."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Authority to Forgive",
+          "reference": "2:10-2:12",
+          "why_start_end_and_devices": "Get up and walk; all are astounded and glorify God."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Calling Levi; Eating with Sinners",
+          "reference": "2:13-2:17",
+          "why_start_end_and_devices": "The tax booth; I came to call not the righteous but sinners."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Question About Fasting",
+          "reference": "2:18-2:22",
+          "why_start_end_and_devices": "The bridegroom present; new wine into new wineskins."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Lord of the Sabbath",
+          "reference": "2:23-2:28",
+          "why_start_end_and_devices": "The grainfields; the Sabbath made for man."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Withered Hand on the Sabbath",
+          "reference": "3:1-3:6",
+          "why_start_end_and_devices": "To do good or evil; the Pharisees plot with the Herodians."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Crowds by the Sea",
+          "reference": "3:7-3:12",
+          "why_start_end_and_devices": "Great crowds from every region; the unclean spirits silenced."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Appointing the Twelve",
+          "reference": "3:13-3:19a",
+          "why_start_end_and_devices": "Up the mountain; the twelve named to be sent out."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "'He Is Out of His Mind'",
+          "reference": "3:19b-3:21",
+          "why_start_end_and_devices": "A crowd so dense they cannot eat; His family comes to seize Him."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Beelzebul; A Divided Kingdom",
+          "reference": "3:22-3:27",
+          "why_start_end_and_devices": "Satan cannot drive out Satan; binding the strong man."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Unforgivable Sin",
+          "reference": "3:28-3:30",
+          "why_start_end_and_devices": "Blasphemy against the Holy Spirit, an eternal sin."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Jesus' True Family",
+          "reference": "3:31-3:35",
+          "why_start_end_and_devices": "Whoever does the will of God is brother and sister and mother."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Teaching from the Boat",
+          "reference": "4:1-4:3",
+          "why_start_end_and_devices": "Beside the sea He teaches in parables: Listen! A farmer went out to sow."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Four Soils",
+          "reference": "4:4-4:9",
+          "why_start_end_and_devices": "Seed on path, rocky ground, thorns, and good soil; he who has ears, let him hear."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Purpose of Parables",
+          "reference": "4:10-4:12",
+          "why_start_end_and_devices": "The mystery given; ever seeing but never perceiving."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Sower Explained: Path and Rock",
+          "reference": "4:13-4:16",
+          "why_start_end_and_devices": "The word sown; Satan snatches it, and the rocky-ground hearers."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Thorns and Good Soil",
+          "reference": "4:17-4:20",
+          "why_start_end_and_devices": "The cares that choke the word, and the soil that bears a hundredfold."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Lamp and Measure",
+          "reference": "4:21-4:25",
+          "why_start_end_and_devices": "Nothing hidden; the measure you use will be measured to you."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "The Growing Seed",
+          "reference": "4:26-4:29",
+          "why_start_end_and_devices": "He sleeps and rises; the earth bears fruit, then the harvest."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "The Mustard Seed",
+          "reference": "4:30-4:34",
+          "why_start_end_and_devices": "The smallest seed becoming the largest plant."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "A Violent Storm",
+          "reference": "4:35-4:38",
+          "why_start_end_and_devices": "Crossing at evening; Teacher, do You not care that we are perishing?"
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Silence! Be Still!",
+          "reference": "4:39-4:41",
+          "why_start_end_and_devices": "The wind dies down — Who is this, that wind and sea obey Him?"
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "The Gerasene Demoniac",
+          "reference": "5:1-5:5",
+          "why_start_end_and_devices": "Living among the tombs, no chains could restrain him."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Legion",
+          "reference": "5:6-5:10",
+          "why_start_end_and_devices": "Son of the Most High God; my name is Legion, for we are many."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Into the Pigs",
+          "reference": "5:11-5:13",
+          "why_start_end_and_devices": "About two thousand rush down the bank and drown."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "The Townspeople's Fear",
+          "reference": "5:14-5:17",
+          "why_start_end_and_devices": "The man clothed and sane; they beg Jesus to leave."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Go Tell Your People",
+          "reference": "5:18-5:20",
+          "why_start_end_and_devices": "Proclaiming through the Decapolis how much Jesus had done."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Jairus Pleads",
+          "reference": "5:21-5:24",
+          "why_start_end_and_devices": "The synagogue leader: my little daughter is dying."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "The Bleeding Woman",
+          "reference": "5:25-5:29",
+          "why_start_end_and_devices": "Twelve years of suffering; she touches His cloak and is healed."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Who Touched Me?",
+          "reference": "5:30-5:34",
+          "why_start_end_and_devices": "Power gone out; Daughter, your faith has healed you."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "'Your Daughter Is Dead'",
+          "reference": "5:35-5:40",
+          "why_start_end_and_devices": "Do not fear, only believe; she is not dead but asleep."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Talitha Koum",
+          "reference": "5:41-5:43",
+          "why_start_end_and_devices": "Little girl, get up — and give her something to eat."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Rejection at Nazareth",
+          "reference": "6:1-6:6a",
+          "why_start_end_and_devices": "The carpenter; a prophet without honor in his hometown."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Sending the Twelve",
+          "reference": "6:6b-6:11",
+          "why_start_end_and_devices": "Two by two; take nothing, and shake off the dust."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "The Twelve Go Out",
+          "reference": "6:12-6:13",
+          "why_start_end_and_devices": "Preaching repentance, driving out demons, anointing the sick."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Herod Hears",
+          "reference": "6:14-6:16",
+          "why_start_end_and_devices": "John the Baptist has risen from the dead!"
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Herod and Herodias",
+          "reference": "6:17-6:20",
+          "why_start_end_and_devices": "John imprisoned for saying it is not lawful."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "The Birthday Banquet",
+          "reference": "6:21-6:25",
+          "why_start_end_and_devices": "Herodias's daughter dances; the head of John on a platter."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "John Beheaded",
+          "reference": "6:26-6:29",
+          "why_start_end_and_devices": "The king's sorrow; the disciples take the body to a tomb."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Compassion on the Crowd",
+          "reference": "6:30-6:34",
+          "why_start_end_and_devices": "Come and rest; they were like sheep without a shepherd."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Five Loaves and Two Fish",
+          "reference": "6:35-6:38",
+          "why_start_end_and_devices": "You give them something to eat; go and see how many loaves."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Feeding the Five Thousand",
+          "reference": "6:39-6:44",
+          "why_start_end_and_devices": "Groups on the green grass; twelve basketfuls left over."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Walking on the Sea",
+          "reference": "6:45-6:50",
+          "why_start_end_and_devices": "The fourth watch; Take courage! It is I. Do not be afraid."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Hearts Hardened; Gennesaret Healings",
+          "reference": "6:51-6:56",
+          "why_start_end_and_devices": "Utterly astounded; the sick beg to touch His fringe."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Tradition of the Elders",
+          "reference": "7:1-7:5",
+          "why_start_end_and_devices": "Unwashed hands; why do your disciples break the tradition?"
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "Honoring with Lips",
+          "reference": "7:6-7:8",
+          "why_start_end_and_devices": "Isaiah's prophecy; teaching the precepts of men."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Corban Nullifies the Word",
+          "reference": "7:9-7:13",
+          "why_start_end_and_devices": "Setting aside God's command for human tradition."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "What Truly Defiles",
+          "reference": "7:14-7:19",
+          "why_start_end_and_devices": "Nothing from outside defiles; thus all foods are clean."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "Evil from Within",
+          "reference": "7:20-7:23",
+          "why_start_end_and_devices": "Out of the heart come the evils that defile a man."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "The Syrophoenician Woman",
+          "reference": "7:24-7:27",
+          "why_start_end_and_devices": "At Tyre she falls at His feet; the children's bread and the dogs."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "Even the Dogs Eat the Crumbs",
+          "reference": "7:28-7:30",
+          "why_start_end_and_devices": "Because of this answer the demon has left your daughter."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "The Deaf-Mute Brought",
+          "reference": "7:31-7:34",
+          "why_start_end_and_devices": "Aside from the crowd, fingers in his ears — Ephphatha!"
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "He Has Done All Things Well",
+          "reference": "7:35-7:37",
+          "why_start_end_and_devices": "His ears opened and tongue freed; the crowd's astonishment."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Compassion; Seven Loaves",
+          "reference": "8:1-8:6",
+          "why_start_end_and_devices": "Three days with nothing to eat; seven loaves taken and broken."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "Feeding the Four Thousand",
+          "reference": "8:7-8:10",
+          "why_start_end_and_devices": "Seven basketfuls left; He crosses to Dalmanutha."
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "The Demand for a Sign",
+          "reference": "8:11-8:13",
+          "why_start_end_and_devices": "No sign will be given to this generation."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "The Leaven of the Pharisees",
+          "reference": "8:14-8:18",
+          "why_start_end_and_devices": "One loaf; do you still have hardened hearts?"
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "'Do You Not Remember?'",
+          "reference": "8:19-8:21",
+          "why_start_end_and_devices": "Twelve and seven basketfuls; do you still not understand?"
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "The Blind Man at Bethsaida",
+          "reference": "8:22-8:26",
+          "why_start_end_and_devices": "Men like trees walking; then sight fully restored."
+        }
       ]
     },
     {
@@ -47,16 +438,168 @@
       "why_start_end_and_literary_glue": "Hinge to Jerusalem journey with three Passion Predictions, each followed by misunderstanding and teaching on true discipleship; ends with Bartimaeus as model follower. Glue: prediction→misunderstanding→instruction pattern.",
       "reference": "8:27 - 10:52",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Confession and First Prediction", "reference": "8:27-8:33", "why_start_end_and_devices": "Identity confessed; rebuke exposes human agenda vs divine."},
-        {"scene_number": 2, "scene_name": "Cost of Discipleship", "reference": "8:34-9:1", "why_start_end_and_devices": "Cross sayings and paradox maxims to crowd and disciples."},
-        {"scene_number": 3, "scene_name": "Transfiguration", "reference": "9:2-9:13", "why_start_end_and_devices": "Mountain theophany confirms Son; silence till resurrection."},
-        {"scene_number": 4, "scene_name": "Demonic Boy; Prayer", "reference": "9:14-9:29", "why_start_end_and_devices": "Failure→deliverance; ‘this kind by prayer’ private lesson."},
-        {"scene_number": 5, "scene_name": "Second Prediction; Greatness", "reference": "9:30-9:41", "why_start_end_and_devices": "Secret pass‑through; child as model; inclusive service."},
-        {"scene_number": 6, "scene_name": "Radical Warnings", "reference": "9:42-9:50", "why_start_end_and_devices": "Severe stumbling/hyperbole; salt/fire maxims conclude."},
-        {"scene_number": 7, "scene_name": "Divorce Teaching", "reference": "10:1-10:12", "why_start_end_and_devices": "Public test then private standard—creation intent."},
-        {"scene_number": 8, "scene_name": "Children and the Rich Man", "reference": "10:13-10:31", "why_start_end_and_devices": "Entry to kingdom: childlike reception vs wealth obstacle."},
-        {"scene_number": 9, "scene_name": "Third Prediction; Ransom Saying", "reference": "10:32-10:45", "why_start_end_and_devices": "Going up to Jerusalem; greatness redefined as service."},
-        {"scene_number": 10, "scene_name": "Bartimaeus Follows on the Way", "reference": "10:46-10:52", "why_start_end_and_devices": "Persistent plea; regained sight leads to following."}
+        {
+          "scene_number": 1,
+          "scene_name": "Peter's Confession",
+          "reference": "8:27-8:30",
+          "why_start_end_and_devices": "At Caesarea Philippi: You are the Christ."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "First Passion Prediction",
+          "reference": "8:31-8:33",
+          "why_start_end_and_devices": "The Son of Man must suffer; Get behind Me, Satan."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Take Up Your Cross",
+          "reference": "8:34-8:38",
+          "why_start_end_and_devices": "Lose your life to save it; whoever is ashamed of Me."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Kingdom Coming with Power",
+          "reference": "9:1",
+          "why_start_end_and_devices": "Some standing here will not taste death before they see it."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Transfiguration",
+          "reference": "9:2-9:5",
+          "why_start_end_and_devices": "Clothes radiantly white; Moses and Elijah; let us put up three shelters."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Listen to Him",
+          "reference": "9:6-9:8",
+          "why_start_end_and_devices": "The cloud and the voice: This is My beloved Son — then only Jesus."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Coming Down: Elijah",
+          "reference": "9:9-9:13",
+          "why_start_end_and_devices": "Tell no one until the rising; Elijah has already come."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Demon-Possessed Boy",
+          "reference": "9:14-9:19",
+          "why_start_end_and_devices": "Your disciples could not; O unbelieving generation."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "'I Believe; Help My Unbelief'",
+          "reference": "9:20-9:24",
+          "why_start_end_and_devices": "All things are possible to him who believes."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Spirit Cast Out",
+          "reference": "9:25-9:29",
+          "why_start_end_and_devices": "The boy like a corpse; this kind comes out only by prayer."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Second Passion Prediction",
+          "reference": "9:30-9:32",
+          "why_start_end_and_devices": "Delivered into the hands of men; they were afraid to ask."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Who Is the Greatest?",
+          "reference": "9:33-9:37",
+          "why_start_end_and_devices": "Be last of all; whoever welcomes a child welcomes Me."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Whoever Is Not Against Us",
+          "reference": "9:38-9:41",
+          "why_start_end_and_devices": "An outsider driving out demons; a cup of water rewarded."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Stumbling: Hand and Foot",
+          "reference": "9:42-9:45",
+          "why_start_end_and_devices": "A millstone; better to enter life maimed than perish."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Eye, Fire, and Salt",
+          "reference": "9:46-9:50",
+          "why_start_end_and_devices": "Their worm never dies; have salt and be at peace."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Question of Divorce",
+          "reference": "10:1-10:5",
+          "why_start_end_and_devices": "Moses permitted it for your hardness of heart."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "One Flesh",
+          "reference": "10:6-10:9",
+          "why_start_end_and_devices": "From the beginning; what God has joined, let no man separate."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Divorce and Adultery",
+          "reference": "10:10-10:12",
+          "why_start_end_and_devices": "Inside the house: remarriage as adultery."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Let the Children Come",
+          "reference": "10:13-10:16",
+          "why_start_end_and_devices": "Receive the kingdom like a little child."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Rich Young Man",
+          "reference": "10:17-10:22",
+          "why_start_end_and_devices": "Sell all you have; he went away sad, for he had great wealth."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "The Eye of a Needle",
+          "reference": "10:23-10:27",
+          "why_start_end_and_devices": "Hard for the rich; with God all things are possible."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "'We Have Left Everything'",
+          "reference": "10:28-10:31",
+          "why_start_end_and_devices": "A hundredfold now with persecutions; the first will be last."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Third Passion Prediction",
+          "reference": "10:32-10:34",
+          "why_start_end_and_devices": "Going up to Jerusalem; delivered to the Gentiles to be killed."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Request of James and John",
+          "reference": "10:35-10:40",
+          "why_start_end_and_devices": "Can you drink My cup? — the seats are not Mine to grant."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "To Serve, Not Be Served",
+          "reference": "10:41-10:45",
+          "why_start_end_and_devices": "The Son of Man came to give His life a ransom for many."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Bartimaeus Cries Out",
+          "reference": "10:46-10:49",
+          "why_start_end_and_devices": "The blind beggar at Jericho: Jesus, Son of David, have mercy on me!"
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Your Faith Has Healed You",
+          "reference": "10:50-10:52",
+          "why_start_end_and_devices": "He throws off his cloak; receives his sight and follows on the way."
+        }
       ]
     },
     {
@@ -65,39 +608,369 @@
       "why_start_end_and_literary_glue": "Entry→Temple action→controversies; fig‑tree/Temple intercalation interprets judgment; ends with Olivet exhortation to stay awake.",
       "reference": "11:1 - 13:37",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Triumphal Entry", "reference": "11:1-11:11", "why_start_end_and_devices": "Symbolic royal entry; late inspection and withdrawal."},
-        {"scene_number": 2, "scene_name": "Fig Tree/Temple Intercalation", "reference": "11:12-11:26", "why_start_end_and_devices": "Fruitless fig frames cleansing; faith/forgiveness teaching."},
-        {"scene_number": 3, "scene_name": "Question of Authority", "reference": "11:27-11:33", "why_start_end_and_devices": "Counter‑question traps challengers; dialogue stalemate."},
-        {"scene_number": 4, "scene_name": "Parable of the Tenants", "reference": "12:1-12:12", "why_start_end_and_devices": "Allegory of rejection; scripture stone citation; retreat."},
-        {"scene_number": 5, "scene_name": "Tribute to Caesar", "reference": "12:13-12:17", "why_start_end_and_devices": "Image/inscription maxim resolves trap; astonishment."},
-        {"scene_number": 6, "scene_name": "Sadducees and the Resurrection", "reference": "12:18-12:27", "why_start_end_and_devices": "Pentateuch proof; God of living confounds them."},
-        {"scene_number": 7, "scene_name": "Greatest Commandment", "reference": "12:28-12:34", "why_start_end_and_devices": "Shema + neighbor; wise scribe affirmed; questions cease."},
-        {"scene_number": 8, "scene_name": "David’s Lord and Widow’s Gift", "reference": "12:35-12:44", "why_start_end_and_devices": "Christological riddle + contrast of piety vs display."},
-        {"scene_number": 9, "scene_name": "Olivet I: Temple and Beginnings", "reference": "13:1-13:13", "why_start_end_and_devices": "Destruction predicted; endurance through first woes."},
-        {"scene_number": 10, "scene_name": "Olivet II: Abomination and Coming", "reference": "13:14-13:27", "why_start_end_and_devices": "Great distress to Son of Man’s appearing; apocalyptic scope."},
-        {"scene_number": 11, "scene_name": "Olivet III: Fig Tree and Watchfulness", "reference": "13:28-13:37", "why_start_end_and_devices": "Parables press vigilance; ‘stay awake’ concludes public teaching."}
+        {
+          "scene_number": 1,
+          "scene_name": "Fetching the Colt",
+          "reference": "11:1-11:6",
+          "why_start_end_and_devices": "The Lord needs it; the disciples find it as Jesus said."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Triumphal Entry",
+          "reference": "11:7-11:11",
+          "why_start_end_and_devices": "Hosanna! Blessed is He who comes; into the temple courts."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Cursing the Fig Tree",
+          "reference": "11:12-11:14",
+          "why_start_end_and_devices": "No fruit but leaves; may no one ever eat from you again."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Cleansing the Temple",
+          "reference": "11:15-11:19",
+          "why_start_end_and_devices": "A house of prayer made a den of robbers; they seek to kill Him."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Withered Fig Tree",
+          "reference": "11:20-11:23",
+          "why_start_end_and_devices": "Have faith in God; say to this mountain, be thrown into the sea."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Believe and Forgive",
+          "reference": "11:24-11:26",
+          "why_start_end_and_devices": "Whatever you ask in prayer, believe; forgive when you stand."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "By What Authority?",
+          "reference": "11:27-11:30",
+          "why_start_end_and_devices": "The chief priests challenge Him; John's baptism — from heaven or men?"
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "'We Do Not Know'",
+          "reference": "11:31-11:33",
+          "why_start_end_and_devices": "Afraid of the crowd, they refuse to answer, and neither will He."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Parable of the Tenants",
+          "reference": "12:1-12:6",
+          "why_start_end_and_devices": "A vineyard let out; at last he sends his beloved son."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Rejected Cornerstone",
+          "reference": "12:7-12:12",
+          "why_start_end_and_devices": "They kill the heir; the stone the builders rejected."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Taxes to Caesar",
+          "reference": "12:13-12:17",
+          "why_start_end_and_devices": "Give to Caesar what is Caesar's, and to God what is God's."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Sadducees' Riddle",
+          "reference": "12:18-12:23",
+          "why_start_end_and_devices": "Seven brothers; in the resurrection whose wife will she be?"
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "God of the Living",
+          "reference": "12:24-12:27",
+          "why_start_end_and_devices": "You do not know the Scriptures; the God of Abraham, Isaac, Jacob."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Greatest Commandment",
+          "reference": "12:28-12:31",
+          "why_start_end_and_devices": "Hear O Israel; love God and love your neighbor."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Not Far from the Kingdom",
+          "reference": "12:32-12:34",
+          "why_start_end_and_devices": "More than all offerings; no one dared question Him further."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "David's Lord",
+          "reference": "12:35-12:37",
+          "why_start_end_and_devices": "How can the Christ be both David's Lord and David's son?"
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Beware the Scribes",
+          "reference": "12:38-12:40",
+          "why_start_end_and_devices": "They devour widows' houses; greater condemnation."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Widow's Offering",
+          "reference": "12:41-12:44",
+          "why_start_end_and_devices": "Two copper coins; she gave all she had to live on."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Not One Stone",
+          "reference": "13:1-13:4",
+          "why_start_end_and_devices": "The temple thrown down; when will these things happen?"
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The Beginning of Birth Pains",
+          "reference": "13:5-13:8",
+          "why_start_end_and_devices": "Wars, earthquakes, and famines; do not be alarmed."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Witness Under Persecution",
+          "reference": "13:9-13:13",
+          "why_start_end_and_devices": "Delivered to councils; the one who perseveres will be saved."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Abomination of Desolation",
+          "reference": "13:14-13:18",
+          "why_start_end_and_devices": "Flee to the mountains; pray it not be in winter."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Days of Tribulation",
+          "reference": "13:19-13:23",
+          "why_start_end_and_devices": "False Christs and prophets; I have told you everything beforehand."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Son of Man Coming",
+          "reference": "13:24-13:27",
+          "why_start_end_and_devices": "The sun darkened; the angels gather the elect."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Lesson of the Fig Tree",
+          "reference": "13:28-13:31",
+          "why_start_end_and_devices": "This generation; My words will never pass away."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "No One Knows the Hour",
+          "reference": "13:32-13:37",
+          "why_start_end_and_devices": "Not even the Son; keep watch, for you do not know."
+        }
       ]
     },
     {
       "story_letter": "D",
       "story_title": "Passion, Crucifixion, and Empty Tomb",
       "why_start_end_and_literary_glue": "From plot to burial and the empty tomb (ending at 16:8). Glue: irony of royal mockery, fulfillment, repeated failures, and vindication in absence/promise.",
-      "reference": "14:1 - 16:8",
+      "reference": "14:1 - 16:20",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Plot and Anointing", "reference": "14:1-14:11", "why_start_end_and_devices": "Intercalation contrasts lavish devotion with betrayal."},
-        {"scene_number": 2, "scene_name": "Preparation and Supper", "reference": "14:12-14:25", "why_start_end_and_devices": "Passover arrangements; covenant in blood words given."},
-        {"scene_number": 3, "scene_name": "Gethsemane", "reference": "14:26-14:42", "why_start_end_and_devices": "Scripture‑framed desertion; triple prayer/watch failure."},
-        {"scene_number": 4, "scene_name": "Arrest and Flight", "reference": "14:43-14:52", "why_start_end_and_devices": "Betrayal kiss; all flee; enigmatic young man detail."},
-        {"scene_number": 5, "scene_name": "Jewish Trial", "reference": "14:53-14:65", "why_start_end_and_devices": "‘I am’ confession; condemnation and abuse follow."},
-        {"scene_number": 6, "scene_name": "Peter’s Denial", "reference": "14:66-14:72", "why_start_end_and_devices": "Threefold denial fulfilled; bitter weeping closes unit."},
-        {"scene_number": 7, "scene_name": "Roman Trial", "reference": "15:1-15:15", "why_start_end_and_devices": "Pilate’s dilemma; crowd chooses Barabbas; Jesus delivered."},
-        {"scene_number": 8, "scene_name": "Mockery and Crucifixion", "reference": "15:16-15:24", "why_start_end_and_devices": "Royal parody; garments cast lots; crucifixion stated."},
-        {"scene_number": 9, "scene_name": "Crucifixion Taunts", "reference": "15:25-15:32", "why_start_end_and_devices": "Title irony and derision from all sides persist."},
-        {"scene_number": 10, "scene_name": "Death of Jesus", "reference": "15:33-15:41", "why_start_end_and_devices": "Darkness/veil; centurion’s ‘Son of God’ confession."},
-        {"scene_number": 11, "scene_name": "Burial", "reference": "15:42-15:47", "why_start_end_and_devices": "Joseph’s courageous burial; women note the tomb."},
-        {"scene_number": 12, "scene_name": "Empty Tomb", "reference": "16:1-16:8", "why_start_end_and_devices": "He is risen; fear and silence end the original text."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Plot to Kill Jesus",
+          "reference": "14:1-14:2",
+          "why_start_end_and_devices": "The chief priests scheme — but not during the feast."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Anointing at Bethany",
+          "reference": "14:3-14:5",
+          "why_start_end_and_devices": "An alabaster jar of pure nard; why this waste?"
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "A Beautiful Deed",
+          "reference": "14:6-14:9",
+          "why_start_end_and_devices": "Anointed for burial; told in memory of her everywhere."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Judas Agrees to Betray",
+          "reference": "14:10-14:11",
+          "why_start_end_and_devices": "He goes to the chief priests; they promise him money."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Preparing the Passover",
+          "reference": "14:12-14:16",
+          "why_start_end_and_devices": "A man carrying a jug; the large furnished upper room."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "'One of You Will Betray Me'",
+          "reference": "14:17-14:21",
+          "why_start_end_and_devices": "Dipping into the bowl; woe to that man."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Last Supper",
+          "reference": "14:22-14:25",
+          "why_start_end_and_devices": "This is My body; this is My blood of the covenant."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "'You Will All Fall Away'",
+          "reference": "14:26-14:31",
+          "why_start_end_and_devices": "The shepherd struck; Peter's threefold denial foretold."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Gethsemane",
+          "reference": "14:32-14:36",
+          "why_start_end_and_devices": "Deeply troubled; take this cup — yet not what I will."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "'Could You Not Watch?'",
+          "reference": "14:37-14:42",
+          "why_start_end_and_devices": "The spirit willing, the flesh weak; the hour has come."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Betrayal Kiss",
+          "reference": "14:43-14:46",
+          "why_start_end_and_devices": "Judas with a crowd; the One I kiss is the man."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Jesus Arrested; All Flee",
+          "reference": "14:47-14:52",
+          "why_start_end_and_devices": "The sword and the ear; a young man flees naked."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Before the Sanhedrin",
+          "reference": "14:53-14:56",
+          "why_start_end_and_devices": "Peter following at a distance; false witnesses who did not agree."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Temple Charge",
+          "reference": "14:57-14:59",
+          "why_start_end_and_devices": "'I will destroy this temple' — yet even this testimony was inconsistent."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'Are You the Christ?'",
+          "reference": "14:60-14:65",
+          "why_start_end_and_devices": "I am; the high priest tears his clothes at the blasphemy."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Peter's First Denials",
+          "reference": "14:66-14:69",
+          "why_start_end_and_devices": "The servant girl; he denies and goes out as the rooster crows."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Peter Weeps",
+          "reference": "14:70-14:72",
+          "why_start_end_and_devices": "'You are a Galilean'; the second crow, and he broke down weeping."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Jesus Before Pilate",
+          "reference": "15:1-15:5",
+          "why_start_end_and_devices": "Are You the King of the Jews? — He makes no further reply."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Barabbas or Jesus?",
+          "reference": "15:6-15:11",
+          "why_start_end_and_devices": "The chief priests stir up the crowd for Barabbas."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "'Crucify Him!'",
+          "reference": "15:12-15:15",
+          "why_start_end_and_devices": "Pilate releases Barabbas and hands Jesus over, flogged."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Mocked by the Soldiers",
+          "reference": "15:16-15:20",
+          "why_start_end_and_devices": "A purple robe and a crown of thorns; Hail, King of the Jews."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Crucifixion",
+          "reference": "15:21-15:24",
+          "why_start_end_and_devices": "Simon of Cyrene; they crucify Him and cast lots for His clothes."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "The Charge: King of the Jews",
+          "reference": "15:25-15:28",
+          "why_start_end_and_devices": "The third hour; two robbers on His right and left."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Mocked on the Cross",
+          "reference": "15:29-15:32",
+          "why_start_end_and_devices": "Come down and save Yourself; even the robbers berate Him."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Death of Jesus",
+          "reference": "15:33-15:37",
+          "why_start_end_and_devices": "Darkness; My God, why have You forsaken Me — His last breath."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Veil Torn",
+          "reference": "15:38-15:41",
+          "why_start_end_and_devices": "Truly this man was the Son of God; the women watching."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Burial",
+          "reference": "15:42-15:47",
+          "why_start_end_and_devices": "Joseph of Arimathea; the body wrapped, a stone rolled across."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Stone Rolled Away",
+          "reference": "16:1-16:4",
+          "why_start_end_and_devices": "Spices at dawn; the very large stone already rolled back."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "'He Has Risen!'",
+          "reference": "16:5-16:8",
+          "why_start_end_and_devices": "The young man in white; trembling, they said nothing to anyone."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Appearance to Mary Magdalene",
+          "reference": "16:9-16:11",
+          "why_start_end_and_devices": "She tells the mourners, but they do not believe."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Two on the Road; the Eleven Rebuked",
+          "reference": "16:12-16:14",
+          "why_start_end_and_devices": "A different form; rebuked for unbelief and hardness of heart."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Great Commission",
+          "reference": "16:15-16:18",
+          "why_start_end_and_devices": "Go into all the world; signs accompanying those who believe."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Ascension",
+          "reference": "16:19-16:20",
+          "why_start_end_and_devices": "Taken up to God's right hand; they preached everywhere."
+        }
       ]
     }
   ]
 }
-
