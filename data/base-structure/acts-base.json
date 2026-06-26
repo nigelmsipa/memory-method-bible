@@ -10,45 +10,614 @@
       "why_start_end_and_literary_glue": "Start (1:1) links to Luke and frames the post‑resurrection mission; end (6:7) is a hinge summary concluding the Jerusalem‑centric phase. Glue: unity ‘with one accord,’ apostolic signs, temple focus, community summaries, and increasing conflict with the Sanhedrin.",
       "reference": "1:1 - 6:7",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Prologue: Final Instructions and Ascension", "reference": "1:1-1:11", "why_start_end_and_devices": "Bridges Luke→Acts; promise of the Spirit; ascension witnessed and interpreted by angels. Devices: authorial address, theophany, oracle/promise."},
-        {"scene_number": 2, "scene_name": "Upper Room Prayer", "reference": "1:12-1:14", "why_start_end_and_devices": "Return to Jerusalem; unified prayer names the core circle. Devices: setting shift, compact list, unanimity refrain."},
-        {"scene_number": 3, "scene_name": "Selecting Matthias", "reference": "1:15-1:26", "why_start_end_and_devices": "Peter cites Scripture, community prays, and lots appoint Matthias. Devices: scriptural proof, prayer, casting lots closure."},
-        {"scene_number": 4, "scene_name": "Pentecost: Spirit Poured Out", "reference": "2:1-2:13", "why_start_end_and_devices": "Sound, fire, and tongues draw a multinational crowd and confusion. Devices: sensory theophany, nation list, mockery pivot."},
-        {"scene_number": 5, "scene_name": "Peter’s Prophetic Defense (Joel)", "reference": "2:14-2:21", "why_start_end_and_devices": "Refutes drunkenness; explains event via Joel’s prophecy. Devices: rebuttal→assertion→proof structure."},
-        {"scene_number": 6, "scene_name": "Peter Proclaims the Messiah", "reference": "2:22-2:36", "why_start_end_and_devices": "Death–resurrection–exaltation argued from Psalms; climax: Jesus is Lord and Christ. Devices: scriptural chain, climactic verdict."},
-        {"scene_number": 7, "scene_name": "Response and Baptism", "reference": "2:37-2:41", "why_start_end_and_devices": "Audience pierced; call to repent/baptize; about three thousand added. Devices: dialogue, summary result."},
-        {"scene_number": 8, "scene_name": "Community Life (Summary 1)", "reference": "2:42-2:47", "why_start_end_and_devices": "Devotion to teaching, fellowship, breaking bread, prayers; daily growth. Devices: enumerated practices, favor/growth summary."},
-        {"scene_number": 9, "scene_name": "Healing the Lame Man", "reference": "3:1-3:10", "why_start_end_and_devices": "At the temple gate, healing in Jesus’ name draws a crowd. Devices: miracle sign, praise, crowd recognition."},
-        {"scene_number": 10, "scene_name": "Temple Sermon: Repent and Turn", "reference": "3:11-3:26", "why_start_end_and_devices": "Peter redirects glory, indicts ignorance, offers restoration from the prophets. Devices: rhetorical questions, prophetic appeal."},
-        {"scene_number": 11, "scene_name": "Arrest and Growth Report", "reference": "4:1-4:4", "why_start_end_and_devices": "Authorities arrest, yet many believe; number reaches five thousand. Devices: conflict–growth juxtaposition, brief report."},
-        {"scene_number": 12, "scene_name": "Before the Sanhedrin", "reference": "4:5-4:22", "why_start_end_and_devices": "Bold witness; exclusive salvation in Jesus; threats then release. Devices: judicial scene, parrhesia, verdict closure."},
-        {"scene_number": 13, "scene_name": "Prayer for Boldness and Shaking", "reference": "4:23-4:31", "why_start_end_and_devices": "Corporate prayer cites Psalm 2; place shakes; Spirit fills anew. Devices: lament‑petition, theophany confirmation."},
-        {"scene_number": 14, "scene_name": "Sharing and Ananias/Sapphira", "reference": "4:32-5:11", "why_start_end_and_devices": "From ideal generosity (Barnabas) to judged deceit; great fear falls. Devices: contrast pericope, swift judgment."},
-        {"scene_number": 15, "scene_name": "Signs, Arrest, Night Release", "reference": "5:12-5:21a", "why_start_end_and_devices": "Many signs; imprisonment; angel frees apostles to resume teaching. Devices: summary→action, angelic intervention."},
-        {"scene_number": 16, "scene_name": "Council, Witness, and Gamaliel", "reference": "5:21b-5:42", "why_start_end_and_devices": "Empty prison irony; bold reply; Gamaliel’s counsel averts execution; beaten then rejoice. Devices: irony, deliberative speech."},
-        {"scene_number": 17, "scene_name": "The Seven and Summary Hinge", "reference": "6:1-6:7", "why_start_end_and_devices": "Hellenist complaint resolved by Spirit‑wise deacons; word increases. Devices: problem–solution, hinge summary."}
+        {
+          "scene_number": 1,
+          "scene_name": "Wait for the Spirit",
+          "reference": "1:1-1:5",
+          "why_start_end_and_devices": "The former book; you will be baptized with the Holy Spirit."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'You Will Be My Witnesses'",
+          "reference": "1:6-1:8",
+          "why_start_end_and_devices": "Not for you to know the times; to the ends of the earth."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Ascension",
+          "reference": "1:9-1:11",
+          "why_start_end_and_devices": "A cloud took Him up; this same Jesus will come again."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Upper Room",
+          "reference": "1:12-1:14",
+          "why_start_end_and_devices": "Devoted to prayer with the women and Mary the mother of Jesus."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Judas's Place Vacated",
+          "reference": "1:15-1:20",
+          "why_start_end_and_devices": "Peter stands; the field of blood; let another take his office."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Matthias Chosen",
+          "reference": "1:21-1:26",
+          "why_start_end_and_devices": "Two put forward; the lot fell to Matthias."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Pentecost",
+          "reference": "2:1-2:4",
+          "why_start_end_and_devices": "A rushing wind, tongues of fire; all filled with the Spirit."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Each in His Own Language",
+          "reference": "2:5-2:8",
+          "why_start_end_and_devices": "Devout men from every nation hear in their own tongue."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Parthians, Medes, Elamites",
+          "reference": "2:9-2:13",
+          "why_start_end_and_devices": "The list of nations amazed; others mocked, 'They are drunk.'"
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Peter Quotes Joel",
+          "reference": "2:14-2:17",
+          "why_start_end_and_devices": "This is what was spoken: I will pour out My Spirit on all flesh."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "Wonders in the Heavens",
+          "reference": "2:18-2:21",
+          "why_start_end_and_devices": "Even on My servants; whoever calls on the name of the Lord will be saved."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Jesus Crucified and Raised",
+          "reference": "2:22-2:24",
+          "why_start_end_and_devices": "Delivered by God's plan; death could not hold Him."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "David Foresaw the Resurrection",
+          "reference": "2:25-2:28",
+          "why_start_end_and_devices": "You will not abandon Me to Hades; the paths of life."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "'God Raised This Jesus'",
+          "reference": "2:29-2:32",
+          "why_start_end_and_devices": "David died and was buried; we are all witnesses."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Both Lord and Christ",
+          "reference": "2:33-2:36",
+          "why_start_end_and_devices": "Exalted to God's right hand; the Lord said to my Lord."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Cut to the Heart",
+          "reference": "2:37-2:41",
+          "why_start_end_and_devices": "Repent and be baptized; three thousand were added."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Fellowship of Believers",
+          "reference": "2:42-2:47",
+          "why_start_end_and_devices": "Breaking bread; all things in common; the Lord added daily."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "At the Beautiful Gate",
+          "reference": "3:1-3:5",
+          "why_start_end_and_devices": "The lame man asks alms; Peter says, 'Look at us.'"
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "'In the Name of Jesus, Walk'",
+          "reference": "3:6-3:10",
+          "why_start_end_and_devices": "Silver and gold I do not have; leaping and praising God."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "By Faith in His Name",
+          "reference": "3:11-3:16",
+          "why_start_end_and_devices": "The God of Abraham glorified Jesus, whom you handed over."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Times of Refreshing",
+          "reference": "3:17-3:21",
+          "why_start_end_and_devices": "Repent and turn back; God will send the appointed Christ."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Prophet Like Moses",
+          "reference": "3:22-3:26",
+          "why_start_end_and_devices": "All the prophets foretold these days; sent to you first."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "Arrested at the Temple",
+          "reference": "4:1-4:4",
+          "why_start_end_and_devices": "The priests seize them; the believers number five thousand."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "'By What Name?'",
+          "reference": "4:5-4:10",
+          "why_start_end_and_devices": "Peter filled with the Spirit: by the name of Jesus Christ."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "No Other Name",
+          "reference": "4:11-4:12",
+          "why_start_end_and_devices": "The stone the builders rejected; no other name for salvation."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Uneducated and Untrained",
+          "reference": "4:13-4:17",
+          "why_start_end_and_devices": "They recognized them as having been with Jesus."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "'We Cannot but Speak'",
+          "reference": "4:18-4:22",
+          "why_start_end_and_devices": "We must obey God; unable to punish them, they let them go."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "The Believers' Prayer",
+          "reference": "4:23-4:28",
+          "why_start_end_and_devices": "Sovereign Lord; gathered against Your holy servant Jesus."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "The Place Was Shaken",
+          "reference": "4:29-4:31",
+          "why_start_end_and_devices": "Grant boldness; all filled with the Holy Spirit."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "One Heart and Soul",
+          "reference": "4:32-4:37",
+          "why_start_end_and_devices": "No one claimed ownership; Barnabas lays the proceeds down."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Ananias Falls Dead",
+          "reference": "5:1-5:6",
+          "why_start_end_and_devices": "Kept back part of the price; you have lied to the Holy Spirit."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Sapphira Falls Dead",
+          "reference": "5:7-5:11",
+          "why_start_end_and_devices": "Why test the Spirit? — and great fear came on the church."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Many Signs and Wonders",
+          "reference": "5:12-5:16",
+          "why_start_end_and_devices": "Solomon's Colonnade; even Peter's shadow brings healing."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Freed by an Angel by Night",
+          "reference": "5:17-5:21a",
+          "why_start_end_and_devices": "The doors opened; go stand and speak in the temple."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Found Teaching in the Temple",
+          "reference": "5:21b-5:26",
+          "why_start_end_and_devices": "The council convenes; the men brought back without force."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "'We Must Obey God'",
+          "reference": "5:27-5:32",
+          "why_start_end_and_devices": "You intend His blood on us; we are witnesses, and so is the Spirit."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Gamaliel's Counsel",
+          "reference": "5:33-5:36",
+          "why_start_end_and_devices": "Theudas rose and came to nothing."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "'You May Be Fighting God'",
+          "reference": "5:37-5:39",
+          "why_start_end_and_devices": "If it is of God you cannot stop it; they were persuaded."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Rejoicing in Disgrace",
+          "reference": "5:40-5:42",
+          "why_start_end_and_devices": "Flogged, yet never ceasing to teach that Jesus is the Christ."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "'Wait on Tables'",
+          "reference": "6:1-6:4",
+          "why_start_end_and_devices": "The Hellenists complain; select seven, that we may devote ourselves to prayer."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "The Seven Chosen",
+          "reference": "6:5-6:7",
+          "why_start_end_and_devices": "Stephen and six others appointed; the word of God spread."
+        }
       ]
     },
     {
       "story_letter": "B",
       "story_title": "The Witness in Judea and Samaria (Expansion)",
       "why_start_end_and_literary_glue": "Start (6:8) shifts to Stephen, whose martyrdom catalyzes dispersion; end (12:24) is a growth summary closing the persecution arc before the Gentile mission launch. Glue: persecution‑as‑catalyst, Spirit direction, and apostolic validation of Samaritans and Gentiles.",
-      "reference": "6:8 - 12:24",
+      "reference": "6:8 - 12:25",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Stephen’s Ministry and Arrest", "reference": "6:8-6:15", "why_start_end_and_devices": "Irresistible wisdom opposed; false charges; Stephen’s radiant face signals divine favor. Devices: conflict build, glory visage."},
-        {"scene_number": 2, "scene_name": "Stephen’s Speech: Israel’s Resistance", "reference": "7:1-7:53", "why_start_end_and_devices": "Historical survey turns accusatory: ‘you always resist the Holy Spirit.’ Devices: extended scriptural retelling, prophetic denunciation."},
-        {"scene_number": 3, "scene_name": "Martyrdom and Scattering", "reference": "7:54-8:4", "why_start_end_and_devices": "Vision of the Son of Man; stoning; Saul’s approval; church scattered preaching. Devices: glory–violence juxtaposition, summary pivot."},
-        {"scene_number": 4, "scene_name": "Philip in Samaria; Simon Magus", "reference": "8:5-8:25", "why_start_end_and_devices": "Joyful reception; apostles confirm with Spirit; Simon’s simony rebuked. Devices: sign‑attested mission, apostolic validation."},
-        {"scene_number": 5, "scene_name": "Philip and the Ethiopian Eunuch", "reference": "8:26-8:40", "why_start_end_and_devices": "Angel and Spirit direct a Scripture‑centered conversion and baptism; Philip transported. Devices: oracle guidance, Isa 53 exegesis."},
-        {"scene_number": 6, "scene_name": "Saul’s Conversion", "reference": "9:1-9:19a", "why_start_end_and_devices": "Heavenly encounter reverses persecutor to witness; sight restored and baptized. Devices: voice‑from‑heaven, sign (‘scales’) closure."},
-        {"scene_number": 7, "scene_name": "Saul’s Early Preaching and Escape", "reference": "9:19b-9:31", "why_start_end_and_devices": "Bold proclamation, plots, and escapes; churches have peace and grow. Devices: danger beats, hinge summary (9:31)."},
-        {"scene_number": 8, "scene_name": "Peter in Lydda and Joppa", "reference": "9:32-9:43", "why_start_end_and_devices": "Healings of Aeneas and Tabitha establish Peter’s authority along the coast. Devices: miracle signs, lodging setup in Joppa."},
-        {"scene_number": 9, "scene_name": "Cornelius’s Vision", "reference": "10:1-10:8", "why_start_end_and_devices": "God‑fearing Gentile directed to summon Peter. Devices: angelic visitation, piety characterization as foil."},
-        {"scene_number": 10, "scene_name": "Peter’s Sheet Vision and Resolve", "reference": "10:9-10:23a", "why_start_end_and_devices": "Threefold vision interpreted by Spirit; Peter descends to go. Devices: thrice repetition, inner dialogue, command obedience."},
-        {"scene_number": 11, "scene_name": "Gentiles Receive the Spirit", "reference": "10:23b-10:48", "why_start_end_and_devices": "Peter’s sermon; Spirit falls before baptism; Gentiles baptized. Devices: reversal ordering, equalizing Spirit sign."},
-        {"scene_number": 12, "scene_name": "Defense at Jerusalem", "reference": "11:1-11:18", "why_start_end_and_devices": "Peter recounts events; brethren glorify God for Gentile repentance. Devices: narrated testimony, consensus resolution."},
-        {"scene_number": 13, "scene_name": "Antioch: Barnabas and Saul", "reference": "11:19-11:30", "why_start_end_and_devices": "Scattered preaching reaches Antioch; disciples first called Christians; relief sent to Jerusalem. Devices: naming marker, emissary report."},
-        {"scene_number": 14, "scene_name": "Herod’s Persecution and Peter’s Deliverance", "reference": "12:1-12:24", "why_start_end_and_devices": "James martyred; Peter imprisoned and freed; Herod judged; word grows. Devices: prayer–deliverance irony (Rhoda), summary hinge."}
+        {
+          "scene_number": 1,
+          "scene_name": "Stephen Disputes",
+          "reference": "6:8-6:11",
+          "why_start_end_and_devices": "Full of grace and power; they could not withstand his wisdom."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Seized Before the Council",
+          "reference": "6:12-6:15",
+          "why_start_end_and_devices": "False witnesses; his face like the face of an angel."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The God of Glory Appeared",
+          "reference": "7:1-7:4",
+          "why_start_end_and_devices": "To Abraham in Mesopotamia; leave your land."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Covenant of Circumcision",
+          "reference": "7:5-7:8",
+          "why_start_end_and_devices": "No inheritance yet; offspring as sojourners; the twelve patriarchs."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Joseph Sold into Egypt",
+          "reference": "7:9-7:13",
+          "why_start_end_and_devices": "God was with him; revealed to his brothers the second time."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Jacob Comes Down",
+          "reference": "7:14-7:16",
+          "why_start_end_and_devices": "Seventy-five souls; buried at Shechem."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Moses Born and Raised",
+          "reference": "7:17-7:22",
+          "why_start_end_and_devices": "The time of promise; mighty in words and deeds."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Moses Defends His Brother",
+          "reference": "7:23-7:26",
+          "why_start_end_and_devices": "Who made you ruler? — he supposed they would understand."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Moses Flees to Midian",
+          "reference": "7:27-7:29",
+          "why_start_end_and_devices": "A sojourner who fathered two sons."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Burning Bush",
+          "reference": "7:30-7:34",
+          "why_start_end_and_devices": "I am the God of your fathers; I have seen the affliction."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "'This Moses'",
+          "reference": "7:35-7:38",
+          "why_start_end_and_devices": "A ruler and redeemer; he received living oracles."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Golden Calf",
+          "reference": "7:39-7:43",
+          "why_start_end_and_devices": "They turned back to Egypt; God gave them up to the host of heaven."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Tabernacle and Temple",
+          "reference": "7:44-7:47",
+          "why_start_end_and_devices": "The tent of testimony; Solomon built Him a house."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "'The Most High Does Not Dwell in Houses'",
+          "reference": "7:48-7:50",
+          "why_start_end_and_devices": "Heaven is My throne; what house will you build for Me?"
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'You Stiff-Necked People'",
+          "reference": "7:51-7:53",
+          "why_start_end_and_devices": "You always resist the Holy Spirit, as your fathers did."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Heavens Opened",
+          "reference": "7:54-7:56",
+          "why_start_end_and_devices": "Stephen sees the Son of Man standing at God's right hand."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "The Stoning of Stephen",
+          "reference": "7:57-7:60",
+          "why_start_end_and_devices": "Lord, do not hold this sin against them — and he fell asleep."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Saul Ravages the Church",
+          "reference": "8:1-8:4",
+          "why_start_end_and_devices": "Scattered through Judea and Samaria; preaching everywhere."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Philip in Samaria",
+          "reference": "8:5-8:8",
+          "why_start_end_and_devices": "Unclean spirits cast out; great joy in the city."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Simon the Sorcerer",
+          "reference": "8:9-8:13",
+          "why_start_end_and_devices": "The Great Power of God; even Simon believed and was baptized."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Peter and John Sent",
+          "reference": "8:14-8:17",
+          "why_start_end_and_devices": "They laid hands, and the Samaritans received the Spirit."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "'Your Heart Is Not Right'",
+          "reference": "8:18-8:21",
+          "why_start_end_and_devices": "Simon offers money; may your silver perish with you."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "'Repent and Pray'",
+          "reference": "8:22-8:25",
+          "why_start_end_and_devices": "Pray for me, that none of this comes upon me."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "The Ethiopian Eunuch",
+          "reference": "8:26-8:31",
+          "why_start_end_and_devices": "Reading Isaiah; how can I unless someone guides me?"
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Like a Lamb to the Slaughter",
+          "reference": "8:32-8:35",
+          "why_start_end_and_devices": "Philip tells him the good news of Jesus."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "The Eunuch Baptized",
+          "reference": "8:36-8:40",
+          "why_start_end_and_devices": "What prevents me? — Philip is carried away to Azotus."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Road to Damascus",
+          "reference": "9:1-9:6",
+          "why_start_end_and_devices": "Why do you persecute Me? — rise and enter the city."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Blind Three Days",
+          "reference": "9:7-9:9",
+          "why_start_end_and_devices": "The men stood speechless; he neither ate nor drank."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Ananias's Vision",
+          "reference": "9:10-9:12",
+          "why_start_end_and_devices": "Go to the street called Straight, to a man named Saul."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "'A Chosen Instrument'",
+          "reference": "9:13-9:16",
+          "why_start_end_and_devices": "To carry My name; how much he must suffer for it."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Scales Fall; Baptized",
+          "reference": "9:17-9:19a",
+          "why_start_end_and_devices": "Brother Saul — he regained his sight and was filled with the Spirit."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Preaching in Damascus",
+          "reference": "9:19b-9:22",
+          "why_start_end_and_devices": "Is this not the one who ravaged? — proving Jesus is the Christ."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Escape over the Wall",
+          "reference": "9:23-9:25",
+          "why_start_end_and_devices": "Lowered in a basket through an opening."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Accepted at Jerusalem",
+          "reference": "9:26-9:31",
+          "why_start_end_and_devices": "Barnabas vouches; sent to Tarsus; the church multiplied."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "Aeneas Healed at Lydda",
+          "reference": "9:32-9:35",
+          "why_start_end_and_devices": "Jesus Christ heals you; all turned to the Lord."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Dorcas Dies at Joppa",
+          "reference": "9:36-9:39",
+          "why_start_end_and_devices": "Full of good works; the widows weep, showing her garments."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "'Tabitha, Arise'",
+          "reference": "9:40-9:43",
+          "why_start_end_and_devices": "He presented her alive; many believed in the Lord."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Cornelius's Vision",
+          "reference": "10:1-10:4",
+          "why_start_end_and_devices": "A devout centurion; your prayers have ascended as a memorial."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Send to Joppa",
+          "reference": "10:5-10:8",
+          "why_start_end_and_devices": "Summon Simon called Peter; he dispatches three men."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Peter's Vision of the Sheet",
+          "reference": "10:9-10:13",
+          "why_start_end_and_devices": "All kinds of animals; rise, Peter, kill and eat."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "'Do Not Call Unclean'",
+          "reference": "10:14-10:16",
+          "why_start_end_and_devices": "What God has cleansed — this happened three times."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "The Men Arrive",
+          "reference": "10:17-10:23a",
+          "why_start_end_and_devices": "The Spirit says go with them, making no distinction."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Peter Meets Cornelius",
+          "reference": "10:23b-10:29",
+          "why_start_end_and_devices": "God has shown me not to call any man unclean."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Cornelius Explains",
+          "reference": "10:30-10:33",
+          "why_start_end_and_devices": "Four days ago; we are all here before God."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "God Shows No Partiality",
+          "reference": "10:34-10:38",
+          "why_start_end_and_devices": "Anointed with the Spirit and power, doing good."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "'We Are Witnesses'",
+          "reference": "10:39-10:43",
+          "why_start_end_and_devices": "They killed Him; everyone who believes receives forgiveness."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "The Spirit Falls on Gentiles",
+          "reference": "10:44-10:48",
+          "why_start_end_and_devices": "The circumcised amazed; he ordered them baptized."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Criticized at Jerusalem",
+          "reference": "11:1-11:4",
+          "why_start_end_and_devices": "You went to the uncircumcised — Peter explains in order."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "The Sheet Vision Retold",
+          "reference": "11:5-11:10",
+          "why_start_end_and_devices": "What God has cleansed; drawn up again to heaven."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "'Make No Distinction'",
+          "reference": "11:11-11:14",
+          "why_start_end_and_devices": "The Spirit told me to go; the angel at Cornelius's house."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "'Who Was I to Stand in God's Way?'",
+          "reference": "11:15-11:18",
+          "why_start_end_and_devices": "God granted repentance unto life to the Gentiles."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "The Church at Antioch",
+          "reference": "11:19-11:24",
+          "why_start_end_and_devices": "Preaching to Greeks; Barnabas sent, a good man full of faith."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Barnabas Fetches Saul",
+          "reference": "11:25-11:30",
+          "why_start_end_and_devices": "Called Christians first at Antioch; famine relief sent."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "James Killed, Peter Imprisoned",
+          "reference": "12:1-12:5",
+          "why_start_end_and_devices": "Herod's persecution; the church prays earnestly."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "The Angel Frees Peter",
+          "reference": "12:6-12:11",
+          "why_start_end_and_devices": "The chains fell; the iron gate opened of itself."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "At Mary's House",
+          "reference": "12:12-12:17",
+          "why_start_end_and_devices": "Rhoda's joy; tell James — and he departed."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "The Guards Executed",
+          "reference": "12:18-12:19",
+          "why_start_end_and_devices": "No small commotion; Herod went down to Caesarea."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Herod Struck Down",
+          "reference": "12:20-12:23",
+          "why_start_end_and_devices": "The voice of a god; eaten by worms, he died."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "The Word of God Grew",
+          "reference": "12:24-12:25",
+          "why_start_end_and_devices": "Barnabas and Saul returned, taking John Mark with them."
+        }
       ]
     },
     {
@@ -57,13 +626,114 @@
       "why_start_end_and_literary_glue": "Start (13:1) with Spirit‑directed commissioning at Antioch; end (14:28) with return and report. Glue: itinerary from Cyprus to Pisidia/Lycaonia and back; conflict then turning to Gentiles; elders appointed; inclusio with sending church.",
       "reference": "13:1 - 14:28",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Commissioning and Sending", "reference": "13:1-13:5", "why_start_end_and_devices": "Prophets/teachers at Antioch; Spirit says ‘Set apart’; hands laid and sent. Devices: oracle formula, ritual sending."},
-        {"scene_number": 2, "scene_name": "Cyprus: Elymas and Sergius Paulus", "reference": "13:6-13:12", "why_start_end_and_devices": "Elymas opposed; Paul (name shift) blinds him; proconsul believes. Devices: conflict miracle, leadership shift marker."},
-        {"scene_number": 3, "scene_name": "Pisidian Antioch: Paul’s Sermon", "reference": "13:13-13:43", "why_start_end_and_devices": "Historical survey to resurrection, justified by Scripture; invited back next Sabbath. Devices: synagogue address, fulfillment chain."},
-        {"scene_number": 4, "scene_name": "Turning to the Gentiles", "reference": "13:44-13:52", "why_start_end_and_devices": "City gathers; Jews oppose; Isa 49:6 cited; dust‑shaking; joy. Devices: prophetic warrant, symbolic act."},
-        {"scene_number": 5, "scene_name": "Iconium: Division and Flight", "reference": "14:1-14:7", "why_start_end_and_devices": "Bold preaching splits city; plot to stone; they flee. Devices: division motif, protective move."},
-        {"scene_number": 6, "scene_name": "Lystra: Healing, Idolatry, and Stoning", "reference": "14:8-14:20a", "why_start_end_and_devices": "Healing sparks deification; apostles protest; Jews incite stoning; Paul rises. Devices: irony reversal, resilience sign."},
-        {"scene_number": 7, "scene_name": "Return and Strengthening the Churches", "reference": "14:20b-14:28", "why_start_end_and_devices": "Derbe preached; elders appointed; report God’s open door; long stay in Antioch. Devices: appointment formula, inclusio report."}
+        {
+          "scene_number": 1,
+          "scene_name": "Sent Out from Antioch",
+          "reference": "13:1-13:5",
+          "why_start_end_and_devices": "The Spirit sets apart Barnabas and Saul; they reach Cyprus."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Elymas Opposes",
+          "reference": "13:6-13:9",
+          "why_start_end_and_devices": "The magician resists; Saul, also called Paul, filled with the Spirit."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Elymas Blinded",
+          "reference": "13:10-13:12",
+          "why_start_end_and_devices": "A mist falls on him; Sergius Paulus believes."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "At Pisidian Antioch",
+          "reference": "13:13-13:16",
+          "why_start_end_and_devices": "John leaves; Paul stands in the synagogue."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The God of Israel",
+          "reference": "13:17-13:22",
+          "why_start_end_and_devices": "The Exodus; David, a man after God's own heart."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "John the Forerunner",
+          "reference": "13:23-13:25",
+          "why_start_end_and_devices": "I am not worthy to untie His sandals."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "They Fulfilled the Scriptures",
+          "reference": "13:26-13:31",
+          "why_start_end_and_devices": "Condemned Him; God raised Him; His witnesses to the people."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Promise Fulfilled",
+          "reference": "13:32-13:37",
+          "why_start_end_and_devices": "You are My Son; the Holy One will not see corruption."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Forgiveness Proclaimed",
+          "reference": "13:38-13:41",
+          "why_start_end_and_devices": "Freed from what the law could not free you; beware the scoffers."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "A Light to the Gentiles",
+          "reference": "13:42-13:47",
+          "why_start_end_and_devices": "The next Sabbath; we now turn to the Gentiles."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Word Spreads; Opposition",
+          "reference": "13:48-13:52",
+          "why_start_end_and_devices": "Filled with joy and the Spirit, though driven out."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Iconium Divided",
+          "reference": "14:1-14:4",
+          "why_start_end_and_devices": "A great number believe; the city split over them."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "The Plot; Flight to Lystra",
+          "reference": "14:5-14:7",
+          "why_start_end_and_devices": "They fled and continued to preach the gospel."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Lame Man at Lystra",
+          "reference": "14:8-14:13",
+          "why_start_end_and_devices": "The gods have come down! — Zeus and Hermes."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'We Are Only Men'",
+          "reference": "14:14-14:18",
+          "why_start_end_and_devices": "Turn from these worthless things to the living God."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Paul Stoned",
+          "reference": "14:19-14:20a",
+          "why_start_end_and_devices": "Dragged out of the city, supposed to be dead."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Strengthening the Disciples",
+          "reference": "14:20b-14:23",
+          "why_start_end_and_devices": "Through many tribulations; elders appointed in each church."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Return to Antioch",
+          "reference": "14:24-14:28",
+          "why_start_end_and_devices": "They reported all God had done; a door of faith to the Gentiles."
+        }
       ]
     },
     {
@@ -72,10 +742,54 @@
       "why_start_end_and_literary_glue": "Start (15:1) with circumcision controversy; end (15:35) with unified ministry post‑decree in Antioch. Glue: multi‑voice testimony (Peter, Barnabas/Paul, James), Scripture (Amos 9), Spirit‑sanctioned consensus (‘seemed good to the Holy Spirit and to us’).",
       "reference": "15:1 - 15:35",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Dispute at Antioch; To Jerusalem", "reference": "15:1-15:5", "why_start_end_and_devices": "Judaizers trigger debate; delegation welcomed; Pharisee believers restate demand. Devices: controversy setup, venue shift."},
-        {"scene_number": 2, "scene_name": "Peter’s Testimony of Grace", "reference": "15:6-15:11", "why_start_end_and_devices": "God chose Gentiles; hearts purified by faith; law’s yoke rejected. Devices: past narrative appeal, grace principle."},
-        {"scene_number": 3, "scene_name": "James’s Judgment and Scripture", "reference": "15:12-15:21", "why_start_end_and_devices": "Miracle reports heard; James cites Amos 9; four prohibitions set. Devices: legal decision, scriptural warrant."},
-        {"scene_number": 4, "scene_name": "The Decree Dispatched and Received", "reference": "15:22-15:35", "why_start_end_and_devices": "Chosen men carry the letter; encouragement and unity result. Devices: epistolary decree, messenger validation, summary close."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Circumcision Dispute",
+          "reference": "15:1-15:5",
+          "why_start_end_and_devices": "Unless you are circumcised; sent up to Jerusalem."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Peter's Testimony of Grace",
+          "reference": "15:6-15:11",
+          "why_start_end_and_devices": "God made no distinction; we are saved through grace."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Barnabas and Paul Report",
+          "reference": "15:12-15:14",
+          "why_start_end_and_devices": "Simeon has related how God visited the Gentiles."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Prophets Agree",
+          "reference": "15:15-15:18",
+          "why_start_end_and_devices": "I will rebuild the fallen tent of David."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "James's Judgment",
+          "reference": "15:19-15:21",
+          "why_start_end_and_devices": "Do not trouble the Gentiles; abstain from four things."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "The Letter Sent",
+          "reference": "15:22-15:26",
+          "why_start_end_and_devices": "Judas and Silas chosen; it seemed good to the Holy Spirit."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "'These Necessary Things'",
+          "reference": "15:27-15:29",
+          "why_start_end_and_devices": "Abstain from idol food, blood, and sexual immorality."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Church Rejoices",
+          "reference": "15:30-15:35",
+          "why_start_end_and_devices": "The encouragement read; Paul and Barnabas remain teaching."
+        }
       ]
     },
     {
@@ -84,17 +798,126 @@
       "why_start_end_and_literary_glue": "Start (15:36) revisiting churches, then Spirit‑redirects to Europe (Macedonian call); end (18:22) with return to Antioch. Glue: we‑sections begin (16:10), legal precedent (Gallio), and founding of key churches (Philippi, Thessalonica, Corinth).",
       "reference": "15:36 - 18:22",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Split with Barnabas; Silas and Timothy", "reference": "15:36-16:5", "why_start_end_and_devices": "Disagreement over Mark; circumcision of Timothy for mission; churches strengthened. Devices: pragmatic concession, summary growth (16:5)."},
-        {"scene_number": 2, "scene_name": "The Macedonian Call", "reference": "16:6-16:10", "why_start_end_and_devices": "Spirit forbids Asia/Bithynia; vision summons to Macedonia; ‘we’ begin. Devices: negative guidance→positive vision, narrator shift."},
-        {"scene_number": 3, "scene_name": "Philippi: Lydia’s Household", "reference": "16:11-16:15", "why_start_end_and_devices": "Sabbath riverside prayer; the Lord opens Lydia’s heart; hospitality. Devices: divine enablement, house‑church seed."},
-        {"scene_number": 4, "scene_name": "Slave‑Girl Exorcism and Imprisonment", "reference": "16:16-16:24", "why_start_end_and_devices": "Spirit expelled; owners retaliate; Paul and Silas flogged and jailed. Devices: power encounter, injustice setup."},
-        {"scene_number": 5, "scene_name": "Jailer’s Conversion and Release", "reference": "16:25-16:40", "why_start_end_and_devices": "Midnight praise; quake opens doors; ‘What must I do to be saved?’; Roman citizenship forces apology. Devices: sign‑deliverance, legal status appeal."},
-        {"scene_number": 6, "scene_name": "Thessalonica: Uproar", "reference": "17:1-17:9", "why_start_end_and_devices": "Reasoning from Scriptures; charge of turning the world upside down; bail taken. Devices: synagogue proof, civic disturbance."},
-        {"scene_number": 7, "scene_name": "Berea: Noble Examination", "reference": "17:10-17:15", "why_start_end_and_devices": "Daily Scripture searching; many believe; opposition pursues Paul. Devices: evaluative praise, protective escort."},
-        {"scene_number": 8, "scene_name": "Athens: Areopagus Address", "reference": "17:16-17:34", "why_start_end_and_devices": "Unknown God proclamation; call to repent in light of resurrection; mixed responses. Devices: cultural citation, rhetorical adaptation."},
-        {"scene_number": 9, "scene_name": "Corinth: Vision and Long Stay", "reference": "18:1-18:11", "why_start_end_and_devices": "Work with Aquila/Priscilla; opposition; Lord’s vision assures protection; 18 months ministry. Devices: tentmaking note, oracle assurance."},
-        {"scene_number": 10, "scene_name": "Gallio’s Judgment", "reference": "18:12-18:17", "why_start_end_and_devices": "Roman refusal to adjudicate intra‑Jewish matter; Sosthenes beaten. Devices: legal precedent, ironic reversal."},
-        {"scene_number": 11, "scene_name": "Concluding the Journey", "reference": "18:18-18:22", "why_start_end_and_devices": "Vow noted; brief stops; ‘gone up’ and returned to Antioch close inclusio. Devices: itinerary compress, inclusio marker."}
+        {
+          "scene_number": 1,
+          "scene_name": "Paul and Barnabas Part",
+          "reference": "15:36-15:41",
+          "why_start_end_and_devices": "A sharp disagreement over Mark; Paul takes Silas."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Timothy Joins",
+          "reference": "16:1-16:5",
+          "why_start_end_and_devices": "Circumcised for the Jews; the churches strengthened daily."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "The Macedonian Call",
+          "reference": "16:6-16:10",
+          "why_start_end_and_devices": "Forbidden in Asia; come over and help us."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "Lydia's Conversion",
+          "reference": "16:11-16:15",
+          "why_start_end_and_devices": "The Lord opened her heart; she prevailed on them to stay."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Slave Girl Delivered",
+          "reference": "16:16-16:19",
+          "why_start_end_and_devices": "A spirit of divination; her owners' hope of gain gone."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Beaten and Imprisoned",
+          "reference": "16:20-16:24",
+          "why_start_end_and_devices": "Thrown into the inner cell, their feet in stocks."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Midnight Earthquake",
+          "reference": "16:25-16:30",
+          "why_start_end_and_devices": "Singing hymns; what must I do to be saved?"
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Jailer Believes",
+          "reference": "16:31-16:34",
+          "why_start_end_and_devices": "Believe in the Lord Jesus; baptized with all his household."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Roman Citizens",
+          "reference": "16:35-16:40",
+          "why_start_end_and_devices": "Let them come themselves; they encouraged the brothers and left."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Thessalonica",
+          "reference": "17:1-17:4",
+          "why_start_end_and_devices": "Reasoning from the Scriptures; some were persuaded."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Mob Attacks Jason",
+          "reference": "17:5-17:9",
+          "why_start_end_and_devices": "These men who have turned the world upside down."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Noble Bereans",
+          "reference": "17:10-17:15",
+          "why_start_end_and_devices": "Examining the Scriptures daily; Paul sent on to Athens."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Provoked at Athens",
+          "reference": "17:16-17:21",
+          "why_start_end_and_devices": "To the Areopagus: what is this babbler trying to say?"
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Unknown God",
+          "reference": "17:22-17:25",
+          "why_start_end_and_devices": "The God who made the world does not live in temples."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'In Him We Live and Move'",
+          "reference": "17:26-17:28",
+          "why_start_end_and_devices": "From one man every nation; we are His offspring."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Repent; the Resurrection",
+          "reference": "17:29-17:34",
+          "why_start_end_and_devices": "A day of judgment fixed; some mocked, some believed."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Corinth: Aquila and Priscilla",
+          "reference": "18:1-18:6",
+          "why_start_end_and_devices": "Tentmakers; 'From now on I will go to the Gentiles.'"
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "'Do Not Be Afraid'",
+          "reference": "18:7-18:11",
+          "why_start_end_and_devices": "The Lord's vision; he stayed a year and six months."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Before Gallio",
+          "reference": "18:12-18:17",
+          "why_start_end_and_devices": "No concern of mine; they beat Sosthenes."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Returning to Antioch",
+          "reference": "18:18-18:22",
+          "why_start_end_and_devices": "A vow at Cenchrea; a brief stop at Ephesus."
+        }
       ]
     },
     {
@@ -103,12 +926,156 @@
       "why_start_end_and_literary_glue": "Start (18:23) strengthening churches through Galatia/Phrygia; end (21:16) arrival in Jerusalem after layered warnings. Glue: Ephesus focus (19), triumph over magic, travel farewell rhythms, and Spirit‑prompted resolve toward Jerusalem.",
       "reference": "18:23 - 21:16",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Apollos and Spirit‑Fullness at Ephesus", "reference": "18:23-19:7", "why_start_end_and_devices": "Apollos instructed by Priscilla/Aquila; Ephesian disciples receive the Spirit with tongues/prophecy. Devices: transitional figure, confirming signs."},
-        {"scene_number": 2, "scene_name": "Power over Magic; Word Prevails", "reference": "19:8-19:20", "why_start_end_and_devices": "Long synagogue/school ministry; failed exorcists exposed; public burning of magic books; word grows. Devices: contrast power, victory summary."},
-        {"scene_number": 3, "scene_name": "The Riot of the Silversmiths", "reference": "19:21-19:41", "why_start_end_and_devices": "Economic threat sparks civic uproar; town clerk dismisses assembly. Devices: mob chant refrain, political de‑escalation."},
-        {"scene_number": 4, "scene_name": "Travels and Eutychus Raised", "reference": "20:1-20:16", "why_start_end_and_devices": "Itinerary compression; late‑night fall and revival of Eutychus; sailing choices avoid delay. Devices: travel ledger, miracle interlude."},
-        {"scene_number": 5, "scene_name": "Miletus Farewell to the Elders", "reference": "20:17-20:38", "why_start_end_and_devices": "Testamentary speech: past service, future wolves, commendation to God; tearful parting. Devices: farewell genre, inclusio of tears."},
-        {"scene_number": 6, "scene_name": "Warnings En Route to Jerusalem", "reference": "21:1-21:16", "why_start_end_and_devices": "Prophetic warnings (Tyre, Agabus) met by Paul’s resolve; lodging set for arrival. Devices: repeated warnings, submission formula (‘The Lord’s will be done’)."}
+        {
+          "scene_number": 1,
+          "scene_name": "Apollos Instructed",
+          "reference": "18:23-18:28",
+          "why_start_end_and_devices": "Eloquent and fervent; Priscilla and Aquila explain the Way."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Ephesian Disciples",
+          "reference": "19:1-19:4",
+          "why_start_end_and_devices": "Did you receive the Spirit? — only John's baptism."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Baptized in Jesus' Name",
+          "reference": "19:5-19:7",
+          "why_start_end_and_devices": "The Spirit came; they spoke in tongues and prophesied."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Hall of Tyrannus",
+          "reference": "19:8-19:12",
+          "why_start_end_and_devices": "Two years of teaching; extraordinary miracles."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Sons of Sceva",
+          "reference": "19:13-19:16",
+          "why_start_end_and_devices": "Jesus I know, and Paul — but who are you?"
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Burning the Scrolls",
+          "reference": "19:17-19:20",
+          "why_start_end_and_devices": "Fear fell; the word of the Lord grew mightily."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Demetrius the Silversmith",
+          "reference": "19:21-19:24",
+          "why_start_end_and_devices": "Paul resolves for Jerusalem; the trade endangered."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "'Great Is Artemis'",
+          "reference": "19:25-19:27",
+          "why_start_end_and_devices": "Our prosperity and the goddess at risk."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "The Riot in the Theater",
+          "reference": "19:28-19:31",
+          "why_start_end_and_devices": "They rushed in; Paul was kept from entering."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Confusion in the Assembly",
+          "reference": "19:32-19:34",
+          "why_start_end_and_devices": "Most did not know why they had come; two hours of shouting."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "The Town Clerk",
+          "reference": "19:35-19:38",
+          "why_start_end_and_devices": "Bring charges in the courts if you have a grievance."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "The Lawful Assembly",
+          "reference": "19:39-19:41",
+          "why_start_end_and_devices": "Risk of being charged with rioting — and he dismissed them."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Through Macedonia and Greece",
+          "reference": "20:1-20:6",
+          "why_start_end_and_devices": "The plot against him; the seven days at Troas."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "Eutychus Raised",
+          "reference": "20:7-20:12",
+          "why_start_end_and_devices": "Fallen from the third floor; taken away alive and comforted."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Sailing Past Ephesus",
+          "reference": "20:13-20:16",
+          "why_start_end_and_devices": "Hastening to be at Jerusalem for Pentecost."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "Farewell to the Elders",
+          "reference": "20:17-20:21",
+          "why_start_end_and_devices": "Serving with humility; declaring repentance and faith."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "'Bound in the Spirit'",
+          "reference": "20:22-20:24",
+          "why_start_end_and_devices": "Imprisonment awaits; only to finish my course with joy."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "'Keep Watch over the Flock'",
+          "reference": "20:25-20:28",
+          "why_start_end_and_devices": "You will see my face no more; the church bought with His blood."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Savage Wolves",
+          "reference": "20:29-20:31",
+          "why_start_end_and_devices": "I did not cease night and day to warn each one with tears."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "'These Hands'",
+          "reference": "20:32-20:35",
+          "why_start_end_and_devices": "More blessed to give than to receive."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "A Tearful Farewell",
+          "reference": "20:36-20:38",
+          "why_start_end_and_devices": "Grieved most that they would see his face no more."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "From Miletus to Tyre",
+          "reference": "21:1-21:6",
+          "why_start_end_and_devices": "The disciples warn through the Spirit; prayer on the beach."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "At Caesarea",
+          "reference": "21:7-21:9",
+          "why_start_end_and_devices": "Philip the evangelist and his four prophesying daughters."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Agabus's Warning",
+          "reference": "21:10-21:14",
+          "why_start_end_and_devices": "Bound like this belt — 'The Lord's will be done.'"
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Up to Jerusalem",
+          "reference": "21:15-21:16",
+          "why_start_end_and_devices": "Lodging with Mnason, an early disciple."
+        }
       ]
     },
     {
@@ -117,19 +1084,337 @@
       "why_start_end_and_literary_glue": "Start (21:17) with Jerusalem arrival leading to arrest/trials; end (28:31) with unhindered preaching in Rome. Glue: serial defenses centered on the resurrection, divine ‘must’/assurance (23:11), and providential protection culminating in Rome.",
       "reference": "21:17 - 28:31",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Advice from James; Paul Arrested", "reference": "21:17-21:36", "why_start_end_and_devices": "Purification advice followed by temple accusation and riot; Roman rescue. Devices: irony (compromise→riot), echo of ‘Away with him!’"},
-        {"scene_number": 2, "scene_name": "Testimony to the Crowd", "reference": "21:37-22:21", "why_start_end_and_devices": "Hebrew address recounts conversion/commission; mention of Gentiles triggers fury. Devices: code‑switching, commission climax."},
-        {"scene_number": 3, "scene_name": "Citizenship Averts Scourging", "reference": "22:22-22:30", "why_start_end_and_devices": "Roman citizenship halts torture; case referred to the council. Devices: legal status reveal, procedural shift."},
-        {"scene_number": 4, "scene_name": "Before the Sanhedrin; Divine Assurance", "reference": "23:1-23:11", "why_start_end_and_devices": "Council divided Pharisees/Sadducees; night vision promises Rome. Devices: partisan division tactic, reassurance oracle."},
-        {"scene_number": 5, "scene_name": "Conspiracy and Transfer to Caesarea", "reference": "23:12-23:35", "why_start_end_and_devices": "Assassination plot foiled by nephew; escorted to Felix with letter. Devices: providential disclosure, official correspondence."},
-        {"scene_number": 6, "scene_name": "Trial Before Felix", "reference": "24:1-24:23", "why_start_end_and_devices": "Tertullus’s flattery vs Paul’s clear defense; delay with light custody. Devices: forensic rhetoric, adjournment."},
-        {"scene_number": 7, "scene_name": "Felix and Drusilla Hear Paul", "reference": "24:24-24:27", "why_start_end_and_devices": "Reasoning on righteousness, self‑control, judgment; Felix trembles then stalls; two‑year delay. Devices: tailored exhortation, moral hesitation."},
-        {"scene_number": 8, "scene_name": "Before Festus; Appeal to Caesar", "reference": "25:1-25:12", "why_start_end_and_devices": "Jews press charges; Paul asserts innocence and appeals to Caesar. Devices: jurisdictional move, legal pivot."},
-        {"scene_number": 9, "scene_name": "Before Agrippa: Grand Testimony", "reference": "25:13-26:32", "why_start_end_and_devices": "Conversion/commission retold; nearly persuades Agrippa; verdict: could be freed but for appeal. Devices: royal audience, persuasive climax."},
-        {"scene_number": 10, "scene_name": "Voyage and Shipwreck; Malta", "reference": "27:1-28:10", "why_start_end_and_devices": "Prophetic counsel ignored; storm; angel assures all will live; shipwreck survival; healings in Malta. Devices: nautical ‘we’ detail, prophecy fulfilled."},
-        {"scene_number": 11, "scene_name": "Rome: Final Witness and Unhindered Word", "reference": "28:11-28:31", "why_start_end_and_devices": "Jewish leaders hear; Isaiah 6 cited; two years preaching without hindrance. Devices: Isaiah citation, open‑ended summary."}
+        {
+          "scene_number": 1,
+          "scene_name": "Advice from James",
+          "reference": "21:17-21:22",
+          "why_start_end_and_devices": "Zealous for the law; they will hear that you have come."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Purification Vow",
+          "reference": "21:23-21:26",
+          "why_start_end_and_devices": "Take these four men and pay their expenses."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Seized in the Temple",
+          "reference": "21:27-21:30",
+          "why_start_end_and_devices": "The Asian Jews stir the crowd; the gates were shut."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Commander Intervenes",
+          "reference": "21:31-21:36",
+          "why_start_end_and_devices": "Away with him! — carried along by the soldiers."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'Are You the Egyptian?'",
+          "reference": "21:37-21:40",
+          "why_start_end_and_devices": "Paul asks to speak, and addresses them in Hebrew."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Paul's Defense Begins",
+          "reference": "22:1-22:5",
+          "why_start_end_and_devices": "Brought up at Gamaliel's feet; he persecuted the Way."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Damascus Light",
+          "reference": "22:6-22:11",
+          "why_start_end_and_devices": "Who are You, Lord? — led by the hand into the city."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Ananias's Words",
+          "reference": "22:12-22:16",
+          "why_start_end_and_devices": "Be baptized and wash away your sins, calling on His name."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Sent to the Gentiles",
+          "reference": "22:17-22:21",
+          "why_start_end_and_devices": "A trance in the temple: 'I will send you far away.'"
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "The Crowd Erupts",
+          "reference": "22:22-22:24",
+          "why_start_end_and_devices": "Away with him! — ordered to be examined by scourging."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "A Roman Citizen",
+          "reference": "22:25-22:30",
+          "why_start_end_and_devices": "Is it lawful to scourge a Roman? — the commander was afraid."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Before the Sanhedrin",
+          "reference": "23:1-23:5",
+          "why_start_end_and_devices": "Struck on the mouth; a whitewashed wall."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Pharisees and Sadducees Divided",
+          "reference": "23:6-23:11",
+          "why_start_end_and_devices": "On trial for the resurrection; take courage."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Plot to Kill Paul",
+          "reference": "23:12-23:15",
+          "why_start_end_and_devices": "Forty men bound under an oath to ambush him."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Paul's Nephew Hears",
+          "reference": "23:16-23:19",
+          "why_start_end_and_devices": "The commander takes the young man aside privately."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "The Ambush Revealed",
+          "reference": "23:20-23:22",
+          "why_start_end_and_devices": "Do not yield to them — tell no one that you reported this."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Transferred by Night",
+          "reference": "23:23-23:25",
+          "why_start_end_and_devices": "Two hundred soldiers; a letter written."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "The Letter to Felix",
+          "reference": "23:26-23:30",
+          "why_start_end_and_devices": "Claudius Lysias rescued him as a Roman citizen."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "Before Felix",
+          "reference": "23:31-23:35",
+          "why_start_end_and_devices": "Kept under guard in Herod's praetorium."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "Tertullus's Flattery",
+          "reference": "24:1-24:4",
+          "why_start_end_and_devices": "The orator opens the prosecution before Felix."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "'A Ringleader of the Nazarenes'",
+          "reference": "24:5-24:9",
+          "why_start_end_and_devices": "A plague and an agitator who profaned the temple."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "'They Cannot Prove It'",
+          "reference": "24:10-24:13",
+          "why_start_end_and_devices": "I worship the God of our fathers; no proof against me."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "According to the Way",
+          "reference": "24:14-24:16",
+          "why_start_end_and_devices": "Believing all the Law and Prophets; a clear conscience."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "'For the Resurrection'",
+          "reference": "24:17-24:21",
+          "why_start_end_and_devices": "Found purified, not stirring a crowd; this one charge."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Felix Adjourns",
+          "reference": "24:22-24:23",
+          "why_start_end_and_devices": "Some freedom granted to Paul, with access to friends."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "Felix Trembles",
+          "reference": "24:24-24:27",
+          "why_start_end_and_devices": "Righteousness and judgment; left in prison two years."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Festus and the Plot",
+          "reference": "25:1-25:5",
+          "why_start_end_and_devices": "Let them accuse him at Caesarea, not by ambush."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "Charges They Could Not Prove",
+          "reference": "25:6-25:9",
+          "why_start_end_and_devices": "Will you go up to Jerusalem to be tried before me?"
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "'I Appeal to Caesar'",
+          "reference": "25:10-25:12",
+          "why_start_end_and_devices": "To Caesar you have appealed; to Caesar you will go."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Festus Consults Agrippa",
+          "reference": "25:13-25:17",
+          "why_start_end_and_devices": "A man left a prisoner; brought face-to-face with accusers."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "'About Their Religion and Jesus'",
+          "reference": "25:18-25:22",
+          "why_start_end_and_devices": "I would like to hear the man myself — tomorrow."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "Agrippa Hears the Case",
+          "reference": "25:23-25:27",
+          "why_start_end_and_devices": "No charge to write to the emperor."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "Paul Before Agrippa",
+          "reference": "26:1-26:5",
+          "why_start_end_and_devices": "A Pharisee, by the strictest sect, from his youth."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "Once a Persecutor",
+          "reference": "26:6-26:11",
+          "why_start_end_and_devices": "I cast my vote against them in raging fury."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "The Heavenly Vision",
+          "reference": "26:12-26:15",
+          "why_start_end_and_devices": "It is hard to kick against the goads."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "'A Servant and Witness'",
+          "reference": "26:16-26:18",
+          "why_start_end_and_devices": "To open their eyes and turn them from darkness to light."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Not Disobedient to the Vision",
+          "reference": "26:19-26:23",
+          "why_start_end_and_devices": "The Christ must suffer and be the first to rise."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "'Almost Persuaded'",
+          "reference": "26:24-26:29",
+          "why_start_end_and_devices": "You are out of your mind — except for these chains."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Innocent",
+          "reference": "26:30-26:32",
+          "why_start_end_and_devices": "He could have been freed had he not appealed to Caesar."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "The Voyage Begins",
+          "reference": "27:1-27:4",
+          "why_start_end_and_devices": "Julius the centurion; sailing under the lee of Cyprus."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "To Fair Havens",
+          "reference": "27:5-27:8",
+          "why_start_end_and_devices": "Slow sailing; the harbor near Lasea."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Paul's Warning Ignored",
+          "reference": "27:9-27:12",
+          "why_start_end_and_devices": "Loss of ship and lives foreseen; the harbor unsuitable."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "The Northeaster Strikes",
+          "reference": "27:13-27:16",
+          "why_start_end_and_devices": "A tempestuous wind; the ship caught and driven."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "All Hope Abandoned",
+          "reference": "27:17-27:20",
+          "why_start_end_and_devices": "Jettisoning the cargo; neither sun nor stars for days."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "'Take Heart'",
+          "reference": "27:21-27:26",
+          "why_start_end_and_devices": "An angel stood by me; I must stand before Caesar."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "The Fourteenth Night",
+          "reference": "27:27-27:32",
+          "why_start_end_and_devices": "Soundings; the sailors' plot foiled."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "'Take Some Food'",
+          "reference": "27:33-27:38",
+          "why_start_end_and_devices": "Not a hair will perish; they lightened the ship."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Shipwreck on Malta",
+          "reference": "27:39-27:44",
+          "why_start_end_and_devices": "They ran aground; all reached land safely."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "The Viper on Malta",
+          "reference": "28:1-28:6",
+          "why_start_end_and_devices": "He shook it into the fire; they said he was a god."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Publius's Father Healed",
+          "reference": "28:7-28:10",
+          "why_start_end_and_devices": "Many cures; they honored us greatly and provisioned us."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "Arrival in Rome",
+          "reference": "28:11-28:16",
+          "why_start_end_and_devices": "The brothers met us; Paul allowed to stay by himself."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "Paul Meets the Jewish Leaders",
+          "reference": "28:17-28:22",
+          "why_start_end_and_devices": "For the hope of Israel; this sect spoken against everywhere."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "Testifying Morning to Evening",
+          "reference": "28:23-28:25",
+          "why_start_end_and_devices": "From the Law and Prophets; the Holy Spirit was right."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Isaiah's Warning; To the Gentiles",
+          "reference": "28:26-28:29",
+          "why_start_end_and_devices": "Hearing they will not understand; the Gentiles will listen."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "Unhindered",
+          "reference": "28:30-28:31",
+          "why_start_end_and_devices": "Two whole years proclaiming the kingdom with all boldness."
+        }
       ]
     }
   ]
 }
-
