@@ -10,9 +10,30 @@
       "why_start_end_and_literary_glue": "Poetic overture establishing Logos, life, light, witness, and incarnation; concludes with the unique Son making God known. Start (1:1) ‘In the beginning…’; End (1:18) ‘he has made him known.’ Glue: concentric structure centered on 1:14, repeated motifs (light/life/witness/glory).",
       "reference": "1:1 - 1:18",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Cosmic Word and the Light", "reference": "1:1-1:5", "why_start_end_and_devices": "Genesis allusion stakes preexistence; light/darkness antithesis; creative agency repeated."},
-        {"scene_number": 2, "scene_name": "Historical Witness and Reception", "reference": "1:6-1:13", "why_start_end_and_devices": "John sent as witness; light rejected yet received by children born of God. Devices: testimony vs reception contrast."},
-        {"scene_number": 3, "scene_name": "Incarnation and Fullness", "reference": "1:14-1:18", "why_start_end_and_devices": "Word ‘tabernacled’ among us; grace in place of grace; Son makes Father known. Devices: glory motif, Moses vs grace/truth contrast."}
+        {
+          "scene_number": 1,
+          "scene_name": "Cosmic Word and the Light",
+          "reference": "1:1-1:5",
+          "why_start_end_and_devices": "In the beginning was the Word; the light shines in the darkness."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "The Witness John",
+          "reference": "1:6-1:9",
+          "why_start_end_and_devices": "A man sent to testify; the true Light coming into the world."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Children of God",
+          "reference": "1:10-1:13",
+          "why_start_end_and_devices": "His own did not receive Him; to those who believed, the right to become God's children."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The Word Made Flesh",
+          "reference": "1:14-1:18",
+          "why_start_end_and_devices": "We have seen His glory; grace and truth through Jesus Christ."
+        }
       ]
     },
     {
@@ -21,30 +42,750 @@
       "why_start_end_and_literary_glue": "Witness→sign→discourse pattern that escalates belief/unbelief, moving from Jordan/Cana to Jerusalem; ends with summary of Israel’s unbelief and Jesus’ final public words. Start (1:19): John’s testimony; End (12:50): final public declaration. Glue: sēmeia with explanatory dialogues, ‘the Jews’ as opposition shorthand, and festival settings.",
       "reference": "1:19 - 12:50",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Delegation Questions John", "reference": "1:19-1:28", "why_start_end_and_devices": "Negative self‑definitions set stage; Bethany across the Jordan marks locale."},
-        {"scene_number": 2, "scene_name": "Behold, the Lamb of God", "reference": "1:29-1:34", "why_start_end_and_devices": "Titles: Lamb of God/Son of God; eyewitness ‘I have seen’ grounds testimony."},
-        {"scene_number": 3, "scene_name": "First Disciples Gather", "reference": "1:35-1:51", "why_start_end_and_devices": "Title crescendo (Rabbi→Messiah→King→Son of Man); Jacob’s ladder allusion promises greater revelation."},
-        {"scene_number": 4, "scene_name": "Sign 1: Water to Wine (Cana)", "reference": "2:1-2:12", "why_start_end_and_devices": "Purification jars become wine; glory manifested, disciples believe; summary move to Capernaum."},
-        {"scene_number": 5, "scene_name": "Temple Cleansing and Sign Saying", "reference": "2:13-2:22", "why_start_end_and_devices": "Passover setting; body‑temple double entendre; post‑resurrection understanding noted."},
-        {"scene_number": 6, "scene_name": "Nicodemus by Night", "reference": "3:1-3:21", "why_start_end_and_devices": "Anōthen double sense; new birth by Spirit; Son lifted up for life; light judgment motif."},
-        {"scene_number": 7, "scene_name": "John’s Final Witness: He Must Increase", "reference": "3:22-3:36", "why_start_end_and_devices": "Heaven‑from‑above vs earth‑from‑below; wrath abides vs life for believers."},
-        {"scene_number": 8, "scene_name": "Samaritan Woman and True Worship", "reference": "4:1-4:42", "why_start_end_and_devices": "Living water double entendre; revelation ‘I am he’; harvest saying; many believe by word."},
-        {"scene_number": 9, "scene_name": "Sign 2: Official’s Son", "reference": "4:46-4:54", "why_start_end_and_devices": "Distance healing; ‘your son lives’; faith develops from sign to word."},
-        {"scene_number": 10, "scene_name": "Sign 3: Bethesda and Sabbath Controversy", "reference": "5:1-5:18", "why_start_end_and_devices": "Healing triggers charge; equality with God intensifies conflict."},
-        {"scene_number": 11, "scene_name": "Son and the Father Discourse", "reference": "5:19-5:47", "why_start_end_and_devices": "Authority to give life/judge; witnesses marshaled (John, works, Father, Scriptures, Moses)."},
-        {"scene_number": 12, "scene_name": "Sign 4: Feeding the 5000", "reference": "6:1-6:15", "why_start_end_and_devices": "Passover backdrop; abundance sign leads to king‑by‑force impulse."},
-        {"scene_number": 13, "scene_name": "Walking on the Sea", "reference": "6:16-6:21", "why_start_end_and_devices": "‘It is I’ (egō eimi) epiphany; immediate arrival motif."},
-        {"scene_number": 14, "scene_name": "Bread of Life Discourse and Division", "reference": "6:22-6:71", "why_start_end_and_devices": "Work of God = believe; eating flesh/drinking blood offense; many withdraw; Peter’s confession of the Holy One."},
-        {"scene_number": 15, "scene_name": "Tabernacles: Teaching and Division", "reference": "7:1-7:52", "why_start_end_and_devices": "Timing/‘my hour’; living water on last great day; officers report ‘no one ever spoke like this.’"},
-        {"scene_number": 16, "scene_name": "Light of the World and ‘Before Abraham, I AM’", "reference": "8:12-8:59", "why_start_end_and_devices": "Witness standards; freedom/sonship debate; climactic egō eimi provokes stoning."},
-        {"scene_number": 17, "scene_name": "Sign 5: Man Born Blind and Forensic Hearing", "reference": "9:1-9:41", "why_start_end_and_devices": "Siloam sent; progressive sight/belief vs Pharisaic blindness; judgment saying."},
-        {"scene_number": 18, "scene_name": "Good Shepherd Discourse", "reference": "10:1-10:21", "why_start_end_and_devices": "Door/shepherd metaphors; lay down life/take it up; division renewed."},
-        {"scene_number": 19, "scene_name": "Dedication: I and the Father Are One", "reference": "10:22-10:42", "why_start_end_and_devices": "Works as witness; Psalm 82 argument; beyond Jordan withdrawal."},
-        {"scene_number": 20, "scene_name": "Sign 6: Raising Lazarus", "reference": "11:1-11:44", "why_start_end_and_devices": "I AM the resurrection and the life; glory through love and delay; belief commanded."},
-        {"scene_number": 21, "scene_name": "Sanhedrin Plot and Passover Timing", "reference": "11:45-11:57", "why_start_end_and_devices": "Caiaphas’ irony: one man dies for the nation; hour converges."},
-        {"scene_number": 22, "scene_name": "Anointing at Bethany", "reference": "12:1-12:8", "why_start_end_and_devices": "Fragrance fills house; value reversal vs Judas; burial preparation."},
-        {"scene_number": 23, "scene_name": "Entry and Greeks Seek Jesus", "reference": "12:12-12:36", "why_start_end_and_devices": "Donkey sign; seed that dies to bear fruit; ‘lifted up’ indicates death; walk while you have the light."},
-        {"scene_number": 24, "scene_name": "Unbelief Summary and Final Public Words", "reference": "12:37-12:50", "why_start_end_and_devices": "Isaiah unbelief citation; mission recap; commandment is eternal life."}
+        {
+          "scene_number": 1,
+          "scene_name": "John's Testimony",
+          "reference": "1:19-1:23",
+          "why_start_end_and_devices": "Who are you? — a voice crying in the wilderness."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Why Do You Baptize?",
+          "reference": "1:24-1:28",
+          "why_start_end_and_devices": "One stands among you whom you do not know; at Bethany beyond the Jordan."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "Behold, the Lamb of God",
+          "reference": "1:29-1:34",
+          "why_start_end_and_devices": "I saw the Spirit descend; this is the Son of God."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "The First Disciples",
+          "reference": "1:35-1:39",
+          "why_start_end_and_devices": "What do you seek? — Come and you will see."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "Andrew Brings Peter",
+          "reference": "1:40-1:42",
+          "why_start_end_and_devices": "We have found the Messiah; you will be called Cephas."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Philip and Nathanael",
+          "reference": "1:43-1:46",
+          "why_start_end_and_devices": "Can anything good come from Nazareth? — Come and see."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "Nathanael's Confession",
+          "reference": "1:47-1:51",
+          "why_start_end_and_devices": "You are the Son of God; you will see heaven opened."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "The Wedding at Cana",
+          "reference": "2:1-2:5",
+          "why_start_end_and_devices": "They have no wine; My hour has not yet come."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "Water into Wine",
+          "reference": "2:6-2:11",
+          "why_start_end_and_devices": "The good wine kept until now; the first of His signs."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "Cleansing the Temple",
+          "reference": "2:12-2:17",
+          "why_start_end_and_devices": "Zeal for Your house; a marketplace driven out."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "'Destroy This Temple'",
+          "reference": "2:18-2:22",
+          "why_start_end_and_devices": "In three days I will raise it — the temple of His body."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "He Knew What Was in Man",
+          "reference": "2:23-2:25",
+          "why_start_end_and_devices": "Many believed at the signs, but Jesus did not entrust Himself to them."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "Nicodemus by Night",
+          "reference": "3:1-3:6",
+          "why_start_end_and_devices": "Unless one is born again; born of water and the Spirit."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "The Wind of the Spirit",
+          "reference": "3:7-3:10",
+          "why_start_end_and_devices": "The wind blows where it wishes; are you Israel's teacher?"
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "Heavenly Things",
+          "reference": "3:11-3:13",
+          "why_start_end_and_devices": "No one has ascended except the Son of Man who descended."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "God So Loved the World",
+          "reference": "3:14-3:18",
+          "why_start_end_and_devices": "As Moses lifted the serpent; whoever believes is not condemned."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "Light and Darkness",
+          "reference": "3:19-3:21",
+          "why_start_end_and_devices": "Men loved the darkness; the one who lives by truth comes to the light."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "A Question of Purifying",
+          "reference": "3:22-3:26",
+          "why_start_end_and_devices": "John still baptizing; a dispute over purification."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "'He Must Increase'",
+          "reference": "3:27-3:30",
+          "why_start_end_and_devices": "The friend of the bridegroom rejoices; I must decrease."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The One from Above",
+          "reference": "3:31-3:36",
+          "why_start_end_and_devices": "Whoever believes in the Son has eternal life."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "Through Samaria",
+          "reference": "4:1-4:6",
+          "why_start_end_and_devices": "Wearied at Jacob's well about the sixth hour."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "Give Me a Drink",
+          "reference": "4:7-4:10",
+          "why_start_end_and_devices": "If you knew the gift of God, you would ask for living water."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "A Spring Welling Up",
+          "reference": "4:11-4:14",
+          "why_start_end_and_devices": "The well is deep — the water I give wells up to eternal life."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "'You Have No Husband'",
+          "reference": "4:15-4:19",
+          "why_start_end_and_devices": "Go call your husband; you have had five — Sir, You are a prophet."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "Worship in Spirit and Truth",
+          "reference": "4:20-4:24",
+          "why_start_end_and_devices": "Neither on this mountain nor in Jerusalem; the Father seeks such worshipers."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "'I Am He'",
+          "reference": "4:25-4:26",
+          "why_start_end_and_devices": "The Messiah is coming — I who speak to you am He."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "The Woman's Witness",
+          "reference": "4:27-4:30",
+          "why_start_end_and_devices": "She left her water jar: come, see a man who told me everything."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "'My Food'",
+          "reference": "4:31-4:34",
+          "why_start_end_and_devices": "My food is to do the will of Him who sent Me."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "Fields White for Harvest",
+          "reference": "4:35-4:38",
+          "why_start_end_and_devices": "The reaper and the sower rejoice together."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "Savior of the World",
+          "reference": "4:39-4:42",
+          "why_start_end_and_devices": "Many Samaritans believed; we have heard for ourselves."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "Into Galilee",
+          "reference": "4:43-4:45",
+          "why_start_end_and_devices": "A prophet has no honor in his own country; the Galileans welcomed Him."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "The Official's Son",
+          "reference": "4:46-4:50",
+          "why_start_end_and_devices": "Come before my child dies — Go; your son will live."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "The Fever Left at That Hour",
+          "reference": "4:51-4:54",
+          "why_start_end_and_devices": "The second sign, when He came from Judea to Galilee."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "The Pool of Bethesda",
+          "reference": "5:1-5:5",
+          "why_start_end_and_devices": "A man invalid for thirty-eight years among the multitude."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "'Take Up Your Mat'",
+          "reference": "5:6-5:9",
+          "why_start_end_and_devices": "Do you want to be well? — and that day was the Sabbath."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "'It Is the Sabbath'",
+          "reference": "5:10-5:13",
+          "why_start_end_and_devices": "Who told you to carry your mat? — Jesus had slipped away."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "Making Himself Equal with God",
+          "reference": "5:14-5:18",
+          "why_start_end_and_devices": "Sin no more; My Father is working — they sought all the more to kill Him."
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "The Son Does What the Father Does",
+          "reference": "5:19-5:24",
+          "why_start_end_and_devices": "Whoever hears My word has eternal life and has passed from death to life."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "The Voice That Raises the Dead",
+          "reference": "5:25-5:29",
+          "why_start_end_and_devices": "The resurrection of life and the resurrection of judgment."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "The Witness of John",
+          "reference": "5:30-5:35",
+          "why_start_end_and_devices": "A burning and shining lamp in whom you rejoiced for a while."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "The Witness of Works and Scripture",
+          "reference": "5:36-5:40",
+          "why_start_end_and_devices": "You search the Scriptures, yet refuse to come to Me for life."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Glory from One Another",
+          "reference": "5:41-5:44",
+          "why_start_end_and_devices": "How can you believe while accepting glory from one another?"
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "Moses Accuses You",
+          "reference": "5:45-5:47",
+          "why_start_end_and_devices": "If you believed Moses, you would believe Me."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "Where Shall We Buy Bread?",
+          "reference": "6:1-6:6",
+          "why_start_end_and_devices": "A great crowd; He said this to test Philip."
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Five Loaves and Two Fish",
+          "reference": "6:7-6:10",
+          "why_start_end_and_devices": "Two hundred denarii would not suffice; have the people sit down."
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "Twelve Baskets Left Over",
+          "reference": "6:11-6:13",
+          "why_start_end_and_devices": "He gave thanks; gather the fragments so nothing is lost."
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "They Would Make Him King",
+          "reference": "6:14-6:15",
+          "why_start_end_and_devices": "He withdrew again to the mountain by Himself."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "Walking on the Sea",
+          "reference": "6:16-6:21",
+          "why_start_end_and_devices": "It is I; do not be afraid — and the boat reached the shore."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "Food That Endures",
+          "reference": "6:22-6:27",
+          "why_start_end_and_devices": "You seek Me because you ate the loaves; work for eternal food."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "The Work of God",
+          "reference": "6:28-6:31",
+          "why_start_end_and_devices": "Believe in the One He sent; our fathers ate manna."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "The True Bread from Heaven",
+          "reference": "6:32-6:34",
+          "why_start_end_and_devices": "My Father gives the true bread — Lord, give us this bread always."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "'I Am the Bread of Life'",
+          "reference": "6:35-6:40",
+          "why_start_end_and_devices": "Whoever comes to Me will never hunger; I will raise him up."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "The Jews Grumble",
+          "reference": "6:41-6:46",
+          "why_start_end_and_devices": "No one can come unless the Father draws him."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "Living Bread; My Flesh",
+          "reference": "6:47-6:51",
+          "why_start_end_and_devices": "The bread I give for the life of the world is My flesh."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "'Eat My Flesh, Drink My Blood'",
+          "reference": "6:52-6:55",
+          "why_start_end_and_devices": "My flesh is true food and My blood is true drink."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "Abide in Me",
+          "reference": "6:56-6:59",
+          "why_start_end_and_devices": "Whoever feeds on Me will live; He said this in the synagogue."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "A Hard Teaching",
+          "reference": "6:60-6:65",
+          "why_start_end_and_devices": "The Spirit gives life; some of you do not believe."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "'To Whom Shall We Go?'",
+          "reference": "6:66-6:71",
+          "why_start_end_and_devices": "You have the words of eternal life — yet one of you is a devil."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "His Brothers' Challenge",
+          "reference": "7:1-7:5",
+          "why_start_end_and_devices": "Show Yourself to the world — even His brothers did not believe."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "'My Time Has Not Yet Come'",
+          "reference": "7:6-7:9",
+          "why_start_end_and_devices": "The world hates Me because I testify its works are evil."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "Secretly to the Feast",
+          "reference": "7:10-7:13",
+          "why_start_end_and_devices": "Muttering in the crowds, for fear of the Jews."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "'My Teaching Is Not Mine'",
+          "reference": "7:14-7:18",
+          "why_start_end_and_devices": "Whoever seeks the glory of the One who sent Him is true."
+        },
+        {
+          "scene_number": 63,
+          "scene_name": "Moses and the Sabbath",
+          "reference": "7:19-7:24",
+          "why_start_end_and_devices": "Stop judging by appearances; judge with righteous judgment."
+        },
+        {
+          "scene_number": 64,
+          "scene_name": "'Is This the Christ?'",
+          "reference": "7:25-7:29",
+          "why_start_end_and_devices": "You know Me and where I am from; I am from Him who sent Me."
+        },
+        {
+          "scene_number": 65,
+          "scene_name": "Seeking to Seize Him",
+          "reference": "7:30-7:32",
+          "why_start_end_and_devices": "His hour had not yet come; the Pharisees send officers."
+        },
+        {
+          "scene_number": 66,
+          "scene_name": "'Where I Am You Cannot Come'",
+          "reference": "7:33-7:36",
+          "why_start_end_and_devices": "A little while longer; where will He go that we cannot find Him?"
+        },
+        {
+          "scene_number": 67,
+          "scene_name": "Rivers of Living Water",
+          "reference": "7:37-7:39",
+          "why_start_end_and_devices": "Let the thirsty come — this He said about the Spirit."
+        },
+        {
+          "scene_number": 68,
+          "scene_name": "Division over Jesus",
+          "reference": "7:40-7:44",
+          "why_start_end_and_devices": "Does the Christ come from Galilee? — a division in the crowd."
+        },
+        {
+          "scene_number": 69,
+          "scene_name": "'No One Ever Spoke Like This'",
+          "reference": "7:45-7:49",
+          "why_start_end_and_devices": "The officers return empty-handed; this accursed crowd."
+        },
+        {
+          "scene_number": 70,
+          "scene_name": "Nicodemus Objects",
+          "reference": "7:50-7:52",
+          "why_start_end_and_devices": "Does our law judge a man before hearing him? Search and see."
+        },
+        {
+          "scene_number": 71,
+          "scene_name": "The Woman Caught in Adultery",
+          "reference": "7:53-8:5",
+          "why_start_end_and_devices": "Moses commanded stoning — what do You say?"
+        },
+        {
+          "scene_number": 72,
+          "scene_name": "'Let Him Cast the First Stone'",
+          "reference": "8:6-8:11",
+          "why_start_end_and_devices": "One by one they left; neither do I condemn you — sin no more."
+        },
+        {
+          "scene_number": 73,
+          "scene_name": "'I Am the Light of the World'",
+          "reference": "8:12-8:14",
+          "why_start_end_and_devices": "Whoever follows Me will have the light of life."
+        },
+        {
+          "scene_number": 74,
+          "scene_name": "Two Witnesses",
+          "reference": "8:15-8:18",
+          "why_start_end_and_devices": "I and the Father who sent Me both testify."
+        },
+        {
+          "scene_number": 75,
+          "scene_name": "'You Will Die in Your Sins'",
+          "reference": "8:19-8:24",
+          "why_start_end_and_devices": "Where is Your Father? — unless you believe that I am He."
+        },
+        {
+          "scene_number": 76,
+          "scene_name": "'The One Who Sent Me'",
+          "reference": "8:25-8:30",
+          "why_start_end_and_devices": "When you have lifted up the Son of Man; many believed in Him."
+        },
+        {
+          "scene_number": 77,
+          "scene_name": "The Truth Will Set You Free",
+          "reference": "8:31-8:36",
+          "why_start_end_and_devices": "If the Son sets you free, you will be free indeed."
+        },
+        {
+          "scene_number": 78,
+          "scene_name": "'You Do What Your Father Does'",
+          "reference": "8:37-8:41",
+          "why_start_end_and_devices": "Abraham's offspring, yet you seek to kill Me."
+        },
+        {
+          "scene_number": 79,
+          "scene_name": "'Your Father the Devil'",
+          "reference": "8:42-8:47",
+          "why_start_end_and_devices": "A murderer and a liar from the beginning; the father of lies."
+        },
+        {
+          "scene_number": 80,
+          "scene_name": "'Are You Greater Than Abraham?'",
+          "reference": "8:48-8:53",
+          "why_start_end_and_devices": "You have a demon — whoever keeps My word will never see death."
+        },
+        {
+          "scene_number": 81,
+          "scene_name": "'Before Abraham Was, I Am'",
+          "reference": "8:54-8:59",
+          "why_start_end_and_devices": "They picked up stones, but Jesus hid Himself."
+        },
+        {
+          "scene_number": 82,
+          "scene_name": "Born Blind: Whose Sin?",
+          "reference": "9:1-9:5",
+          "why_start_end_and_devices": "That the works of God might be displayed in him."
+        },
+        {
+          "scene_number": 83,
+          "scene_name": "Mud and Siloam",
+          "reference": "9:6-9:9",
+          "why_start_end_and_devices": "He anointed his eyes; go wash — and he came back seeing."
+        },
+        {
+          "scene_number": 84,
+          "scene_name": "'How Were Your Eyes Opened?'",
+          "reference": "9:10-9:12",
+          "why_start_end_and_devices": "The man Jesus made mud; I do not know where He is."
+        },
+        {
+          "scene_number": 85,
+          "scene_name": "The Pharisees Question Him",
+          "reference": "9:13-9:17",
+          "why_start_end_and_devices": "It was the Sabbath — He is a prophet."
+        },
+        {
+          "scene_number": 86,
+          "scene_name": "His Parents Questioned",
+          "reference": "9:18-9:23",
+          "why_start_end_and_devices": "Ask him; he is of age — for they feared the Jews."
+        },
+        {
+          "scene_number": 87,
+          "scene_name": "'One Thing I Know'",
+          "reference": "9:24-9:29",
+          "why_start_end_and_devices": "I was blind, now I see — you are His disciple, we follow Moses."
+        },
+        {
+          "scene_number": 88,
+          "scene_name": "Cast Out of the Synagogue",
+          "reference": "9:30-9:34",
+          "why_start_end_and_devices": "Never has it been heard; you were born in utter sin."
+        },
+        {
+          "scene_number": 89,
+          "scene_name": "'Do You Believe in the Son of Man?'",
+          "reference": "9:35-9:38",
+          "why_start_end_and_devices": "Lord, I believe — and he worshiped Him."
+        },
+        {
+          "scene_number": 90,
+          "scene_name": "Spiritual Blindness",
+          "reference": "9:39-9:41",
+          "why_start_end_and_devices": "For judgment I came; your guilt remains because you claim to see."
+        },
+        {
+          "scene_number": 91,
+          "scene_name": "The Shepherd and the Sheepfold",
+          "reference": "10:1-10:6",
+          "why_start_end_and_devices": "The sheep follow because they know his voice."
+        },
+        {
+          "scene_number": 92,
+          "scene_name": "'I Am the Door'",
+          "reference": "10:7-10:10",
+          "why_start_end_and_devices": "I came that they may have life and have it abundantly."
+        },
+        {
+          "scene_number": 93,
+          "scene_name": "The Good Shepherd",
+          "reference": "10:11-10:15",
+          "why_start_end_and_devices": "I lay down My life for the sheep; I know My own."
+        },
+        {
+          "scene_number": 94,
+          "scene_name": "Other Sheep; Division Again",
+          "reference": "10:16-10:21",
+          "why_start_end_and_devices": "One flock, one Shepherd — is He mad, or not?"
+        },
+        {
+          "scene_number": 95,
+          "scene_name": "At the Feast of Dedication",
+          "reference": "10:22-10:26",
+          "why_start_end_and_devices": "If You are the Christ, tell us plainly — you do not believe."
+        },
+        {
+          "scene_number": 96,
+          "scene_name": "'I and the Father Are One'",
+          "reference": "10:27-10:30",
+          "why_start_end_and_devices": "My sheep hear My voice; no one snatches them from My hand."
+        },
+        {
+          "scene_number": 97,
+          "scene_name": "'You Make Yourself God'",
+          "reference": "10:31-10:36",
+          "why_start_end_and_devices": "Scripture cannot be broken — the One the Father sanctified."
+        },
+        {
+          "scene_number": 98,
+          "scene_name": "Believe the Works",
+          "reference": "10:37-10:42",
+          "why_start_end_and_devices": "He escaped, and many beyond the Jordan believed in Him."
+        },
+        {
+          "scene_number": 99,
+          "scene_name": "Lazarus Is Ill",
+          "reference": "11:1-11:6",
+          "why_start_end_and_devices": "The one You love is sick — yet He stayed two more days."
+        },
+        {
+          "scene_number": 100,
+          "scene_name": "'Let Us Go to Judea'",
+          "reference": "11:7-11:11",
+          "why_start_end_and_devices": "Our friend Lazarus has fallen asleep; I go to wake him."
+        },
+        {
+          "scene_number": 101,
+          "scene_name": "'Let Us Also Go to Die'",
+          "reference": "11:12-11:16",
+          "why_start_end_and_devices": "Lazarus is dead — Thomas to the disciples."
+        },
+        {
+          "scene_number": 102,
+          "scene_name": "Martha Meets Jesus",
+          "reference": "11:17-11:22",
+          "why_start_end_and_devices": "Four days in the tomb; if You had been here."
+        },
+        {
+          "scene_number": 103,
+          "scene_name": "'I Am the Resurrection'",
+          "reference": "11:23-11:27",
+          "why_start_end_and_devices": "Do you believe this? — You are the Christ, the Son of God."
+        },
+        {
+          "scene_number": 104,
+          "scene_name": "Mary Comes to Him",
+          "reference": "11:28-11:32",
+          "why_start_end_and_devices": "She fell at His feet: if You had been here, my brother would not have died."
+        },
+        {
+          "scene_number": 105,
+          "scene_name": "Jesus Wept",
+          "reference": "11:33-11:37",
+          "why_start_end_and_devices": "Deeply moved in spirit — see how He loved him."
+        },
+        {
+          "scene_number": 106,
+          "scene_name": "'Take Away the Stone'",
+          "reference": "11:38-11:41",
+          "why_start_end_and_devices": "Did I not tell you you would see the glory of God?"
+        },
+        {
+          "scene_number": 107,
+          "scene_name": "'Lazarus, Come Out!'",
+          "reference": "11:42-11:44",
+          "why_start_end_and_devices": "The dead man came out, bound in grave clothes."
+        },
+        {
+          "scene_number": 108,
+          "scene_name": "The Sanhedrin Alarmed",
+          "reference": "11:45-11:48",
+          "why_start_end_and_devices": "If we let Him go, the Romans will come and take our place."
+        },
+        {
+          "scene_number": 109,
+          "scene_name": "Caiaphas Prophesies",
+          "reference": "11:49-11:53",
+          "why_start_end_and_devices": "One man should die for the people; they plotted to kill Him."
+        },
+        {
+          "scene_number": 110,
+          "scene_name": "Withdrawn as Passover Nears",
+          "reference": "11:54-11:57",
+          "why_start_end_and_devices": "Looking for Him, wondering if He would come to the feast."
+        },
+        {
+          "scene_number": 111,
+          "scene_name": "Anointing at Bethany",
+          "reference": "12:1-12:3",
+          "why_start_end_and_devices": "Mary anoints His feet; the house filled with fragrance."
+        },
+        {
+          "scene_number": 112,
+          "scene_name": "'Leave Her Alone'",
+          "reference": "12:4-12:8",
+          "why_start_end_and_devices": "Judas objects; she has kept it for the day of My burial."
+        },
+        {
+          "scene_number": 113,
+          "scene_name": "The Plot Against Lazarus",
+          "reference": "12:9-12:11",
+          "why_start_end_and_devices": "Many were believing because of him; the chief priests scheme."
+        },
+        {
+          "scene_number": 114,
+          "scene_name": "The Triumphal Entry",
+          "reference": "12:12-12:16",
+          "why_start_end_and_devices": "Hosanna! — the disciples understood only afterward."
+        },
+        {
+          "scene_number": 115,
+          "scene_name": "'The World Has Gone After Him'",
+          "reference": "12:17-12:19",
+          "why_start_end_and_devices": "The crowd testifies; the Pharisees despair."
+        },
+        {
+          "scene_number": 116,
+          "scene_name": "Greeks Seek Jesus",
+          "reference": "12:20-12:23",
+          "why_start_end_and_devices": "Sir, we wish to see Jesus — the hour has come to be glorified."
+        },
+        {
+          "scene_number": 117,
+          "scene_name": "The Grain of Wheat",
+          "reference": "12:24-12:26",
+          "why_start_end_and_devices": "Unless it dies it remains alone; whoever serves Me must follow Me."
+        },
+        {
+          "scene_number": 118,
+          "scene_name": "'Father, Glorify Your Name'",
+          "reference": "12:27-12:30",
+          "why_start_end_and_devices": "A voice from heaven — for your sake, not Mine."
+        },
+        {
+          "scene_number": 119,
+          "scene_name": "'I Will Draw All People'",
+          "reference": "12:31-12:33",
+          "why_start_end_and_devices": "When I am lifted up — signifying the death He would die."
+        },
+        {
+          "scene_number": 120,
+          "scene_name": "Walk While You Have the Light",
+          "reference": "12:34-12:36",
+          "why_start_end_and_devices": "Believe in the light, that you may become sons of light."
+        },
+        {
+          "scene_number": 121,
+          "scene_name": "Unbelief Fulfilling Isaiah",
+          "reference": "12:37-12:40",
+          "why_start_end_and_devices": "He has blinded their eyes and hardened their hearts."
+        },
+        {
+          "scene_number": 122,
+          "scene_name": "Loving the Glory of Men",
+          "reference": "12:41-12:43",
+          "why_start_end_and_devices": "Many leaders believed but would not confess Him."
+        },
+        {
+          "scene_number": 123,
+          "scene_name": "'Whoever Believes in Me'",
+          "reference": "12:44-12:47",
+          "why_start_end_and_devices": "I have come as light; I came not to judge but to save."
+        },
+        {
+          "scene_number": 124,
+          "scene_name": "The Word That Judges",
+          "reference": "12:48-12:50",
+          "why_start_end_and_devices": "His command is eternal life — Jesus' final public words."
+        }
       ]
     },
     {
@@ -53,27 +794,378 @@
       "why_start_end_and_literary_glue": "Private love and instruction (13–17) lead into sovereign Passion/Resurrection (18–20); concludes with stated purpose (20:30–31). Start (13:1) before Passover; End (20:31) purpose statement. Glue: love/Paraclete motifs, ‘Truly, truly’ framing, and ‘hour’ fulfilled.",
       "reference": "13:1 - 20:31",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Foot Washing Paradigm", "reference": "13:1-13:17", "why_start_end_and_devices": "Act‑then‑exhort: example for blessed doing; Peter misunderstanding clarified."},
-        {"scene_number": 2, "scene_name": "Betrayer Identified; Night Falls", "reference": "13:18-13:30", "why_start_end_and_devices": "Scripture fulfilled; morsel given; Judas departs—‘and it was night.’"},
-        {"scene_number": 3, "scene_name": "Glory, New Command, and Peter’s Denial", "reference": "13:31-13:38", "why_start_end_and_devices": "Now glorified paradox; love one another; denial foretold."},
-        {"scene_number": 4, "scene_name": "Way, Truth, Life", "reference": "14:1-14:14", "why_start_end_and_devices": "Console and reveal access to the Father through the Son; greater works/prayer promise."},
-        {"scene_number": 5, "scene_name": "Paraclete Promise I", "reference": "14:15-14:31", "why_start_end_and_devices": "Obedience and manifestation; Spirit with/in you; ‘rise, let us go’ seam."},
-        {"scene_number": 6, "scene_name": "Vine and Branches; Love and Joy", "reference": "15:1-15:17", "why_start_end_and_devices": "Abide fruitfully; friends not servants; command to love one another."},
-        {"scene_number": 7, "scene_name": "World’s Hatred and Witness", "reference": "15:18-16:4", "why_start_end_and_devices": "Hate without cause; Spirit/disciples testify; warning to remember."},
-        {"scene_number": 8, "scene_name": "Paraclete Promise II", "reference": "16:5-16:15", "why_start_end_and_devices": "Spirit convicts the world; guides into all truth; glorifies the Son."},
-        {"scene_number": 9, "scene_name": "Sorrow to Joy; Ask in My Name", "reference": "16:16-16:24", "why_start_end_and_devices": "Little while riddle; birth metaphor; prayer assurance in the Son’s name."},
-        {"scene_number": 10, "scene_name": "Peace in Overcoming", "reference": "16:25-16:33", "why_start_end_and_devices": "Plain speech; scattered yet not alone; ‘I have overcome the world.’"},
-        {"scene_number": 11, "scene_name": "High Priestly Prayer", "reference": "17:1-17:26", "why_start_end_and_devices": "Glorify the Son/Father; sanctify disciples; unity for future believers; love known."},
-        {"scene_number": 12, "scene_name": "Arrest in the Garden", "reference": "18:1-18:11", "why_start_end_and_devices": "‘I am he’ knocks cohort back; protects his own; cup embraced."},
-        {"scene_number": 13, "scene_name": "Annas and Peter’s Denials", "reference": "18:12-18:27", "why_start_end_and_devices": "Interwoven hearings with triple denial fulfill Jesus’ word."},
-        {"scene_number": 14, "scene_name": "Pilate: Truth and the King", "reference": "18:28-19:16", "why_start_end_and_devices": "Inside/outside irony; ‘What is truth?’; behold the man/king; sentence delivered."},
-        {"scene_number": 15, "scene_name": "Crucifixion and It Is Finished", "reference": "19:17-19:30", "why_start_end_and_devices": "Title in three scripts; Scripture fulfilled; entrusts mother; consummation cry."},
-        {"scene_number": 16, "scene_name": "Pierced Side and Burial", "reference": "19:31-19:42", "why_start_end_and_devices": "Not one bone broken; look on the pierced one; Joseph/Nicodemus bury."},
-        {"scene_number": 17, "scene_name": "Empty Tomb: Peter and the Beloved Disciple", "reference": "20:1-20:10", "why_start_end_and_devices": "Race to tomb; saw and believed; Scripture understanding awaited."},
-        {"scene_number": 18, "scene_name": "Mary Magdalene Meets the Risen Lord", "reference": "20:11-20:18", "why_start_end_and_devices": "Name recognition turns grief to witness; ‘I am ascending’ message."},
-        {"scene_number": 19, "scene_name": "Peace/Breathing Spirit; Thomas Absent", "reference": "20:19-20:23", "why_start_end_and_devices": "Commission with Spirit; forgiveness/retention authority given."},
-        {"scene_number": 20, "scene_name": "Thomas Sees and Confesses", "reference": "20:24-20:29", "why_start_end_and_devices": "Blessed are those not seeing yet believing; climax confession ‘My Lord and my God.’"},
-        {"scene_number": 21, "scene_name": "Purpose Statement", "reference": "20:30-20:31", "why_start_end_and_devices": "Signs selected so that you may believe and have life in his name."}
+        {
+          "scene_number": 1,
+          "scene_name": "Washing the Disciples' Feet",
+          "reference": "13:1-13:5",
+          "why_start_end_and_devices": "Having loved His own, He loved them to the end."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "Peter's Objection",
+          "reference": "13:6-13:11",
+          "why_start_end_and_devices": "Unless I wash you, you have no part with Me — you are clean, but not all."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "'I Have Set You an Example'",
+          "reference": "13:12-13:17",
+          "why_start_end_and_devices": "Blessed are you if you do these things."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "'One of You Will Betray Me'",
+          "reference": "13:18-13:22",
+          "why_start_end_and_devices": "He was troubled in spirit and testified."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "The Morsel",
+          "reference": "13:23-13:26",
+          "why_start_end_and_devices": "The beloved disciple asks; Jesus dips the bread for Judas."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "Satan Entered Judas",
+          "reference": "13:27-13:30",
+          "why_start_end_and_devices": "What you are about to do, do quickly — and it was night."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "A New Commandment",
+          "reference": "13:31-13:35",
+          "why_start_end_and_devices": "Love one another as I have loved you."
+        },
+        {
+          "scene_number": 8,
+          "scene_name": "Peter's Denial Foretold",
+          "reference": "13:36-13:38",
+          "why_start_end_and_devices": "The rooster will not crow till you deny Me three times."
+        },
+        {
+          "scene_number": 9,
+          "scene_name": "'In My Father's House'",
+          "reference": "14:1-14:4",
+          "why_start_end_and_devices": "Do not be troubled; I go to prepare a place for you."
+        },
+        {
+          "scene_number": 10,
+          "scene_name": "'I Am the Way'",
+          "reference": "14:5-14:7",
+          "why_start_end_and_devices": "No one comes to the Father except through Me."
+        },
+        {
+          "scene_number": 11,
+          "scene_name": "'Show Us the Father'",
+          "reference": "14:8-14:11",
+          "why_start_end_and_devices": "Whoever has seen Me has seen the Father."
+        },
+        {
+          "scene_number": 12,
+          "scene_name": "Greater Works; Ask in My Name",
+          "reference": "14:12-14:14",
+          "why_start_end_and_devices": "Whatever you ask in My name, I will do it."
+        },
+        {
+          "scene_number": 13,
+          "scene_name": "'I Will Not Leave You Orphans'",
+          "reference": "14:15-14:18",
+          "why_start_end_and_devices": "Another Advocate, the Spirit of truth, to be with you forever."
+        },
+        {
+          "scene_number": 14,
+          "scene_name": "'Because I Live, You Also Will Live'",
+          "reference": "14:19-14:21",
+          "why_start_end_and_devices": "Whoever loves Me will be loved by My Father."
+        },
+        {
+          "scene_number": 15,
+          "scene_name": "'We Will Make Our Home'",
+          "reference": "14:22-14:26",
+          "why_start_end_and_devices": "The Holy Spirit will teach you all things."
+        },
+        {
+          "scene_number": 16,
+          "scene_name": "'My Peace I Give You'",
+          "reference": "14:27-14:31",
+          "why_start_end_and_devices": "Let not your hearts be troubled — rise, let us go."
+        },
+        {
+          "scene_number": 17,
+          "scene_name": "'I Am the True Vine'",
+          "reference": "15:1-15:6",
+          "why_start_end_and_devices": "Abide in Me; apart from Me you can do nothing."
+        },
+        {
+          "scene_number": 18,
+          "scene_name": "Abide in My Love",
+          "reference": "15:7-15:11",
+          "why_start_end_and_devices": "That My joy may be in you and your joy complete."
+        },
+        {
+          "scene_number": 19,
+          "scene_name": "'You Are My Friends'",
+          "reference": "15:12-15:17",
+          "why_start_end_and_devices": "Greater love has no one than this; I chose you."
+        },
+        {
+          "scene_number": 20,
+          "scene_name": "The World's Hatred",
+          "reference": "15:18-15:21",
+          "why_start_end_and_devices": "If the world hates you, it hated Me first."
+        },
+        {
+          "scene_number": 21,
+          "scene_name": "'Hated Without Cause'",
+          "reference": "15:22-15:25",
+          "why_start_end_and_devices": "They have seen and hated both Me and My Father."
+        },
+        {
+          "scene_number": 22,
+          "scene_name": "The Spirit Will Testify",
+          "reference": "15:26-16:4",
+          "why_start_end_and_devices": "They will put you out of the synagogues; I have told you beforehand."
+        },
+        {
+          "scene_number": 23,
+          "scene_name": "'It Is to Your Advantage'",
+          "reference": "16:5-16:7",
+          "why_start_end_and_devices": "Unless I go, the Advocate will not come to you."
+        },
+        {
+          "scene_number": 24,
+          "scene_name": "Convicting the World",
+          "reference": "16:8-16:11",
+          "why_start_end_and_devices": "Of sin, of righteousness, and of judgment."
+        },
+        {
+          "scene_number": 25,
+          "scene_name": "The Spirit Guides into Truth",
+          "reference": "16:12-16:15",
+          "why_start_end_and_devices": "He will glorify Me, taking what is Mine to declare to you."
+        },
+        {
+          "scene_number": 26,
+          "scene_name": "'A Little While'",
+          "reference": "16:16-16:19",
+          "why_start_end_and_devices": "You will see Me — they wondered what He meant."
+        },
+        {
+          "scene_number": 27,
+          "scene_name": "Sorrow Turned to Joy",
+          "reference": "16:20-16:24",
+          "why_start_end_and_devices": "Like a woman in labor; ask in My name and receive."
+        },
+        {
+          "scene_number": 28,
+          "scene_name": "'I Came from the Father'",
+          "reference": "16:25-16:28",
+          "why_start_end_and_devices": "No longer in figures of speech; I am leaving the world."
+        },
+        {
+          "scene_number": 29,
+          "scene_name": "'I Have Overcome the World'",
+          "reference": "16:29-16:33",
+          "why_start_end_and_devices": "In Me you may have peace; in the world, tribulation."
+        },
+        {
+          "scene_number": 30,
+          "scene_name": "'Glorify Your Son'",
+          "reference": "17:1-17:5",
+          "why_start_end_and_devices": "This is eternal life: to know You and Jesus Christ."
+        },
+        {
+          "scene_number": 31,
+          "scene_name": "'I Have Manifested Your Name'",
+          "reference": "17:6-17:10",
+          "why_start_end_and_devices": "They have kept Your word; I am glorified in them."
+        },
+        {
+          "scene_number": 32,
+          "scene_name": "'Keep Them in Your Name'",
+          "reference": "17:11-17:16",
+          "why_start_end_and_devices": "That they may be one; protect them from the evil one."
+        },
+        {
+          "scene_number": 33,
+          "scene_name": "'Sanctify Them in the Truth'",
+          "reference": "17:17-17:19",
+          "why_start_end_and_devices": "Your word is truth; for their sake I sanctify Myself."
+        },
+        {
+          "scene_number": 34,
+          "scene_name": "'That They May All Be One'",
+          "reference": "17:20-17:23",
+          "why_start_end_and_devices": "As You are in Me and I in You; that the world may believe."
+        },
+        {
+          "scene_number": 35,
+          "scene_name": "'That They May See My Glory'",
+          "reference": "17:24-17:26",
+          "why_start_end_and_devices": "That the love You have for Me may be in them."
+        },
+        {
+          "scene_number": 36,
+          "scene_name": "Arrest in the Garden",
+          "reference": "18:1-18:6",
+          "why_start_end_and_devices": "'I am He' — and they drew back and fell to the ground."
+        },
+        {
+          "scene_number": 37,
+          "scene_name": "'Put Your Sword Away'",
+          "reference": "18:7-18:11",
+          "why_start_end_and_devices": "Shall I not drink the cup the Father has given Me?"
+        },
+        {
+          "scene_number": 38,
+          "scene_name": "Bound and Led to Annas",
+          "reference": "18:12-18:14",
+          "why_start_end_and_devices": "Caiaphas had advised that one man should die for the people."
+        },
+        {
+          "scene_number": 39,
+          "scene_name": "Peter's First Denial",
+          "reference": "18:15-18:18",
+          "why_start_end_and_devices": "At the charcoal fire: I am not — was he warming himself."
+        },
+        {
+          "scene_number": 40,
+          "scene_name": "Before the High Priest",
+          "reference": "18:19-18:24",
+          "why_start_end_and_devices": "Why ask Me? Ask those who heard Me — sent bound to Caiaphas."
+        },
+        {
+          "scene_number": 41,
+          "scene_name": "Peter Denies Again",
+          "reference": "18:25-18:27",
+          "why_start_end_and_devices": "A third denial — and at once the rooster crowed."
+        },
+        {
+          "scene_number": 42,
+          "scene_name": "Handed Over to Pilate",
+          "reference": "18:28-18:32",
+          "why_start_end_and_devices": "We are not permitted to put anyone to death."
+        },
+        {
+          "scene_number": 43,
+          "scene_name": "'My Kingdom Is Not of This World'",
+          "reference": "18:33-18:37",
+          "why_start_end_and_devices": "Everyone on the side of truth listens to My voice."
+        },
+        {
+          "scene_number": 44,
+          "scene_name": "'What Is Truth?'; Barabbas",
+          "reference": "18:38-18:40",
+          "why_start_end_and_devices": "I find no guilt in Him — not this man, but Barabbas!"
+        },
+        {
+          "scene_number": 45,
+          "scene_name": "Flogged and Mocked",
+          "reference": "19:1-19:3",
+          "why_start_end_and_devices": "A crown of thorns, a purple robe: Hail, King of the Jews!"
+        },
+        {
+          "scene_number": 46,
+          "scene_name": "'Behold the Man!'",
+          "reference": "19:4-19:7",
+          "why_start_end_and_devices": "He made Himself the Son of God — Crucify Him!"
+        },
+        {
+          "scene_number": 47,
+          "scene_name": "Pilate Afraid",
+          "reference": "19:8-19:12",
+          "why_start_end_and_devices": "You would have no authority over Me unless given from above."
+        },
+        {
+          "scene_number": 48,
+          "scene_name": "'Behold Your King'",
+          "reference": "19:13-19:16",
+          "why_start_end_and_devices": "We have no king but Caesar — then he handed Him over."
+        },
+        {
+          "scene_number": 49,
+          "scene_name": "The Crucifixion; the Inscription",
+          "reference": "19:17-19:22",
+          "why_start_end_and_devices": "King of the Jews — what I have written, I have written."
+        },
+        {
+          "scene_number": 50,
+          "scene_name": "Casting Lots for His Garment",
+          "reference": "19:23-19:24",
+          "why_start_end_and_devices": "The seamless tunic; the Scripture fulfilled."
+        },
+        {
+          "scene_number": 51,
+          "scene_name": "'Behold Your Son'",
+          "reference": "19:25-19:27",
+          "why_start_end_and_devices": "To His mother and the beloved disciple at the cross."
+        },
+        {
+          "scene_number": 52,
+          "scene_name": "'It Is Finished'",
+          "reference": "19:28-19:30",
+          "why_start_end_and_devices": "I thirst — and bowing His head, He gave up His spirit."
+        },
+        {
+          "scene_number": 53,
+          "scene_name": "The Pierced Side",
+          "reference": "19:31-19:34",
+          "why_start_end_and_devices": "They did not break His legs; blood and water flowed out."
+        },
+        {
+          "scene_number": 54,
+          "scene_name": "The True Testimony",
+          "reference": "19:35-19:37",
+          "why_start_end_and_devices": "Not one of His bones broken; they will look on the One they pierced."
+        },
+        {
+          "scene_number": 55,
+          "scene_name": "The Burial",
+          "reference": "19:38-19:42",
+          "why_start_end_and_devices": "Joseph and Nicodemus lay Him in a new tomb nearby."
+        },
+        {
+          "scene_number": 56,
+          "scene_name": "The Empty Tomb",
+          "reference": "20:1-20:5",
+          "why_start_end_and_devices": "Mary finds the stone removed; the two disciples run."
+        },
+        {
+          "scene_number": 57,
+          "scene_name": "The Linen Cloths",
+          "reference": "20:6-20:10",
+          "why_start_end_and_devices": "He saw and believed, not yet understanding the Scripture."
+        },
+        {
+          "scene_number": 58,
+          "scene_name": "Mary Weeps; Two Angels",
+          "reference": "20:11-20:13",
+          "why_start_end_and_devices": "Why are you weeping? — They have taken my Lord."
+        },
+        {
+          "scene_number": 59,
+          "scene_name": "'Mary' — 'Rabboni!'",
+          "reference": "20:14-20:18",
+          "why_start_end_and_devices": "I am ascending to My Father; she announced, I have seen the Lord."
+        },
+        {
+          "scene_number": 60,
+          "scene_name": "'Receive the Holy Spirit'",
+          "reference": "20:19-20:23",
+          "why_start_end_and_devices": "Peace be with you; if you forgive sins, they are forgiven."
+        },
+        {
+          "scene_number": 61,
+          "scene_name": "Thomas: 'My Lord and My God!'",
+          "reference": "20:24-20:29",
+          "why_start_end_and_devices": "Blessed are those who have not seen and yet believe."
+        },
+        {
+          "scene_number": 62,
+          "scene_name": "The Purpose Statement",
+          "reference": "20:30-20:31",
+          "why_start_end_and_devices": "These are written that you may believe and have life in His name."
+        }
       ]
     },
     {
@@ -82,11 +1174,49 @@
       "why_start_end_and_literary_glue": "Appendix appearance in Galilee restores Peter, addresses the Beloved Disciple’s fate, and supplies a second editorial closure. Start (21:1) ‘After this…’; End (21:25) hyperbolic closure. Glue: fishing motif recalling first call; triple questioning reverses triple denial; witness attestation (21:24).",
       "reference": "21:1 - 21:25",
       "scenes": [
-        {"scene_number": 1, "scene_name": "Miraculous Catch and Recognition", "reference": "21:1-21:14", "why_start_end_and_devices": "Dawn at Tiberias; net abundance; ‘It is the Lord’; third appearance summary."},
-        {"scene_number": 2, "scene_name": "Peter Restored and Commissioned", "reference": "21:15-21:19", "why_start_end_and_devices": "Threefold love/charge; shepherding call; martyrdom hinted; ‘Follow me.’"},
-        {"scene_number": 3, "scene_name": "Beloved Disciple and Final Attestation", "reference": "21:20-21:25", "why_start_end_and_devices": "If he remains… rumor corrected; witness certification; world‑filling books hyperbole."}
+        {
+          "scene_number": 1,
+          "scene_name": "The Catch of Fish",
+          "reference": "21:1-21:6",
+          "why_start_end_and_devices": "Cast the net on the right side — and they could not haul it in."
+        },
+        {
+          "scene_number": 2,
+          "scene_name": "'It Is the Lord!'",
+          "reference": "21:7-21:11",
+          "why_start_end_and_devices": "A hundred and fifty-three fish, and the net was not torn."
+        },
+        {
+          "scene_number": 3,
+          "scene_name": "'Come, Have Breakfast'",
+          "reference": "21:12-21:14",
+          "why_start_end_and_devices": "The third time Jesus appeared after rising from the dead."
+        },
+        {
+          "scene_number": 4,
+          "scene_name": "'Do You Love Me?'",
+          "reference": "21:15-21:17",
+          "why_start_end_and_devices": "Three times — Feed My sheep."
+        },
+        {
+          "scene_number": 5,
+          "scene_name": "'Follow Me'",
+          "reference": "21:18-21:19",
+          "why_start_end_and_devices": "The death by which Peter would glorify God."
+        },
+        {
+          "scene_number": 6,
+          "scene_name": "'What About Him?'",
+          "reference": "21:20-21:23",
+          "why_start_end_and_devices": "If I want him to remain — the saying that went out among the brothers."
+        },
+        {
+          "scene_number": 7,
+          "scene_name": "The Beloved Disciple's Witness",
+          "reference": "21:24-21:25",
+          "why_start_end_and_devices": "The world itself could not contain the books that would be written."
+        }
       ]
     }
   ]
 }
-
