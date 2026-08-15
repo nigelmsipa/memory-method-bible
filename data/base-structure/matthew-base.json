@@ -3,6 +3,33 @@
   "hebrew_name": "מַתָּי (Mattay)",
   "canonical_grouping": "Gospels",
   "big_picture_notes": "Matthew frames Jesus’ messianic ministry with five major teaching blocks, each closed by the formula 'when Jesus finished these sayings' (7:28; 11:1; 13:53; 19:1; 26:1). Literary glue includes the Kingdom of Heaven theme, pervasive fulfillment formulae linking to the Hebrew Scriptures, mountain‑theophany moments (5–7; 17; 24–25; 28), and patterned triads/dualities. The Gospel opens with royal genealogy and ends with the Great Commission (28:18–20), forming an inclusio of universal authority. The first units below follow the prologue (1–4), the first discourse (5–7), and the ensuing authority‑demonstration block (8–10).",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The King Revealed",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The King's Teaching and Authority",
+      "story_letters": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "The Cross and the Commission",
+      "story_letters": [
+        "F",
+        "G"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

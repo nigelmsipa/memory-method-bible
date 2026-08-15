@@ -3,6 +3,30 @@
   "hebrew_name": "מַלְאָכִי (Mal'akhi)",
   "canonical_grouping": "Minor Prophets",
   "big_picture_notes": "Malachi closes the prophetic corpus with a disputation cycle: Yahweh asserts, the people object ('How…? Where…?'), and Yahweh provides proof with judgment or promise. Six (often reckoned seven) disputations create a dialogical, confrontational tone, reinforced by a chiastic arrangement (opening love/offerings ↔ closing remnant/Day of Yahweh) pivoting on covenant fidelity and justice. Literary glue: repeated epithet 'Yahweh of hosts,' pervasive rhetorical questions, and the assertion–objection–response structure that exposes spiritual blindness and summons covenant loyalty.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "Love Questioned, Worship Defiled",
+      "story_letters": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "Treachery and the Messenger",
+      "story_letters": [
+        "C"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "The Call to Return",
+      "story_letters": [
+        "D"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

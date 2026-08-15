@@ -3,6 +3,33 @@
   "hebrew_name": "יִרְמְיָהוּ (Yirmiyahu)",
   "canonical_grouping": "Major Prophets",
   "big_picture_notes": "Jeremiah is a non‑linear anthology of oracles, laments, sign‑acts, and narratives compiled across the prophet’s long ministry. The macro‑structure is modular: large narrative superscriptions mark major collections, while oracle formulas ('The word of the LORD came…', 'Thus says the LORD') are the key scene markers—each scene a single, complete divine speech or report ideal for memorization. The MT places the Oracles Against the Nations at 46–51 (LXX relocates after 25:13), underscoring the book’s editorial history. Thematic glue: relentless covenant lawsuit against Judah, the 'enemy from the north' motif, the prophet’s confessions, and a hope‑center in the Book of Consolation (30–33). Memorize by literary units (oracles), not chronology.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Lawsuit",
+      "story_letters": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "Conflict and Consolation",
+      "story_letters": [
+        "C",
+        "D"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "The Fall and the Nations",
+      "story_letters": [
+        "E",
+        "F",
+        "G"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

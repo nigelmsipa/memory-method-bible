@@ -3,6 +3,30 @@
   "hebrew_name": "עָמוֹס (Amos)",
   "canonical_grouping": "Minor Prophets",
   "big_picture_notes": "Amos is a rhetorically formal, tightly organized anthology that moves from Oracles Against the Nations (1:3–2:16) through three 'Hear this word' sermons (3:1; 4:1; 5:1) into five climactic visions (7:1–9; 8:1–3; 9:1–10), before a final unconditional restoration oracle (9:11–15). Literary glue includes the repeated OAN formula ('For three transgressions … and for four, I will not revoke the punishment'), refrain-like doxologies ('The LORD is his name' 4:13; 5:8; 9:6), and the progression from relented threats to irrevocable judgment. Genres interleave: oracles, woes, doxologies, and a prose confrontation (7:10–17). The book’s arc culminates in the raised 'booth of David' and abundant agricultural peace.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Ring of Judgment",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "Sermons and Visions",
+      "story_letters": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "The Restoration",
+      "story_letters": [
+        "D"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

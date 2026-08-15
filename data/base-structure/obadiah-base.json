@@ -3,6 +3,15 @@
   "hebrew_name": "עֹבַדְיָה (Ovadyah)",
   "canonical_grouping": "Minor Prophets",
   "big_picture_notes": "Obadiah is the shortest OT book and a single, sustained oracle structured by a judgment→Day of Yahweh→restoration arc. It contrasts Edom (Esau) and Israel (Jacob) through repeated motifs of pride/violence versus inheritance/salvation. The movement runs from Edom’s humbling (vv. 1–14), to the universal Day of Yahweh pivot (v. 15), to Zion’s deliverance and possession (vv. 16–21). Lex talionis ('as you have done, it shall be done to you') and inheritance language bind the units, culminating in the eschatological close: 'the kingdom shall be Yahweh’s.'",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Day of the LORD upon Edom",
+      "story_letters": [
+        "A"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

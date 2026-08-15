@@ -3,6 +3,34 @@
   "hebrew_name": "יְשַׁעְיָהוּ (Yesha'yahu, 'Yahweh is salvation')",
   "canonical_grouping": "Major Prophets (Nevi'im)",
   "big_picture_notes": "Isaiah is a 66‑chapter prophetic anthology widely recognized as three major literary collections: Proto‑Isaiah (chs. 1–39, 8th‑century Assyrian crisis), Deutero‑Isaiah (chs. 40–55, 6th‑century Babylonian exile), and Trito‑Isaiah (chs. 56–66, post‑exilic restoration). The book is framed by 1:1 and unified by leitwort and motifs: 'Holy One of Israel,' blindness/deafness, covenant lawsuit (rîb), the Servant, and the promise of new creation. Genres range across oracle, narrative, woe, hymn, lament, and apocalypse. Structure is marked by inclusio, chiasm, catchwords, and historical setting shifts. For memorization, treat each small oracle or poetic unit as a scene; use clear markers (superscriptions, 'oracle' formulas, refrains, woe headings, Servant Songs) to segment.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Assyrian Crisis",
+      "story_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "Comfort in Exile",
+      "story_letters": [
+        "G"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "The Restoration",
+      "story_letters": [
+        "H"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

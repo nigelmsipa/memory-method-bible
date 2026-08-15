@@ -3,6 +3,25 @@
   "hebrew_name": "שִׁיר הַשִּׁירִים (Shir ha‑Shirim)",
   "canonical_grouping": "Writings (Ketuvim)",
   "big_picture_notes": "Song of Songs is a masterpiece of Hebrew lyric poetry presented as a sequence of love poems in dialogic form. Its primary literary framework is the interplay of three voices: the Bride (Shulamite), the Groom (Beloved/King/Shepherd), and the Chorus (Daughters of Jerusalem). The unified theme is the celebration of exclusive, romantic love, developed through recurring nature and royal imagery (gardens, vineyards, lilies, doves, deer; king, palaces, towers). Structural seams are marked by the refrain, 'I adjure you, O daughters of Jerusalem… that you not stir up or awaken love until it pleases' (or close variants) at 2:7, 3:5, and 8:4, which close large poetic cycles (canticles). Wasf poems (descriptive odes) appear at 4:1–7; 5:10–16; 6:4–10; 7:1–9. For memorization, treat each discrete speech, exchange, or short poem as a scene; use the refrain points to group the cycles.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Search",
+      "story_letters": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Wedding and the Seal",
+      "story_letters": [
+        "D",
+        "E"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

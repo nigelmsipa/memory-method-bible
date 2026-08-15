@@ -3,6 +3,32 @@
   "hebrew_name": "מִשְׁלֵי (Mishlei)",
   "canonical_grouping": "Writings (Ketuvim), Wisdom Literature",
   "big_picture_notes": "Proverbs is a divinely inspired anthology—multiple curated collections whose superscriptions provide the text‑driven framework. Its governing poetic device is parallelism (antithetical, synonymous, and synthetic), and its thematic center is 1:7: 'The fear of the LORD is the beginning of knowledge.' The book moves from extended, thematic discourses (chs. 1–9) to dense couplets (10:1–22:16), to 'sayings of the wise' akin to ANE instruction (22:17–24:34), to a Hezekian Solomonic appendix (25–29), and concludes with Agur (30) and Lemuel (31). For memorization, treat each discrete discourse or themed proverb cluster as a scene; do not arbitrarily split complete poems.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Discourses",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Collections",
+      "story_letters": [
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "The Final Words",
+      "story_letters": [
+        "E",
+        "F"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

@@ -3,6 +3,37 @@
   "hebrew_name": "קֹהֶלֶת (Qoheleth)",
   "canonical_grouping": "Writings (Kethuvim) / Wisdom Literature",
   "big_picture_notes": "Ecclesiastes is a poetic-philosophical monologue by Qoheleth framed by a narrator's prologue (1:1-2) and epilogue (12:8-14), forming an inclusio via 'Vanity of vanities! All is vanity.' The central glue is הֶבֶל (hevel) — vanity/breath — alongside refrains such as 'striving after wind,' 'under the sun,' and the positive counter-theme: God's gift to eat, drink, and find enjoyment in toil. Internally, the monologue cycles through a first-person empirical quest (chs. 1–2), broad observations ('I saw...') about times, oppression, wealth, wisdom, and justice (chs. 3–8), and a final exhortation to live wisely in light of certain death (chs. 9–12). Scenes are complete thought-units: poems, proverb clusters, and short essays.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Frame",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Quest",
+      "story_letters": [
+        "B"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "Under the Sun",
+      "story_letters": [
+        "C",
+        "D"
+      ]
+    },
+    {
+      "arc_number": "IV",
+      "arc_title": "Remember Your Creator",
+      "story_letters": [
+        "E"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

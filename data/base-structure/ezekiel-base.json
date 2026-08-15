@@ -3,6 +3,34 @@
   "hebrew_name": "יְחֶזְקֵאל (Yekhezkel)",
   "canonical_grouping": "Major Prophets (Apocalyptic/Oracle Collection)",
   "big_picture_notes": "The Book of Ezekiel is structurally one of the most meticulously organized books in the Old Testament, characterized by precise dating formulas and a chiastic literary framework. The book's overall structure is tripartite: (I) Oracles of Judgment against Judah and Jerusalem (Chapters 1-24), (II) Oracles of Judgment against Foreign Nations (Chapters 25-32), and (III) Oracles of Salvation and Restoration for Israel (Chapters 33-48). This structure is held together by the central theme of the kavod (glory) of Yahweh, which is seen departing from the Temple in the first section (Chapters 8-11) and returning to the new Temple in the final vision (Chapters 43-44), forming a massive inclusio. Major literary devices include highly detailed visionary descriptions, symbolic actions (mophetim) performed by the prophet, and the constant repetition of the recognition formula: 'Then they will know that I am the LORD.' The narrative moves with relentless chronological precision, marked by dates that place the oracles in the context of the Babylonian exile. The book's literary movement is a dramatic arc from divine abandonment and catastrophic judgment to national revival and eschatological perfection, all based on the covenantal principle of divine justice and restoration.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "Judgment on Jerusalem",
+      "story_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "Oracles Against the Nations",
+      "story_letters": [
+        "F"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "Restoration and the New Temple",
+      "story_letters": [
+        "G",
+        "H"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

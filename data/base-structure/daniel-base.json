@@ -3,6 +3,22 @@
   "hebrew_name": "דָּנִיֵּאל (Daniyye'l)",
   "canonical_grouping": "Major Prophets (Hebrew Bible: Ketuvim/Writings)",
   "big_picture_notes": "The Book of Daniel is defined by its striking bipartite structure and trilingual nature (Hebrew in 1:1-2:4a and 8:1-12:13; Aramaic in 2:4b-7:28). This shift in language and genre acts as the primary literary framework. The first half (Ch 1-6) presents a series of six self-contained, court-setting narratives detailing the steadfast faith and ultimate exaltation of Jewish exiles. The second half (Ch 7-12) consists of four interconnected apocalyptic visions given directly to Daniel. A crucial structural feature is the proposed chiasm spanning the Aramaic section (2-7), which centers the book's theological message on God's sovereignty and the future kingdom of God. Repetition is a primary literary device, evident in the recurring theme of Gentile kings being forced to acknowledge the 'God of Heaven,' and the overlapping nature of the visions (Ch 2, 7, 8, 10-12) which re-narrate the succession of world empires.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Court",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Visions",
+      "story_letters": [
+        "B"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

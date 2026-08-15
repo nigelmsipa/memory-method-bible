@@ -3,6 +3,29 @@
   "hebrew_name": "חֲבַקּוּק (Hăḇaqqūq)",
   "canonical_grouping": "Minor Prophets",
   "big_picture_notes": "Habakkuk is a compact prophetic dialogue/theodicy framed by a title (1:1) and a liturgical colophon (3:19). Its movement is chiastic (A–B–C–B'–A'): Complaint 1 (1:2–4) ↔ Answer 1 (1:5–11); Complaint 2 (1:12–2:1) ↔ Answer 2 with Five Woes (2:2–20); Resolution in a prayer‑psalm (3:1–19). The hinge is 2:4 ('the righteous shall live by his faith'), contrasting the proud with the faithful. Literary glue includes courtroom‑style questions, repeated lexemes (ḥāmas/violence; see/vision; judgment), formal 'woe' oracles, and the Divine Warrior theophany in ch. 3 that transforms fear into rejoicing.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Complaints",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Vision and the Woes",
+      "story_letters": [
+        "B"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "The Prayer",
+      "story_letters": [
+        "C"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

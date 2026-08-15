@@ -3,6 +3,31 @@
   "hebrew_name": "אֵיכָה (Eikha) - Meaning 'How?'",
   "canonical_grouping": "The Writings (Ketuvim) / The Five Scrolls (Megillot)",
   "big_picture_notes": "The Book of Lamentations is a highly structured masterpiece of grief, consisting of five poems corresponding to the five chapters. Chapters 1-4 are acrostic poems following the Hebrew alphabet (Aleph to Tav): Chapters 1, 2, and 4 contain one verse per letter, while Chapter 3 is a triple acrostic with three verses per letter, creating a crescendo of intensity in the middle of the book. Chapter 5 contains 22 verses matching the alphabet length but abandons the acrostic form, representing grief that has exhausted its ability to maintain perfect structure. Thematically and structurally, the book functions as a chiasm: Chapters 1 and 5 focus on comprehensive suffering of the people (Zion/Jerusalem), Chapters 2 and 4 focus on the mechanics of the siege and specific causes of the fall (God's wrath and leadership failure), and Chapter 3 stands as the peak with the intensely personal voice of 'the strong man' who moves from despair to theological hope before returning to a plea for justice. The literary glue is the tension between the 'Observer' (prophet/narrator) and 'Lady Zion' (the personified city), with voice shifts between pronouns (I, We, She, He) and recurrence of the word 'How' (Eikha). The rigid constraints of the acrostic form impose order on chaos, allowing the community to process trauma without being consumed by it.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The City Fallen",
+      "story_letters": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Suffering Representative",
+      "story_letters": [
+        "C"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "Ashes and Appeal",
+      "story_letters": [
+        "D",
+        "E"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

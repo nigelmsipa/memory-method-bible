@@ -3,6 +3,22 @@
   "hebrew_name": "יוֹנָה (Yonah)",
   "canonical_grouping": "Minor Prophets",
   "big_picture_notes": "Jonah is a prophetic novella structured by a two‑cycle parallel (call→response→divine action) with a chiastic center in Jonah’s psalm (ch. 2). It contrasts repentant pagans (sailors, Ninevites) with a resistant prophet through pervasive irony. Literary glue includes the repeated commission (1:2; 3:2), the refrain of divine preparation ('Yahweh prepared' 1:17; 4:6–8), and the theme of Yahweh’s compassion (ḥanan/ḥamal). The book culminates in a rhetorical question that presses the scope of divine mercy.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Flight",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Return",
+      "story_letters": [
+        "B"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

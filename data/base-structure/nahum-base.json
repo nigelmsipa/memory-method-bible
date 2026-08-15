@@ -3,6 +3,29 @@
   "hebrew_name": "נַחוּם (Nahum)",
   "canonical_grouping": "Minor Prophets",
   "big_picture_notes": "Nahum is a sustained maśśā (burden) against Nineveh, composed as a compact, highly poetic oracle. Its macro-structure moves from the Lord’s theophany/indictment (ch. 1) to a kinetic siege vision (ch. 2) and a woe‑driven denunciation and aftermath (ch. 3). Literary glue: vivid, kinetic imagery (chariots, torches, flood), mockery/sarcasm in judgment, and the juxtaposition of divine vengeance on foes with comfort for Judah (1:7, 12–15). Note: some traditions number 1:15 as 2:1; thematically it concludes the first oracle of comfort.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Storm",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Siege",
+      "story_letters": [
+        "B"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "The End",
+      "story_letters": [
+        "C"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

@@ -3,6 +3,24 @@
   "hebrew_name": "זְכַרְיָה (Zekharyah)",
   "canonical_grouping": "Minor Prophets",
   "big_picture_notes": "Zechariah divides into two distinct halves. Chapters 1–8 are dated encouragement oracles centered on a cycle of eight night visions (chs. 1–6), capped by a crowning sign‑act and followed by prose oracles on fasting and future blessing (chs. 7–8). Chapters 9–14 shift to undated, apocalyptic 'burdens' (maśśāʾ) marked by oracle formulas (9:1; 12:1), focusing on judgment/salvation, the humble king, shepherd imagery, repentance/cleansing, and the climactic Day of Yahweh. Literary glue: dating formulas, the interpreting angel motif, repeated 'Thus says Yahweh of hosts,' and the burden/oracle markers framing the second half.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Night Visions",
+      "story_letters": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Two Burdens",
+      "story_letters": [
+        "C",
+        "D"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

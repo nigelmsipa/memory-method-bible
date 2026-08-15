@@ -3,6 +3,24 @@
   "hebrew_name": "חַגַּי (Ḥaggay)",
   "canonical_grouping": "Minor Prophets",
   "big_picture_notes": "Haggai is a tightly dated prophetic chronicle organized around four oracles in 520 BCE (1:1; 2:1; 2:10; 2:20). The narrative flows from rebuke to encouragement to purification/blessing to eschatological promise. Structural glue includes precise temporal frames, the messenger formula ('Thus says Yahweh of hosts'), and the refrain 'Consider your ways' (1:5, 7). The arc aims to re‑prioritize the people toward rebuilding the temple, assuring presence ('I am with you') and future glory, culminating in the Zerubbabel 'signet' pledge that links to Davidic hope.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Call and the Glory",
+      "story_letters": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "Blessing and the Signet",
+      "story_letters": [
+        "C",
+        "D"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

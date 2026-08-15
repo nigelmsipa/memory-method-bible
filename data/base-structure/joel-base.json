@@ -3,6 +3,22 @@
   "hebrew_name": "יוֹאֵל (Yo'el)",
   "canonical_grouping": "Minor Prophets",
   "big_picture_notes": "Joel is a tightly structured, unified prophecy moving from a present ecological disaster (locust plague) and a liturgical call to repentance (1:1–2:17) to Yahweh’s answering word of restoration, Spirit outpouring, and universal judgment (2:18–3:21). The Day of Yahweh motif (1:15; 2:1, 11, 31; 3:14) is the central hinge connecting near crisis to eschatological climax. A sustained metaphor depicts the locust horde as an unstoppable army (2:2–9). The pivotal speaker change at 2:18 marks the narrative turn from lament to salvation. Agricultural devastation and promised abundance (1:10–12 versus 2:24; 3:18) form an inclusio.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Locust and the Call",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The LORD's Answer",
+      "story_letters": [
+        "B"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

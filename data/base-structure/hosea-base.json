@@ -3,6 +3,31 @@
   "hebrew_name": "הוֹשֵׁעַ (Hoshea')",
   "canonical_grouping": "Minor Prophets",
   "big_picture_notes": "Hosea is a covenant-lawsuit (rîb) framed by Hosea’s symbolic marriage to Gomer (chs. 1–3) and a sustained sequence of poetic/oracular indictments (chs. 4–13) culminating in a final call to return and an oracle of restoration (ch. 14). The book juxtaposes God’s burning wrath against Israel’s spiritual whoredom with His persistent, tender love, developed through wordplay (children’s names), vivid metaphors (half-baked cake, treacherous bow, empty vine, dew), and historical allusions (Exodus, Baal Peor, Gilgal, Gibeah). The structure is rhetorically driven with abrupt shifts in speaker and tone, bound together by the leitmotifs of whoredom, ‘knowledge of God,’ return, and the name Ephraim.",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Marriage",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "The Covenant Lawsuit",
+      "story_letters": [
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "The Call to Return",
+      "story_letters": [
+        "E"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",

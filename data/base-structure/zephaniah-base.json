@@ -3,6 +3,29 @@
   "hebrew_name": "צְפַנְיָה (Tzefanyah)",
   "canonical_grouping": "Minor Prophets",
   "big_picture_notes": "Zephaniah is a compact prophetic scroll centered on the Day of Yahweh. Its macro-structure forms an hourglass: universal judgment concentrated on Judah/Jerusalem (ch. 1), broadened to oracles against the nations (ch. 2), then inverted to a global cleansing and joyful restoration for a humble remnant (ch. 3). Literary glue includes repeated Day-of-Yahweh language (1:7, 14, 18), 'woe' markers, catalogues of sins and punishments, and a decisive hinge at 3:9 that pivots from devastation to salvation. The book closes with an inclusio of joy, presence, and renown (3:14–20).",
+  "arcs": [
+    {
+      "arc_number": "I",
+      "arc_title": "The Day Draws Near",
+      "story_letters": [
+        "A"
+      ]
+    },
+    {
+      "arc_number": "II",
+      "arc_title": "Judgment on the Nations",
+      "story_letters": [
+        "B"
+      ]
+    },
+    {
+      "arc_number": "III",
+      "arc_title": "Cleansing and Restoration",
+      "story_letters": [
+        "C"
+      ]
+    }
+  ],
   "stories": [
     {
       "story_letter": "A",
