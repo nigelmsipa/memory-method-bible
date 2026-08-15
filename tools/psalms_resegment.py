@@ -111,6 +111,42 @@ def parse_ref(ref):
     return ch, v1, v2
 
 
+KJV = "/home/nigel/memory-method-bible/source-texts/KJV.txt"
+_kjv = None
+
+def kjv_verse(chapter, verse):
+    """KJV.txt is 'Psalm C:V<TAB>text' (singular 'Psalm'), with supplied words in
+    [brackets] per the KJV italics convention. Edition 2 drops the brackets in its
+    incipits, so do the same here."""
+    global _kjv
+    if _kjv is None:
+        _kjv = {}
+        with open(KJV, encoding="utf-8", errors="replace") as f:
+            for line in f:
+                if not line.startswith("Psalm "):
+                    continue
+                ref, _, text = line.partition("\t")
+                m = re.match(r"^Psalm (\d+):(\d+)$", ref.strip())
+                if m:
+                    _kjv[(int(m.group(1)), int(m.group(2)))] = \
+                        text.strip().replace("[", "").replace("]", "")
+    return _kjv.get((chapter, verse), "")
+
+
+def incipit(chapter, verse, lo=4, hi=12):
+    """Title a re-cut continuation the way edition 2 does: the opening words of
+    its first verse, 4-12 words of KJV, no invention."""
+    words = kjv_verse(chapter, verse).split()
+    if not words:
+        return None
+    take = words[:hi]
+    for n in range(lo, len(take) + 1):          # stop at the first clause boundary
+        if take[n - 1].endswith((",", ";", ":", ".", "?", "!")):
+            take = take[:n]
+            break
+    return " ".join(take).rstrip(",;:.!?").rstrip()
+
+
 def make_chunks(scene_lo, scene_hi, source_scenes):
     """Existing ranges become chunks. They must tile the parent exactly, so cut on
     every existing boundary falling inside the scene and clamp the ends. A scene
@@ -124,7 +160,11 @@ def make_chunks(scene_lo, scene_hi, source_scenes):
         lo, hi = bounds[i], bounds[i + 1] - 1
         if lo > hi:
             continue
-        title = next((n for (a, b, n) in source_scenes if a <= lo <= b), None)
+        src = next(((a, b, n) for (a, b, n) in source_scenes if a <= lo <= b), None)
+        # A source unit clamped by a new scene boundary is now two pieces. Only the
+        # piece that still opens where the source opened may keep its title; giving
+        # both the same name would put two identical footholds in one psalm.
+        title = src[2] if src and src[0] == lo else None
         chunks.append((lo, hi, title))
     # a chunk may not exceed the memorisation ceiling of 6 verses; split evenly
     out = []
@@ -136,13 +176,20 @@ def make_chunks(scene_lo, scene_hi, source_scenes):
         size = -(-n // parts)
         v = lo
         while v <= hi:
-            out.append((v, min(v + size - 1, hi), title))
+            out.append((v, min(v + size - 1, hi), title if v == lo else None))
             v += size
     return out
 
 
 def main(write=False):
     doc = json.load(open(BASE))
+    # NOT idempotent: it expects the pre-audit 748-scene file as input. Running it
+    # against its own output would treat coarse literary scenes as source units.
+    if any("chunks" in sc for st in doc["stories"] for sc in st["scenes"]):
+        sys.exit("psalms-base.json already carries `chunks` — the audit has been applied.\n"
+                 "To re-run, restore the pre-audit file first:\n"
+                 "  git -C ~/memory-method-bible show 84cbc48^:data/base-structure/psalms-base.json"
+                 " > data/base-structure/psalms-base.json")
     report = []
     total_before = total_after = 0
     chunk_total = 0
@@ -177,9 +224,16 @@ def main(write=False):
                 if psalm == 119:
                     name = f"Psalm 119 – {HEBREW_LETTERS[idx]}"
                 else:
-                    # preserve the in-house title of the movement's opening unit
-                    name = next((n for (a, b, n) in src if a <= lo <= b),
-                                f"Psalm {psalm} – {lo}-{hi}")
+                    # Preserve the in-house title of the movement's opening unit —
+                    # but only when the movement actually opens where that unit
+                    # opened. Where a new boundary cuts into the middle of an old
+                    # unit, reusing its title would repeat a name inside the psalm,
+                    # so label from the text instead (edition 2's incipit rule).
+                    opener = next(((a, b, n) for (a, b, n) in src if a <= lo <= b), None)
+                    if opener and opener[0] == lo:
+                        name = opener[2]
+                    else:
+                        name = f"Psalm {psalm} – {incipit(psalm, lo) or f'{lo}-{hi}'}"
                 ref = f"{psalm}:{lo}-{hi}" if hi > lo else f"{psalm}:{lo}"
                 scene = {
                     "scene_number": None,
@@ -193,7 +247,7 @@ def main(write=False):
                 if chunks:
                     scene["chunks"] = [
                         {"chunk_number": i + 1,
-                         "chunk_name": t or f"Psalm {psalm} – {a}-{b}",
+                         "chunk_name": t or f"Psalm {psalm} – {incipit(psalm, a) or f'{a}-{b}'}",
                          "reference": f"{psalm}:{a}-{b}" if b > a else f"{psalm}:{a}"}
                         for i, (a, b, t) in enumerate(chunks)
                     ]
