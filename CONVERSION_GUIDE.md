@@ -209,13 +209,34 @@ The JSON structure mirrors this but with specific formatting:
           "scene_number": 1,
           "scene_name": "Scene Name",
           "reference": "1:1-10",
-          "why_start_end_and_devices": "[Combined boundary markers and literary analysis into one string]"
+          "why_start_end_and_devices": "[Combined boundary markers and literary analysis into one string]",
+          "chunks": [
+            {
+              "chunk_number": 1,
+              "chunk_name": "Rehearsal Unit Name",
+              "reference": "1:1-5"
+            }
+          ]
         }
       ]
     }
   ]
 }
 ```
+
+**`chunks` is optional and is NOT a way to hit a verse count.** It was added
+2026-08-14 for Psalms, where genuine poetic scenes (a whole acrostic stanza, a
+refrain-bounded movement) run longer than one rehearsal sitting. Omit it entirely
+unless a scene actually needs subdividing.
+
+- Scenes follow literary form and have **no** length cap.
+- Chunks are pedagogy and may be capped (≤6 verses).
+- Chunks must tile their parent scene exactly — no gaps, no overlaps, nothing outside it.
+
+Getting this backwards is the exact error the Psalms Resegmentation Audit caught:
+748 uniform ≤6-verse units had been recorded as *scenes*, which made a
+memorization-chunk map masquerade as a poetic-scene map. See
+`BIBLE-BOOK-ANALYSIS-SPEC-V1.md` and `tools/validate_psalms.py`.
 
 ---
 

@@ -22,6 +22,7 @@ Book
 ├─ Big-Picture Literary Notes (overall chiasm, repeated refrains, non-chronological arrangement, etc.)
 └─ Stories (self-contained arcs that advance the book's narrative)
    └─ Scenes (memorizable beats/pericopes, naturally determined by text)
+      └─ Chunks (OPTIONAL rehearsal sublayer — see below; only where a scene is long)
 ```
 
 **NOTE ON THEMES:** Themes are optional scaffolding that can be imposed later if desired. Stories and scenes are the core building blocks and take priority.
@@ -43,6 +44,31 @@ Book
 - Why it ends here (thought resolves, speaker changes, image completes, divine speech ends, etc.)
 - Key literary devices at play in this exact scene
 - Traditional verse range
+
+**Chunk level (optional, `chunks` array on a scene)**
+- Chunk number (1, 2, 3, … within its parent scene)
+- Chunk title
+- Traditional verse range
+
+### Optional `chunks`: a rehearsal sublayer, never a replacement for scenes
+Added 2026-08-14 by the Psalms Resegmentation Audit. Some books — Psalms above all —
+have literary scenes that are longer than one sitting's rehearsal. A scene may
+therefore carry an optional `chunks` array of smaller units.
+
+The distinction is a hard rule, and it is the one the Psalms file originally got wrong:
+- **Scenes follow poetic/literary form.** They may be any length. They may NOT be
+  capped at a verse count.
+- **Chunks are pedagogy.** They may be size-limited (≤6 verses) because they exist
+  for rehearsal, not for structure.
+
+Constraints:
+- A scene that is already small enough carries no `chunks` at all.
+- Chunks must tile their parent scene exactly — no gaps, no overlaps, nothing outside it.
+- Consumers that predate this field may ignore it. A memorization exporter should
+  prefer chunks when present and otherwise use the scene itself.
+
+Validator: `tools/validate_psalms.py` (coverage, tiling, the ≤6 chunk ceiling, and
+Psalm 119's 22 eight-verse stanzas).
 
 ### Critical: Scene Definition
 A scene is **one complete, memorizable thought**. It is not a forced chunk of arbitrary length. The text itself determines where scenes naturally end:

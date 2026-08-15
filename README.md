@@ -111,7 +111,7 @@ The following books are available in `data/base-structure` with story and scene 
 - Nehemiah — 4 stories, 39 scenes
 - Esther — 2 stories, 28 scenes
 - Job — 7 stories, 89 scenes
-- Psalms — 5 stories, 37 scenes (in progress)
+- Psalms — 5 stories, 609 scenes, 273 chunks (resegmented 2026-08-14)
 - Proverbs — 6 stories, 51 scenes
 - Ecclesiastes — 5 stories, 32 scenes
 - Song of Songs — 5 stories, 40 scenes
