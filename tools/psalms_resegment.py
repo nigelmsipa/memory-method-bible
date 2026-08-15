@@ -102,6 +102,13 @@ HEBREW_LETTERS = ["Aleph","Beth","Gimel","Daleth","He","Vau","Zain","Cheth","Tet
 LINKED_COMPLEX = {42: "Psalms 42-43", 43: "Psalms 42-43"}
 
 
+def strip_psalm_prefix(name):
+    """Every other book labels its scenes bare — "Holy, Holy, Holy", "Death in
+    Moab". Only Psalms carried a "Psalm 19 – " prefix on every scene, which the
+    read-along already shows in the header ("PSALMS 19"). Drop it."""
+    return re.sub(r"^\s*Psalms?\s+\d+\s*[–—-]\s*", "", name).strip()
+
+
 def parse_ref(ref):
     m = re.match(r"^\s*(\d+):(\d+)(?:\s*-\s*(?:(\d+):)?(\d+))?\s*$", ref)
     if not m:
@@ -205,8 +212,9 @@ def main(write=False):
         for psalm, entries in by_psalm.items():
             total_before += len(entries)
             if psalm not in REVISED:
-                for _, _, sc in entries:                      # untouched
+                for _, _, sc in entries:                      # boundaries untouched
                     sc.pop("chunks", None)
+                    sc["scene_name"] = strip_psalm_prefix(sc["scene_name"])
                     if psalm in LINKED_COMPLEX:
                         sc["linked_complex"] = LINKED_COMPLEX[psalm]
                     rebuilt.append(sc)
@@ -222,7 +230,7 @@ def main(write=False):
 
             for idx, (lo, hi) in enumerate(new_ranges):
                 if psalm == 119:
-                    name = f"Psalm 119 – {HEBREW_LETTERS[idx]}"
+                    name = HEBREW_LETTERS[idx]
                 else:
                     # Preserve the in-house title of the movement's opening unit —
                     # but only when the movement actually opens where that unit
@@ -231,9 +239,9 @@ def main(write=False):
                     # so label from the text instead (edition 2's incipit rule).
                     opener = next(((a, b, n) for (a, b, n) in src if a <= lo <= b), None)
                     if opener and opener[0] == lo:
-                        name = opener[2]
+                        name = strip_psalm_prefix(opener[2])
                     else:
-                        name = f"Psalm {psalm} – {incipit(psalm, lo) or f'{lo}-{hi}'}"
+                        name = incipit(psalm, lo) or f"{lo}-{hi}"
                 ref = f"{psalm}:{lo}-{hi}" if hi > lo else f"{psalm}:{lo}"
                 scene = {
                     "scene_number": None,
@@ -247,7 +255,8 @@ def main(write=False):
                 if chunks:
                     scene["chunks"] = [
                         {"chunk_number": i + 1,
-                         "chunk_name": t or f"Psalm {psalm} – {incipit(psalm, a) or f'{a}-{b}'}",
+                         "chunk_name": strip_psalm_prefix(t) if t
+                         else (incipit(psalm, a) or f"{a}-{b}"),
                          "reference": f"{psalm}:{a}-{b}" if b > a else f"{psalm}:{a}"}
                         for i, (a, b, t) in enumerate(chunks)
                     ]

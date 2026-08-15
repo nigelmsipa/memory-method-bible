@@ -64,8 +64,20 @@ The distinction is a hard rule, and it is the one the Psalms file originally got
 Constraints:
 - A scene that is already small enough carries no `chunks` at all.
 - Chunks must tile their parent scene exactly — no gaps, no overlaps, nothing outside it.
-- Consumers that predate this field may ignore it. A memorization exporter should
-  prefer chunks when present and otherwise use the scene itself.
+- Consumers that predate this field may ignore it.
+
+**The unit stays the scene.** A foothold is referenced as chapter + letter — Genesis 1A,
+Genesis 50B, Psalm 19A — so the chapter is always the anchor and the letters run inside it.
+`build_units.py` therefore emits one unit per *scene* and nests the chunks inside that unit;
+it does not flatten chunks into units. Two consequences worth stating plainly:
+- A psalm short enough to hold together is **one unit**: Psalm 23A, Psalm 117A, and
+  Psalm 121A are each the whole poem, which is what the resegmentation was for.
+- Psalm 19 is 19A / 19B / 19C — creation, Torah, prayer — not four pieces cut at a
+  verse count.
+
+Titles carry no book-and-chapter prefix. Every other book labels scenes bare ("Holy,
+Holy, Holy"), the read-along header already shows the chapter, and the reference
+already names it. Psalms was the lone exception and no longer is.
 
 Validator: `tools/validate_psalms.py` (coverage, tiling, the ≤6 chunk ceiling, and
 Psalm 119's 22 eight-verse stanzas).
