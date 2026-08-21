@@ -13,21 +13,33 @@ The Memory Method Bible divides Scripture into **scenes**—complete thoughts id
 
 This framework rejects arbitrary verse count targets and theological imposition, instead deriving all structure from **what the text itself shows**.
 
-## Books Completed (27 total)
+## Books Completed (66 — Full Canon)
 
-**OLD TESTAMENT**
+All 66 books of the Bible have been converted: 296 stories, 7,962 scenes.
 
-*LAW (Torah)*: Genesis, Exodus, Leviticus, Numbers, Deuteronomy (5)
+**OLD TESTAMENT** (39 books)
 
-*HISTORY*: Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Esther (12)
+*LAW (Torah)*: Genesis (11 stories, 363 scenes), Exodus (5, 289), Leviticus (6, 207), Numbers (3, 297), Deuteronomy (5, 237)
 
-*POETRY*: Job, Psalms, Proverbs, Ecclesiastes, Song of Songs, Lamentations (6)
+*HISTORY*: Joshua (3, 153), Judges (10, 141), Ruth (4, 19), 1 Samuel (6, 192), 2 Samuel (5, 160), 1 Kings (10, 189), 2 Kings (5, 177), 1 Chronicles (4, 225), 2 Chronicles (8, 196), Ezra (2, 76), Nehemiah (4, 95), Esther (2, 39)
 
-*MAJOR PROPHETS*: Isaiah (in progress), Jeremiah, Ezekiel, Daniel (4)
+*POETRY & WISDOM*: Job (7, 229), Psalms (5, 609), Proverbs (6, 208), Ecclesiastes (5, 57), Song of Songs (5, 45), Lamentations (5, 39)
 
-**NEW TESTAMENT**
+*MAJOR PROPHETS*: Isaiah (8, 449), Jeremiah (7, 505), Ezekiel (8, 476), Daniel (2, 104)
 
-(In progress)
+*MINOR PROPHETS*: Hosea (5, 60), Joel (2, 21), Amos (4, 46), Obadiah (1, 6), Jonah (2, 15), Micah (3, 26), Nahum (3, 13), Habakkuk (3, 16), Zephaniah (3, 13), Haggai (4, 7), Zechariah (4, 56), Malachi (4, 12)
+
+**NEW TESTAMENT** (27 books)
+
+*GOSPELS*: Matthew (7, 250), Mark (4, 156), Luke (6, 277), John (4, 197)
+
+*ACTS*: Acts (7, 226)
+
+*PAULINE EPISTLES*: Romans (7, 100), 1 Corinthians (5, 101), 2 Corinthians (3, 64), Galatians (4, 35), Ephesians (3, 40), Philippians (4, 24), Colossians (4, 22), 1 Thessalonians (3, 20), 2 Thessalonians (3, 11), 1 Timothy (4, 27), 2 Timothy (4, 20), Titus (3, 13), Philemon (1, 7)
+
+*GENERAL EPISTLES*: Hebrews (5, 88), James (4, 28), 1 Peter (5, 27), 2 Peter (3, 15), 1 John (3, 21), 2 John (1, 4), 3 John (1, 4), Jude (1, 8)
+
+*APOCALYPSE*: Revelation (8, 110)
 
 ---
 
@@ -38,10 +50,20 @@ memory-method-bible/
 ├── data/base-structure/
 │   ├── genesis-base.json
 │   ├── exodus-base.json
-│   ├── [22 additional books - see list above]
+│   ├── [64 additional books — full canon]
 │   └── jeremiah-base.json
-├── CONVERSION_GUIDE.md          # Master Specification & JSON conversion process
-└── README.md                    # This file
+├── data/title-overlays/
+│   ├── plain/          # Straightforward scene titles
+│   ├── evocative/      # Vivid, memorable scene titles
+│   └── archaic/        # Archaic/literary scene titles
+├── source-texts/       # KJV, WEB, BSB, Majority text
+├── exports/            # Markdown exports (e.g., Jeremiah)
+├── tools/              # Validation & resegmentation scripts
+├── CONVERSION_GUIDE.md # Master Specification & JSON conversion process
+├── BIBLE-BOOK-ANALYSIS-SPEC-V1.md  # Analysis spec
+├── IDEAS.md
+├── JEREMIAH-V1-GUIDE.md
+└── README.md           # This file
 ```
 
 **Base structure JSON format:**
@@ -76,56 +98,16 @@ A **scene** is identified by:
 ```json
 {
   "scene_number": 2,
-  "scene_name": "The Debate on the Road",
-  "reference": "1:6-14",
-  "why_start_end_and_devices": "Starts with new action: 'Then she arose with her daughters-in-law to return...' (1:6). Ends with Orpah's decision: 'And Orpah kissed her mother-in-law, but Ruth clung to her' (1:14). Driven by Naomi's threefold speech urging her daughters-in-law to 'return' (shuv). Her logic is based on her emptiness and old age (1:11-13). The scene builds tension around the decision, resolved by Orpah's departure, isolating Ruth's loyalty."
+  "scene_name": "Naomi Urges Her Daughters-in-Law Home",
+  "reference": "1:6-1:9",
+  "why_start_end_and_devices": "Starts with new action: 'Then she arose with her daughters-in-law to return...' (1:6). Ends with Naomi's blessing and release of her daughters-in-law (1:9). Verse 10 begins the daughters' resistance, a new movement in the dialogue."
 }
 ```
 
 **Why these boundaries?**
 - Starts: "Then she arose" = narrative turn, new action begins
-- Ends: Orpah's decision marks completion of the debate and isolation of Ruth
-- Literary device: 12-fold repetition of "return" (shuv) throughout the chapter
-
-## Current Status
-
-### Converted Books (24 total)
-
-The following books are available in `data/base-structure` with story and scene breakdowns. Counts reflect current JSON files.
-
-- Genesis — 8 stories, 103 scenes
-- Exodus — 5 stories, 106 scenes
-- Leviticus — 6 stories, 129 scenes
-- Numbers — 3 stories, 86 scenes
-- Deuteronomy — 5 stories, 70 scenes
-- Joshua — 3 stories, 52 scenes
-- Judges — 10 stories, 63 scenes
-- Ruth — 4 stories, 13 scenes
-- 1 Samuel — 6 stories, 110 scenes
-- 2 Samuel — 5 stories, 100 scenes
-- 1 Kings — 10 stories, 67 scenes
-- 2 Kings — 5 stories, 62 scenes
-- 1 Chronicles — 4 stories, 56 scenes
-- 2 Chronicles — 8 stories, 115 scenes
-- Ezra — 2 stories, 45 scenes
-- Nehemiah — 4 stories, 39 scenes
-- Esther — 2 stories, 28 scenes
-- Job — 7 stories, 89 scenes
-- Psalms — 5 stories, 609 scenes, 273 chunks (resegmented 2026-08-14)
-- Proverbs — 6 stories, 51 scenes
-- Ecclesiastes — 5 stories, 32 scenes
-- Song of Songs — 5 stories, 40 scenes
-- Lamentations — 5 stories, 24 scenes
-- Isaiah — 4 stories, 29 scenes (in progress)
-- Jeremiah — 7 stories, 59 scenes
-- Ezekiel — 4 stories, 32 scenes
-- Daniel — 2 stories, 33 scenes
-
-Note: Formal compliance audits are ongoing. See “Known Issues & Revisions Required” for current high‑priority fixes (especially in 1 Kings architectural/catalog units).
-
-### Overall Project Metrics
-- Books converted: 27
-- Total scenes: 1,670
+- Ends: Naomi's blessing completes her first attempt to send them away
+- Literary device: Repetition of "return" (shuv) throughout the chapter
 
 ## Using This Framework
 
